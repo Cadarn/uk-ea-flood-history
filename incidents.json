@@ -540,6 +540,27 @@
       "timeSeverityChanged": "2021-03-28T14:03:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
+      "description": "Upper River Aire",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
+        "county": "Bradford, North Yorkshire",
+        "notation": "123WAF960",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
+        "riverOrSea": "River Aire, Eller Beck"
+      },
+      "floodAreaID": "123WAF960",
+      "isTidal": false,
+      "message": " River levels are forecast to rise again as a result of persistent rainfall through this evening, Sunday 28th March. Consequently, flooding of low lying roads and farmland is possible from Sunday evening (28/03/2021) into the early hours of Monday morning (29/03/2021).  Areas most at risk are Skipton Washlands, Snaygill Ings, and Cononley Washlands.    \nWe currently expect river levels to begin rising at around 8pm this evening and to peak between 3 and 5a.m on Monday morning .\nWe expect Cononley Washlands to start filling through the early hours of Monday morning but the rainfall should move away overnight, allowing levels to drop on the River Aire during Monday.\nOur incident response staff are closely monitoring the forecast.  \nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated by 07:30 on 29/03/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-03-28T19:18:00",
+      "timeRaised": "2021-03-28T19:19:12",
+      "timeSeverityChanged": "2021-03-28T19:18:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
       "description": "North Devon coast from Hartland Point to Lynmouth",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -832,6 +853,27 @@
       "timeMessageChanged": "2021-03-28T16:52:00",
       "timeRaised": "2021-03-28T16:52:30",
       "timeSeverityChanged": "2021-03-28T16:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+        "county": "City of Bristol, North Somerset, South Gloucestershire",
+        "notation": "112WATAVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "112WATAVN1",
+      "isTidal": true,
+      "message": "A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the first forecast high water is 07:30 on 29/03/2021. The forecast tide level is 7.36 m AOD. The forecast wind strength and direction is Force 4 in a south south west direction. The time and date of the second forecast high water is 20:00 on 29/03/2021. The forecast tide level is 7.37 m AOD. The forecast wind strength and direction is Force 3 in a south south west direction. There is a possibility of flooding for the tidal River Avon from Sea Mills to Conham, and between the Avonmouth Bridge and Shirehamption Park, including Pill and Shirehampton.\n\nOur operation teams are closing flood gates in the Pill and Shirehampton area. \nBe careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-03-28T19:17:00",
+      "timeRaised": "2021-03-28T19:17:30",
+      "timeSeverityChanged": "2021-03-28T19:17:00"
     }
   ]
 }
