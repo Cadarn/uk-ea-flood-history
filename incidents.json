@@ -267,27 +267,6 @@
       "timeSeverityChanged": "2021-03-31T09:06:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLO",
-      "description": "Rivers Lowther and Eamont",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLO",
-        "county": "Cumbria",
-        "notation": "011WAFLO",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLO/polygon",
-        "riverOrSea": "River Lowther, River Eamont"
-      },
-      "floodAreaID": "011WAFLO",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-03-31T08:05:00",
-      "timeRaised": "2021-03-31T08:05:48",
-      "timeSeverityChanged": "2021-03-31T08:05:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -328,69 +307,6 @@
       "timeMessageChanged": "2021-03-31T08:05:00",
       "timeRaised": "2021-03-31T08:05:10",
       "timeSeverityChanged": "2021-03-28T11:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFCD",
-      "description": "Rivers Cocker, Marron and Derwent",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD",
-        "county": "Cumbria",
-        "notation": "011WAFCD",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD/polygon",
-        "riverOrSea": "River Cocker, River Marron, River Derwent"
-      },
-      "floodAreaID": "011WAFCD",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-03-31T08:05:00",
-      "timeRaised": "2021-03-31T08:05:50",
-      "timeSeverityChanged": "2021-03-31T08:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
-      "description": "Tidal River Ouse from Naburn Lock to Selby",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF947",
-        "county": "Leeds, North Yorkshire, York",
-        "notation": "122WAF947",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF947/polygon",
-        "riverOrSea": "River Ouse"
-      },
-      "floodAreaID": "122WAF947",
-      "isTidal": false,
-      "message": "This flood alert has been removed as levels on the River Ouse have now fallen below levels of concern.  We will continue to monitor the situation. Please see the gov.uk website for a 5 day flood forecast and current river levels. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-03-31T08:16:00",
-      "timeRaised": "2021-03-31T08:16:14",
-      "timeSeverityChanged": "2021-03-31T08:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
-      "description": "Upper River Ouse",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
-        "county": "North Yorkshire, York",
-        "notation": "122WAF946",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
-        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
-      },
-      "floodAreaID": "122WAF946",
-      "isTidal": false,
-      "message": "This flood alert has been removed as levels on the River Ouse have now fallen below levels of concern.  We will continue to monitor the situation. Please see the gov.uk website for a 5 day flood forecast and current river levels.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-03-31T08:14:00",
-      "timeRaised": "2021-03-31T08:14:34",
-      "timeSeverityChanged": "2021-03-31T08:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM3",
@@ -490,12 +406,12 @@
       },
       "floodAreaID": "112WATAVN1",
       "isTidal": true,
-      "message": "A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the first forecast high water is 09:00 on 31/03/2021. The forecast tide level is 7.86 m AOD. The forecast wind strength and direction is Force 2 in a north north west direction. The time and date of the second forecast high water is 21:15 on 31/03/2021. The forecast tide level is 7.53 m AOD. The forecast wind strength and direction is Force 2 in a west north west direction. There is a possibility of flooding for the tidal River Avon from Sea Mills to Conham, and between the Avonmouth Bridge and Shirehamption Park, including Pill and Shirehampton.\n\nOur operation teams are closing flood gates in the Pill and Shirehampton area. Be careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-03-30T21:37:00",
-      "timeRaised": "2021-03-30T21:37:51",
-      "timeSeverityChanged": "2021-03-28T19:17:00"
+      "message": "This Flood Alert has now been removed. Coastal conditions should continue to ease for the tides over the coming days. We continue to monitor the situation and we will have operational gangs out on the ground during the high tide periods to monitor the tides and any impacts. Please be careful along beaches, promenades, footpaths and roads. Please see the GOV.UK website for a 5 day forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-04-01T08:14:00",
+      "timeRaised": "2021-04-01T08:14:21",
+      "timeSeverityChanged": "2021-04-01T08:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
@@ -658,12 +574,12 @@
       },
       "floodAreaID": "063WAT23Central",
       "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at London Bridge will be 4.55mAOD at 05:00 on 01/04/21.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Custom House (EC3R), Narrow Street (E14), Mayflower and Angel pubs (SE16), Royal Naval College riverfront, the Almshouse Slipway at Crane Street (SE10), Bankside by the Tate Modern (SE1), and Three Mill Island (E3).\n\nAstronomical tide levels are peaking. The river flow at Teddington Weir is normal for this time of year at 46 cubic metres per second and is steady. We anticipate the flows to remain normal for the next 5 days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 09:00 on 01/04/21, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-03-31T20:33:00",
-      "timeRaised": "2021-03-31T20:34:14",
-      "timeSeverityChanged": "2021-03-31T20:33:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-04-01T07:56:00",
+      "timeRaised": "2021-04-01T07:56:42",
+      "timeSeverityChanged": "2021-04-01T07:56:00"
     }
   ]
 }
