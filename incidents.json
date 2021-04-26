@@ -57,6 +57,27 @@
       "timeSeverityChanged": "2021-02-01T14:38:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "Waves are forecast to overtop sea defences at Porlock Weir with sea spray expected as a result of high tides and strong winds. First forecast high water is 07:45 on 27/04/2021 with a level of 6.58 mAOD and a Force 4 North-Westerly wind. Second forecast high water is 20:00 on 27/04/2021 with a level of 6.71 mAOD and a Force 5 North-Westerly wind.\n\nAll times are local and refer to the high water time at Hinkley Point, mAOD is height above average sea level for more detail refer to local tide tables. Flooding to low lying land and roads is possible at these times and conditions may apply one to two hours either side of the high tide.  Areas most at risk are the coastline between Gore Point and Hurlstone Point including Porlock Weir.    \nStrong onshore winds will cause tide levels to rise further.\nOur incident response staff are closing flood gates where appropriate and checking defences.\nPlease be careful along beaches and coastal footpaths.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-04-26T18:13:00",
+      "timeRaised": "2021-04-26T18:13:42",
+      "timeSeverityChanged": "2021-04-26T18:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
       "description": "North Devon coast from Hartland Point to Lynmouth",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -118,6 +139,27 @@
       "timeMessageChanged": "2021-04-26T17:31:00",
       "timeRaised": "2021-04-26T17:32:05",
       "timeSeverityChanged": "2021-04-26T17:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "Large waves and sea spray are expected to affect the seafront as a result of high spring tides and strong winds. Tides will be at their highest between 19:00 and 20:00 tomorrow, Tuesday 27/04/21. Flooding of the promenade and seafront is possible at these times, however conditions may apply two to four hours either side of the high tide.\n\nWe expect flooding to affect Hunstanton seafront. The local Authority are closing the flood gates at Hunstanton which will make access difficult.\n\nDetailed tidal information for those who use it: the predicted astronomical tide level is 4.56 mAODN. The forecast surge height is 0.04 m. The forecast tide level is 4.52 mAOD. The forecast wind direction is east south east. The forecast wind strength is Force 4.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-04-26T18:21:00",
+      "timeRaised": "2021-04-26T18:21:53",
+      "timeSeverityChanged": "2021-04-26T18:21:00"
     }
   ]
 }
