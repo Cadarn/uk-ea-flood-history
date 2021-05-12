@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
+      "description": "West Somerset Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTWSS",
+        "county": "Somerset",
+        "notation": "112WAFTWSS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTWSS/polygon",
+        "riverOrSea": "Horner Water, River Aller, Washford River, Hawkcombe Stream, Monksilver Stream, Doniford Stream"
+      },
+      "floodAreaID": "112WAFTWSS",
+      "isTidal": false,
+      "message": "The levels on the Monksilver Stream at Williton,  Horner Water at West Luccombe and the Washford River at Beggearn Huish are rising. Forecasts for these rivers show a likelihood of reaching flood alert level early tomorrow morning, Thursday 13/05/21. Consequently, flooding of roads and farmland is possible tomorrow. Areas most at risk are the Horner Water, Rivers Aller and Washford, and the Hawkcombe, Monksilver and Doniford Streams and tributaries.   Flooding of properties is not forecast at this point.  We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  Visit the GOV.UK website for a 5 day flood forecast. This message will be updated on Thursday 13/05/21 or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-12T20:49:00",
+      "timeRaised": "2021-05-12T20:50:00",
+      "timeSeverityChanged": "2021-05-12T20:49:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW09",
       "description": "River Axe area",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -118,6 +139,27 @@
       "timeMessageChanged": "2021-05-12T19:13:00",
       "timeRaised": "2021-05-12T19:14:14",
       "timeSeverityChanged": "2021-05-12T19:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSSR",
+      "description": "South Somerset Rivers, Upper Reaches",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSSR",
+        "county": "Dorset Council, Somerset",
+        "notation": "112WAFTSSR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSSR/polygon",
+        "riverOrSea": "River Parrett, River Isle"
+      },
+      "floodAreaID": "112WAFTSSR",
+      "isTidal": false,
+      "message": "River levels are rising at the Chiselborough, Donyatt and Ashford Mill river gauges as a result of heavy rainfall this evening. Forecasts for these rivers show a likelihood of reaching flood alert level early tomorrow morning, Thursday 13/05/21. Consequently, flooding of roads and farmland is possible. Areas most at risk are roads at Ashford Mill, Isle Brewers, Fivehead, the Norton sub Hambdon to Stratton road, the A356 and the B3165 at Chiselborough and the B3168 at Ilford Bridges. The lower River Parrett is forecast to be bankfull and overtopping could occur. Flooding of properties is not forecast at this point. Our incident response staff are checking defences and clearing weed screens.  Please avoid using low lying footpaths near local watercourses and see the GOV.UK website for a 5 day flood forecast.  This message will be updated tomorrow, 13/05/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-12T20:58:00",
+      "timeRaised": "2021-05-12T20:58:39",
+      "timeSeverityChanged": "2021-05-12T20:58:00"
     }
   ]
 }
