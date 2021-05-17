@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-05-17T09:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
-      "description": "West Dorset Rivers and Streams",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
-        "county": "Devon, Dorset Council",
-        "notation": "111WAFWDRS",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
-        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
-      },
-      "floodAreaID": "111WAFWDRS",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-05-17T10:03:00",
-      "timeRaised": "2021-05-17T10:03:42",
-      "timeSeverityChanged": "2021-05-17T10:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -162,6 +141,27 @@
       "timeSeverityChanged": "2021-05-17T10:48:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
+      "description": "West Dorset Rivers and Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
+        "county": "Devon, Dorset Council",
+        "notation": "111WAFWDRS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
+        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
+      },
+      "floodAreaID": "111WAFWDRS",
+      "isTidal": false,
+      "message": " River levels have risen at the Beaminster river gauge as a result of heavy rainfall.  Consequently, the risk of flooding remains.  We expect flooding to affect the Rivers Lim, Char, Winniford, Simene, Brit, Asker, Mangerton and Bride.\n River levels can rise very quickly in response to heavy rainfall.\nWe are closely monitoring the situation.   \nPlease plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  \nThis message will be updated Tuesday, 18/5/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-17T16:15:00",
+      "timeRaised": "2021-05-17T16:15:40",
+      "timeSeverityChanged": "2021-05-17T16:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013FWFGM101",
       "description": "Bessy Brook at Lostock",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -244,6 +244,27 @@
       "timeMessageChanged": "2021-05-17T09:26:00",
       "timeRaised": "2021-05-17T09:26:45",
       "timeSeverityChanged": "2021-05-17T09:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFBRT111",
+      "description": "River Brit at Beaminster",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFBRT111",
+        "county": "Dorset Council",
+        "notation": "111FWFBRT111",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFBRT111/polygon",
+        "riverOrSea": "River Brit"
+      },
+      "floodAreaID": "111FWFBRT111",
+      "isTidal": false,
+      "message": "River levels have risen rapidly as a result of heavy rainfall.  Consequently, the risk of flooding remains.  \nWe expect flooding to affect properties in Southgate and Newtown in Beaminster \nFurther heavy  rainfall is forecast over the next 2 hours.  \nWe are closely monitoring the situation.   \nPlease can owners with property flood resilience equipment install it now.  \nThis message will be updated this evening, 17/05/21, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-05-17T16:05:00",
+      "timeRaised": "2021-05-17T16:05:23",
+      "timeSeverityChanged": "2021-05-17T16:05:00"
     }
   ]
 }
