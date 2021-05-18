@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-05-18T10:05:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
-      "description": "West Dorset Rivers and Streams",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
-        "county": "Devon, Dorset Council",
-        "notation": "111WAFWDRS",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
-        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
-      },
-      "floodAreaID": "111WAFWDRS",
-      "isTidal": false,
-      "message": " River levels have fallen below the flood alert level in this area but the catchment is now saturated and reacting quickly to rainfall events. The forecast for the next 24 hours is for showery, at times heavy, rainfall. Consequently this alert may be triggered again.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-05-18T08:10:00",
-      "timeRaised": "2021-05-18T08:10:19",
-      "timeSeverityChanged": "2021-05-18T08:10:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
       "description": "Rivers Clyst and Culm and their tributaries",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -139,6 +118,27 @@
       "timeMessageChanged": "2021-05-17T18:59:00",
       "timeRaised": "2021-05-17T18:59:30",
       "timeSeverityChanged": "2021-05-17T18:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
+      "description": "West Dorset Rivers and Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
+        "county": "Devon, Dorset Council",
+        "notation": "111WAFWDRS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
+        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
+      },
+      "floodAreaID": "111WAFWDRS",
+      "isTidal": false,
+      "message": " River levels have fallen below the flood alert level in this area but the catchment is now saturated and reacting quickly to rainfall events. The forecast for the next 24 hours is for showery, at times heavy, rainfall. Consequently this alert may be triggered again.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-05-18T08:10:00",
+      "timeRaised": "2021-05-18T08:10:19",
+      "timeSeverityChanged": "2021-05-18T08:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
@@ -307,6 +307,27 @@
       "timeMessageChanged": "2021-05-18T10:01:00",
       "timeRaised": "2021-05-18T10:01:16",
       "timeSeverityChanged": "2021-05-18T10:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": "River levels have risen at the Stinsford river gauge as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is possible over the next 24 hours.  \nWe expect flooding to affect tributaries between Dorchester and Wareham.\nFurther showery, at times heavy  rainfall is forecast over the next 24 hours.  We expect river levels to remain highfor at least the next 24 hours.\nWe are closely monitoring the situation.   \nPlease plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  \nThis message will be updated Wednesday, 18/5/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-18T14:10:00",
+      "timeRaised": "2021-05-18T14:10:40",
+      "timeSeverityChanged": "2021-05-18T14:10:00"
     }
   ]
 }
