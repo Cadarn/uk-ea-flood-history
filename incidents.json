@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-05-18T10:05:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
-      "description": "West Dorset Rivers and Streams",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
-        "county": "Devon, Dorset Council",
-        "notation": "111WAFWDRS",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
-        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
-      },
-      "floodAreaID": "111WAFWDRS",
-      "isTidal": false,
-      "message": " River levels have fallen below the flood alert level in this area but the catchment is now saturated and reacting quickly to rainfall events. The forecast for the next 24 hours is for showery, at times heavy, rainfall. Consequently this alert may be triggered again.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-05-18T08:10:00",
-      "timeRaised": "2021-05-18T08:10:19",
-      "timeSeverityChanged": "2021-05-18T08:10:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
       "description": "Rivers Clyst and Culm and their tributaries",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -133,12 +112,33 @@
       },
       "floodAreaID": "112WAFTSES",
       "isTidal": false,
-      "message": "River levels are rising at the Chetnole river gauge as a result of the heavy showers this afternoon/early evening. Consequently, flooding of roads and farmland is possible today, 17/05/21. Areas most at risk are the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole. We are monitoring the situation constantly. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  Our incident response staff are clearing weed screens. Please see the GOV.UK website for a 5 day flood forecast. This message will be updated tomorrow morning, 18/05/21, or as the situation changes.",
+      "message": "River levels have fallen below the Flood Alert threshold at the Chetnole river gauge. However, river levels are likely to rise again this evening, 18/05/21, in response to the showery rainfall forecast and may reach the Flood Alert threshold at the Weston Bampfyld river gauge. Consequently, flooding of roads and farmland is possible today, 18/05/21. Areas most at risk are the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole. Further showers are forecast this evening and we are closely monitoring the situation. Our incident response staff are clearing weed screens. Please see the GOV.UK website for a 5 day flood forecast. This message will be updated tomorrow, 19/05/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-05-17T18:59:00",
-      "timeRaised": "2021-05-17T18:59:30",
+      "timeMessageChanged": "2021-05-18T16:38:00",
+      "timeRaised": "2021-05-18T16:38:09",
       "timeSeverityChanged": "2021-05-17T18:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
+      "description": "West Dorset Rivers and Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
+        "county": "Devon, Dorset Council",
+        "notation": "111WAFWDRS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
+        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
+      },
+      "floodAreaID": "111WAFWDRS",
+      "isTidal": false,
+      "message": " River levels have fallen below the flood alert level in this area but the catchment is now saturated and reacting quickly to rainfall events. The forecast for the next 24 hours is for showery, at times heavy, rainfall. Consequently this alert may be triggered again.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-05-18T08:10:00",
+      "timeRaised": "2021-05-18T08:10:19",
+      "timeSeverityChanged": "2021-05-18T08:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
@@ -328,6 +328,27 @@
       "timeMessageChanged": "2021-05-18T14:10:00",
       "timeRaised": "2021-05-18T14:10:40",
       "timeSeverityChanged": "2021-05-18T14:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
+      "description": "Upper River Tamar",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
+        "county": "Cornwall, Devon",
+        "notation": "114WAFT1W10A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
+        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
+      },
+      "floodAreaID": "114WAFT1W10A00",
+      "isTidal": false,
+      "message": " Flooding is possible on Wednesday morning.  Levels on the River Tamar are forecast to rise overnight and reach flood alert at around 7am tomorrow morning, in response to further rain expected overnight.  Flooding to low lying land and roads close to the river is expected, though no flooding to properties is currently forecast.  Take care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-18T16:44:00",
+      "timeRaised": "2021-05-18T16:44:51",
+      "timeSeverityChanged": "2021-05-18T16:44:00"
     }
   ]
 }
