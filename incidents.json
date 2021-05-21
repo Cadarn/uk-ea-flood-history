@@ -49,12 +49,12 @@
       },
       "floodAreaID": "061WAF14RayOxon",
       "isTidal": false,
-      "message": "Property flooding is not currently expected.\n\nRiver levels are stable on the River Ray. Therefore, flooding of roads and farmland remains possible, especially in the Islip area. \n\nThe weather forecast is for further showers, with the possibility of heavier rain, today and over the coming days. \n\nWe are closely monitoring the situation. Our incident response staff are in the area clearing trash screens. Please remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \n\nThis message will be updated tomorrow morning, 21/05/2021, or as the situation changes.\n ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-05-20T18:03:00",
-      "timeRaised": "2021-05-20T18:03:35",
-      "timeSeverityChanged": "2021-05-14T21:06:00"
+      "message": "This Flood Alert has been removed.\n\nRiver levels on the River Ray have now fallen and further flooding is not currently expected. Some standing water may remain in the floodplain. Please remain aware of your surroundings and stay safe. \n\nThe forecast is for further rain today. We continue to monitor the situation and will reissue this Flood Alert if necessary. \n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-05-21T09:37:00",
+      "timeRaised": "2021-05-21T09:37:44",
+      "timeSeverityChanged": "2021-05-21T09:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
@@ -70,11 +70,11 @@
       },
       "floodAreaID": "031WAF114",
       "isTidal": false,
-      "message": " River levels are forecast to rise at the Llanymynech river gauge as a result of heavy rainfall.  Flooding of roads and farmland is possible to from overnight Thursday, 20/05/21.  We expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Minor roads between Maesbrook, Melverley and Pentre start to flood. Predicted peaks:-  Llanymynech 3.1m to 3.5m early Friday, 21/05/21. \nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high until over the next few days.\nWe are closely monitoring the situation.  Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated  by 10:00 on 21/05/21, or as the situation changes.",
+      "message": " River levels are forecast to rise further at the Llanymynech river gauge as a result of heavy rainfall.  Flooding of roads and farmland is possible to from overnight Thursday, 20/05/21.  We expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Minor roads between Maesbrook, Melverley and Pentre start to flood. Predicted peaks:-  Llanymynech 3.5m to 4.0m  Friday evening, 21/05/21. \nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high until over the next few days.\nWe are closely monitoring the situation.  Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 18:00 on 21/05/21, or as the situation\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-05-20T16:25:00",
-      "timeRaised": "2021-05-20T16:26:27",
+      "timeMessageChanged": "2021-05-21T09:35:00",
+      "timeRaised": "2021-05-21T09:36:10",
       "timeSeverityChanged": "2021-05-20T16:25:00"
     },
     {
@@ -139,6 +139,48 @@
       "timeMessageChanged": "2021-05-21T09:28:00",
       "timeRaised": "2021-05-21T09:28:40",
       "timeSeverityChanged": "2021-05-21T09:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF940",
+      "description": "Lower River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940",
+        "county": "North Yorkshire",
+        "notation": "122WAF940",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940/polygon",
+        "riverOrSea": "River Ure, Swinney Beck, Bishop Monkton Beck, River Skell, River Laver, River Tutt, Stainley Beck"
+      },
+      "floodAreaID": "122WAF940",
+      "isTidal": false,
+      "message": " The flood Alert for the Lower Ure has been issued due to rising river levels in the lower catchment, as a result of yesterday’s rainfall.  Consequently, flooding of roads and farmland is possible.  Areas most at risk are low lying land and roads. Further rainfall is forecast today, Friday 21st May, which may cause river levels to rise further. Our incident response staff continue to closely monitor the forecast.  Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-21T09:37:00",
+      "timeRaised": "2021-05-21T09:37:41",
+      "timeSeverityChanged": "2021-05-21T09:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
+      "description": "River Dee catchment in England from Whitchurch to Chester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
+        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
+        "notation": "013WAFDEE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
+        "riverOrSea": "River Dee"
+      },
+      "floodAreaID": "013WAFDEE",
+      "isTidal": false,
+      "message": " River levels are rising at the Farndon river gauge as a result of persistent heavy rainfall. Consequently, we believe there is a possibility of flooding for low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington. We expect river levels to remain high over the next few days. Please be aware that access to Townfield Lane could be cut off due to high river levels. Our incident response staff are closely monitoring weather forecasts and river levels. Please avoid using low lying footpaths near local watercourses, be aware of your surroundings and keep up to date with the current situation.  \nThis message will be updated tomorrow, Saturday 22nd May, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-21T09:48:00",
+      "timeRaised": "2021-05-21T09:48:40",
+      "timeSeverityChanged": "2021-05-21T09:48:00"
     }
   ]
 }
