@@ -196,11 +196,11 @@
       },
       "floodAreaID": "122FWF310",
       "isTidal": false,
-      "message": " The flood warning for the River Ure at Roecliffe Caravan Park has been issued due to rising river levels following recent rainfall. The river level at Westwick Lock is currently 1.4m and is forecast to rise steadily, peaking at approximately 1.5m this afternoon, Friday 21st May. Consequently, flooding is expected/possible today in the Roecliffe Caravan Park area.  Our incident response staff are closely monitoring the forecast.  Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated in 8 hours, or as the situation changes.",
+      "message": " The flood warning for the river Ure at Roecliffe remains in force as levels remain high following further showers through Friday 21/05/21. The River level ar Westwick Weir is currently 1.5m and we are operating flood gates and penstocks in the area. Flooding remains possible in the Roecliffe caravan Park area. Please plan driving routes to avoid low lying roads near rivers, which may be flooded. Our incident response staff are closely monitoring the situation and will update this message on Saturday morning, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-05-21T10:25:00",
-      "timeRaised": "2021-05-21T10:25:25",
+      "timeMessageChanged": "2021-05-21T19:11:00",
+      "timeRaised": "2021-05-21T19:11:47",
       "timeSeverityChanged": "2021-05-21T10:25:00"
     },
     {
@@ -217,12 +217,12 @@
       },
       "floodAreaID": "122WAF942",
       "isTidal": false,
-      "message": " The Flood Alert for the Upper Wharfe has been issued because river levels have risen in the upper catchment as a result of yesterday’s rainfall.  Consequently, flooding of roads and farmland is possible. Areas most at risk are low lying land and roads. Further rainfall is forecast today, Friday 21st May, which may cause river levels to rise again this evening and overnight. Our incident response staff continue to closely monitor the forecast.  Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-05-21T10:37:00",
-      "timeRaised": "2021-05-21T10:37:54",
-      "timeSeverityChanged": "2021-05-21T10:37:00"
+      "message": " The flood alert for the upper river Wharfe has been removed as levels on the upper river Wharfe are continuing to fall slowly. There may still be standing water on low-lying land near rivers. Further showers are expected through the weekend and we are continuing to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-05-21T19:05:00",
+      "timeRaised": "2021-05-21T19:06:05",
+      "timeSeverityChanged": "2021-05-21T19:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
@@ -412,6 +412,48 @@
       "timeMessageChanged": "2021-05-21T18:40:00",
       "timeRaised": "2021-05-21T18:40:30",
       "timeSeverityChanged": "2021-05-21T18:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
+      "description": "River Wye in Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408",
+        "county": "Derbyshire",
+        "notation": "034WAF408",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "034WAF408",
+      "isTidal": false,
+      "message": "River levels have risen at the Buxton river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible between 18:30 and midnight today, 21/05/2021.  Areas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas, and the A6 at Buxton. Flooding of properties is not forecast at this point.\nFurther light rainfall is forecast overnight.  We expect river levels to remain high until Saturday morning 22/05/2021.\nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated daily at 16:00, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-21T18:47:00",
+      "timeRaised": "2021-05-21T18:48:10",
+      "timeSeverityChanged": "2021-05-21T18:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFBO",
+      "description": "River Bollin catchment, including Knutsford, Wilmslow, Macclesfield and Bollington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFBO",
+        "county": "Cheshire East, Manchester, Stockport, Trafford, Warrington",
+        "notation": "013WAFBO",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFBO/polygon",
+        "riverOrSea": "River Bollin"
+      },
+      "floodAreaID": "013WAFBO",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Bollington Mill river gauge as a result of heavy rainfall.  Consequently, flooding of low lying land, roads and farmland is possible this evening. We believe there is a possibility of flooding for low lying land and roads around the Rivers Bollin, Dean and Pedley, Birkin and Mobberley Brooks and their tributaries. We expect river levels to rise at Prestbury. \nOur incident response staff are closely monitoring weather forecasts and river levels and will issue flood warnings if necessary.  \nPlease be aware of your surroundings and keep up to date with the current situation and avoid using low lying footpaths near local watercourses.  \nThis message will be updated  tomorrow 22/05/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-05-21T19:31:00",
+      "timeRaised": "2021-05-21T19:32:32",
+      "timeSeverityChanged": "2021-05-21T19:31:00"
     }
   ]
 }
