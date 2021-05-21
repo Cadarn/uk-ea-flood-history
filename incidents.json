@@ -259,12 +259,12 @@
       },
       "floodAreaID": "122FWF784",
       "isTidal": false,
-      "message": "This flood warning has been issued as river levels have risen as a result of rainfall yesterday and last night. Consequently, flooding of property, roads and land in Burnsall is expected today, Friday 21st May.  Areas most at risk are properties by Burnsall Green and Burnsall Bridge, including The Red Lion pub and holiday homes on the river bank.  The River Wharfe at Netherside Hall is expected to remain high throughout today.  Please activate any property flood protection products you may have, such as flood barriers and air brick covers, and stay away from fast moving water.  Our incident response staff are closely monitoring the forecast.  This message will be updated in 8 hours or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-05-21T13:00:00",
-      "timeRaised": "2021-05-21T13:00:20",
-      "timeSeverityChanged": "2021-05-21T13:00:00"
+      "message": " This flood warning has been removed as river levels on the Upper Wharfe have fallen. There may still be standing water on low-lying land near rivers. Further showers are expected through the weekend and we are continuing to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-05-21T20:53:00",
+      "timeRaised": "2021-05-21T20:53:33",
+      "timeSeverityChanged": "2021-05-21T20:53:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
@@ -280,11 +280,11 @@
       },
       "floodAreaID": "122WAF933",
       "isTidal": false,
-      "message": " The flood alert for the Lower River Nidd Catchment is now in force. River levels are rising in response to recent rainfall.  Consequently, flooding of roads and farmland is expected today, Friday 21st May and overnight.  Areas most at risk are land around the Lower River Nidd and its tributaries including Sand Beck, Sike Beck, Pool Beck and Great Gutter. We expect river levels to remain high throughout today and tomorrow. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses. This message will be updated in 8 hours, or as the situation changes.",
+      "message": " The flood alert for the Lower River Nidd Catchment remains in force. River levels are approaching their peak at Hunsingore and levels are still rising at Skip Bridge. Consequently, flooding of roads and farmland is expected today, Friday 21st May and overnight. We expect river levels to remain high throughout today and tomorrow. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses. This message will be updated on Saturday morning, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-05-21T14:06:00",
-      "timeRaised": "2021-05-21T14:06:55",
+      "timeMessageChanged": "2021-05-21T20:57:00",
+      "timeRaised": "2021-05-21T20:57:25",
       "timeSeverityChanged": "2021-05-21T14:06:00"
     },
     {
@@ -517,6 +517,48 @@
       "timeMessageChanged": "2021-05-21T20:05:00",
       "timeRaised": "2021-05-21T20:06:15",
       "timeSeverityChanged": "2021-05-21T20:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF710",
+      "description": "River Ouse at York - riverside properties",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF710",
+        "county": "York",
+        "notation": "122FWF710",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF710/polygon",
+        "riverOrSea": "River Ouse"
+      },
+      "floodAreaID": "122FWF710",
+      "isTidal": false,
+      "message": " The flood warning for riverside properties in York has been issued as levels are rising following recent rainfall. Consequently flooding of properties, gardens, roads and paths is possible today, Friday 21st May. The River Ouse in York is forecast to peak at roughly 3.4m tomorrow afternoon, 22/05/2021. Further showers are possible throughout Friday evening and Saturday. Please avoid walking, cycling or driving through flood water and visit the GOV.UK website for a 5 day flood forecast and current river levels. We are closely monitoring the situation and will update this message on Saturday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-05-21T20:32:00",
+      "timeRaised": "2021-05-21T20:32:36",
+      "timeSeverityChanged": "2021-05-21T20:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF723",
+      "description": "River Ouse at Naburn Lock",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF723",
+        "county": "York",
+        "notation": "122FWF723",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF723/polygon",
+        "riverOrSea": "River Ouse"
+      },
+      "floodAreaID": "122FWF723",
+      "isTidal": false,
+      "message": " The flood warning for the River Ouse at Naburn Lock has been issued, due to rising river levels following recent rainfall. The River Ouse in York is currently 2.4m, and is expected to continue to rise steadily throughout this evening, Friday 21st May, reaching approximately 3.4m tomorrow afternoon, Saturday 22nd May. Areas most at risk are the Naburn Lock area.  Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated on Saturday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-05-21T20:28:00",
+      "timeRaised": "2021-05-21T20:28:19",
+      "timeSeverityChanged": "2021-05-21T20:28:00"
     }
   ]
 }
