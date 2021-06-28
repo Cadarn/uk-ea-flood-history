@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW09",
+      "description": "River Axe area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09",
+        "county": "Devon, Dorset Council, Somerset",
+        "notation": "113WABTW09",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09/polygon",
+        "riverOrSea": "River Coly, River Yarty, Umborne Brook"
+      },
+      "floodAreaID": "113WABTW09",
+      "isTidal": false,
+      "message": " Flooding is possible in the evening of Monday the 28th June.\nHeavy rainfall in East Devon has caused river levels to rise rapidly. \nFlooding is expected from 7pm on Monday. We expect flooding to affect low lying land in the floodplain and roads close to the river in the following areas Seaton, Colyton, Axminster and Axmouth.\nFurther showery rain is forecast through until Tuesday. River levels are expected to remain higher than normal throughout this period. Please take care near the areas of concern and monitor your local weather conditions.\nWe are constantly monitoring river levels.  We will update this message when the situation changes\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-06-28T19:31:00",
+      "timeRaised": "2021-06-28T19:31:46",
+      "timeSeverityChanged": "2021-06-28T19:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW05",
       "description": "Exmoor Rivers",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -389,6 +410,27 @@
       "timeMessageChanged": "2021-06-28T10:09:00",
       "timeRaised": "2021-06-28T10:10:02",
       "timeSeverityChanged": "2021-06-28T10:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2J2A",
+      "description": "River Axe (Upper) from Winsham to Axminster, including Chard Junction and Weycroft",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2J2A",
+        "county": "Devon, Dorset Council, Somerset",
+        "notation": "113FWF2J2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2J2A/polygon",
+        "riverOrSea": "River Axe"
+      },
+      "floodAreaID": "113FWF2J2A",
+      "isTidal": false,
+      "message": " Flooding of homes and roads is expected on Monday evening. Heavy rain falling across the River Axe area has caused river levels to rise rapidly.  \nFlooding of property is imminent. We expect flooding to affect riverside locations and roads between Winsham and Axminster, including Chard Junction, Coaxden Cottages and Weycroft. Highway flooding is expected at Tytherleigh and Broom, and the A358 crossing at Weycroft.\nInstall flood protection products you may have, such as flood barriers and air brick covers. Do not walk or drive through flood water. Avoid low lying roads and footpaths, which may be flooded. \nWe are constantly monitoring river levels.  We will update this message when the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-06-28T19:34:00",
+      "timeRaised": "2021-06-28T19:34:54",
+      "timeSeverityChanged": "2021-06-28T19:34:00"
     }
   ]
 }
