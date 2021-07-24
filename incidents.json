@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF35RiverRythe",
-      "description": "River Rythe from Oxshott to Thames Ditton",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe",
-        "county": "Surrey",
-        "notation": "064WAF35RiverRythe",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe/polygon",
-        "riverOrSea": "River Rythe"
-      },
-      "floodAreaID": "064WAF35RiverRythe",
-      "isTidal": false,
-      "message": "Heavy rain and thunderstorms, bringing the potential for locally intense rainfall, are forecast to affect the London area tomorrow, 24/07/2021 and on Sunday, 25/07/2021. While uncertainty remains around exact timings and which areas will experience the heaviest rain there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. We recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. We are monitoring the situation closely and have staff out on the ground checking and clearing trash screens. We will update this message by 9am tomorrow, 24/07/2021 or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-23T18:04:00",
-      "timeRaised": "2021-07-23T18:05:13",
-      "timeSeverityChanged": "2021-07-23T18:04:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF40BevBrook",
       "description": "Beverley Brook area in Merton, Sutton, Kingston upon Thames, Richmond upon Thames and Wandsworth",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2021-07-23T18:03:00",
       "timeRaised": "2021-07-23T18:05:11",
       "timeSeverityChanged": "2021-07-23T18:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF35RiverRythe",
+      "description": "River Rythe from Oxshott to Thames Ditton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe",
+        "county": "Surrey",
+        "notation": "064WAF35RiverRythe",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe/polygon",
+        "riverOrSea": "River Rythe"
+      },
+      "floodAreaID": "064WAF35RiverRythe",
+      "isTidal": false,
+      "message": "Heavy rain and thunderstorms, bringing the potential for locally intense rainfall, are forecast to affect the London area tomorrow, 24/07/2021 and on Sunday, 25/07/2021. While uncertainty remains around exact timings and which areas will experience the heaviest rain there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. We recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. We are monitoring the situation closely and have staff out on the ground checking and clearing trash screens. We will update this message by 9am tomorrow, 24/07/2021 or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-07-23T18:04:00",
+      "timeRaised": "2021-07-23T18:05:13",
+      "timeSeverityChanged": "2021-07-23T18:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7ShutCray",
@@ -364,12 +364,12 @@
       },
       "floodAreaID": "111WACECD",
       "isTidal": true,
-      "message": " his Flood Alert has been issued because some minor flooding to quay side areas in Swanage Bay is likely this evening, 23/07/2021 between 07:30 PM and 09:30 PM. \nA combination of Spring Tides and a Force 6 Easterly wind will lead to some large waves slopping onto the quayside in Swanage.\nOther locations along the Dorset Coast are less likely to be affected as they are more exposed to south westerly conditions, however extra care should be taken along the coast.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nWe will continue to monitor the forecast and re-issue this alert should the situation change.\nWe will remove this message by 09:30 AM on 24/07/2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-23T12:15:00",
-      "timeRaised": "2021-07-23T12:15:47",
-      "timeSeverityChanged": "2021-07-23T11:45:00"
+      "message": "The risk of flooding at Swanage has subsided, however strong easterly winds will cause spray on stretches of the coast that are exposed to easterly winds through the weekend. Take care on coast paths and be aware that the occasional wave might still cause water to slop onto quaysides. Our staff will continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-24T08:12:00",
+      "timeRaised": "2021-07-24T08:12:23",
+      "timeSeverityChanged": "2021-07-24T08:12:00"
     }
   ]
 }
