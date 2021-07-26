@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF35RiverRythe",
-      "description": "River Rythe from Oxshott to Thames Ditton",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe",
-        "county": "Surrey",
-        "notation": "064WAF35RiverRythe",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe/polygon",
-        "riverOrSea": "River Rythe"
-      },
-      "floodAreaID": "064WAF35RiverRythe",
-      "isTidal": false,
-      "message": "Heavy rain and thunderstorms, bringing the potential for locally intense rainfall, are forecast to affect the London area today, Monday 26th July. While uncertainty remains around exact timings and which areas will experience the heaviest rain, the risk of heavy showers is highest between 10am and 7pm today. The rain is not expected to be as intense as yesterday, Sunday 25th July. Where showers fall there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. \n\nWe recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. We are monitoring the situation closely and have staff out on the ground checking and clearing trash screens. We will update this message by 9pm tonight, Monday 26th July, or earlier if the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-26T08:52:00",
-      "timeRaised": "2021-07-26T08:53:06",
-      "timeSeverityChanged": "2021-07-23T18:04:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF40BevBrook",
       "description": "Beverley Brook area in Merton, Sutton, Kingston upon Thames, Richmond upon Thames and Wandsworth",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -55,6 +34,48 @@
       "timeMessageChanged": "2021-07-26T08:51:00",
       "timeRaised": "2021-07-26T08:52:06",
       "timeSeverityChanged": "2021-07-23T18:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "The Eastern Yar is high and continues to rise. Yesterday, more than a month’s rain (70mm) was recorded at Knighton. A Flood Warning is in force at Whitwell, Wroxall, Alverstone and Langbridge. In Langbridge, the river is flooding gardens. In Alverstone, the river is flooding gardens, cycle tracks and the main road. In both villages, water will have come very close to flooding property. Today (26/07/2021), minor impact flooding of Golf links road is also expected. At Alverstone, the water level is just peaking. At Sandown, it will continue to increase until at least 18:00 this evening. We do not expect property flooding in Sandown. It is now possible that some heavy showers could affect the Isle of Wight today. If further heavy rain does affect the river, then it could cause property flooding in Alverstone and Langbridge. We will continue to monitor the forecast. Please avoid walking or driving through flood water. This message will be updated by 18:00 on Monday 26/07/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-07-26T10:00:00",
+      "timeRaised": "2021-07-26T10:00:49",
+      "timeSeverityChanged": "2021-07-25T19:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF35RiverRythe",
+      "description": "River Rythe from Oxshott to Thames Ditton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe",
+        "county": "Surrey",
+        "notation": "064WAF35RiverRythe",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF35RiverRythe/polygon",
+        "riverOrSea": "River Rythe"
+      },
+      "floodAreaID": "064WAF35RiverRythe",
+      "isTidal": false,
+      "message": "Heavy rain and thunderstorms, bringing the potential for locally intense rainfall, are forecast to affect the London area today, Monday 26th July. While uncertainty remains around exact timings and which areas will experience the heaviest rain, the risk of heavy showers is highest between 10am and 7pm today. The rain is not expected to be as intense as yesterday, Sunday 25th July. Where showers fall there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. \n\nWe recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. We are monitoring the situation closely and have staff out on the ground checking and clearing trash screens. We will update this message by 9pm tonight, Monday 26th July, or earlier if the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-07-26T08:52:00",
+      "timeRaised": "2021-07-26T08:53:06",
+      "timeSeverityChanged": "2021-07-23T18:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7ShutCray",
@@ -154,12 +175,12 @@
       },
       "floodAreaID": "062WAF53LLTribs",
       "isTidal": false,
-      "message": " During this afternoon, Sunday 25 July, we have seen heavy rainfall in the London area. Rivers have responded to this rainfall in the Waltham Forest, Waltham Abbey, Waltham Cross, Barnet, Nazeing, Enfield, Chingford, Edmonton, Cheshunt and Tottenham areas.\nThere is likely to be flooding to low lying land and roads close to watercourses in these areas from 4pm today, Sunday 25 July. Flooding from surface water could also occur in these areas.\nWe expect the rivers in these areas to remain high throughout this evening but no flooding to properties is currently forecast.\nWe recommend that you take care near the areas of concern and monitor your local weather conditions. Avoid walking, cycling or driving through flood water.\nWe are constantly monitoring river levels and checking rivers for blockages.\nThis message will be updated tomorrow morning, Monday 26 July, or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T17:20:00",
-      "timeRaised": "2021-07-25T17:21:35",
-      "timeSeverityChanged": "2021-07-23T18:08:00"
+      "message": "The risk of flooding in the London area has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:35:00",
+      "timeRaised": "2021-07-26T10:35:38",
+      "timeSeverityChanged": "2021-07-26T10:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF36Yeadings",
@@ -175,12 +196,12 @@
       },
       "floodAreaID": "062WAF36Yeadings",
       "isTidal": false,
-      "message": "Heavy rain and thunderstorms have affected parts of London during this afternoon, Sunday 25 July. There is the potential for further showers during this evening and overnight into Monday 26 July. There is uncertainty around exact timings and which areas will experience the heaviest rain, but if heavy rainfall occurs in the Harrow or Hillingdon areas, there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. \n\nWe recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. \n\nWe are continuing to monitor the situation closely and checking rivers for blockages.\n\nWe will update this message tomorrow morning, Monday 26 July, or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T19:31:00",
-      "timeRaised": "2021-07-25T19:31:32",
-      "timeSeverityChanged": "2021-07-23T18:23:00"
+      "message": "The risk of flooding in the London area has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:40:00",
+      "timeRaised": "2021-07-26T10:40:14",
+      "timeSeverityChanged": "2021-07-26T10:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAB55BeamRom",
@@ -196,12 +217,12 @@
       },
       "floodAreaID": "062WAB55BeamRom",
       "isTidal": false,
-      "message": "Heavy rain and thunderstorms have affected parts of London during this afternoon, Sunday 25 July. There is the potential for further showers during this evening and overnight into Monday 26 July. There is uncertainty around exact timings and which areas will experience the heaviest rain, but if heavy rainfall occurs in the Havering Park, Collier Row, Romford or Rush Green areas, there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. \n\nWe recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. \n\nWe are continuing to monitor the situation closely and checking rivers for blockages.\n\nWe will update this message tomorrow morning, Monday 26 July, or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T19:23:00",
-      "timeRaised": "2021-07-25T19:23:27",
-      "timeSeverityChanged": "2021-07-23T18:18:00"
+      "message": "The risk of flooding in the London area has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:33:00",
+      "timeRaised": "2021-07-26T10:33:36",
+      "timeSeverityChanged": "2021-07-26T10:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF38BrentBks",
@@ -217,12 +238,12 @@
       },
       "floodAreaID": "062WAF38BrentBks",
       "isTidal": false,
-      "message": "Heavy rain and thunderstorms have affected parts of London during this afternoon, Sunday 25 July. There is the potential for further showers during this evening and overnight into Monday 26 July. There is uncertainty around exact timings and which areas will experience the heaviest rain, but if heavy rainfall occurs in the Hendon, Wembley, Harrow, Wealdstone, Edgware or Stanmore areas, there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. \n\nWe recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. \n\nWe are continuing to monitor the situation closely and checking rivers for blockages.\n\nWe will update this message tomorrow morning, Monday 26 July, or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T19:26:00",
-      "timeRaised": "2021-07-25T19:26:41",
-      "timeSeverityChanged": "2021-07-23T18:01:00"
+      "message": "The risk of flooding in the London area has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:51:00",
+      "timeRaised": "2021-07-26T10:51:30",
+      "timeSeverityChanged": "2021-07-26T10:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF28Pinn",
@@ -238,12 +259,12 @@
       },
       "floodAreaID": "062WAF28Pinn",
       "isTidal": false,
-      "message": "Heavy rain and thunderstorms have affected parts of London during this afternoon, Sunday 25 July. There is the potential for further showers during this evening and overnight into Monday 26 July. There is uncertainty around exact timings and which areas will experience the heaviest rain, but if heavy rainfall occurs in the Hatch End, Pinner, Ruislip, Ickenham, Hillingdon or Uxbridge areas, there is a possibility that rivers could respond quickly and overtop their banks. Flooding to low lying land, roads and riverside gardens is possible. Surface water flooding may also affect low lying areas. \n\nWe recommend you monitor local weather conditions and avoid walking, cycling or driving through flood water. \n\nWe are continuing to monitor the situation closely and checking rivers for blockages.\n\nWe will update this message tomorrow morning, Monday 26 July, or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T19:29:00",
-      "timeRaised": "2021-07-25T19:29:19",
-      "timeSeverityChanged": "2021-07-23T18:14:00"
+      "message": "The risk of flooding in the London area has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:38:00",
+      "timeRaised": "2021-07-26T10:38:42",
+      "timeSeverityChanged": "2021-07-26T10:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -280,11 +301,11 @@
       },
       "floodAreaID": "112WATSOM1",
       "isTidal": true,
-      "message": "The peak of the current spring tide sequence coincides with strong winds tonight. The forecast high water is at 20:45 on 25/07/21 with a level of 6.17 mAOD and a Force 4 Westerly wind. All times are local and refer to the high water time at Hinkley Point, mAOD is height above average sea level. For more detail refer to local tide tables. Local flood impacts are possible this evening, and conditions may apply one to two hours either side of the high tide. Flooding may affect the coastline between Gore Point and Hurlstone Point including Porlock Weir. Coastal conditions are forecast to ease for the high tides in coming days, after tonight. We are closely monitoring the situation. Please be careful along beaches, promenades and coastal footpaths and roads, and stay aware in case further updates are issued. This message will be updated by midday on Monday 26/07/21, or as the situation changes.",
+      "message": "This Flood Alert remains in force for Monday evening’s tide due to now stronger winds than previously forecast. The forecast high water is 21:30 on 26/07/2021 with a level of 6.14 mAOD and a Force 4 westerly wind. All times are local and refer to the high water time at Hinkley Point, mAOD is height above average sea level. Local flood impacts are possible this evening, and conditions may apply one to two hours either side of the high tide. Flooding may affect the coastline between Gore Point and Hurlstone Point including Porlock Weir. High tide levels will reduce in the coming days, however moderate Force 4 to Force 6 winds are forecast this week. Please be careful along beaches, promenades and coastal footpaths and roads, and stay aware in case further updates are issued. We are closely monitoring the situation and will update this message by midday on Tuesday 27/07/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T12:45:00",
-      "timeRaised": "2021-07-25T12:45:10",
+      "timeMessageChanged": "2021-07-26T11:15:00",
+      "timeRaised": "2021-07-26T11:16:15",
       "timeSeverityChanged": "2021-07-25T10:35:00"
     },
     {
@@ -343,12 +364,12 @@
       },
       "floodAreaID": "062WAF51CanonsBK",
       "isTidal": false,
-      "message": " Heavy rainfall is currently falling in the Harlow area. This has caused the Canons Brook to rise during this afternoon, Sunday 25 July.\nThere is likely to be flooding to low lying land and roads close to the Canons Brook in Harlow this afternoon and evening. Flooding from surface water, where water gathers and flows off road surfaces, could also occur. \nWe expect the river to remain high this afternoon but should start to recede this evening. No flooding to properties is currently expected.\nWe are constantly monitoring river levels and have staff on standby to attend to any blockages in the river.\nThis message will be updated tomorrow morning, Monday 26 July, or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T16:55:00",
-      "timeRaised": "2021-07-25T16:55:23",
-      "timeSeverityChanged": "2021-07-25T16:55:00"
+      "message": "The risk of flooding in the Canons Brook from Harlow to Parndon Mead has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:30:00",
+      "timeRaised": "2021-07-26T10:30:20",
+      "timeSeverityChanged": "2021-07-26T10:30:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF53LowerLee",
@@ -364,12 +385,12 @@
       },
       "floodAreaID": "062WAF53LowerLee",
       "isTidal": false,
-      "message": " Throughout this afternoon, Sunday 25 July, we have seen heavy rainfall across the London area. This has caused rivers and streams to rise. \nThe main areas of concern are currently Hackney, Walthamstow and Stratford where river levels are rising. There is likely to be flooding to low lying land and roads close to the river this evening, Sunday 25 July. Flooding from surface water, where water gathers and flows off road surfaces, could also occur. \nWe expect rivers in these areas to remain high for a couple of hours but should start to recede later this evening. No flooding to properties is currently expected.\nWe are constantly monitoring river levels and have staff on standby to attend to any blockages in the river.\nThis message will be updated tomorrow morning, Monday 26 July, or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-25T17:45:00",
-      "timeRaised": "2021-07-25T17:46:27",
-      "timeSeverityChanged": "2021-07-25T17:45:00"
+      "message": "The risk of flooding in the Lower River Lee from Hoddesdon to Canning Town has now reduced as the risk of thunderstorms has passed. No flooding is currently expected for today (Monday 26 July), but there is further rainfall forecast for later this week. We are monitoring this forecast closely and will issue further alerts if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-07-26T10:42:00",
+      "timeRaised": "2021-07-26T10:42:45",
+      "timeSeverityChanged": "2021-07-26T10:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF213",
@@ -475,27 +496,6 @@
       "timeMessageChanged": "2021-07-26T09:46:00",
       "timeRaised": "2021-07-26T09:46:50",
       "timeSeverityChanged": "2021-07-26T09:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "The Eastern Yar is high and continues to rise. Yesterday, more than a month’s rain (70mm) was recorded at Knighton. A Flood Warning is in force at Whitwell, Wroxall, Alverstone and Langbridge. In Langbridge, the river is flooding gardens. In Alverstone, the river is flooding gardens, cycle tracks and the main road. In both villages, water will have come very close to flooding property. Today (26/07/2021), minor impact flooding of Golf links road is also expected. At Alverstone, the water level is just peaking. At Sandown, it will continue to increase until at least 18:00 this evening. We do not expect property flooding in Sandown. It is now possible that some heavy showers could affect the Isle of Wight today. If further heavy rain does affect the river, then it could cause property flooding in Alverstone and Langbridge. We will continue to monitor the forecast. Please avoid walking or driving through flood water. This message will be updated by 18:00 on Monday 26/07/2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-07-26T10:00:00",
-      "timeRaised": "2021-07-26T10:00:49",
-      "timeSeverityChanged": "2021-07-25T19:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF7201",
