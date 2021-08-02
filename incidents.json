@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF213",
+      "description": "St Johns, Ryde",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF213",
+        "county": "Isle of Wight",
+        "notation": "065WAF213",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF213/polygon",
+        "riverOrSea": "Monktonmead Brook"
+      },
+      "floodAreaID": "065WAF213",
+      "isTidal": false,
+      "message": "The water level in the Monktonmead Brook is high and rising. Intense rain has fallen, with over 30mm in the last two hours recorded at Ryde. This is about half a month’s total and is similar to the storm on 27th July. In the next couple of hours, water may begin to flow across the railway tracks, upstream of St Johns Station. Surface water may already be causing impacts as drains become overloaded. Property flooding is not currently expected at this time but we will keep this under review. Further thundery showers are possible this morning and over the next 24 hours. Water levels will remain very high until at least midday. Our operational staff will keep the Monktonmead Brook clear of reported blockages. Please consider moving vehicles from depots located next to the river and railway line. We will update this message by 18:00 02/08/2021 or earlier as conditions develop.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-08-02T09:48:00",
+      "timeRaised": "2021-08-02T09:48:41",
+      "timeSeverityChanged": "2021-08-02T09:48:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
       "description": "Eastern Yar",
       "eaAreaName": "Solent and South Downs",
@@ -49,12 +70,12 @@
       },
       "floodAreaID": "065WAF442",
       "isTidal": false,
-      "message": "The River Uck is high and rising. It is estimated that in only a few hours of Sunday afternoon, about a month's worth of rain (50mm) fell at the top of the Uck catchment. From 19:30 01/08/2021 flooding could affect fields, rural roads, gardens and approach riverside properties through Buxted, near the White Hart pub and areas around Hempstead Mill on Hempstead Lane, Uckfield. Areas in Uckfield most at risk from 21:00 include The Roller Mill, Mill Lane, River Way, Bridge Cottage & Bell Walk. From 23:00 flood water could approach properties at Isfield Mill and Isfield Bridge. Light rain should clear the area by 23:00 and the river should begin to fall by 02:00 Monday 2/8/2021 in Buxted, and 10:00 2/8/2021 in Isfield. Only small amounts of rain are forecast next week so the river should return to normal Monday afternoon. Please take proactive action to help reduce the impact of flooding. Flood protection products are recommended to be installed, if you have them. We will continue to monitor the river levels and forecasts. We will update this message by 10:00 02/08/2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-08-01T19:00:00",
-      "timeRaised": "2021-08-01T19:00:44",
-      "timeSeverityChanged": "2021-08-01T19:00:00"
+      "message": "River levels in the Uck have now fallen from their peak and are nearing normal levels. Monday morning should be relatively dry and so the river should return to normal this afternoon (02/08/2021). Flood impacts will ease, but small amounts of water may remain in fields, gardens and on rural roads. However, further showers which could be intense, are forecast for Tuesday (03/08/2021) and the rest of the week. If the more intense rain falls this week on the River Uck, the risk of flooding could return. Please remain prepared for further potential periods of flood risk. We will continue to monitor the levels and forecast. We will reissue this message if the risk of flooding increases.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-08-02T09:53:00",
+      "timeRaised": "2021-08-02T09:53:29",
+      "timeSeverityChanged": "2021-08-02T09:53:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF1101",
@@ -70,12 +91,12 @@
       },
       "floodAreaID": "065FWF1101",
       "isTidal": false,
-      "message": "The River Uck is high and rising.  It is estimated that in only a few hours of Sunday afternoon, about a month's worth of rain (50mm) fell at the top of the Uck catchment. From 21:00 01/08/2021 flooding will affect fields, rural roads, gardens and riverside properties through Buxted, near the White Hart pub and areas around Hempstead Mill on Hempstead Lane, Uckfield. Light rain should clear the area by 23:00 and the river should begin to fall by 02:00 Monday 2/8/2021 in Buxted. Only small amounts of rain are forecast next week so the river should return to normal Monday afternoon. Please take proactive action to help reduce the impact of flooding. Flood protection products are recommended to be installed, if you have them. We will continue to monitor the river levels and forecasts. We will update this message by 10:00 02/08/2021",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-08-01T20:41:00",
-      "timeRaised": "2021-08-01T20:41:54",
-      "timeSeverityChanged": "2021-08-01T20:41:00"
+      "message": "The River Uck at Buxted has fallen overnight and is now nearing normal levels. Monday morning should be relatively dry and so the river should return to normal this afternoon (02/08/2021). Flood impacts will ease, but small amounts of water may remain in fields, gardens and on rural roads. No new property flooding is expected. However, further showers which could be intense, are forecast for Tuesday (03/08/2021) and the rest of the week. If the more intense rain falls this week on the River Uck, the risk of flooding could return. Please take care around flood water and avoid driving through it. We will reissue this message if the river level rises and the risk of flooding returns.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-08-02T09:53:00",
+      "timeRaised": "2021-08-02T09:53:43",
+      "timeSeverityChanged": "2021-08-02T09:53:00"
     }
   ]
 }
