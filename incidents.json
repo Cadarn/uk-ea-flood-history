@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "Following heavy rain overnight, the water level in the Eastern Yar at Alverstone is now falling. In Sandown, it continues to rise. Currently, there will be some water ponded on fields, footpaths, access and cycle tracks adjacent to the river. While heavy showers continue to affect the mainland, very little, if no rain is forecast on the Island for the rest of the day (Monday 09/08/21). In Alverstone, the water level will continue to fall. In Sandown, the river should peak around 19:00 this evening. However, it will remain high and at a similar level, until at least 23:00, before finally lowering. The river will not affect property, but Golf Links Road may experience some minor impact flooding. Light showers are forecast tomorrow (10/08/21), with up to 5mm expected. The weather should then remain fairly dry until Friday (13/08/21). This will give the river some opportunity to recover. We continue to monitor the forecast. Please avoid walking, driving or cycling through flood water. This message will be updated or removed by 10:00 on Tuesday 10/08/21. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-08-09T17:02:00",
+      "timeRaised": "2021-08-09T17:02:50",
+      "timeSeverityChanged": "2021-08-09T09:28:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
       "description": "River Leen and Day Brook in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-08-09T09:33:00",
       "timeRaised": "2021-08-09T09:33:52",
       "timeSeverityChanged": "2021-08-07T13:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "The water level in the Eastern Yar is high and rising. In the last 7 hours, 20mm of rain has been recorded at Knighton. More than half a month’s rain has fallen in the last 2 days. From 12:00 this afternoon (09/08/21), water levels will become noticeably high at Alverstone, rising near to the top of the river bank. Some minor out of bank flooding may also occur in fields at Langbridge. We do not expect access issues to Horringford or impacts at Sandown. Property flooding is not expected. Showers will continue to affect the Island until at least 15:00, with up to 5mm expected. The river should peak around 13:00. However, additional rain from this morning’s showers, will impact on the rate of fall, and water levels may remain high until mid-afternoon. Tomorrow (10/08/21) the weather will be drier, and flood risk will reduce. We will ensure the river remains free of any reported blockages. We continue to monitor the forecast. Pumps used to protect gardens from flooding may need to operate. This message will be updated by 18:00 on 09/08/21.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-08-09T09:28:00",
-      "timeRaised": "2021-08-09T09:28:21",
-      "timeSeverityChanged": "2021-08-09T09:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -139,27 +139,6 @@
       "timeMessageChanged": "2021-08-09T07:58:00",
       "timeRaised": "2021-08-09T07:58:57",
       "timeSeverityChanged": "2021-08-07T18:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
-      "description": "River Alt, Formby to Huyton",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
-        "county": "Knowsley, Lancashire, Liverpool, Sefton",
-        "notation": "012WAFAC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
-        "riverOrSea": "River Alt"
-      },
-      "floodAreaID": "012WAFAC",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-08-08T17:00:00",
-      "timeRaised": "2021-08-08T17:00:44",
-      "timeSeverityChanged": "2021-08-08T17:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
@@ -238,12 +217,12 @@
       },
       "floodAreaID": "065WAF214",
       "isTidal": false,
-      "message": "The water level in the Gurnard Luck is high and rising. In the last 8 hours, more than 20mm of rain has been recorded at Cowes. This is a modest amount, but it follows a few days of wet weather. High tide at Cowes is expected at 12:30 this afternoon (09/08/21). The river will continue to rise and will remain high for at least 3 hours after time of high water (15:30), before it can drain with the lowering tide. Between 14:00 and 15:30, properties nearest to the river, in Marsh Road, may experience garden flooding. Showers will continue to affect the island until at least 16:00 this afternoon. At Gurnard, the showers are unlikely to bring large totals of rain, so after high tide, it is unlikely that further impacts will occur from the river. We continue to monitor the forecast, and will ensure the river remains free of any reported blockages. Until water levels fall with the lowering tide, please keep away from the river at Gurnard Road Bridge. Water will be deep and fast flowing. This Flood Alert will be updated or removed by 19:00 on 09/08/21.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-08-09T10:30:00",
-      "timeRaised": "2021-08-09T10:31:07",
-      "timeSeverityChanged": "2021-08-09T10:30:00"
+      "message": "Following heavy overnight rain, and this morning’s high tide, the water level in the Gurnard Luck is now falling. While heavy showers continue to affect the mainland, very little, if no rain is forecast on the Island for the rest of the day (Monday 09/08/21). During the next high tide, expected at Cowes at 00:45 tomorrow morning (10/08/21), river levels will be a little higher than normal. However, no further flood impacts are currently expected. If the situation changes, then we’ll issue further advice. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-08-09T16:45:00",
+      "timeRaised": "2021-08-09T16:46:03",
+      "timeSeverityChanged": "2021-08-09T16:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF351",
