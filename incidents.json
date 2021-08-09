@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "Following heavy rain overnight, the water level in the Eastern Yar at Alverstone is now falling. In Sandown, it continues to rise. Currently, there will be some water ponded on fields, footpaths, access and cycle tracks adjacent to the river. While heavy showers continue to affect the mainland, very little, if no rain is forecast on the Island for the rest of the day (Monday 09/08/21). In Alverstone, the water level will continue to fall. In Sandown, the river should peak around 19:00 this evening. However, it will remain high and at a similar level, until at least 23:00, before finally lowering. The river will not affect property, but Golf Links Road may experience some minor impact flooding. Light showers are forecast tomorrow (10/08/21), with up to 5mm expected. The weather should then remain fairly dry until Friday (13/08/21). This will give the river some opportunity to recover. We continue to monitor the forecast. Please avoid walking, driving or cycling through flood water. This message will be updated or removed by 10:00 on Tuesday 10/08/21. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-08-09T17:02:00",
+      "timeRaised": "2021-08-09T17:02:50",
+      "timeSeverityChanged": "2021-08-09T09:28:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
       "description": "River Leen and Day Brook in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-08-09T09:33:00",
       "timeRaised": "2021-08-09T09:33:52",
       "timeSeverityChanged": "2021-08-07T13:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "Following heavy rain overnight, the water level in the Eastern Yar at Alverstone is now falling. In Sandown, it continues to rise. Currently, there will be some water ponded on fields, footpaths, access and cycle tracks adjacent to the river. While heavy showers continue to affect the mainland, very little, if no rain is forecast on the Island for the rest of the day (Monday 09/08/21). In Alverstone, the water level will continue to fall. In Sandown, the river should peak around 19:00 this evening. However, it will remain high and at a similar level, until at least 23:00, before finally lowering. The river will not affect property, but Golf Links Road may experience some minor impact flooding. Light showers are forecast tomorrow (10/08/21), with up to 5mm expected. The weather should then remain fairly dry until Friday (13/08/21). This will give the river some opportunity to recover. We continue to monitor the forecast. Please avoid walking, driving or cycling through flood water. This message will be updated or removed by 10:00 on Tuesday 10/08/21. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-08-09T17:02:00",
-      "timeRaised": "2021-08-09T17:02:50",
-      "timeSeverityChanged": "2021-08-09T09:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -238,11 +238,11 @@
       },
       "floodAreaID": "065WAF451",
       "isTidal": false,
-      "message": "The Cuckmere River is high and rising. Since 02:00, half a month's rain (25mm) has fallen at Cowbeech. From 12:30 Monday (09/08/2021) flooding could affect fields, rural roads and approach properties on Mill Lane Hellingly. Minor flooding could also affect Grove Hill near Grovebridge Farm. From 14:00, flood water could also affect gardens and approach properties on Station Road, Church Lane and Church Road, Hellingly. Flooding is less likely in Alfriston but from Monday evening, minor impacts could also affect North Street and Willows Car Park in Alfriston. The rain has now largely cleared to the east, but showers are possible Monday afternoon, which could cause river levels to rise a little higher. The river should begin to fall by 22:00 Monday (09/08/2021) in Hellingly and around midday Tuesday (10/08/2021) in Alfriston, but will continue to be higher than normal until Tuesday evening. Please plan to avoid driving through routes susceptible to flooding. We continue to monitor the levels and forecast. We will update this message by 20:00 Monday 09/08/2021.",
+      "message": "The Cuckmere River is still high and rising through Hellingly, following Monday morning's heavy rain. Flooding will continue to affect fields, rural roads, gardens and properties on Station Road, Church Lane and Church Road, Hellingly. River levels should peak by 22:00 Monday (09/08/2021) on Station Road Hellingly. River levels have already peaked and are falling on Mill Lane Hellingly and Grovebridge. River levels will continue to rise in Alfriston until approximately 12:00 Tuesday (10/08/2021). Minor flood impacts are also possible in Alfriston, at North Street and Willows Car Park, after the high tide period in the early hours of Tuesday morning. Please keep flood resilience measures in place Monday and Tuesday while river levels remain high. Only isolated showers are forecast Monday and Tuesday, and the outlook for the week also contains largely dry weather. Please plan to avoid driving through routes susceptible to flooding. We continue to monitor the levels and forecast. We will update this message by 11:00 Tuesday 10/08/2021.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-08-09T11:43:00",
-      "timeRaised": "2021-08-09T11:44:10",
+      "timeMessageChanged": "2021-08-09T19:19:00",
+      "timeRaised": "2021-08-09T19:19:12",
       "timeSeverityChanged": "2021-08-09T11:43:00"
     },
     {
@@ -259,11 +259,11 @@
       },
       "floodAreaID": "065WAF441",
       "isTidal": false,
-      "message": "The River Ouse is high and rising. Since 02:00, about half a month's rain (25mm) has been recorded at Ardingly. From 14:00 09/08/2021, flooding could affect fields, gardens and rural roads at Fletching Mill Bridge and Sharpsbridge. With significant flows coming down both the Uck and the Ouse, from 16:30 water could affect fields and gardens in Barcombe, as well as approach the Anchor Inn. Barcombe Mills Road could also be affected by flood water. Only minor impacts are expected on Sloop Lane, as the river is already nearing its peak there. The rain has now cleared East Sussex, but further showers are possible Monday afternoon. The river should begin to fall by 04:00 Tuesday 10/08/2021, earlier for communities closer to Ardingly. Please plan to avoid driving through routes vulnerable to flooding indicated in this message. We are operating our structures at Pimms Lock and Barcombe to help keep the river flowing freely and reduce flood risk. We will update this message by 21:00 09/08/2021.",
+      "message": "The River Ouse is still high and rising through Barcombe, following Monday morning's heavy rain. Flooding will continue to affect fields, gardens and rural roads including at Fletching Mill Bridge and Sharpsbridge. Flood water will also affect the Anchor Inn and Barcombe Mills Road. River levels are predicted to peak around 01:00 Tuesday (10/08/2021) in Barcombe. The river is already falling near Ardingly and Freshfield Mill farm, where only minor impacts are expected on Sloop Lane. The rain has now cleared the area, but further isolated showers are possible Monday evening. Tuesday and the rest of the week is currently forecast to stay largely dry, which should allow river levels to return to near normal by Wednesday morning. Please plan to avoid driving through routes vulnerable to flooding indicated in this message, and keep flood resilience measures installed in Barcombe, if you have them. We are operating our structures at Pimms Lock and Barcombe to help keep the river flowing freely and reduce flood risk. We will update this message by 11:00 Tuesday 10/08/2021.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-08-09T12:39:00",
-      "timeRaised": "2021-08-09T12:40:21",
+      "timeMessageChanged": "2021-08-09T19:26:00",
+      "timeRaised": "2021-08-09T19:26:21",
       "timeSeverityChanged": "2021-08-09T12:39:00"
     },
     {
