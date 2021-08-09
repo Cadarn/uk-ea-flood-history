@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "The water level in the Eastern Yar is high and rising. In the last 7 hours, 20mm of rain has been recorded at Knighton. More than half a month’s rain has fallen in the last 2 days. From 12:00 this afternoon (09/08/21), water levels will become noticeably high at Alverstone, rising near to the top of the river bank. Some minor out of bank flooding may also occur in fields at Langbridge. We do not expect access issues to Horringford or impacts at Sandown. Property flooding is not expected. Showers will continue to affect the Island until at least 15:00, with up to 5mm expected. The river should peak around 13:00. However, additional rain from this morning’s showers, will impact on the rate of fall, and water levels may remain high until mid-afternoon. Tomorrow (10/08/21) the weather will be drier, and flood risk will reduce. We will ensure the river remains free of any reported blockages. We continue to monitor the forecast. Pumps used to protect gardens from flooding may need to operate. This message will be updated by 18:00 on 09/08/21.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-08-09T09:28:00",
+      "timeRaised": "2021-08-09T09:28:21",
+      "timeSeverityChanged": "2021-08-09T09:28:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
       "description": "River Leen and Day Brook in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -36,27 +57,6 @@
       "timeSeverityChanged": "2021-08-08T20:07:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \n    \nWe continue to monitor the situation.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-08-08T12:44:00",
-      "timeRaised": "2021-08-08T12:44:41",
-      "timeSeverityChanged": "2021-08-08T12:44:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
       "description": "Upper River Wey",
       "eaAreaName": "Thames",
@@ -76,27 +76,6 @@
       "timeMessageChanged": "2021-08-09T09:33:00",
       "timeRaised": "2021-08-09T09:33:52",
       "timeSeverityChanged": "2021-08-07T13:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "The water level in the Eastern Yar is high and rising. In the last 7 hours, 20mm of rain has been recorded at Knighton. More than half a month’s rain has fallen in the last 2 days. From 12:00 this afternoon (09/08/21), water levels will become noticeably high at Alverstone, rising near to the top of the river bank. Some minor out of bank flooding may also occur in fields at Langbridge. We do not expect access issues to Horringford or impacts at Sandown. Property flooding is not expected. Showers will continue to affect the Island until at least 15:00, with up to 5mm expected. The river should peak around 13:00. However, additional rain from this morning’s showers, will impact on the rate of fall, and water levels may remain high until mid-afternoon. Tomorrow (10/08/21) the weather will be drier, and flood risk will reduce. We will ensure the river remains free of any reported blockages. We continue to monitor the forecast. Pumps used to protect gardens from flooding may need to operate. This message will be updated by 18:00 on 09/08/21.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-08-09T09:28:00",
-      "timeRaised": "2021-08-09T09:28:21",
-      "timeSeverityChanged": "2021-08-09T09:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -307,6 +286,27 @@
       "timeMessageChanged": "2021-08-09T11:43:00",
       "timeRaised": "2021-08-09T11:44:10",
       "timeSeverityChanged": "2021-08-09T11:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF441",
+      "description": "Upper Ouse",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF441",
+        "county": "East Sussex, West Sussex",
+        "notation": "065WAF441",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF441/polygon",
+        "riverOrSea": "River Ouse"
+      },
+      "floodAreaID": "065WAF441",
+      "isTidal": false,
+      "message": "The River Ouse is high and rising. Since 02:00, about half a month's rain (25mm) has been recorded at Ardingly. From 14:00 09/08/2021, flooding could affect fields, gardens and rural roads at Fletching Mill Bridge and Sharpsbridge. With significant flows coming down both the Uck and the Ouse, from 16:30 water could affect fields and gardens in Barcombe, as well as approach the Anchor Inn. Barcombe Mills Road could also be affected by flood water. Only minor impacts are expected on Sloop Lane, as the river is already nearing its peak there. The rain has now cleared East Sussex, but further showers are possible Monday afternoon. The river should begin to fall by 04:00 Tuesday 10/08/2021, earlier for communities closer to Ardingly. Please plan to avoid driving through routes vulnerable to flooding indicated in this message. We are operating our structures at Pimms Lock and Barcombe to help keep the river flowing freely and reduce flood risk. We will update this message by 21:00 09/08/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-08-09T12:39:00",
+      "timeRaised": "2021-08-09T12:40:21",
+      "timeSeverityChanged": "2021-08-09T12:39:00"
     }
   ]
 }
