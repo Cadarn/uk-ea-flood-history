@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "The water level in the Eastern Yar is falling in Alverstone and Sandown. Today (Tuesday 10/08/21) some ponded water may continue to impact low lying land and roads adjacent to the river. Over the next 5 days, apart from the odd isolated shower, the weather should be fairly dry. Further flooding is not expected, and any residual flood impacts should cease over the next 24 hours.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-08-10T09:33:00",
+      "timeRaised": "2021-08-10T09:33:29",
+      "timeSeverityChanged": "2021-08-10T09:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-08-10T09:14:00",
       "timeRaised": "2021-08-10T09:15:12",
       "timeSeverityChanged": "2021-08-10T09:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "The water level in the Eastern Yar is falling in Alverstone and Sandown. Today (Tuesday 10/08/21) some ponded water may continue to impact low lying land and roads adjacent to the river. Over the next 5 days, apart from the odd isolated shower, the weather should be fairly dry. Further flooding is not expected, and any residual flood impacts should cease over the next 24 hours.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-08-10T09:33:00",
-      "timeRaised": "2021-08-10T09:33:29",
-      "timeSeverityChanged": "2021-08-10T09:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -238,12 +238,12 @@
       },
       "floodAreaID": "064WAF32MdleMole",
       "isTidal": false,
-      "message": "River levels rose yesterday as a result of heavy rainfall.  Levels at Kinnersley Manor and Sidlow have begun to fall, however they continue to rise at Leatherhead and Downside Bridge at Cobham.  Flooding of roads and low lying land is possible between 8am and 8pm today Tuesday 10th August.  We expect flooding to affect low lying land and roads.  We do not expect property flooding.\n  \nWe are closely monitoring the situation.  Our incident response staff are clearing trash screens and actively monitoring the situation and are prepared to respond if required.\n  \nThis message will be updated by 9pm Tuesday 10th August, or sooner if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-08-10T08:54:00",
-      "timeRaised": "2021-08-10T08:54:34",
-      "timeSeverityChanged": "2021-08-09T20:29:00"
+      "message": "This Flood Alert has been removed.  \n\nRiver levels have now fallen below the level expected to cause flooding.  There is no longer a risk of flooding, though standing water and debris may still remain. No further rainfall is forecast for the next 48 hours.\n\nWe continue to monitor the situation, however, please remain aware of your local situation.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-08-10T19:28:00",
+      "timeRaised": "2021-08-10T19:28:51",
+      "timeSeverityChanged": "2021-08-10T19:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAB36TidCrane",
