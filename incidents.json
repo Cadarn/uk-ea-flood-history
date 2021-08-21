@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
+      "description": "River Cole and Dorcan Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
+        "county": "Oxfordshire, Swindon",
+        "notation": "061WAF07Cole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
+        "riverOrSea": "River Cole"
+      },
+      "floodAreaID": "061WAF07Cole",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected.\nRiver levels have risen on the River Cole and Dorcan Brook as a result of heavy rainfall. Therefore, flooding of roads and farmland is possible this afternoon 21/08/2021, especially in the Lower Stratton Area. Flooding of properties is not forecast at this point.\nFurther heavy showers and isolated heavy thundery showers are forecast for this afternoon and evening. There may be further showers early Sunday morning. We expect river levels to continue to rise slowly this afternoon 21/08/2021 but they should peak soon. There is further rainfall forecast which could cause levels to rise again.\nWe are closely monitoring the situation. \nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated tomorrow, 22/08/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-08-21T15:12:00",
+      "timeRaised": "2021-08-21T15:12:43",
+      "timeSeverityChanged": "2021-08-21T15:12:00"
+    }
+  ]
 }
