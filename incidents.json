@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 01:00 AM on 09/09/2021.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 01:00 AM on 09/09/2021. Flooding is possible 2 hours either side of this time.\nTides are expected to be higher than usual due to the forecast weather conditions during spring tides\nWe are expecting higher than normal tides 01:45 am 10/09/2021 and as a result we may issue further alerts.\n\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis flood alert was issued for the high tide at 01:00 on 09/09/21 and tonight’s high tide at 01:45 on 10/09/21. This message will be updated this afternoon.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-09T08:33:00",
-      "timeRaised": "2021-09-09T08:33:43",
-      "timeSeverityChanged": "2021-09-08T17:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This flood alert has been removed as the risk of overtopping waves and spray has now passed.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-09T09:58:00",
-      "timeRaised": "2021-09-09T09:58:55",
-      "timeSeverityChanged": "2021-09-09T09:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -76,6 +34,27 @@
       "timeMessageChanged": "2021-09-08T14:29:00",
       "timeRaised": "2021-09-08T14:29:37",
       "timeSeverityChanged": "2021-09-08T14:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 01:00 AM on 09/09/2021.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 01:00 AM on 09/09/2021. Flooding is possible 2 hours either side of this time.\nTides are expected to be higher than usual due to the forecast weather conditions during spring tides\nWe are expecting higher than normal tides 01:45 am 10/09/2021 and as a result we may issue further alerts.\n\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis flood alert was issued for the high tide at 01:00 on 09/09/21 and tonight’s high tide at 01:45 on 10/09/21. This message will be updated this afternoon.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T08:33:00",
+      "timeRaised": "2021-09-09T08:33:43",
+      "timeSeverityChanged": "2021-09-08T17:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -139,6 +118,69 @@
       "timeMessageChanged": "2021-09-09T15:17:00",
       "timeRaised": "2021-09-09T15:18:10",
       "timeSeverityChanged": "2021-09-09T15:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF984",
+      "description": "River Spen and Batley Beck catchments",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984",
+        "county": "Bradford, Kirklees, Leeds",
+        "notation": "123WAF984",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984/polygon",
+        "riverOrSea": "River Spen, Batley Beck, Chickenley Beck"
+      },
+      "floodAreaID": "123WAF984",
+      "isTidal": false,
+      "message": "This flood alert has been issued as we are expecting heavy showers and thunderstorms to affect areas across the River Spen and Batley Beck catchments this afternoon and evening, Thursday 9th September.\nIt is not possible to predict the precise location of these thunderstorms, but where they occur there’s a risk of localised surface water flooding and flooding from smaller rivers affecting roads, homes and businesses.\nThis means that we are taking the precautionary measure of issuing a flood alert. In anticipation of these thunderstorms our staff are monitoring the situation. Given the speed at which levels in the faster responding rivers may rise, we may not have time to issue all flood warnings before the onset of any flooding. For weather forecasts for your area please see the Met Office www.metoffice.gov.uk. Please stay aware of your surroundings and do not put yourself at risk. Be prepared to act on your flood plan.\nThis message will be updated by 00:45 on 10/09/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T16:45:00",
+      "timeRaised": "2021-09-09T16:46:22",
+      "timeSeverityChanged": "2021-09-09T16:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF982",
+      "description": "Wyke Beck, Meanwood Beck and Wortley Beck catchments",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982",
+        "county": "Bradford, Leeds",
+        "notation": "123WAF982",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982/polygon",
+        "riverOrSea": "Wyke Beck, Meanwood Beck, Wortley Beck"
+      },
+      "floodAreaID": "123WAF982",
+      "isTidal": false,
+      "message": "This flood alert has been issued in response to the forecast for heavy showers and thunderstorms that could affect areas across Wyke Beck, Meanwood Beck and Wortley Beck Catchments on Thursday 9th September, particularly in the afternoon and evening.\nIt is not possible to predict the precise location of these thunderstorms, but where they occur there’s a risk of localised surface water flooding and flooding from smaller rivers affecting roads, homes and businesses.\nThis means that we are taking the precautionary measure of issuing a flood alert.\nIn anticipation of these thunderstorms our staff are monitoring the situation.\nGiven the speed at which levels in the faster responding rivers may rise, we may not have time to issue all\nflood warnings before the onset of any flooding. For weather forecasts for your area please see the Met\nOffice www.metoffice.gov.uk.\nPlease stay aware of your surroundings and do not put yourself at risk. Be prepared to act on your flood plan.\nThis message will be updated by 00:30 on 10/09/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T16:41:00",
+      "timeRaised": "2021-09-09T16:41:59",
+      "timeSeverityChanged": "2021-09-09T16:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert has been removed as the risk of overtopping waves and spray has now passed.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-09-09T09:58:00",
+      "timeRaised": "2021-09-09T09:58:55",
+      "timeSeverityChanged": "2021-09-09T09:58:00"
     }
   ]
 }
