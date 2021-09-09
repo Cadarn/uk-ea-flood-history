@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 01:00 AM on 09/09/2021.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 01:00 AM on 09/09/2021. Flooding is possible 2 hours either side of this time.\nFurther heavy rainfall is forecast tomorrow, 9/09/2021.\nWe are expecting higher than normal tides 01:45 am 10/09/2021 and as a result we may issue further alerts.\nOur incident response staff are monitoring the situation.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 08:00 AM on 09/09/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-08T17:08:00",
-      "timeRaised": "2021-09-08T17:09:50",
-      "timeSeverityChanged": "2021-09-08T17:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to overtopping waves and spray that are expected in combination with spring tides. The area of particular concern is Southfield Farm, where overtopping waves and spray are expected between 07:45 and 09:30 hours on Thursday morning 9/09/2021. Areas most at risk are low lying land and roads around Southfield Farm, Kilnsea Village and Spurn point. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as high tides, waves and sea spray could be dangerous. This message will be updated on Thursday morning, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-08T18:11:00",
-      "timeRaised": "2021-09-08T18:11:33",
-      "timeSeverityChanged": "2021-09-08T18:11:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -78,6 +36,27 @@
       "timeSeverityChanged": "2021-09-08T14:29:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 01:00 AM on 09/09/2021.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 01:00 AM on 09/09/2021. Flooding is possible 2 hours either side of this time.\nTides are expected to be higher than usual due to the forecast weather conditions during spring tides\nWe are expecting higher than normal tides 01:45 am 10/09/2021 and as a result we may issue further alerts.\n\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis flood alert was issued for the high tide at 01:00 on 09/09/21 and tonight’s high tide at 01:45 on 10/09/21. This message will be updated this afternoon.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T08:33:00",
+      "timeRaised": "2021-09-09T08:33:43",
+      "timeSeverityChanged": "2021-09-08T17:08:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -97,6 +76,27 @@
       "timeMessageChanged": "2021-09-08T18:12:00",
       "timeRaised": "2021-09-08T18:13:10",
       "timeSeverityChanged": "2021-09-08T18:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to overtopping waves and spray that are expected in combination with spring tides. The area of particular concern is Southfield Farm, where overtopping waves and spray are expected between 07:45 and 09:30 hours on Thursday morning 9/09/2021. Areas most at risk are low lying land and roads around Southfield Farm, Kilnsea Village and Spurn point. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as high tides, waves and sea spray could be dangerous. This message will be updated on Thursday morning, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-08T18:11:00",
+      "timeRaised": "2021-09-08T18:11:33",
+      "timeSeverityChanged": "2021-09-08T18:11:00"
     }
   ]
 }
