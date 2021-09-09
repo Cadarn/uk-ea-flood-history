@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 01:00 AM on 09/09/2021.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 01:00 AM on 09/09/2021. Flooding is possible 2 hours either side of this time.\nTides are expected to be higher than usual due to the forecast weather conditions during spring tides\nWe are expecting higher than normal tides 01:45 am 10/09/2021 and as a result we may issue further alerts.\n\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis flood alert was issued for the high tide at 01:00 on 09/09/21 and tonight’s high tide at 01:45 on 10/09/21. This message will be updated this afternoon.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-09T08:33:00",
-      "timeRaised": "2021-09-09T08:33:43",
-      "timeSeverityChanged": "2021-09-08T17:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This flood alert has been removed as the risk of overtopping waves and spray has now passed.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-09T09:58:00",
-      "timeRaised": "2021-09-09T09:58:55",
-      "timeSeverityChanged": "2021-09-09T09:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -76,6 +34,27 @@
       "timeMessageChanged": "2021-09-08T14:29:00",
       "timeRaised": "2021-09-08T14:29:37",
       "timeSeverityChanged": "2021-09-08T14:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 01:00 AM on 09/09/2021.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 01:00 AM on 09/09/2021. Flooding is possible 2 hours either side of this time.\nTides are expected to be higher than usual due to the forecast weather conditions during spring tides\nWe are expecting higher than normal tides 01:45 am 10/09/2021 and as a result we may issue further alerts.\n\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis flood alert was issued for the high tide at 01:00 on 09/09/21 and tonight’s high tide at 01:45 on 10/09/21. This message will be updated this afternoon.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T08:33:00",
+      "timeRaised": "2021-09-09T08:33:43",
+      "timeSeverityChanged": "2021-09-08T17:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -118,6 +97,48 @@
       "timeMessageChanged": "2021-09-09T12:08:00",
       "timeRaised": "2021-09-09T12:09:12",
       "timeSeverityChanged": "2021-09-09T12:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
+      "description": "North Devon coast from Hartland Point to Lynmouth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
+        "county": "Devon",
+        "notation": "113WACT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "113WACT2A",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tide on Thursday evening. High water at Ilfracombe is at 8.37pm, times of high water will vary along the coast.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\nDetailed tidal information for those who use it; The forecast high tide level at Ilfracombe is 5.05 mAOD, this is 0.21 metres above astronomical tide level.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T15:17:00",
+      "timeRaised": "2021-09-09T15:18:10",
+      "timeSeverityChanged": "2021-09-09T15:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert has been removed as the risk of overtopping waves and spray has now passed.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-09-09T09:58:00",
+      "timeRaised": "2021-09-09T09:58:55",
+      "timeSeverityChanged": "2021-09-09T09:58:00"
     }
   ]
 }
