@@ -15,25 +15,25 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
       },
-      "floodAreaID": "012WATWE",
+      "floodAreaID": "112WATSOM1",
       "isTidal": true,
-      "message": "Spring tides are now reducing and the forecast is for no current flood risk from high tides.\nWe will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-10T07:58:00",
-      "timeRaised": "2021-09-10T07:58:14",
-      "timeSeverityChanged": "2021-09-10T07:58:00"
+      "message": "The first forecast high water is 09:45 on 10/09/21 with a level of 6.29 mAOD and a Force 4 Westerly wind. Second forecast high water is 22:00 on 10/09/21 with a level of 6.34 mAOD and a Force 4 Westerly wind. All times are local and refer to the high water time at Hinkley, mAOD is height above average sea level. For more detail refer to local tide tables. Flooding to roads and farmland is possible at these times, however conditions may apply one to two hours either side of the high tide. Flooding may occur along the coastline between Gore Point and Hurlstone Point including Porlock Weir. Flooding of properties is not forecast at this point.\nCoastal conditions should ease from Saturday 11/09/21 high tide at 10:30 and all subsequent high tides.\nWe are closely monitoring the situation. Our incident response staff are closing flood gates.  \nThis message will be updated if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-09T18:08:00",
+      "timeRaised": "2021-09-09T18:08:26",
+      "timeSeverityChanged": "2021-09-09T18:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
@@ -55,6 +55,27 @@
       "timeMessageChanged": "2021-09-10T09:36:00",
       "timeRaised": "2021-09-10T09:36:13",
       "timeSeverityChanged": "2021-09-10T09:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "Spring tides are now reducing and the forecast is for no current flood risk from high tides.\nWe will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-09-10T07:58:00",
+      "timeRaised": "2021-09-10T07:58:14",
+      "timeSeverityChanged": "2021-09-10T07:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -118,69 +139,6 @@
       "timeMessageChanged": "2021-09-10T13:48:00",
       "timeRaised": "2021-09-10T13:48:50",
       "timeSeverityChanged": "2021-09-10T13:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF984",
-      "description": "River Spen and Batley Beck catchments",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984",
-        "county": "Bradford, Kirklees, Leeds",
-        "notation": "123WAF984",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984/polygon",
-        "riverOrSea": "River Spen, Batley Beck, Chickenley Beck"
-      },
-      "floodAreaID": "123WAF984",
-      "isTidal": false,
-      "message": "River levels on the River Spen and Batley Beck are now falling after the heavy thunderstorms this afternoon. The showers and thunderstorms should gradually die away later this evening and overnight. Showers on Friday may lead to some further flooding impacts but are not currently expected to be as heavy as those seen in some areas today. \nWe continue to monitor the situation closely.  For weather forecasts for your area please see the Met\nOffice www.metoffice.gov.uk.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-09T20:08:00",
-      "timeRaised": "2021-09-09T20:08:34",
-      "timeSeverityChanged": "2021-09-09T20:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF982",
-      "description": "Wyke Beck, Meanwood Beck and Wortley Beck catchments",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982",
-        "county": "Bradford, Leeds",
-        "notation": "123WAF982",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF982/polygon",
-        "riverOrSea": "Wyke Beck, Meanwood Beck, Wortley Beck"
-      },
-      "floodAreaID": "123WAF982",
-      "isTidal": false,
-      "message": "Thunderstorms and heavy showers this afternoon only led to a small response from local watercourses and the showers and thunderstorms should gradually die away later this evening and overnight. Showers on Friday may lead to some further flooding impacts but are not currently expected to be as heavy as those seen in some areas today. \nWe continue to monitor the situation closely.  For weather forecasts for your area please see the Met\nOffice www.metoffice.gov.uk.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-09T20:08:00",
-      "timeRaised": "2021-09-09T20:08:47",
-      "timeSeverityChanged": "2021-09-09T20:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "The first forecast high water is 09:45 on 10/09/21 with a level of 6.29 mAOD and a Force 4 Westerly wind. Second forecast high water is 22:00 on 10/09/21 with a level of 6.34 mAOD and a Force 4 Westerly wind. All times are local and refer to the high water time at Hinkley, mAOD is height above average sea level. For more detail refer to local tide tables. Flooding to roads and farmland is possible at these times, however conditions may apply one to two hours either side of the high tide. Flooding may occur along the coastline between Gore Point and Hurlstone Point including Porlock Weir. Flooding of properties is not forecast at this point.\nCoastal conditions should ease from Saturday 11/09/21 high tide at 10:30 and all subsequent high tides.\nWe are closely monitoring the situation. Our incident response staff are closing flood gates.  \nThis message will be updated if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-09T18:08:00",
-      "timeRaised": "2021-09-09T18:08:26",
-      "timeSeverityChanged": "2021-09-09T18:08:00"
     }
   ]
 }
