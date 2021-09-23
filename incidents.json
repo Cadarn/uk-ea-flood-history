@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "The flood alert for North Sea Coast at Withernsea, Easington and Kilnsea has been issued. The particular area of concern is Kilnsea. Some overtopping and spray is expected in the Southfield Farm area, Kilnsea as a result of a tidal surge between 7:45pm and 9:30pm on Thursday 23rd September. Areas most at risk are low lying land and roads around Southfield Farm. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as overtopping waves could be dangerous. This message will be updated on Friday morning 24/09/21, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-23T20:01:00",
-      "timeRaised": "2021-09-23T20:01:18",
-      "timeSeverityChanged": "2021-09-23T12:06:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -57,6 +36,27 @@
       "timeSeverityChanged": "2021-09-23T09:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "The flood alert for North Sea Coast at Withernsea, Easington and Kilnsea has been issued. The particular area of concern is Kilnsea. Some overtopping and spray is expected in the Southfield Farm area, Kilnsea as a result of a tidal surge between 7:45pm and 9:30pm on Thursday 23rd September. Areas most at risk are low lying land and roads around Southfield Farm. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as overtopping waves could be dangerous. This message will be updated on Friday morning 24/09/21, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-23T20:01:00",
+      "timeRaised": "2021-09-23T20:01:18",
+      "timeSeverityChanged": "2021-09-23T12:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
       "description": "Humber estuary from Spurn Point to Winestead Outfall",
       "eaAreaName": "Yorkshire",
@@ -76,27 +76,6 @@
       "timeMessageChanged": "2021-09-23T19:55:00",
       "timeRaised": "2021-09-23T19:55:54",
       "timeSeverityChanged": "2021-09-22T15:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
-      "description": "Coast from St Bees Head to Millom",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3",
-        "county": "Cumbria",
-        "notation": "011WACN3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN3",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-23T09:14:00",
-      "timeRaised": "2021-09-23T09:14:24",
-      "timeSeverityChanged": "2021-09-23T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
@@ -139,6 +118,27 @@
       "timeMessageChanged": "2021-09-23T16:54:00",
       "timeRaised": "2021-09-23T16:55:18",
       "timeSeverityChanged": "2021-09-23T16:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
+      "description": "Coast from St Bees Head to Millom",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3",
+        "county": "Cumbria",
+        "notation": "011WACN3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN3",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-09-23T09:14:00",
+      "timeRaised": "2021-09-23T09:14:24",
+      "timeSeverityChanged": "2021-09-23T09:14:00"
     }
   ]
 }
