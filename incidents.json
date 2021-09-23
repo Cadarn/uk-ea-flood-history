@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "The flood alert for North Sea Coast at Withernsea, Easington and Kilnsea has been issued.  The particular area of concern is Kilnsea. Some overtopping and spray is expected in the Southfield Farm area, Kilnsea as a result of a tidal surge between 7:45pm and 9:30pm on Thursday 23rd September. Areas most at risk are low lying land and roads around Southfield Farm.\n\nOur incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as overtopping waves could be dangerous.  \n\nThis message will be updated in 8 hours, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-09-23T12:06:00",
-      "timeRaised": "2021-09-23T12:06:51",
-      "timeSeverityChanged": "2021-09-23T12:06:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -57,6 +36,27 @@
       "timeSeverityChanged": "2021-09-23T09:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "The flood alert for North Sea Coast at Withernsea, Easington and Kilnsea has been issued.  The particular area of concern is Kilnsea. Some overtopping and spray is expected in the Southfield Farm area, Kilnsea as a result of a tidal surge between 7:45pm and 9:30pm on Thursday 23rd September. Areas most at risk are low lying land and roads around Southfield Farm.\n\nOur incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as overtopping waves could be dangerous.  \n\nThis message will be updated in 8 hours, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-23T12:06:00",
+      "timeRaised": "2021-09-23T12:06:51",
+      "timeSeverityChanged": "2021-09-23T12:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
       "description": "Humber estuary from Spurn Point to Winestead Outfall",
       "eaAreaName": "Yorkshire",
@@ -76,6 +76,48 @@
       "timeMessageChanged": "2021-09-23T12:00:00",
       "timeRaised": "2021-09-23T12:00:34",
       "timeSeverityChanged": "2021-09-22T15:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
+      "description": "The Essex coast from St Peters Flat to and including Shoeburyness and the Crouch and Roach estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D",
+        "county": "Essex, Southend-on-Sea",
+        "notation": "051WACDV4D",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D/polygon",
+        "riverOrSea": "River Crouch, River Roach, North Sea"
+      },
+      "floodAreaID": "051WACDV4D",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 12:15am and 4:15am tomorrow morning, Friday 24th September. Tide levels will be high at Battlesbrigde, and Hullbridge riversides. Creeksea Ferry Road onto Wallasea Island may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.88mAODN at 02:15am, on Friday 24th September, which is 0.44m above tide tables, wind Force 3, Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 9am tomorrow, Friday 24th September.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-23T16:54:00",
+      "timeRaised": "2021-09-23T16:55:03",
+      "timeSeverityChanged": "2021-09-23T16:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 12:15am and 4:15am tomorrow morning, Friday 24th September. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.88mAODN at 02:15am, on Friday 24th September, which is 0.44m above tide tables, wind Force 3, Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 9am tomorrow, Friday 24th September.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-23T16:54:00",
+      "timeRaised": "2021-09-23T16:55:18",
+      "timeSeverityChanged": "2021-09-23T16:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
