@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF309",
+      "description": "Stoke Trent",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF309",
+        "county": "Staffordshire, Stoke-on-Trent",
+        "notation": "033WAF309",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF309/polygon",
+        "riverOrSea": "Ford Green Brook, Lyme Brook, River Trent"
+      },
+      "floodAreaID": "033WAF309",
+      "isTidal": false,
+      "message": "River levels have risen at the Liverpool Road river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected today 27/09/21.  Flooding is affecting low-lying land and roads adjacent to the River Trent between Norton Green and Darlaston including Stoke on Trent, Lyme Brook between Newcastle under Lyme and Hanford, Fowlea Brook at Stoke on Trent and Ford Green Brook.   \nFurther rainfall is forecast over the next 24 hours.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, 27/09/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-09-27T08:21:00",
+      "timeRaised": "2021-09-27T08:22:17",
+      "timeSeverityChanged": "2021-09-27T08:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF196",
+      "description": "Wash Dike at Pontefract",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196",
+        "county": "Wakefield",
+        "notation": "123FWF196",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196/polygon",
+        "riverOrSea": "Wash Dike"
+      },
+      "floodAreaID": "123FWF196",
+      "isTidal": false,
+      "message": "Intense rainfall has caused the river to rise rapidly. Flooding is possible.\nLevels are eexpected to drop later this morning. Stay away from low lying roads and footpaths. We are monitoring the situation and will update this as the situations changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-09-27T08:59:00",
+      "timeRaised": "2021-09-27T08:59:49",
+      "timeSeverityChanged": "2021-09-27T08:59:00"
+    }
+  ]
 }
