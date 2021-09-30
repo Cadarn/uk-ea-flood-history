@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF196",
-      "description": "Wash Dike at Pontefract",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196",
-        "county": "Wakefield",
-        "notation": "123FWF196",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196/polygon",
-        "riverOrSea": "Wash Dike"
-      },
-      "floodAreaID": "123FWF196",
-      "isTidal": false,
-      "message": "Pontefract Wash Dike is rising in response to persistent rainfall this afternoon. It is expected to peak within the next hour and we are monitoring the situation closely as further rainfall is expected later this evening.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-09-30T17:29:00",
-      "timeRaised": "2021-09-30T17:30:06",
-      "timeSeverityChanged": "2021-09-30T17:29:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2021-09-30T17:26:00",
       "timeRaised": "2021-09-30T17:27:07",
       "timeSeverityChanged": "2021-09-30T17:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF196",
+      "description": "Wash Dike at Pontefract",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196",
+        "county": "Wakefield",
+        "notation": "123FWF196",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196/polygon",
+        "riverOrSea": "Wash Dike"
+      },
+      "floodAreaID": "123FWF196",
+      "isTidal": false,
+      "message": "Pontefract Wash Dike is rising in response to persistent rainfall this afternoon. It is expected to peak within the next hour and we are monitoring the situation closely as further rainfall is expected later this evening.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-09-30T17:29:00",
+      "timeRaised": "2021-09-30T17:30:06",
+      "timeSeverityChanged": "2021-09-30T17:29:00"
     }
   ]
 }
