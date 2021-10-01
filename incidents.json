@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF196",
-      "description": "Wash Dike at Pontefract",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196",
-        "county": "Wakefield",
-        "notation": "123FWF196",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196/polygon",
-        "riverOrSea": "Wash Dike"
-      },
-      "floodAreaID": "123FWF196",
-      "isTidal": false,
-      "message": "The water level in Pontefract Wash Dike is now falling after this afternoon’s rain. More rain is forecast for this evening but levels are not expected to rise to those seen this afternoon. We will continue to monitor the situation through this evening.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-09-30T19:32:00",
-      "timeRaised": "2021-09-30T19:33:09",
-      "timeSeverityChanged": "2021-09-30T19:32:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2021-09-30T17:26:00",
       "timeRaised": "2021-09-30T17:27:07",
       "timeSeverityChanged": "2021-09-30T17:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF196",
+      "description": "Wash Dike at Pontefract",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196",
+        "county": "Wakefield",
+        "notation": "123FWF196",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF196/polygon",
+        "riverOrSea": "Wash Dike"
+      },
+      "floodAreaID": "123FWF196",
+      "isTidal": false,
+      "message": "The water level in Pontefract Wash Dike is now falling after this afternoon’s rain. More rain is forecast for this evening but levels are not expected to rise to those seen this afternoon. We will continue to monitor the situation through this evening.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-09-30T19:32:00",
+      "timeRaised": "2021-09-30T19:33:09",
+      "timeSeverityChanged": "2021-09-30T19:32:00"
     }
   ]
 }
