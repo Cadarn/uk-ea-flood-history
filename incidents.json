@@ -57,6 +57,48 @@
       "timeSeverityChanged": "2021-10-01T11:26:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert has been removed as the risk of flooding has receded and we no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-02T19:41:00",
+      "timeRaised": "2021-10-02T19:41:08",
+      "timeSeverityChanged": "2021-10-02T19:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
+      "description": "Keswick Campsite",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
+        "county": "Cumbria",
+        "notation": "011FWFNC6KC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
+        "riverOrSea": "Derwentwater"
+      },
+      "floodAreaID": "011FWFNC6KC",
+      "isTidal": false,
+      "message": "The level of Derwentwater is forecast to continue to rise overnight, peaking in the early hours of Sunday morning.\nAreas most at risk include low lying areas bordering the shores of Derwentwater and the frontage of the Keswick Camping and Caravan Club Site. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThe rainfall is expected to ease by late evening on Saturday 02/10/2021.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nThis message will be updated by 05:00 PM on 03/10/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-02T18:01:00",
+      "timeRaised": "2021-10-02T18:01:34",
+      "timeSeverityChanged": "2021-10-02T18:01:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF43Ravnsbrn",
       "description": "Ravensbourne area in the London Boroughs of Lewisham, Bromley, Greenwich and Croydon",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -246,46 +288,25 @@
       "timeSeverityChanged": "2021-10-02T21:45:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32UpprMole",
+      "description": "Upper River Mole, Ifield Brook, Gatwick Stream and Burstow Stream",
+      "eaAreaName": "Kent, South London and East Sussex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole",
+        "county": "Surrey, West Sussex",
+        "notation": "064WAF32UpprMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole/polygon",
+        "riverOrSea": "Ifield Brook, River Mole, Gatwick Stream, Burstow Stream"
       },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert has been removed as the risk of flooding has receded and we no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-02T19:41:00",
-      "timeRaised": "2021-10-02T19:41:08",
-      "timeSeverityChanged": "2021-10-02T19:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
-      "description": "Keswick Campsite",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
-        "county": "Cumbria",
-        "notation": "011FWFNC6KC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
-        "riverOrSea": "Derwentwater"
-      },
-      "floodAreaID": "011FWFNC6KC",
+      "floodAreaID": "064WAF32UpprMole",
       "isTidal": false,
-      "message": "The level of Derwentwater is forecast to continue to rise overnight, peaking in the early hours of Sunday morning.\nAreas most at risk include low lying areas bordering the shores of Derwentwater and the frontage of the Keswick Camping and Caravan Club Site. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThe rainfall is expected to ease by late evening on Saturday 02/10/2021.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nThis message will be updated by 05:00 PM on 03/10/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-02T18:01:00",
-      "timeRaised": "2021-10-02T18:01:34",
-      "timeSeverityChanged": "2021-10-02T18:01:00"
+      "message": "River levels are rising as a result of heavy rainfall. Flooding of roads and low lying land is possible from approximately 11pm today, 2 October 2021, around Horley. We expect flooding to affect land and roads. Property flooding is not currently expected.   \n\nFurther rainfall is forecast over the next 5 days. We are closely monitoring the situation. Our incident response staff are clearing trash screens and actively monitoring the situation and are prepared to respond if required.\n\nThis message will be updated by 9am, Sunday 3 October 2021. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-02T22:08:00",
+      "timeRaised": "2021-10-02T22:08:46",
+      "timeSeverityChanged": "2021-10-02T22:08:00"
     }
   ]
 }
