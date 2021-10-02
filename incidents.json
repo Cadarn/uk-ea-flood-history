@@ -70,12 +70,12 @@
       },
       "floodAreaID": "122WAC954",
       "isTidal": true,
-      "message": "This flood alert has been issued in response to overtopping waves and wind blown spray on Saturday afternoon, including a period of time after high tide. The particular area of concern is Bridlington Lifeboat Station between 2pm and 6pm today. Please take care around exposed promenades and roads where spray may create hazardous conditions. This message will be updated by 8pm on Saturday 2nd October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-02T12:23:00",
-      "timeRaised": "2021-10-02T12:23:36",
-      "timeSeverityChanged": "2021-10-02T12:23:00"
+      "message": "The flood alert has been removed as the risk of flooding has receded and we no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-02T19:41:00",
+      "timeRaised": "2021-10-02T19:41:08",
+      "timeSeverityChanged": "2021-10-02T19:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
@@ -181,6 +181,27 @@
       "timeMessageChanged": "2021-10-02T18:34:00",
       "timeRaised": "2021-10-02T18:34:35",
       "timeSeverityChanged": "2021-10-02T18:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF140",
+      "description": "Lymington River",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF140",
+        "county": "Hampshire",
+        "notation": "065WAF140",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF140/polygon",
+        "riverOrSea": "Lymington River"
+      },
+      "floodAreaID": "065WAF140",
+      "isTidal": false,
+      "message": "The water levels in the River Lymington and Weirs Stream are high and rising. In the last 8 hours, close to half a month’s rain (39mm) has been recorded at Brockenhurst. This is a very large volume in a short period of time. From 19:00 (2/10/21) the river will be much higher than normal and drainage ditches through the New Forest will be flooding land and roads. It will be bank full as it flows through Martin’s Road and Balmer Lawn Road and may cause garden flooding at Balmer Lawn Road. In Lymington itself, the river will rise over the next 10 hours, but we do not expect impacts to property. No significant rain is forecast until Monday which means that the river will remain high this evening and will then fall overnight. We continue to monitor the forecast and will ensure the river remains free of any reported blockages. Watersplashes at Brookley Road, Meerut Road, Fatherfield and Butts Road will deepen over the next 24 hours. Do not drive through floodwater. This Flood Alert will be updated at 10:30 on 3/10/21.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-02T19:37:00",
+      "timeRaised": "2021-10-02T19:38:14",
+      "timeSeverityChanged": "2021-10-02T19:37:00"
     }
   ]
 }
