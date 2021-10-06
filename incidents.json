@@ -952,11 +952,11 @@
       },
       "floodAreaID": "122WAF935",
       "isTidal": false,
-      "message": "This flood alert has been issued as river levels are rising as a result of today’s heavy rainfall. Consequently, flooding of roads and farmland is expected this evening and overnight into Wednesday 06/10/2021. Areas most at risk are low lying land and roads. Heavy rainfall is forecast to continue overnight and we expect river levels to rise accordingly into tomorrow morning. Flood Warnings may be required overnight depending on the rainfall accumulations expected later on Saturday evening. Higher river levels in the lower reaches including Briggswath and Ruswarp may coincide around high tide, which is at approximately 04:15-04:30 at Whitby. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated before 9am on Wednesday 6th October, or as the situation changes.",
+      "message": "This flood alert has been issued as river levels are rising as a result of today’s heavy rainfall. Consequently, flooding of roads and farmland is expected this evening and overnight into Wednesday 06/10/2021. Areas most at risk are low lying land and roads. Heavy rainfall is forecast to continue overnight and we expect river levels to rise accordingly into tomorrow morning. Flood Warnings are also in force. Higher river levels in the lower reaches including Briggswath and Ruswarp may coincide around high tide, which is at approximately 04:15-04:30 at Whitby. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated before 9am on Wednesday 6th October, or as the situation changes",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-05T20:40:00",
-      "timeRaised": "2021-10-05T20:40:57",
+      "timeMessageChanged": "2021-10-06T02:00:00",
+      "timeRaised": "2021-10-06T02:01:07",
       "timeSeverityChanged": "2021-10-05T20:40:00"
     },
     {
@@ -2386,6 +2386,27 @@
       "timeMessageChanged": "2021-10-05T20:23:00",
       "timeRaised": "2021-10-05T20:24:03",
       "timeSeverityChanged": "2021-10-05T20:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF805",
+      "description": "River Esk from Briggswath to Ruswarp",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF805",
+        "county": "North Yorkshire",
+        "notation": "122FWF805",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF805/polygon",
+        "riverOrSea": "River Esk"
+      },
+      "floodAreaID": "122FWF805",
+      "isTidal": false,
+      "message": "This flood warning has been issued due to heavy rainfall throughout Tuesday. River levels on the Esk are rising and are expecting to reach 2.1m at Briggswath at 02:15 Wednesday morning, 06/10/21. Levels at Briggswath are forecast to peak between 2.4m and 2.7m at around 03:30, before falling through daylight hours on Wednesday. The main risk is from river flooding but a coastal alert is also in place due to high winds. This message will be updated on Wednesday morning, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-06T01:53:00",
+      "timeRaised": "2021-10-06T01:53:58",
+      "timeSeverityChanged": "2021-10-06T01:53:00"
     }
   ]
 }
