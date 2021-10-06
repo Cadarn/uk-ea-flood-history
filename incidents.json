@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": " River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 15:30 on 06/10/21 and 4.75mAOD at 03:45 on 07/10/21.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is normal for this time of year at 85 cubic metres per second and is rising. We anticipate the flows to remain normal for the next few days.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-06T08:11:00",
+      "timeRaised": "2021-10-06T08:12:08",
+      "timeSeverityChanged": "2021-10-06T08:11:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -34,27 +55,6 @@
       "timeMessageChanged": "2021-10-05T15:39:00",
       "timeRaised": "2021-10-05T15:40:08",
       "timeSeverityChanged": "2021-10-04T20:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "This flood alert remains in force as overtopping waves and spray are expected on Wednesday morning (06/10/2021) between 4.15am and 7.15am as a result of unsettled conditions around high tide and strong winds. The areas most at risk are low lying land and roads around Kilnsea Village, however strong winds may generate wave and windblown spray affecting exposed coastal areas and roads between these times. Please be careful along exposed footpaths and roads as wind generated waves and overtopping spray could be dangerous. Variable conditions are expected over the coming days, approaching spring tides peaking on Friday, and this alert may be updated. This message will be updated on Wednesday morning, 06/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-05T20:47:00",
-      "timeRaised": "2021-10-05T20:48:05",
-      "timeSeverityChanged": "2021-10-05T13:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
@@ -202,27 +202,6 @@
       "timeMessageChanged": "2021-10-05T18:39:00",
       "timeRaised": "2021-10-05T18:39:23",
       "timeSeverityChanged": "2021-10-02T21:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32UpprMole",
-      "description": "Upper River Mole, Ifield Brook, Gatwick Stream and Burstow Stream",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole",
-        "county": "Surrey, West Sussex",
-        "notation": "064WAF32UpprMole",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole/polygon",
-        "riverOrSea": "Ifield Brook, River Mole, Gatwick Stream, Burstow Stream"
-      },
-      "floodAreaID": "064WAF32UpprMole",
-      "isTidal": false,
-      "message": "River levels remain high on the upper River Mole but are now beginning to fall, however, flooding of roads and farmland near watercourses is still possible for the next 24 hours. The river level on the Mole at Horley peaked at lunchtime today. \n\nWe expect river levels to remain high for the next 24 hours but no further significant rainfall is forecast. We are closely monitoring the situation. Our incident response staff are checking our defences and structures and clearing trash screens.  \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 10am on the 06/10/2021\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-05T18:55:00",
-      "timeRaised": "2021-10-05T18:55:38",
-      "timeSeverityChanged": "2021-10-05T07:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
@@ -435,27 +414,6 @@
       "timeSeverityChanged": "2021-10-05T10:17:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF6BC",
-      "description": "The Rivers Wid and Can",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6BC",
-        "county": "Essex",
-        "notation": "051WAFEF6BC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6BC/polygon",
-        "riverOrSea": "River Wid, River Can"
-      },
-      "floodAreaID": "051WAFEF6BC",
-      "isTidal": false,
-      "message": "This message has been issued because there is a continued risk that some minor flooding to low lying land, roads and riverside areas is likely from now until tomorrow morning, Wednesday 6th October. Areas most at risk are low lying roads and riverside areas, including Lordship Lane and Cow Watering Lane around Writtle College. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. The forecast is for light showers throughout this evening. Take care on riverside footpaths and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting the situation to escalate. We will update this message by 9am tomorrow, Wednesday 6th October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-05T17:20:00",
-      "timeRaised": "2021-10-05T17:21:03",
-      "timeSeverityChanged": "2021-10-05T10:25:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF324",
       "description": "Rivers Eden and Eden Brook",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -658,11 +616,11 @@
       },
       "floodAreaID": "034WAF414",
       "isTidal": false,
-      "message": "River levels are rising at the Willington and Shardlow river gauges as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is possible from Wednesday morning 06/10/2021.  Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane.   \nWe expect river levels to remain high for the next few days. We are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, 06/10/2021, or as the situation changes.",
+      "message": "River levels are rising at the Willington and Shardlow river gauges as a result of recent rainfall.  Consequently, flooding of roads and farmland is possible from Wednesday.  Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane.   \nWe expect river levels to remain high for the next few days. We are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated this afternoon, 06/10/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-05T17:03:00",
-      "timeRaised": "2021-10-05T17:04:15",
+      "timeMessageChanged": "2021-10-06T08:05:00",
+      "timeRaised": "2021-10-06T08:06:00",
       "timeSeverityChanged": "2021-10-05T17:03:00"
     },
     {
@@ -918,6 +876,48 @@
       "timeSeverityChanged": "2021-10-05T20:48:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
+      "description": "Upper River Derwent",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAF949",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
+        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
+      },
+      "floodAreaID": "122WAF949",
+      "isTidal": false,
+      "message": "River levels have risen on the River Derwent due to heavy rainfall.\nFlooding is forecast to affect locations near the River Derwent.\nNo property flooding is expected.\nNo further rainfall is forecast.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 04:00 PM on 06/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-06T08:13:00",
+      "timeRaised": "2021-10-06T08:14:11",
+      "timeSeverityChanged": "2021-10-06T08:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF948",
+      "description": "River Riccal catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF948",
+        "county": "North Yorkshire",
+        "notation": "122WAF948",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF948/polygon",
+        "riverOrSea": "River Riccal"
+      },
+      "floodAreaID": "122WAF948",
+      "isTidal": false,
+      "message": "River levels have risen on the River Riccal due to heavy rainfall.\nFlooding is forecast to affect locations near the River Riccal.\nNo property flooding is expected.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 04:00 PM on 06/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-06T08:14:00",
+      "timeRaised": "2021-10-06T08:14:25",
+      "timeSeverityChanged": "2021-10-06T08:14:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
       "description": "North Sea coast at Withernsea, Easington and Kilnsea",
       "eaAreaName": "Yorkshire",
@@ -937,6 +937,27 @@
       "timeMessageChanged": "2021-10-06T07:55:00",
       "timeRaised": "2021-10-06T07:55:48",
       "timeSeverityChanged": "2021-10-06T07:55:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "This mornings high tide has now passed, and the situation on this stretch of the Humber Estuary is improving. Spring tides peak on Friday, and so astronomical tide levels will remain high through this period. It is  therefore possible that further alerts and warnings may be required in the coming days, should the forecast change",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-06T08:03:00",
+      "timeRaised": "2021-10-06T08:04:06",
+      "timeSeverityChanged": "2021-10-06T08:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
@@ -1063,6 +1084,27 @@
       "timeMessageChanged": "2021-10-05T19:42:00",
       "timeRaised": "2021-10-05T19:42:15",
       "timeSeverityChanged": "2021-10-05T19:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32UpprMole",
+      "description": "Upper River Mole, Ifield Brook, Gatwick Stream and Burstow Stream",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole",
+        "county": "Surrey, West Sussex",
+        "notation": "064WAF32UpprMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole/polygon",
+        "riverOrSea": "Ifield Brook, River Mole, Gatwick Stream, Burstow Stream"
+      },
+      "floodAreaID": "064WAF32UpprMole",
+      "isTidal": false,
+      "message": "River levels have now fallen below the level expected to cause flooding, though standing water may still be present. You should avoid walking, cycling or driving through flood water. No further significant rain is forecast over the next five days. \n\nWe will continue to monitor the situation closely. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-06T08:17:00",
+      "timeRaised": "2021-10-06T08:18:06",
+      "timeSeverityChanged": "2021-10-06T08:17:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWEYR",
@@ -1632,27 +1674,6 @@
       "timeSeverityChanged": "2021-10-05T16:33:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF137PB",
-      "description": "Welland Tributaries Peterborough Brooks",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF137PB",
-        "county": "Peterborough",
-        "notation": "055WAF137PB",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF137PB/polygon",
-        "riverOrSea": "Paston Brook, Werrington Brook, Marholme Brook, Brook Drain and Car Dyke Eye"
-      },
-      "floodAreaID": "055WAF137PB",
-      "isTidal": false,
-      "message": "The risk of flooding from the Peterborough Brooks has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-05T08:15:00",
-      "timeRaised": "2021-10-05T08:15:17",
-      "timeSeverityChanged": "2021-10-05T08:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF134TWV",
       "description": "Welland Valley",
       "eaAreaName": "Lincolnshire and Northamptonshire",
@@ -1714,27 +1735,6 @@
       "timeMessageChanged": "2021-10-05T10:22:00",
       "timeRaised": "2021-10-05T10:22:30",
       "timeSeverityChanged": "2021-10-05T10:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF132HWB",
-      "description": "Harpers Brook and Willow Brook",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF132HWB",
-        "county": "North Northamptonshire",
-        "notation": "055WAF132HWB",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF132HWB/polygon",
-        "riverOrSea": "Harpers Brook, Willow Brook"
-      },
-      "floodAreaID": "055WAF132HWB",
-      "isTidal": false,
-      "message": "The risk of flooding from the Harpers Brook and Willow Brook has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-05T08:13:00",
-      "timeRaised": "2021-10-05T08:13:13",
-      "timeSeverityChanged": "2021-10-05T08:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAB55BeamRom",
@@ -2155,6 +2155,27 @@
       "timeMessageChanged": "2021-10-06T08:01:00",
       "timeRaised": "2021-10-06T08:01:22",
       "timeSeverityChanged": "2021-10-06T08:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF6BC",
+      "description": "The Rivers Wid and Can",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6BC",
+        "county": "Essex",
+        "notation": "051WAFEF6BC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6BC/polygon",
+        "riverOrSea": "River Wid, River Can"
+      },
+      "floodAreaID": "051WAFEF6BC",
+      "isTidal": false,
+      "message": "River levels are now returning to normal. The forecast is for scattered showers and drier weather going into the weekend. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-06T08:05:00",
+      "timeRaised": "2021-10-06T08:06:08",
+      "timeSeverityChanged": "2021-10-06T08:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF911",
