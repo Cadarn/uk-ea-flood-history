@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:45 AM on Friday 08/10/2021.\nFlooding of low lying land and roads is expected between 12:00 midnight and 01:30 AM on Friday 08/10/2021.\nNo flooding of properties is expected.\nThe tide at 01:15 PM on Friday 08/10/2021 is also currently forecast to reach Flood Alert Level. We will send an update once this current tide has passed.\nTake care planning driving routes to coastal roads, which may be flooded.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-07T15:53:00",
+      "timeRaised": "2021-10-07T15:53:58",
+      "timeSeverityChanged": "2021-10-07T15:53:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -288,27 +309,6 @@
       "timeSeverityChanged": "2021-10-07T08:46:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3ANKR005",
-      "description": "River Anker at Mancetter, Witherley and Atherstone",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3ANKR005",
-        "county": "Leicestershire, Warwickshire",
-        "notation": "033FWF3ANKR005",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3ANKR005/polygon",
-        "riverOrSea": "River Anker"
-      },
-      "floodAreaID": "033FWF3ANKR005",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-06T15:58:00",
-      "timeRaised": "2021-10-06T15:59:07",
-      "timeSeverityChanged": "2021-10-06T15:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF423",
       "description": "Upper Arun",
       "eaAreaName": "Solent and South Downs",
@@ -391,27 +391,6 @@
       "timeMessageChanged": "2021-10-06T18:41:00",
       "timeRaised": "2021-10-06T18:41:08",
       "timeSeverityChanged": "2021-10-06T18:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF903",
-      "description": "Upper River Coquet",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF903",
-        "county": "Northumberland",
-        "notation": "121WAF903",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF903/polygon",
-        "riverOrSea": "River Coquet, River Alwin"
-      },
-      "floodAreaID": "121WAF903",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further rainfall is forecast.  \nWe continue to monitor the situation.  \nPlease avoid using low lying footpaths near local watercourses.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-06T15:55:00",
-      "timeRaised": "2021-10-06T15:55:50",
-      "timeSeverityChanged": "2021-10-06T15:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF937",
@@ -622,6 +601,48 @@
       "timeMessageChanged": "2021-10-07T14:56:00",
       "timeRaised": "2021-10-07T14:56:46",
       "timeSeverityChanged": "2021-10-07T14:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:45 AM on Friday 08/10/2021.\n\nFlooding of low lying land and roads is expected between 12:00 midnight and 01:30 AM on Friday 08/10/2021.\n\nNo flooding of properties is expected.\n\nTake care planning driving routes to coastal roads, which may be flooded.\n\nFollowing this high tide, we do not expect any further high tides to meet Flood Alert Levels.\n\nWe will remove this message by 10:00 AM on Friday 08/10/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-07T15:53:00",
+      "timeRaised": "2021-10-07T15:53:40",
+      "timeSeverityChanged": "2021-10-07T15:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACHC",
+      "description": "Coast from Heysham to Cockerham",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC",
+        "county": "Lancashire",
+        "notation": "012WACHC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "012WACHC",
+      "isTidal": true,
+      "message": " This Flood Alert has been issued due to the high tide forecast at 12:45 AM on Friday 08/10/2021.\n\nFlooding of low lying land and roads is expected between 12:00 midnight and 01:30 AM on Friday 08/10/2021.\n\nNo flooding of properties is expected.\n\nTake care planning driving routes to coastal roads, which may be flooded.\n\nFollowing this high tide, we do not expect any further high tides to meet Flood Alert Levels.\n\nWe will remove this message by 10:00 AM on Friday 08/10/2021.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-07T15:53:00",
+      "timeRaised": "2021-10-07T15:53:35",
+      "timeSeverityChanged": "2021-10-07T15:53:00"
     }
   ]
 }
