@@ -519,27 +519,6 @@
       "timeSeverityChanged": "2021-10-06T20:29:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF948",
-      "description": "River Riccal catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF948",
-        "county": "North Yorkshire",
-        "notation": "122WAF948",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF948/polygon",
-        "riverOrSea": "River Riccal"
-      },
-      "floodAreaID": "122WAF948",
-      "isTidal": false,
-      "message": "This flood alert has been removed as river levels have fallen below the level of concern. Flood alerts and warnings remain in force elsewhere in the catchment following heavy overnight rainfall. Continue to take care on waterside roads and footpaths and avoid any unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-06T11:19:00",
-      "timeRaised": "2021-10-06T11:19:23",
-      "timeSeverityChanged": "2021-10-06T11:19:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23Trowlock",
       "description": "River Thames at Trowlock Island",
       "eaAreaName": "Thames",
@@ -559,6 +538,27 @@
       "timeMessageChanged": "2021-10-07T08:12:00",
       "timeRaised": "2021-10-07T08:12:59",
       "timeSeverityChanged": "2021-10-06T18:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
+      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding Truro City",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1BA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1BA00",
+      "isTidal": true,
+      "message": "Flooding is possible this evening and for tomorrow’s high spring tides. High water at Truro is at 6.57pm tonight (Thursday 07 October).  High tides for tomorrow (Friday 08 October), are at  7.20am and 7.38pm, times of high water will vary along the coast. \n\nForce 4 southerly winds and offshore wave heights of over 2m are forecast, and may cause minor wave overtopping of sea defences and sea spray in exposed coastal areas.   \n\nDetailed tidal information for those who use it; The forecast high tide level at Newlyn is 2.88 mAOD, this is 0.03 metres below astronomical tide level. \n\nFrom Saturday onwards the tide levels begin to decrease. \n\nPeople are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue an update on Saturday morning or earlier if the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-07T11:25:00",
+      "timeRaised": "2021-10-07T11:25:48",
+      "timeSeverityChanged": "2021-10-07T11:25:00"
     }
   ]
 }
