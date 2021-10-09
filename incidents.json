@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "Although high spring tides remain until Monday morning, these will not reach Flood Alert level.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-09T09:31:00",
-      "timeRaised": "2021-10-09T09:31:54",
-      "timeSeverityChanged": "2021-10-09T09:31:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -78,6 +57,48 @@
       "timeSeverityChanged": "2021-10-06T08:11:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumbria",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Levels remain high on the Upper River Derwent, Stonethwaite Beck, Derwentwater and surrounding watercourses. Flooding is likely to affect locations near the Upper River Derwent, Stonethwaite Beck and Derwentwater. With drier and more settled weather now forecast lake levels will slowly fall. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 10:00 AM on 10/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-09T08:48:00",
+      "timeRaised": "2021-10-09T08:49:05",
+      "timeSeverityChanged": "2021-10-01T11:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "Although high spring tides remain until Monday morning, these will not reach Flood Alert level.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-09T09:31:00",
+      "timeRaised": "2021-10-09T09:31:54",
+      "timeSeverityChanged": "2021-10-09T09:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
       "description": "Coast at North Morecambe Bay",
       "eaAreaName": "Cumbria and Lancashire",
@@ -118,27 +139,6 @@
       "timeMessageChanged": "2021-10-09T10:48:00",
       "timeRaised": "2021-10-09T10:48:52",
       "timeSeverityChanged": "2021-10-09T10:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumbria",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": "Levels remain high on the Upper River Derwent, Stonethwaite Beck, Derwentwater and surrounding watercourses. Flooding is likely to affect locations near the Upper River Derwent, Stonethwaite Beck and Derwentwater. With drier and more settled weather now forecast lake levels will slowly fall. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 10:00 AM on 10/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-09T08:48:00",
-      "timeRaised": "2021-10-09T08:49:05",
-      "timeSeverityChanged": "2021-10-01T11:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
