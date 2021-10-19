@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
+      "description": "West Dorset Rivers and Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
+        "county": "Devon, Dorset Council",
+        "notation": "111WAFWDRS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
+        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
+      },
+      "floodAreaID": "111WAFWDRS",
+      "isTidal": false,
+      "message": " River levels are forecast to rise and will affect locations near to the River Lim, River Char, River Winniford, Simene River, River Brit, River Asker, River Mangerton, River Bride due to heavy rainfall .\nRiver levels will be at their highest between 09:00 PM on the 19/10/21 and 01:00 AM on 20/10/2021.\nHeavy rainfall is forecast overnight which will cause river levels to rise.\nWe will continue to monitor the forecast and update this alert if necessary.\nConsider activating any property flood protection products if available.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 11:00AM on 20/10/2021, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-19T20:04:00",
+      "timeRaised": "2021-10-19T20:04:58",
+      "timeSeverityChanged": "2021-10-19T20:04:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
       "description": "South Devon coast from Start Point to Dawlish Warren",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -55,6 +76,27 @@
       "timeMessageChanged": "2021-10-19T17:24:00",
       "timeRaised": "2021-10-19T17:25:00",
       "timeSeverityChanged": "2021-10-19T17:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W01A00",
+      "description": "West Cornwall Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W01A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00/polygon",
+        "riverOrSea": "River Hayle, Perrancoombe Stream, Bolingey Stream, River Cober, Portreath Stream"
+      },
+      "floodAreaID": "114WAFT1W01A00",
+      "isTidal": false,
+      "message": "This flood alert has been triggered by the Portreath Stream river level gauge. \n\nFollowing heavy rain during Tuesday evening river levels upstream on the Portreath Stream and other small watercourses have risen rapidly, resulting in surface water flooding and localised flooding of low lying ground and minor roads. \n\nFurther heavy showers are expected over night, and with a further band of rain during Wednesday, river levels may increase further on Wednesday night. \n\nThis alert will be updated by 11am on Wed 20 Oct. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-19T20:22:00",
+      "timeRaised": "2021-10-19T20:22:50",
+      "timeSeverityChanged": "2021-10-19T20:22:00"
     }
   ]
 }
