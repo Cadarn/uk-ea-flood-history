@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
+      "description": "South Devon coast from Start Point to Dawlish Warren",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B",
+        "county": "Devon, Torbay",
+        "notation": "113WACT1B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B/polygon",
+        "riverOrSea": "South Devon Coast"
+      },
+      "floodAreaID": "113WACT1B",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tides on Tuesday and Wednesday evening. High water on Tuesday at Teignmouth is at 19:00, times of high water will vary along the coast.\nThe forecast wind and wave conditions will result in rough seas at Torbay. Spray overtopping will result in minor flooding at Torbay, Dawlish, and Teignmouth. Expect tides to be up to 440mm higher than predicted due to weather conditions.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\nDetailed tidal information for those who use it; The forecast high tide level at Teignmouth on Tuesday at 19:00 is 2.38 mAOD, this is 0.25 metres above astronomical tide level. On Wednesday high tide will be at 19:45 with predicted levels of 2.59mAOD, 0.44m above astronomic tide level. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-19T12:08:00",
+      "timeRaised": "2021-10-19T12:08:46",
+      "timeSeverityChanged": "2021-10-19T12:08:00"
+    }
+  ]
 }
