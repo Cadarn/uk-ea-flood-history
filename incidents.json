@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.94m AOD at 04:00 on 21/10/21.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is low for this time of year at 34 cubic metres per second and is rising. We anticipate the flows to remain normal for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 12:00 on 21/10/21, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-20T10:15:00",
-      "timeRaised": "2021-10-20T10:16:04",
-      "timeSeverityChanged": "2021-10-20T10:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
       "description": "North Sea coast at Withernsea, Easington and Kilnsea",
       "eaAreaName": "Yorkshire",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2021-10-20T19:16:00",
       "timeRaised": "2021-10-20T19:17:23",
       "timeSeverityChanged": "2021-10-20T19:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": " River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.94m AOD at 04:00 on 21/10/21.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is low for this time of year at 34 cubic metres per second and is rising. We anticipate the flows to remain normal for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 12:00 on 21/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T10:15:00",
+      "timeRaised": "2021-10-20T10:16:04",
+      "timeSeverityChanged": "2021-10-20T10:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
@@ -162,6 +162,48 @@
       "timeSeverityChanged": "2021-10-20T16:44:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF43Ravnsbrn",
+      "description": "Ravensbourne area in the London Boroughs of Lewisham, Bromley, Greenwich and Croydon",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn",
+        "county": "Bromley, Croydon, Greater London, Greenwich, Lewisham",
+        "notation": "064WAF43Ravnsbrn",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn/polygon",
+        "riverOrSea": "River Ravensbourne"
+      },
+      "floodAreaID": "064WAF43Ravnsbrn",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast tonight and during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 11pm tonight. Flooding is likely in multiple areas along rivers in the area, particularly around Upper Elmers End, Beckenham, Chinbrook, Mottingham and from Petts Wood to Chislehurst. Any low lying areas near rivers could be affected. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Please avoid contact with flood water and be careful in riverside locations along rivers in the area. We will be closely monitoring the situation and will issue Flood Warnings if needed. We also have staff prepared to respond if required. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T20:56:00",
+      "timeRaised": "2021-10-20T20:57:10",
+      "timeSeverityChanged": "2021-10-20T20:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7ShutCray",
+      "description": "Shuttle and Cray",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray",
+        "county": "Bexley, Bromley, Greater London, Kent",
+        "notation": "064WAF7ShutCray",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7ShutCray/polygon",
+        "riverOrSea": "Shuttle, Cray"
+      },
+      "floodAreaID": "064WAF7ShutCray",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 1am, continuing throughout the morning. Flooding is likely in multiple areas along rivers in the area, particularly around Bexley, Foots Cray and Crayford. Any low lying areas near rivers could be affected. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Please avoid contact with flood water and be careful in riverside locations along rivers in the area. We will be closely monitoring the situation and will issue Flood Warnings if needed. We also have staff prepared to respond if required. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T20:48:00",
+      "timeRaised": "2021-10-20T20:49:04",
+      "timeSeverityChanged": "2021-10-20T20:48:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
       "description": "Upper River Wey",
       "eaAreaName": "Thames",
@@ -204,6 +246,27 @@
       "timeSeverityChanged": "2021-10-20T18:28:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32MdleMole",
+      "description": "River Mole and its tributaries from Kinnersley Manor to South Hersham",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole",
+        "county": "Surrey",
+        "notation": "064WAF32MdleMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole/polygon",
+        "riverOrSea": "River Mole"
+      },
+      "floodAreaID": "064WAF32MdleMole",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 1am, continuing throughout the morning. Flooding is likely in multiple areas along rivers in the area, particularly from the River Mole between Kinnersley Manor and Sidlow. Any low lying areas near rivers could be affected. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Water levels towards Cobham will rise more slowly, peaking later in the day Thursday. Please avoid contact with flood water and be careful in riverside locations along rivers in the area. We will be closely monitoring the situation and will issue Flood Warnings if needed. We also have staff prepared to respond. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T20:36:00",
+      "timeRaised": "2021-10-20T20:36:39",
+      "timeSeverityChanged": "2021-10-20T20:36:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF321",
       "description": "Upper River Medway",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -244,6 +307,27 @@
       "timeMessageChanged": "2021-10-20T18:39:00",
       "timeRaised": "2021-10-20T18:39:23",
       "timeSeverityChanged": "2021-10-20T18:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32UpprMole",
+      "description": "Upper River Mole, Ifield Brook, Gatwick Stream and Burstow Stream",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole",
+        "county": "Surrey, West Sussex",
+        "notation": "064WAF32UpprMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole/polygon",
+        "riverOrSea": "Ifield Brook, River Mole, Gatwick Stream, Burstow Stream"
+      },
+      "floodAreaID": "064WAF32UpprMole",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 1am, continuing throughout the morning. Flooding is likely in multiple areas along rivers in the area, particularly around Horley. Any low lying areas near rivers could be affected, smaller watercourses will respond more quickly. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Please avoid contact with flood water and be careful in riverside locations along rivers in the area. We will be closely monitoring the situation and will issue Flood Warnings if needed. We also have staff prepared to respond if required. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T20:43:00",
+      "timeRaised": "2021-10-20T20:43:31",
+      "timeSeverityChanged": "2021-10-20T20:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
@@ -414,6 +498,48 @@
       "timeSeverityChanged": "2021-10-20T12:56:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF41Wandle",
+      "description": "River Wandle area in the London Boroughs of Wandsworth, Merton, Lambeth, Croydon and Sutton",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF41Wandle",
+        "county": "Croydon, Greater London, Lambeth, Merton, Sutton, Wandsworth",
+        "notation": "064WAF41Wandle",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF41Wandle/polygon",
+        "riverOrSea": "River Wandle"
+      },
+      "floodAreaID": "064WAF41Wandle",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast tonight and during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 11:30pm tonight. Flooding is likely in multiple areas along rivers in the area, particularly around Beddington, Thornton Heath, Norbury and between Merton and Summerstown. Any low lying areas near rivers could be affected. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Please avoid contact with flood water and be careful in riverside locations along rivers in the area. We will be closely monitoring the situation and will issue Flood Warnings if needed. We also have staff prepared to respond if required. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T21:01:00",
+      "timeRaised": "2021-10-20T21:01:34",
+      "timeSeverityChanged": "2021-10-20T21:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF33Hogsmill",
+      "description": "River Hogsmill area from Ewell to Kingston upon Thames",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF33Hogsmill",
+        "county": "Greater London, Kingston upon Thames, Surrey",
+        "notation": "064WAF33Hogsmill",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF33Hogsmill/polygon",
+        "riverOrSea": "Hogsmill"
+      },
+      "floodAreaID": "064WAF33Hogsmill",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast tonight and during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 11:30pm tonight. Flooding is likely in multiple areas along rivers in the area, particularly around Kingston and Berrylands. Any low lying areas near rivers could be affected. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Please avoid contact with flood water and be careful in riverside locations along rivers in the area. We will be closely monitoring the situation and will issue Flood Warnings if needed. We also have staff prepared to respond if required. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T20:52:00",
+      "timeRaised": "2021-10-20T20:53:05",
+      "timeSeverityChanged": "2021-10-20T20:52:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24BlkWater",
       "description": "River Blackwater and The Cove Brook",
       "eaAreaName": "Thames",
@@ -456,6 +582,27 @@
       "timeSeverityChanged": "2021-10-20T20:04:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064FWF8Kidbrook",
+      "description": "Kidbrooke Stream at Forest Row",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8Kidbrook",
+        "county": "East Sussex",
+        "notation": "064FWF8Kidbrook",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8Kidbrook/polygon",
+        "riverOrSea": "Kidbrooke Stream"
+      },
+      "floodAreaID": "064FWF8Kidbrook",
+      "isTidal": false,
+      "message": "The Flood Warning remains in force. Heavy rainfall this morning caused river levels to rise. Further heavy rain is forecast this evening 20/10/2021 and into the early hours of tomorrow morning. This is likely to see levels increase further. Properties remain at risk of flooding along Priory Road, Swans Ghyll, Riverside and Blenheim Fields. If you have them, activate your property protection measures now. River levels will remain very high until tomorrow afternoon. This message will be updated tomorrow morning 21/10/2021, or as the situation changes.  ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T16:27:00",
+      "timeRaised": "2021-10-20T16:27:16",
+      "timeSeverityChanged": "2021-10-20T05:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
       "description": "Western Rother",
       "eaAreaName": "Solent and South Downs",
@@ -475,6 +622,27 @@
       "timeMessageChanged": "2021-10-20T19:20:00",
       "timeRaised": "2021-10-20T19:20:44",
       "timeSeverityChanged": "2021-10-20T19:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7Darent",
+      "description": "River Darent from Westerham to Dartford",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7Darent",
+        "county": "Bexley, Greater London, Kent",
+        "notation": "064WAF7Darent",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7Darent/polygon",
+        "riverOrSea": "River Darent"
+      },
+      "floodAreaID": "064WAF7Darent",
+      "isTidal": false,
+      "message": "This Flood Alert has been issued as we expect heavy rainfall overnight to lead to some flooding. Flooding to low lying land and roads is forecast during the early morning tomorrow, Thursday 21 October. The first flooding is expected from approximately 4am, continuing throughout the day. Flooding is likely in multiple areas along the River Darent, particularly to low land near the river between Westerham and Otford. There is currently some uncertainty in where the heaviest rain will fall so some areas may only see raised river levels and no flooding. Further showers are possible during Thursday, leading to some continued flooding into the evening. Water levels in the Hawley area will be slower to respond with any flooding not expected until later in the day Thursday. Please avoid contact with flood water and be careful in riverside areas along the River Darent. We will be closely monitoring the situation and will issue further messages if needed. We also have staff prepared to respond if required. This message will be updated by 10am Thursday.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-20T20:34:00",
+      "timeRaised": "2021-10-20T20:34:30",
+      "timeSeverityChanged": "2021-10-20T20:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF214",
@@ -580,6 +748,27 @@
       "timeMessageChanged": "2021-10-20T19:00:00",
       "timeRaised": "2021-10-20T19:00:56",
       "timeSeverityChanged": "2021-10-20T19:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "A flood warning has been issued as overtopping waves and spray are expected as a result of high spring tides between 05.00 and 07.30 on Thursday morning 21/10/21. Areas most at risk are properties along North Promenade in Hornsea. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads, as large waves and sea spray could be dangerous. This message will be updated on Thursday morning by 11am, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T19:23:00",
+      "timeRaised": "2021-10-20T19:24:09",
+      "timeSeverityChanged": "2021-10-20T19:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -771,6 +960,27 @@
       "timeSeverityChanged": "2021-10-19T22:26:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROU211",
+      "description": "Upper Frome at Maiden Newton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211",
+        "county": "Dorset Council",
+        "notation": "111FWFFROU211",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211/polygon",
+        "riverOrSea": "Dorset Frome"
+      },
+      "floodAreaID": "111FWFFROU211",
+      "isTidal": false,
+      "message": "Having fallen back slightly during the day, river levels are expected to rise quickly due to further heavy rainfall overnight.\nFlooding is possible at Dorchester Road and Frome Lane area of Maiden Newton from 01:00 AM on 21/10/2021.\nRiver levels are forecast to rise at the Hooke and Maiden Newton gauges.\nWe are monitoring rainfall and river levels and have been checking rivers for blockages in the area during the day.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 10:00 AM on 21/10/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T17:38:00",
+      "timeRaised": "2021-10-20T17:38:19",
+      "timeSeverityChanged": "2021-10-19T22:21:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
       "description": "River Plym and Tory Brook",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -792,6 +1002,27 @@
       "timeSeverityChanged": "2021-10-19T23:23:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0A",
+      "description": "River Avon from Didworthy to Aveton Gifford",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A",
+        "county": "Devon",
+        "notation": "113FWF2B0A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "113FWF2B0A",
+      "isTidal": false,
+      "message": "The river levels are now dropping in the River Avon, however we expect further heavy rainfall today and overnight, on Wednesday 20th October, which may again trigger flood warnings. A Flood Alert still remains in force for the South Devon Rivers area, and we may see flooding of low-lying land and roads. We will continue to monitor the situation and will provide an update should the situation change.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-20T12:30:00",
+      "timeRaised": "2021-10-20T12:31:17",
+      "timeSeverityChanged": "2021-10-20T12:30:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
       "description": "River Yealm",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -811,6 +1042,27 @@
       "timeMessageChanged": "2021-10-20T10:48:00",
       "timeRaised": "2021-10-20T10:48:51",
       "timeSeverityChanged": "2021-10-19T23:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0B",
+      "description": "River Avon at South Brent, Avonwick and Aveton Gifford",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B",
+        "county": "Devon",
+        "notation": "113FWF2B0B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "113FWF2B0B",
+      "isTidal": false,
+      "message": "The river levels are now dropping in the River Avon, however we expect further heavy rainfall today and overnight, on Wednesday 20th October, which may again trigger flood warnings. A Flood Alert still remains in force for the South Devon Rivers area, and we may see flooding of low-lying land and roads. We will continue to monitor the situation and will provide an update should the situation change. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-20T12:29:00",
+      "timeRaised": "2021-10-20T12:29:47",
+      "timeSeverityChanged": "2021-10-20T12:29:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF2",
@@ -1044,6 +1296,27 @@
       "timeSeverityChanged": "2021-10-20T15:15:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
+      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
+        "county": "Thurrock",
+        "notation": "051FWCDV5B3EASTA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
+        "riverOrSea": "Thames Estuary"
+      },
+      "floodAreaID": "051FWCDV5B3EASTA",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:30pm and 03:30am tomorrow morning, Thursday 21st October 2021. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.46 mAODN at 1:30am, on Thursday 21st October 2021, which is 0.59m above tide tables, wind Force 5, North West (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 9am tomorrow, Thursday 21st October 2021.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T15:15:00",
+      "timeRaised": "2021-10-20T15:15:51",
+      "timeSeverityChanged": "2021-10-20T15:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
       "description": "The Norfolk coast from Eccles on Sea, to and including, Winterton-on-Sea",
       "eaAreaName": "East Anglia",
@@ -1107,6 +1380,27 @@
       "timeSeverityChanged": "2021-10-20T15:54:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2A7",
+      "description": "The north Norfolk coast at Wells Quay",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A7",
+        "county": "Norfolk",
+        "notation": "054FWCDV2A7",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A7/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054FWCDV2A7",
+      "isTidal": true,
+      "message": "This message has been issued because flooding to coastal roads and footpaths is likely between 5:30 and 9:30am on Thursday 21st October.   Areas most at risk are The Quay, East End and roads joining the Quay between the Flood Barrier and East End including, Unns Yard, Jicklings Yard, Staithe Street, Croft Yard and Standard Street. The detailed forecast for those that use it is for a peak level at Wells of 4.07 mAODN at 7:30am, on Thursday 21st October, which is 1.03m above tide tables, wind Force 7, NW. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21st October. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T16:02:00",
+      "timeRaised": "2021-10-20T16:02:27",
+      "timeSeverityChanged": "2021-10-20T16:02:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
       "description": "Christchurch Harbour",
       "eaAreaName": "Wessex",
@@ -1126,6 +1420,27 @@
       "timeMessageChanged": "2021-10-20T16:40:00",
       "timeRaised": "2021-10-20T16:40:22",
       "timeSeverityChanged": "2021-10-20T16:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2A12",
+      "description": "The north Norfolk coast at Salthouse and east Cley",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A12",
+        "county": "Norfolk",
+        "notation": "054FWCDV2A12",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A12/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054FWCDV2A12",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 5:30 and 9:30am, Thursday 21st October.   Areas most at risk are Coast Road in Salthouse and, Coast Road in Cley. Flooding is also expected for Salthouse and Cley marshes. The detailed forecast for those that use it is for a peak level at Wells of 4.07 mAODN at 7:30am, on Thursday 21st October, which is 1.03m above tide tables, wind Force 7, NW. (mAODN is height above average sea level, for more info refer to local tide tables).  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21st October. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T16:41:00",
+      "timeRaised": "2021-10-20T16:41:29",
+      "timeSeverityChanged": "2021-10-20T16:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W07A00",
@@ -1288,12 +1603,33 @@
       },
       "floodAreaID": "054WACDV3A",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 05:30 and 09:30, on Thursday 21 October.  Areas most at risk are: Sea View, Ann Stannard Way, Keswick Way, and Walcott Rd, The Coast Rd, St Helens Rd, Helena Rd, Poplar Dr, Archibald Rd, Lynton Rd, The Crescent and Ostend Place in Walcott, Seaview Crescent, Ostend Gap, Ostend Rd and Horizon Views. The detailed forecast for those that use it is for a peak level at Cromer of 3.29 mAODN at 07:30, on Thursday 21 October, which is 0.93m above tide tables, wind Force 7, NW (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21 October. ",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 9:15am and 11:15am, Thursday 21st October.  We expect high tide levels at Gorleston-on-Sea and water on towpaths and quaysides throughout Great Yarmouth. The detailed forecast for those that use it is for a peak level at Great Yarmouth of 2.19 mAODN at 10:15am, on Thursday 21st October, which is 1.09m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables).  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 1pm tomorrow, Thursday 21st October. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-20T17:17:00",
-      "timeRaised": "2021-10-20T17:18:58",
+      "timeMessageChanged": "2021-10-20T20:52:00",
+      "timeRaised": "2021-10-20T20:52:22",
       "timeSeverityChanged": "2021-10-20T17:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV3C1",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3C1",
+        "county": "Suffolk",
+        "notation": "054FWCDV3C1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3C1/polygon",
+        "riverOrSea": "River Blyth, North Sea"
+      },
+      "floodAreaID": "054FWCDV3C1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 8:30am and 12:30, on Thursday 21st October.  Areas most at risk are around Southwold Harbour, Ferry road, the bottom of Queens Road and Constitution Hill, North Road, the bottom of Pier Avenue and Mights Road in Southwold. Bridge Road and Hillside Road in Reydon. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.16m AODN at 10:30am, on Thursday 21st October, which is 1.0m above tide tables, wind Force 5, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). High water at Southwold will be around 1hr later.  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will update this message by 2pm tomorrow, Thursday 21st October. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T17:46:00",
+      "timeRaised": "2021-10-20T17:47:23",
+      "timeSeverityChanged": "2021-10-20T17:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
@@ -1315,6 +1651,27 @@
       "timeMessageChanged": "2021-10-20T17:34:00",
       "timeRaised": "2021-10-20T17:34:44",
       "timeSeverityChanged": "2021-10-20T17:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2B1",
+      "description": "The Norfolk coast from Bacton to Ostend, including Walcott",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2B1",
+        "county": "Norfolk",
+        "notation": "054FWCDV2B1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2B1/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054FWCDV2B1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 05:30 and 09:30, Thursday 21 October. Areas most at risk are: Sea View, Ann Stannard Way, Keswick Way, Walcott Rd, The Coast Rd, St Helens Rd, Helena Rd, Poplar Dr, Archibald Rd, Lynton Rd, The Crescent and Ostend Place in Walcott. Seaview Crescent, Ostend Gap, Ostend Rd and Horizon Views. The detailed forecast for those that use it is for a peak level at Cromer of 3.29 mAODN at 07:30, on Thursday 21 October, which is 0.93m above tide tables, wind Force 7, North Wesertly. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21 October.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T17:50:00",
+      "timeRaised": "2021-10-20T17:50:47",
+      "timeSeverityChanged": "2021-10-20T17:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF29Chertsey",
@@ -1674,6 +2031,27 @@
       "timeSeverityChanged": "2021-10-20T19:27:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
+      "description": "North Sea coast at Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC007",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC007",
+      "isTidal": true,
+      "message": "A flood warning has been issued as overtopping waves and spray are expected as a result of high spring tides. Consequently, flooding is expected, between 06:15 and 06.45 on Thursday 21.10.21. The particular area of concern is Southfield Farm. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated on Thursday morning by 11am, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-20T19:32:00",
+      "timeRaised": "2021-10-20T19:32:28",
+      "timeSeverityChanged": "2021-10-20T19:32:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF451",
       "description": "Cuckmere River",
       "eaAreaName": "Solent and South Downs",
@@ -1714,237 +2092,6 @@
       "timeMessageChanged": "2021-10-20T20:04:00",
       "timeRaised": "2021-10-20T20:05:01",
       "timeSeverityChanged": "2021-10-20T20:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0A",
-      "description": "River Avon from Didworthy to Aveton Gifford",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A",
-        "county": "Devon",
-        "notation": "113FWF2B0A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "113FWF2B0A",
-      "isTidal": false,
-      "message": "The river levels are now dropping in the River Avon, however we expect further heavy rainfall today and overnight, on Wednesday 20th October, which may again trigger flood warnings. A Flood Alert still remains in force for the South Devon Rivers area, and we may see flooding of low-lying land and roads. We will continue to monitor the situation and will provide an update should the situation change.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-20T12:30:00",
-      "timeRaised": "2021-10-20T12:31:17",
-      "timeSeverityChanged": "2021-10-20T12:30:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0B",
-      "description": "River Avon at South Brent, Avonwick and Aveton Gifford",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B",
-        "county": "Devon",
-        "notation": "113FWF2B0B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "113FWF2B0B",
-      "isTidal": false,
-      "message": "The river levels are now dropping in the River Avon, however we expect further heavy rainfall today and overnight, on Wednesday 20th October, which may again trigger flood warnings. A Flood Alert still remains in force for the South Devon Rivers area, and we may see flooding of low-lying land and roads. We will continue to monitor the situation and will provide an update should the situation change. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-20T12:29:00",
-      "timeRaised": "2021-10-20T12:29:47",
-      "timeSeverityChanged": "2021-10-20T12:29:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064FWF8Kidbrook",
-      "description": "Kidbrooke Stream at Forest Row",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8Kidbrook",
-        "county": "East Sussex",
-        "notation": "064FWF8Kidbrook",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8Kidbrook/polygon",
-        "riverOrSea": "Kidbrooke Stream"
-      },
-      "floodAreaID": "064FWF8Kidbrook",
-      "isTidal": false,
-      "message": "The Flood Warning remains in force. Heavy rainfall this morning caused river levels to rise. Further heavy rain is forecast this evening 20/10/2021 and into the early hours of tomorrow morning. This is likely to see levels increase further. Properties remain at risk of flooding along Priory Road, Swans Ghyll, Riverside and Blenheim Fields. If you have them, activate your property protection measures now. River levels will remain very high until tomorrow afternoon. This message will be updated tomorrow morning 21/10/2021, or as the situation changes.  ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T16:27:00",
-      "timeRaised": "2021-10-20T16:27:16",
-      "timeSeverityChanged": "2021-10-20T05:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
-      "description": "North Sea coast at Hornsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
-        "county": "East Riding of Yorkshire",
-        "notation": "122FWC003",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
-        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
-      },
-      "floodAreaID": "122FWC003",
-      "isTidal": true,
-      "message": "A flood warning has been issued as overtopping waves and spray are expected as a result of high spring tides between 05.00 and 07.30 on Thursday morning 21/10/21. Areas most at risk are properties along North Promenade in Hornsea. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads, as large waves and sea spray could be dangerous. This message will be updated on Thursday morning by 11am, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T19:23:00",
-      "timeRaised": "2021-10-20T19:24:09",
-      "timeSeverityChanged": "2021-10-20T19:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROU211",
-      "description": "Upper Frome at Maiden Newton",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211",
-        "county": "Dorset Council",
-        "notation": "111FWFFROU211",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211/polygon",
-        "riverOrSea": "Dorset Frome"
-      },
-      "floodAreaID": "111FWFFROU211",
-      "isTidal": false,
-      "message": "Having fallen back slightly during the day, river levels are expected to rise quickly due to further heavy rainfall overnight.\nFlooding is possible at Dorchester Road and Frome Lane area of Maiden Newton from 01:00 AM on 21/10/2021.\nRiver levels are forecast to rise at the Hooke and Maiden Newton gauges.\nWe are monitoring rainfall and river levels and have been checking rivers for blockages in the area during the day.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 10:00 AM on 21/10/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T17:38:00",
-      "timeRaised": "2021-10-20T17:38:19",
-      "timeSeverityChanged": "2021-10-19T22:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
-      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
-        "county": "Thurrock",
-        "notation": "051FWCDV5B3EASTA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
-        "riverOrSea": "Thames Estuary"
-      },
-      "floodAreaID": "051FWCDV5B3EASTA",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:30pm and 03:30am tomorrow morning, Thursday 21st October 2021. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.46 mAODN at 1:30am, on Thursday 21st October 2021, which is 0.59m above tide tables, wind Force 5, North West (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 9am tomorrow, Thursday 21st October 2021.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T15:15:00",
-      "timeRaised": "2021-10-20T15:15:51",
-      "timeSeverityChanged": "2021-10-20T15:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2A7",
-      "description": "The north Norfolk coast at Wells Quay",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A7",
-        "county": "Norfolk",
-        "notation": "054FWCDV2A7",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A7/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054FWCDV2A7",
-      "isTidal": true,
-      "message": "This message has been issued because flooding to coastal roads and footpaths is likely between 5:30 and 9:30am on Thursday 21st October.   Areas most at risk are The Quay, East End and roads joining the Quay between the Flood Barrier and East End including, Unns Yard, Jicklings Yard, Staithe Street, Croft Yard and Standard Street. The detailed forecast for those that use it is for a peak level at Wells of 4.07 mAODN at 7:30am, on Thursday 21st October, which is 1.03m above tide tables, wind Force 7, NW. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21st October. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T16:02:00",
-      "timeRaised": "2021-10-20T16:02:27",
-      "timeSeverityChanged": "2021-10-20T16:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2A12",
-      "description": "The north Norfolk coast at Salthouse and east Cley",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A12",
-        "county": "Norfolk",
-        "notation": "054FWCDV2A12",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2A12/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054FWCDV2A12",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 5:30 and 9:30am, Thursday 21st October.   Areas most at risk are Coast Road in Salthouse and, Coast Road in Cley. Flooding is also expected for Salthouse and Cley marshes. The detailed forecast for those that use it is for a peak level at Wells of 4.07 mAODN at 7:30am, on Thursday 21st October, which is 1.03m above tide tables, wind Force 7, NW. (mAODN is height above average sea level, for more info refer to local tide tables).  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21st October. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T16:41:00",
-      "timeRaised": "2021-10-20T16:41:29",
-      "timeSeverityChanged": "2021-10-20T16:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV3C1",
-      "description": "The Suffolk coast at Southwold",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3C1",
-        "county": "Suffolk",
-        "notation": "054FWCDV3C1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3C1/polygon",
-        "riverOrSea": "River Blyth, North Sea"
-      },
-      "floodAreaID": "054FWCDV3C1",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 8:30am and 12:30, on Thursday 21st October.  Areas most at risk are around Southwold Harbour, Ferry road, the bottom of Queens Road and Constitution Hill, North Road, the bottom of Pier Avenue and Mights Road in Southwold. Bridge Road and Hillside Road in Reydon. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.16m AODN at 10:30am, on Thursday 21st October, which is 1.0m above tide tables, wind Force 5, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). High water at Southwold will be around 1hr later.  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will update this message by 2pm tomorrow, Thursday 21st October. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T17:46:00",
-      "timeRaised": "2021-10-20T17:47:23",
-      "timeSeverityChanged": "2021-10-20T17:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2B1",
-      "description": "The Norfolk coast from Bacton to Ostend, including Walcott",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2B1",
-        "county": "Norfolk",
-        "notation": "054FWCDV2B1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2B1/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054FWCDV2B1",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 05:30 and 09:30, Thursday 21 October. Areas most at risk are: Sea View, Ann Stannard Way, Keswick Way, Walcott Rd, The Coast Rd, St Helens Rd, Helena Rd, Poplar Dr, Archibald Rd, Lynton Rd, The Crescent and Ostend Place in Walcott. Seaview Crescent, Ostend Gap, Ostend Rd and Horizon Views. The detailed forecast for those that use it is for a peak level at Cromer of 3.29 mAODN at 07:30, on Thursday 21 October, which is 0.93m above tide tables, wind Force 7, North Wesertly. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation, and do not currently expect to re-issue this message for the following tides.  We will update this message by 11am tomorrow, Thursday 21 October.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T17:50:00",
-      "timeRaised": "2021-10-20T17:50:47",
-      "timeSeverityChanged": "2021-10-20T17:50:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
-      "description": "North Sea coast at Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007",
-        "county": "East Riding of Yorkshire",
-        "notation": "122FWC007",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122FWC007",
-      "isTidal": true,
-      "message": "A flood warning has been issued as overtopping waves and spray are expected as a result of high spring tides. Consequently, flooding is expected, between 06:15 and 06.45 on Thursday 21.10.21. The particular area of concern is Southfield Farm. Our incident response staff are closely monitoring the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated on Thursday morning by 11am, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-20T19:32:00",
-      "timeRaised": "2021-10-20T19:32:28",
-      "timeSeverityChanged": "2021-10-20T19:32:00"
     }
   ]
 }
