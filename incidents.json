@@ -582,27 +582,6 @@
       "timeSeverityChanged": "2021-10-20T20:34:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54Cripsey",
-      "description": "Cripsey Brook in Epping Forest District Council",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54Cripsey",
-        "county": "Essex",
-        "notation": "062WAF54Cripsey",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54Cripsey/polygon",
-        "riverOrSea": "Cripsey Brook"
-      },
-      "floodAreaID": "062WAF54Cripsey",
-      "isTidal": false,
-      "message": " The Cripsey Brook has overnight in response to heavy rain overnight and is expected to be out of banks and flood low lying areas on Thursday 21 October. \nWe expect river levels to remain high throughout the day flooding low lying land, roads and gardens close to the river around Moreton and Chipping Ongar. \nFlooding from surface water, where water gathers and flows off road surfaces, could also occur and cause issues during the Thursday morning rush hour. \nNo flooding to properties is currently expected.\nAvoid walking, cycling or driving through flood water and follow any local diversion routes.\nWe are constantly monitoring river levels and have staff on standby to attend to any blockages in the river.\nThis message will be updated this afternoon or earlier if the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-21T08:41:00",
-      "timeRaised": "2021-10-21T08:41:17",
-      "timeSeverityChanged": "2021-10-21T08:41:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
       "description": "Eastern Yar",
       "eaAreaName": "Solent and South Downs",
@@ -1015,11 +994,11 @@
       },
       "floodAreaID": "065WAF451",
       "isTidal": false,
-      "message": "The Bull River through Hellingly is still very high following Wednesday's heavy rain, but is now slowly falling. Flood impacts affecting fields, gardens, roads and being very close to a small number of properties will continue on Station Road, Church Lane and Church Road Hellingly. The Cuckmere River along Mill Lane, has already fallen considerably from its peak. The river through Alfriston will continue rising during Thursday. Water will be in the fields, and minor flood impacts could also affect North Street, Willows Car Park, River Lane, The Old Clergy House and Deans Place Hotel, Alfriston. Very little rain is forecast until Sunday, which will enable the river to begin to fall by 17:00 21/10/2021 in Alfriston, but river levels are likely to stay higher than normal until next week. Please plan to avoid driving through routes susceptible to flooding. We continue to monitor the levels and forecast. We will update this message by 22:00 21/10/2021",
+      "message": "The Bull River through Hellingly is still high following Wednesday's heavy rain, but is continuing to fall slowly. Flood impacts affecting fields, gardens, roads and being very close to a small number of properties may continue on Station Road, Church Lane and Church Road Hellingly. The Cuckmere River along Mill Lane, has already fallen considerably from its peak. The river through Alfriston is still slowly rising, and will start to fall slowly by 22:00 21/10/2021. Water may be in the fields, and minor flood impacts could still also be affecting North Street, Willows Car Park, River Lane, The Old Clergy House and Deans Place Hotel, Alfriston. Very little rain is forecast until Sunday, but river levels are likely to stay higher than normal until next week. Please plan to avoid driving through routes susceptible to flooding. We continue to monitor the levels and forecast. We will update this message by 11:00 22/10/2021.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-21T09:26:00",
-      "timeRaised": "2021-10-21T09:26:40",
+      "timeMessageChanged": "2021-10-21T18:22:00",
+      "timeRaised": "2021-10-21T18:22:57",
       "timeSeverityChanged": "2021-10-20T19:38:00"
     },
     {
@@ -1693,6 +1672,27 @@
       "timeMessageChanged": "2021-10-21T14:51:00",
       "timeRaised": "2021-10-21T14:51:56",
       "timeSeverityChanged": "2021-10-21T14:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54Cripsey",
+      "description": "Cripsey Brook in Epping Forest District Council",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54Cripsey",
+        "county": "Essex",
+        "notation": "062WAF54Cripsey",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54Cripsey/polygon",
+        "riverOrSea": "Cripsey Brook"
+      },
+      "floodAreaID": "062WAF54Cripsey",
+      "isTidal": false,
+      "message": " Following heavy rain overnight, river levels on the Cripsey Brook peaked earlier today in Moreton and Chipping Ongar and have steadily fallen back to within normal levels.\nThe risk of flooding has now reduced and levels are no longer a concern. \nNo further flooding to low lying land and roads is expected. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-21T18:20:00",
+      "timeRaised": "2021-10-21T18:20:55",
+      "timeSeverityChanged": "2021-10-21T18:20:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
@@ -4102,11 +4102,11 @@
       },
       "floodAreaID": "065FWF1201",
       "isTidal": false,
-      "message": "The Bull River is still very high following Wednesday's heavy rain, but is now slowly falling. Flood impacts affecting fields, gardens, roads and being very close to a small number of properties will continue on Station Road, Church Lane and Church Road Hellingly. The Cuckmere River along Mill Lane Hellingly, has already fallen considerably from its peak, which should help flood impacts ease. Very little rain is forecast until Sunday, which will enable the river to continue to fall through Thursday. Impacts should begin to ease from late Thursday afternoon, and should return to more normal flows by Friday afternoon. Some roads are likely to be affected by flood water, please plan to avoid driving through routes vulnerable to flooding. We continue to monitor the levels and forecast. We will update this message by 22:00 21/10/2021",
+      "message": "The Bull River is still very high following Wednesday's heavy rain, but is continuing to fall slowly. Flood impacts affecting fields, gardens, roads and being very close to a small number of properties may continue on Station Road, Church Lane and Church Road Hellingly. The Cuckmere River along Mill Lane Hellingly, has already fallen considerably from its peak, which should help flood impacts ease. Very little rain is forecast until Sunday, which will enable the river to continue to fall through to Friday. Impacts have begun to ease, and should return to more normal flows by Friday afternoon. Some roads are likely to be affected by flood water, please plan to avoid driving through routes vulnerable to flooding. We continue to monitor the levels and forecast. We will update this message by 11:00 22/10/2021.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-10-21T09:26:00",
-      "timeRaised": "2021-10-21T09:26:33",
+      "timeMessageChanged": "2021-10-21T18:22:00",
+      "timeRaised": "2021-10-21T18:22:51",
       "timeSeverityChanged": "2021-10-21T01:49:00"
     },
     {
