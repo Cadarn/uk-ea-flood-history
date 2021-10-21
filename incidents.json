@@ -414,27 +414,6 @@
       "timeSeverityChanged": "2021-10-20T16:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFCALE",
-      "description": "River Cale and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFCALE",
-        "county": "Dorset Council, Somerset",
-        "notation": "111WAFCALE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFCALE/polygon",
-        "riverOrSea": "River Cale"
-      },
-      "floodAreaID": "111WAFCALE",
-      "isTidal": false,
-      "message": "River levels remain high but are beginning to fall on the River Cale due to the overnight heavy rainfall.\nFlooding is forecast to affect locations near the River Cale, with low lying land expected to be most affected, particularly around tributaries between Shalford and Southmarsh and the confluence with the River Stour.\nNo further rainfall is forecast for the next 24 hours.\nRiver levels will start to fall, but the risk of flooding to low-lying land remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 11:00 AM on 22/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-21T12:12:00",
-      "timeRaised": "2021-10-21T12:12:36",
-      "timeSeverityChanged": "2021-10-20T17:11:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
       "description": "Upper Stour and tributaries",
       "eaAreaName": "Wessex",
@@ -1840,6 +1819,27 @@
       "timeMessageChanged": "2021-10-21T13:15:00",
       "timeRaised": "2021-10-21T13:15:35",
       "timeSeverityChanged": "2021-10-21T13:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFCALE",
+      "description": "River Cale and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFCALE",
+        "county": "Dorset Council, Somerset",
+        "notation": "111WAFCALE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFCALE/polygon",
+        "riverOrSea": "River Cale"
+      },
+      "floodAreaID": "111WAFCALE",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-21T15:32:00",
+      "timeRaised": "2021-10-21T15:32:17",
+      "timeSeverityChanged": "2021-10-21T15:32:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
@@ -3480,6 +3480,48 @@
       "timeSeverityChanged": "2021-10-21T12:55:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOU621",
+      "description": "River Lodden at Bridge Close, Gillingham",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU621",
+        "county": "Dorset Council",
+        "notation": "111FWFSTOU621",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU621/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111FWFSTOU621",
+      "isTidal": false,
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo property flooding is expected.\nThe forecast is for no further rainfall for today and tomorrow.\nRiver levels have began to fall, but still remain quite high in some locations and a Flood Alert remains in force for the wider area.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nThere may still be some areas where flood water is present until it can naturally drain away.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-21T15:10:00",
+      "timeRaised": "2021-10-21T15:10:55",
+      "timeSeverityChanged": "2021-10-21T15:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOU630",
+      "description": "Shreen Water from Colesbrook to Bay Bridge",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU630",
+        "county": "Dorset Council",
+        "notation": "111FWFSTOU630",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU630/polygon",
+        "riverOrSea": "Shreen Water"
+      },
+      "floodAreaID": "111FWFSTOU630",
+      "isTidal": false,
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo property flooding is expected.\nThe forecast is for no further rainfall for today and tomorrow.\nRiver levels have began to fall, but still remain quite high in some locations and a Flood Alert remains in force for the wider area.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nThere may still be some areas where flood water is present until it can naturally drain away.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-21T15:14:00",
+      "timeRaised": "2021-10-21T15:14:26",
+      "timeSeverityChanged": "2021-10-21T15:14:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFNAD220",
       "description": "River Nadder, Tisbury to West Harnham",
       "eaAreaName": "Wessex",
@@ -3625,6 +3667,27 @@
       "timeMessageChanged": "2021-10-21T11:36:00",
       "timeRaised": "2021-10-21T11:37:26",
       "timeSeverityChanged": "2021-10-21T11:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFCALE001",
+      "description": "River Cale at Wincanton, riverside properties",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFCALE001",
+        "county": "Somerset",
+        "notation": "111FWFCALE001",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFCALE001/polygon",
+        "riverOrSea": "River Cale"
+      },
+      "floodAreaID": "111FWFCALE001",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-21T15:21:00",
+      "timeRaised": "2021-10-21T15:21:21",
+      "timeSeverityChanged": "2021-10-21T15:20:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2G4C",
@@ -3774,48 +3837,6 @@
       "timeSeverityChanged": "2021-10-20T22:51:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOU621",
-      "description": "River Lodden at Bridge Close, Gillingham",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU621",
-        "county": "Dorset Council",
-        "notation": "111FWFSTOU621",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU621/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111FWFSTOU621",
-      "isTidal": false,
-      "message": "River levels are rising on the Upper Dorset Stour, River Lodden due to heavy rainfall.\nFlooding is forecast to affect locations near River Lodden, with low lying land expected to be most affected, particularly around Bridge Close in Gillingham.\nFlooding of property is possible from 01:00 AM on 21/10/2021.\nFurther heavy rainfall is forecast until 02:00.\nWe will continue to monitor levels closely.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 10:00 AM on 21/10/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-21T00:20:00",
-      "timeRaised": "2021-10-21T00:20:21",
-      "timeSeverityChanged": "2021-10-21T00:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOU630",
-      "description": "Shreen Water from Colesbrook to Bay Bridge",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU630",
-        "county": "Dorset Council",
-        "notation": "111FWFSTOU630",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOU630/polygon",
-        "riverOrSea": "Shreen Water"
-      },
-      "floodAreaID": "111FWFSTOU630",
-      "isTidal": false,
-      "message": "River levels are rising on the Shreen Water due to heavy rainfall.\nFlooding is forecast to affect low lying land, particularly around Purns Mill Lane and Bay Road in Gillingham.\nFlooding of property is possible from 01:00 AM on 21/10/2021.\nFurther heavy rainfall is forecast until 02:00.\nWe will continue to monitor levels closely.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 10:00 AM on 21/10/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-21T00:47:00",
-      "timeRaised": "2021-10-21T00:47:44",
-      "timeSeverityChanged": "2021-10-21T00:47:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFPAR10A",
       "description": "River Parrett (upper) from South Perrott to Thorney",
       "eaAreaName": "Wessex",
@@ -3850,11 +3871,11 @@
       },
       "floodAreaID": "111FWFSTOU610",
       "isTidal": false,
-      "message": " River levels are rising on the River Stour due to heavy rainfall.\nFlooding is forecast to affect low lying land in the Eccliffe, West Stour and Hammoon areas. The gates at Hammoon will remain shut until at least mid day on Thursday.\nFlooding of property is possible from 01:00 AM on 21/10/2021.\nRainfall has now cleared the area.\nWe will continue to monitor levels closely.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 10:00 AM on 21/10/2021, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall on the Upper Dorset Stour, Shreen Water.\nAreas most at risk include Eccliffe, parts of the A30, Stour Provost, Sturminster Newton, Hammoon and parts of the A361, A362, A357, A365, A363, A358, A359, A364, A360.\nThe forecast is dry for the next 24 hours.\nRiver levels will start to fall, but the risk of flooding to roads remains.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 11:00 AM on 22/10/2021, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-10-21T01:35:00",
-      "timeRaised": "2021-10-21T01:36:19",
+      "timeMessageChanged": "2021-10-21T15:29:00",
+      "timeRaised": "2021-10-21T15:29:32",
       "timeSeverityChanged": "2021-10-21T01:35:00"
     },
     {
@@ -3940,27 +3961,6 @@
       "timeMessageChanged": "2021-10-21T13:11:00",
       "timeRaised": "2021-10-21T13:11:29",
       "timeSeverityChanged": "2021-10-21T03:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFCALE001",
-      "description": "River Cale at Wincanton, riverside properties",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFCALE001",
-        "county": "Somerset",
-        "notation": "111FWFCALE001",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFCALE001/polygon",
-        "riverOrSea": "River Cale"
-      },
-      "floodAreaID": "111FWFCALE001",
-      "isTidal": false,
-      "message": "This Flood Warning has been issued because flooding is expected this morning on 21/10/2021 between 04:00 AM and 10:00 AM.\nFlooding is forecast to affect locations near the River Cale, with low lying land expected to be most affected, particularly around Hopkins Court, Bennetts Field Trading Estate, Whitehall, Moor Lane and part of the A371; Hopkins Court, Bennetts Field Trading Estate, Whitehall, Moor Lane and part of the A372.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nMove family, pets and cars to safety and turn off gas, electricity and water if it is safe to do so.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:00 AM on 21/10/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-21T03:46:00",
-      "timeRaised": "2021-10-21T03:47:01",
-      "timeSeverityChanged": "2021-10-21T03:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFBRU30A",
