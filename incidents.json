@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This alert is no longer in force due to falling astronomical tide levels and improving weather conditions.\n    ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-22T09:33:00",
+      "timeRaised": "2021-10-22T09:33:26",
+      "timeSeverityChanged": "2021-10-22T09:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -36,6 +57,27 @@
       "timeSeverityChanged": "2021-10-21T20:03:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOCAM",
+      "description": "Lower River Cam in Cambridgeshire",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOCAM",
+        "county": "Cambridgeshire",
+        "notation": "052WAFLOCAM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOCAM/polygon",
+        "riverOrSea": "River Cam"
+      },
+      "floodAreaID": "052WAFLOCAM",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. There is little rainfall forecast over the next few days.\nWe continue to monitor the situation. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-22T08:04:00",
+      "timeRaised": "2021-10-22T08:05:07",
+      "timeSeverityChanged": "2021-10-22T08:04:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF4",
       "description": "The River Colne from Great Yeldham to Colchester",
       "eaAreaName": "East Anglia",
@@ -55,6 +97,27 @@
       "timeMessageChanged": "2021-10-22T08:36:00",
       "timeRaised": "2021-10-22T08:36:31",
       "timeSeverityChanged": "2021-10-21T10:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "This alert is no longer in force due to falling astronomical tide levels and improving weather conditions.\n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-22T09:33:00",
+      "timeRaised": "2021-10-22T09:33:21",
+      "timeSeverityChanged": "2021-10-22T09:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
@@ -97,468 +160,6 @@
       "timeMessageChanged": "2021-10-22T15:46:00",
       "timeRaised": "2021-10-22T15:46:40",
       "timeSeverityChanged": "2021-10-22T15:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32MdleMole",
-      "description": "River Mole and its tributaries from Kinnersley Manor to South Hersham",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole",
-        "county": "Surrey",
-        "notation": "064WAF32MdleMole",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole/polygon",
-        "riverOrSea": "River Mole"
-      },
-      "floodAreaID": "064WAF32MdleMole",
-      "isTidal": false,
-      "message": "River levels remain high on the River Mole following the heavy rain experienced earlier this week. Flooding of roads and low lying land is ongoing, between Leatherhead and Cobham where levels are now beginning to fall, Friday 22 October. We expect flooding to continue to affect land and roads, particularly those nearest the river. Even once the river level drops, some standing flood water may remain. Further showers are forecast over the next 5 days, though no significant rainfall is expected. River levels will remain high into Saturday though the flooding situation is improving. We continue to monitor the situation. Our incident response staff have been working to manage river levels. This message will be updated by 10am Saturday 23 October 2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T20:05:00",
-      "timeRaised": "2021-10-22T20:06:11",
-      "timeSeverityChanged": "2021-10-20T20:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54MdRoding",
-      "description": "Middle River Roding",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding",
-        "county": "Essex, Greater London, Redbridge",
-        "notation": "062WAF54MdRoding",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding/polygon",
-        "riverOrSea": "River Roding"
-      },
-      "floodAreaID": "062WAF54MdRoding",
-      "isTidal": false,
-      "message": " River levels on the Roding remain very high, but have peaked and are falling very slowly in Abridge and Loughton. \nFlooding is likely to continue overnight 22 October, affecting low lying land, roads and gardens close to the river around Abridge and Loughton. \nAvoid walking, cycling or driving through flood water and follow any local diversion routes where possible.\nWe are continuing to monitor river levels and will update this message tomorrow morning.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T17:51:00",
-      "timeRaised": "2021-10-22T17:51:09",
-      "timeSeverityChanged": "2021-10-21T08:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
-      "description": "South East Somerset Rivers, Upper Reaches",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES",
-        "county": "Dorset Council, Somerset",
-        "notation": "112WAFTSES",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES/polygon",
-        "riverOrSea": "River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream"
-      },
-      "floodAreaID": "112WAFTSES",
-      "isTidal": false,
-      "message": "The water level in Sherbourne Lake is falling but remains above the flood alert threshold as a result of heavy rainfall on Wednesday evening. This may cause some localised flooding of land in the immediate area throughout this evening, 22/10/21. However, the River Yeo at Pen Mill, the River Wriggle at Chetnole and the River Cam at Weston Bampfylde have all fallen to normal winter levels with no flood risk.\nDry weather is forecast over the next 24 hours and we expect the Sherbourne Lake level to slowly fall. We will continue to closely monitor the situation. Our incident response teams continue their checks on flood defences. Please plan driving routes to avoid low lying roads near rivers which may be flooded, refer to local authority website for local road closures and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 10:00 on Saturday, 23/10/21, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T16:54:00",
-      "timeRaised": "2021-10-22T16:54:28",
-      "timeSeverityChanged": "2021-10-20T21:37:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24BlkWater",
-      "description": "River Blackwater and The Cove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24BlkWater",
-        "county": "Bracknell Forest, Hampshire, Surrey, Wokingham",
-        "notation": "061WAF24BlkWater",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24BlkWater/polygon",
-        "riverOrSea": "River Blackwater, Cove Brook"
-      },
-      "floodAreaID": "061WAF24BlkWater",
-      "isTidal": false,
-      "message": "\"Property flooding is not currently expected.\nRiver levels are steady on the River Blackwater as a result of recent heavy rainfall. Therefore, flooding of low lying land is expected to continue, especially in the Swallowfield area. \nNo further heavy rainfall is forecast for the next few days, only lighter showers, therefore we expect river levels to continue to fall. We will continue to closely monitor the situation. \nPlease remain safe and aware of your local surroundings and avoid using low lying footpaths near local watercourses. \nThis message will be updated tomorrow morning 23/10/21, or if the situation changes\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T18:22:00",
-      "timeRaised": "2021-10-22T18:22:39",
-      "timeSeverityChanged": "2021-10-20T20:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "The water levels in the Eastern Yar are beginning to fall from very high levels earlier in the week. This was following 55mm of rain recorded at Knighton on Wednesday (20/10/21). Currently, the river is still very high at Sandown but falling in Alverstone. Field flooding is expected along the Yar Valley. Golf Links Road will be flooded and today (22/10/21) minor impact flooding may continue to affect Moreton Common Road. Land around holiday parks in Sandown may be flooded, as water will struggle to drain to the river. Property flooding is not expected. Over the next few days, the weather will be settled and dry. In Alverstone, the river is now dropping back to normal levels and will continue to do so this afternoon. In Sandown, the river peaked around midnight (21/10/21) and is now stable and will begin to fall slowly this afternoon. During the daytime (22/10/21) it will continue to be bank full at Sandown Road Bridge. We continue to monitor the forecast. Please avoid walking or driving through flood water. This flood alert will be updated or removed by 10:00 on Saturday 23/10/21.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T10:13:00",
-      "timeRaised": "2021-10-22T10:14:16",
-      "timeSeverityChanged": "2021-10-20T17:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF423",
-      "description": "Upper Arun",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF423",
-        "county": "Surrey, West Sussex",
-        "notation": "065WAF423",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF423/polygon",
-        "riverOrSea": "Arun"
-      },
-      "floodAreaID": "065WAF423",
-      "isTidal": false,
-      "message": "The River Arun is still high between Newbridge near Billingshurst and Pallingham Lock, following Wednesday’s rain. However, water levels are now falling, and the weather forecast is for predominantly dry days until Sunday. Minor residual flood impacts including water in fields and on roads and near isolated riverside buildings are likely to remain until at least Saturday near Pallingham Lock but will continue to ease. It will take until next week before flows are returned to normal at Pallingham Lock. The river flow through Horsham, Broadbridge Heath and Wanford has already returned to near normal. Please keep flood protection products in place, if you have them, while residual flood impacts remain. Our automatic sluice at Provender Mill is operating to help reduce the risk of flooding through Horsham. We will update this message by 12:00 23/10/2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T17:35:00",
-      "timeRaised": "2021-10-22T17:35:32",
-      "timeSeverityChanged": "2021-10-20T23:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF424",
-      "description": "Lower Arun",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF424",
-        "county": "West Sussex",
-        "notation": "065WAF424",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF424/polygon",
-        "riverOrSea": "Arun"
-      },
-      "floodAreaID": "065WAF424",
-      "isTidal": false,
-      "message": "The River Arun is still high and rising, following Wednesday's heavy rain. Flooding will continue to affect properties on Lower Street and Swan Corner, Pulborough, near to Swan Bridge and Bridge Cottages, Greatham. Flood water will affect the A29 at Pulborough and will be extensive through nearby fields. For four hours from 0 0 30 Saturday 23/10/2021, water will be close to the tops of the banks near Houghton Bridge, Amberley and may approach riverside properties, including near St Edmunds Cottage, Houghton. We are not currently expecting flooding to affect Arundel or Ford. The weather forecast is for five predominantly dry days, with the exception of possible showers Sunday and Monday. The river levels at Pulborough and Greatham Bridge appear to have peaked, but will fall very slowly. River flows will remain much higher than normal for most of next week. Please keep flood protection products in place, if you have them. Our pumps in Pulborough are running to help reduce the risk of flooding. We will update this message by 12:00 23/10/2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T17:35:00",
-      "timeRaised": "2021-10-22T17:35:25",
-      "timeSeverityChanged": "2021-10-21T19:24:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23Trowlock",
-      "description": "River Thames at Trowlock Island",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock",
-        "county": "Greater London, Richmond upon Thames",
-        "notation": "061WAB23Trowlock",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "061WAB23Trowlock",
-      "isTidal": false,
-      "message": "Property flooding is not currently expected.\nRiver levels are forecast to rise on the River Thames as a result of high tides. The next high tide is expected at Trowlock Island at 04:15 on 23/10/21 and will be 4.980m. We have issued an alert for this tide, as levels on the Thames may continue to rise due to the recent heavy rainfall. We will continue to closely monitor the situation and will update you on tomorrow afternoon's tides in the morning (23/10/21). \nPlease refer to the 'River and Sea levels in England' webpage for current river levels and avoid contact with flood water.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T19:38:00",
-      "timeRaised": "2021-10-22T19:38:22",
-      "timeSeverityChanged": "2021-10-21T18:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF2",
-      "description": "The River Bure, Spixworth Beck and surrounding Becks",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2",
-        "county": "Norfolk",
-        "notation": "054WAFNF2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2/polygon",
-        "riverOrSea": "Bure, Spixworth Beck"
-      },
-      "floodAreaID": "054WAFNF2",
-      "isTidal": false,
-      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely. River levels are currently high, but are expected to start to drop back down to more normal levels later today. Areas most at risk are low lying roads and riverside areas between Horsford and Crostwick on the Spixworth Beck, and Corpusty, Saxthorpe, Itteringham, Ingworth, Aylsham and Burgh-next-Aylsham on the Bure. The forecast is for dry conditions today, which will allow river levels to start returning to normal. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Saturday 23rd October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T08:44:00",
-      "timeRaised": "2021-10-22T08:44:13",
-      "timeSeverityChanged": "2021-10-20T08:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": " River levels are now falling steadily on the Middle Dorset Stour. The forecast is dry until the second half of the weekend.\nThe Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nRiver levels are now falling steadily at the Hammoon gauge.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nPlan driving routes to avoid road minor roads close to the river which are affected by flooding. \nThis message will be updated by 10:00 AM on 23/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T17:59:00",
-      "timeRaised": "2021-10-22T17:59:52",
-      "timeSeverityChanged": "2021-10-20T17:34:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF29Chertsey",
-      "description": "Chertsey Bourne",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey",
-        "county": "Bracknell Forest, Surrey, Windsor and Maidenhead",
-        "notation": "061WAF29Chertsey",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey/polygon",
-        "riverOrSea": "Chertsey Bourne, The Moat, Moat"
-      },
-      "floodAreaID": "061WAF29Chertsey",
-      "isTidal": false,
-      "message": "Property flooding is not currently expected.\nRiver levels have remained steady on the Chertsey Bourne as a result of the recent heavy rainfall.\nNo further heavy rainfall is forecast for the next few days, only lighter showers, therefore we expect river levels to continue to fall.\nWe are closely monitoring the situation. Our incident response staff will be out today checking for blockages. \nPlease remain safe and aware of your local surroundings and avoid using low lying footpaths near local watercourses. \nThis message will be updated tomorrow morning 23/10/21, or if the situation changes\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T18:22:00",
-      "timeRaised": "2021-10-22T18:22:30",
-      "timeSeverityChanged": "2021-10-20T18:28:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF21PangSulm",
-      "description": "River Pang from East Ilsley to Pangbourne and Sulham Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF21PangSulm",
-        "county": "Oxfordshire, West Berkshire",
-        "notation": "061WAF21PangSulm",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF21PangSulm/polygon",
-        "riverOrSea": "River Pang, Sulham Brook"
-      },
-      "floodAreaID": "061WAF21PangSulm",
-      "isTidal": false,
-      "message": "Property flooding is not currently expected.\nRiver levels on the River Pang and Sulham Brook are still high but continuing to fall. Flooding of roads and farmland  is expected to continue, especially in the Sulham area. \nNo further rainfall is forecast today but there could be a few light showers tomorrow afternoon. We expect river levels to continue to fall slowly overnight, tonight 22/10/2021.\nWe are closely monitoring the situation.\nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updatedtomorrow morning, 23/10/2021, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T17:10:00",
-      "timeRaised": "2021-10-22T17:10:54",
-      "timeSeverityChanged": "2021-10-20T19:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "Property flooding is not currently expected.\nRiver levels on the River Thame remain high but continuing to fall slowly in the Aylesbury area. Downstream of Aylesbury in Thame river levels are still high but are beginning to stabilise and should start to fall overnight . Flooding of roads and farmland is expected to continue, especially in the Aylesbury and Thame areas. \nNo further rainfall is forecast today but there could be a few light showers tomorrow afternoon. River levels have peaked and will remain steady, with no further rise forecasted.\nWe are closely monitoring the situation. \nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated tomorrow morning, 23/10/2021, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T17:10:00",
-      "timeRaised": "2021-10-22T17:11:06",
-      "timeSeverityChanged": "2021-10-20T19:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from today, Friday 22 October, and for the rest of the day.  High water levels may remain into the weekend, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry road in Horning.    Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate or to issue any further warning messages at this time.  We will update this message by 10am tomorrow, Saturday 23 October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T08:45:00",
-      "timeRaised": "2021-10-22T08:45:37",
-      "timeSeverityChanged": "2021-10-21T09:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from today (Friday) and for the rest of the day. High water levels may remain into the weekend, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate or to issue any further warning messages at this time. We will update this message by 10am tomorrow, Saturday 23rd October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T08:57:00",
-      "timeRaised": "2021-10-22T08:57:45",
-      "timeSeverityChanged": "2021-10-21T09:56:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from today (Friday) and for the rest of the day. High water levels may remain into the weekend, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Be ready to take action to protect your property if flooding is expected. We are monitoring the situation and not expecting the situation to escalate or to issue any further warning messages at this time. We will update this message by 10am tomorrow, Saturday 23rd October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T08:49:00",
-      "timeRaised": "2021-10-22T08:50:01",
-      "timeSeverityChanged": "2021-10-21T09:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
-      "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFYPM",
-        "county": "Somerset",
-        "notation": "112WAFYPM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFYPM/polygon",
-        "riverOrSea": "River Yeo"
-      },
-      "floodAreaID": "112WAFYPM",
-      "isTidal": false,
-      "message": "The drain level at Huish Episcopi pumping station is 7.09 m and is stable. \nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\nPumping is not currently taking place at Huish Episcopi pumping station. Dry weather is forecast over the next 24 hours. The River Yeo at Muchelney is forecast to slowly decrease as a result.  \nWe are closely monitoring the situation.   \nThis message will be updated by 10:00 on Saturday, 23/10/21, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T16:56:00",
-      "timeRaised": "2021-10-22T16:56:37",
-      "timeSeverityChanged": "2021-10-21T14:37:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF7C",
-      "description": "The Mardyke to the River Thames at Purfleet",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF7C",
-        "county": "Essex, Greater London, Havering, Thurrock",
-        "notation": "051WAFEF7C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF7C/polygon",
-        "riverOrSea": "Mardyke"
-      },
-      "floodAreaID": "051WAFEF7C",
-      "isTidal": false,
-      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely.  River levels are currently high, but are expected to start to drop back down to more normal levels later today. Areas most at risk are low lying roads and riverside areas along the River Mardyke between North Stifford and Purfleet.  The forecast is for light rainfall during the day and into this evening. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Saturday 23 October.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T08:31:00",
-      "timeRaised": "2021-10-22T08:31:19",
-      "timeSeverityChanged": "2021-10-21T14:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nThe river level at Wimborne is still rising slowly, but we are confident that there will be no property flooding on the Lower River Stour\nThe forecast is dry until Sunday 24/10/2021 when further rainfall is expected.\nWe are monitoring river levels and are checking rivers for blockages in the area.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00 AM on 23/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-22T16:44:00",
-      "timeRaised": "2021-10-22T16:45:01",
-      "timeSeverityChanged": "2021-10-22T16:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This alert is no longer in force due to falling astronomical tide levels and improving weather conditions.\n    ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-22T09:33:00",
-      "timeRaised": "2021-10-22T09:33:26",
-      "timeSeverityChanged": "2021-10-22T09:33:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOCAM",
-      "description": "Lower River Cam in Cambridgeshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOCAM",
-        "county": "Cambridgeshire",
-        "notation": "052WAFLOCAM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOCAM/polygon",
-        "riverOrSea": "River Cam"
-      },
-      "floodAreaID": "052WAFLOCAM",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. There is little rainfall forecast over the next few days.\nWe continue to monitor the situation. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-22T08:04:00",
-      "timeRaised": "2021-10-22T08:05:07",
-      "timeSeverityChanged": "2021-10-22T08:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "This alert is no longer in force due to falling astronomical tide levels and improving weather conditions.\n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-22T09:33:00",
-      "timeRaised": "2021-10-22T09:33:21",
-      "timeSeverityChanged": "2021-10-22T09:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
@@ -666,6 +267,27 @@
       "timeSeverityChanged": "2021-10-22T11:12:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32MdleMole",
+      "description": "River Mole and its tributaries from Kinnersley Manor to South Hersham",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole",
+        "county": "Surrey",
+        "notation": "064WAF32MdleMole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole/polygon",
+        "riverOrSea": "River Mole"
+      },
+      "floodAreaID": "064WAF32MdleMole",
+      "isTidal": false,
+      "message": "River levels remain high on the River Mole following the heavy rain experienced earlier this week. Flooding of roads and low lying land is ongoing, between Leatherhead and Cobham where levels are now beginning to fall, Friday 22 October. We expect flooding to continue to affect land and roads, particularly those nearest the river. Even once the river level drops, some standing flood water may remain. Further showers are forecast over the next 5 days, though no significant rainfall is expected. River levels will remain high into Saturday though the flooding situation is improving. We continue to monitor the situation. Our incident response staff have been working to manage river levels. This message will be updated by 10am Saturday 23 October 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T20:05:00",
+      "timeRaised": "2021-10-22T20:06:11",
+      "timeSeverityChanged": "2021-10-20T20:36:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF321",
       "description": "Upper River Medway",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -727,6 +349,27 @@
       "timeMessageChanged": "2021-10-22T08:36:00",
       "timeRaised": "2021-10-22T08:36:43",
       "timeSeverityChanged": "2021-10-22T08:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54MdRoding",
+      "description": "Middle River Roding",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding",
+        "county": "Essex, Greater London, Redbridge",
+        "notation": "062WAF54MdRoding",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding/polygon",
+        "riverOrSea": "River Roding"
+      },
+      "floodAreaID": "062WAF54MdRoding",
+      "isTidal": false,
+      "message": " River levels on the Roding remain very high, but have peaked and are falling very slowly in Abridge and Loughton. \nFlooding is likely to continue overnight 22 October, affecting low lying land, roads and gardens close to the river around Abridge and Loughton. \nAvoid walking, cycling or driving through flood water and follow any local diversion routes where possible.\nWe are continuing to monitor river levels and will update this message tomorrow morning.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T17:51:00",
+      "timeRaised": "2021-10-22T17:51:09",
+      "timeSeverityChanged": "2021-10-21T08:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW09",
@@ -855,6 +498,48 @@
       "timeSeverityChanged": "2021-10-22T10:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
+      "description": "South East Somerset Rivers, Upper Reaches",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES",
+        "county": "Dorset Council, Somerset",
+        "notation": "112WAFTSES",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES/polygon",
+        "riverOrSea": "River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream"
+      },
+      "floodAreaID": "112WAFTSES",
+      "isTidal": false,
+      "message": "The water level in Sherbourne Lake is falling but remains above the flood alert threshold as a result of heavy rainfall on Wednesday evening. This may cause some localised flooding of land in the immediate area throughout this evening, 22/10/21. However, the River Yeo at Pen Mill, the River Wriggle at Chetnole and the River Cam at Weston Bampfylde have all fallen to normal winter levels with no flood risk.\nDry weather is forecast over the next 24 hours and we expect the Sherbourne Lake level to slowly fall. We will continue to closely monitor the situation. Our incident response teams continue their checks on flood defences. Please plan driving routes to avoid low lying roads near rivers which may be flooded, refer to local authority website for local road closures and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 10:00 on Saturday, 23/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T16:54:00",
+      "timeRaised": "2021-10-22T16:54:28",
+      "timeSeverityChanged": "2021-10-20T21:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24BlkWater",
+      "description": "River Blackwater and The Cove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24BlkWater",
+        "county": "Bracknell Forest, Hampshire, Surrey, Wokingham",
+        "notation": "061WAF24BlkWater",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24BlkWater/polygon",
+        "riverOrSea": "River Blackwater, Cove Brook"
+      },
+      "floodAreaID": "061WAF24BlkWater",
+      "isTidal": false,
+      "message": "\"Property flooding is not currently expected.\nRiver levels are steady on the River Blackwater as a result of recent heavy rainfall. Therefore, flooding of low lying land is expected to continue, especially in the Swallowfield area. \nNo further heavy rainfall is forecast for the next few days, only lighter showers, therefore we expect river levels to continue to fall. We will continue to closely monitor the situation. \nPlease remain safe and aware of your local surroundings and avoid using low lying footpaths near local watercourses. \nThis message will be updated tomorrow morning 23/10/21, or if the situation changes\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T18:22:00",
+      "timeRaised": "2021-10-22T18:22:39",
+      "timeSeverityChanged": "2021-10-20T20:04:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
       "description": "Western Rother",
       "eaAreaName": "Solent and South Downs",
@@ -895,6 +580,27 @@
       "timeMessageChanged": "2021-10-22T08:40:00",
       "timeRaised": "2021-10-22T08:40:24",
       "timeSeverityChanged": "2021-10-22T08:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "The water levels in the Eastern Yar are beginning to fall from very high levels earlier in the week. This was following 55mm of rain recorded at Knighton on Wednesday (20/10/21). Currently, the river is still very high at Sandown but falling in Alverstone. Field flooding is expected along the Yar Valley. Golf Links Road will be flooded and today (22/10/21) minor impact flooding may continue to affect Moreton Common Road. Land around holiday parks in Sandown may be flooded, as water will struggle to drain to the river. Property flooding is not expected. Over the next few days, the weather will be settled and dry. In Alverstone, the river is now dropping back to normal levels and will continue to do so this afternoon. In Sandown, the river peaked around midnight (21/10/21) and is now stable and will begin to fall slowly this afternoon. During the daytime (22/10/21) it will continue to be bank full at Sandown Road Bridge. We continue to monitor the forecast. Please avoid walking or driving through flood water. This flood alert will be updated or removed by 10:00 on Saturday 23/10/21.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T10:13:00",
+      "timeRaised": "2021-10-22T10:14:16",
+      "timeSeverityChanged": "2021-10-20T17:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF6BC",
@@ -960,6 +666,90 @@
       "timeSeverityChanged": "2021-10-22T17:53:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF423",
+      "description": "Upper Arun",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF423",
+        "county": "Surrey, West Sussex",
+        "notation": "065WAF423",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF423/polygon",
+        "riverOrSea": "Arun"
+      },
+      "floodAreaID": "065WAF423",
+      "isTidal": false,
+      "message": "The River Arun is still high between Newbridge near Billingshurst and Pallingham Lock, following Wednesday’s rain. However, water levels are now falling, and the weather forecast is for predominantly dry days until Sunday. Minor residual flood impacts including water in fields and on roads and near isolated riverside buildings are likely to remain until at least Saturday near Pallingham Lock but will continue to ease. It will take until next week before flows are returned to normal at Pallingham Lock. The river flow through Horsham, Broadbridge Heath and Wanford has already returned to near normal. Please keep flood protection products in place, if you have them, while residual flood impacts remain. Our automatic sluice at Provender Mill is operating to help reduce the risk of flooding through Horsham. We will update this message by 12:00 23/10/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T17:35:00",
+      "timeRaised": "2021-10-22T17:35:32",
+      "timeSeverityChanged": "2021-10-20T23:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF424",
+      "description": "Lower Arun",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF424",
+        "county": "West Sussex",
+        "notation": "065WAF424",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF424/polygon",
+        "riverOrSea": "Arun"
+      },
+      "floodAreaID": "065WAF424",
+      "isTidal": false,
+      "message": "The River Arun is still high and rising, following Wednesday's heavy rain. Flooding will continue to affect properties on Lower Street and Swan Corner, Pulborough, near to Swan Bridge and Bridge Cottages, Greatham. Flood water will affect the A29 at Pulborough and will be extensive through nearby fields. For four hours from 0 0 30 Saturday 23/10/2021, water will be close to the tops of the banks near Houghton Bridge, Amberley and may approach riverside properties, including near St Edmunds Cottage, Houghton. We are not currently expecting flooding to affect Arundel or Ford. The weather forecast is for five predominantly dry days, with the exception of possible showers Sunday and Monday. The river levels at Pulborough and Greatham Bridge appear to have peaked, but will fall very slowly. River flows will remain much higher than normal for most of next week. Please keep flood protection products in place, if you have them. Our pumps in Pulborough are running to help reduce the risk of flooding. We will update this message by 12:00 23/10/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T17:35:00",
+      "timeRaised": "2021-10-22T17:35:25",
+      "timeSeverityChanged": "2021-10-21T19:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23Trowlock",
+      "description": "River Thames at Trowlock Island",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock",
+        "county": "Greater London, Richmond upon Thames",
+        "notation": "061WAB23Trowlock",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "061WAB23Trowlock",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected.\nRiver levels are forecast to rise on the River Thames as a result of high tides. The next high tide is expected at Trowlock Island at 04:15 on 23/10/21 and will be 4.980m. We have issued an alert for this tide, as levels on the Thames may continue to rise due to the recent heavy rainfall. We will continue to closely monitor the situation and will update you on tomorrow afternoon's tides in the morning (23/10/21). \nPlease refer to the 'River and Sea levels in England' webpage for current river levels and avoid contact with flood water.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T19:38:00",
+      "timeRaised": "2021-10-22T19:38:22",
+      "timeSeverityChanged": "2021-10-21T18:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF2",
+      "description": "The River Bure, Spixworth Beck and surrounding Becks",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2",
+        "county": "Norfolk",
+        "notation": "054WAFNF2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2/polygon",
+        "riverOrSea": "Bure, Spixworth Beck"
+      },
+      "floodAreaID": "054WAFNF2",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely. River levels are currently high, but are expected to start to drop back down to more normal levels later today. Areas most at risk are low lying roads and riverside areas between Horsford and Crostwick on the Spixworth Beck, and Corpusty, Saxthorpe, Itteringham, Ingworth, Aylsham and Burgh-next-Aylsham on the Bure. The forecast is for dry conditions today, which will allow river levels to start returning to normal. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Saturday 23rd October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T08:44:00",
+      "timeRaised": "2021-10-22T08:44:13",
+      "timeSeverityChanged": "2021-10-20T08:55:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
       "description": "The tidal Deben estuary",
       "eaAreaName": "East Anglia",
@@ -1023,6 +813,69 @@
       "timeSeverityChanged": "2021-10-22T15:38:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": " River levels are now falling steadily on the Middle Dorset Stour. The forecast is dry until the second half of the weekend.\nThe Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nRiver levels are now falling steadily at the Hammoon gauge.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nPlan driving routes to avoid road minor roads close to the river which are affected by flooding. \nThis message will be updated by 10:00 AM on 23/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T17:59:00",
+      "timeRaised": "2021-10-22T17:59:52",
+      "timeSeverityChanged": "2021-10-20T17:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF29Chertsey",
+      "description": "Chertsey Bourne",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey",
+        "county": "Bracknell Forest, Surrey, Windsor and Maidenhead",
+        "notation": "061WAF29Chertsey",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey/polygon",
+        "riverOrSea": "Chertsey Bourne, The Moat, Moat"
+      },
+      "floodAreaID": "061WAF29Chertsey",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected.\nRiver levels have remained steady on the Chertsey Bourne as a result of the recent heavy rainfall.\nNo further heavy rainfall is forecast for the next few days, only lighter showers, therefore we expect river levels to continue to fall.\nWe are closely monitoring the situation. Our incident response staff will be out today checking for blockages. \nPlease remain safe and aware of your local surroundings and avoid using low lying footpaths near local watercourses. \nThis message will be updated tomorrow morning 23/10/21, or if the situation changes\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T18:22:00",
+      "timeRaised": "2021-10-22T18:22:30",
+      "timeSeverityChanged": "2021-10-20T18:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF21PangSulm",
+      "description": "River Pang from East Ilsley to Pangbourne and Sulham Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF21PangSulm",
+        "county": "Oxfordshire, West Berkshire",
+        "notation": "061WAF21PangSulm",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF21PangSulm/polygon",
+        "riverOrSea": "River Pang, Sulham Brook"
+      },
+      "floodAreaID": "061WAF21PangSulm",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected.\nRiver levels on the River Pang and Sulham Brook are still high but continuing to fall. Flooding of roads and farmland  is expected to continue, especially in the Sulham area. \nNo further rainfall is forecast today but there could be a few light showers tomorrow afternoon. We expect river levels to continue to fall slowly overnight, tonight 22/10/2021.\nWe are closely monitoring the situation.\nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updatedtomorrow morning, 23/10/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T17:10:00",
+      "timeRaised": "2021-10-22T17:10:54",
+      "timeSeverityChanged": "2021-10-20T19:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
       "description": "Tyne and Wear coast",
       "eaAreaName": "North East",
@@ -1042,6 +895,27 @@
       "timeMessageChanged": "2021-10-22T19:53:00",
       "timeRaised": "2021-10-22T19:54:09",
       "timeSeverityChanged": "2021-10-22T19:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected.\nRiver levels on the River Thame remain high but continuing to fall slowly in the Aylesbury area. Downstream of Aylesbury in Thame river levels are still high but are beginning to stabilise and should start to fall overnight . Flooding of roads and farmland is expected to continue, especially in the Aylesbury and Thame areas. \nNo further rainfall is forecast today but there could be a few light showers tomorrow afternoon. River levels have peaked and will remain steady, with no further rise forecasted.\nWe are closely monitoring the situation. \nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated tomorrow morning, 23/10/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T17:10:00",
+      "timeRaised": "2021-10-22T17:11:06",
+      "timeSeverityChanged": "2021-10-20T19:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF22EnbnFdry",
@@ -1422,6 +1296,69 @@
       "timeSeverityChanged": "2021-10-22T14:51:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from today, Friday 22 October, and for the rest of the day.  High water levels may remain into the weekend, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry road in Horning.    Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate or to issue any further warning messages at this time.  We will update this message by 10am tomorrow, Saturday 23 October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T08:45:00",
+      "timeRaised": "2021-10-22T08:45:37",
+      "timeSeverityChanged": "2021-10-21T09:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from today (Friday) and for the rest of the day. High water levels may remain into the weekend, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate or to issue any further warning messages at this time. We will update this message by 10am tomorrow, Saturday 23rd October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T08:57:00",
+      "timeRaised": "2021-10-22T08:57:45",
+      "timeSeverityChanged": "2021-10-21T09:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from today (Friday) and for the rest of the day. High water levels may remain into the weekend, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Be ready to take action to protect your property if flooding is expected. We are monitoring the situation and not expecting the situation to escalate or to issue any further warning messages at this time. We will update this message by 10am tomorrow, Saturday 23rd October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T08:49:00",
+      "timeRaised": "2021-10-22T08:50:01",
+      "timeSeverityChanged": "2021-10-21T09:52:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30Hoestrm",
       "description": "Hoe Stream",
       "eaAreaName": "Thames",
@@ -1483,6 +1420,48 @@
       "timeMessageChanged": "2021-10-22T15:26:00",
       "timeRaised": "2021-10-22T15:26:28",
       "timeSeverityChanged": "2021-10-22T15:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
+      "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFYPM",
+        "county": "Somerset",
+        "notation": "112WAFYPM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFYPM/polygon",
+        "riverOrSea": "River Yeo"
+      },
+      "floodAreaID": "112WAFYPM",
+      "isTidal": false,
+      "message": "The drain level at Huish Episcopi pumping station is 7.09 m and is stable. \nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\nPumping is not currently taking place at Huish Episcopi pumping station. Dry weather is forecast over the next 24 hours. The River Yeo at Muchelney is forecast to slowly decrease as a result.  \nWe are closely monitoring the situation.   \nThis message will be updated by 10:00 on Saturday, 23/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T16:56:00",
+      "timeRaised": "2021-10-22T16:56:37",
+      "timeSeverityChanged": "2021-10-21T14:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF7C",
+      "description": "The Mardyke to the River Thames at Purfleet",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF7C",
+        "county": "Essex, Greater London, Havering, Thurrock",
+        "notation": "051WAFEF7C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF7C/polygon",
+        "riverOrSea": "Mardyke"
+      },
+      "floodAreaID": "051WAFEF7C",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely.  River levels are currently high, but are expected to start to drop back down to more normal levels later today. Areas most at risk are low lying roads and riverside areas along the River Mardyke between North Stifford and Purfleet.  The forecast is for light rainfall during the day and into this evening. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Saturday 23 October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T08:31:00",
+      "timeRaised": "2021-10-22T08:31:19",
+      "timeSeverityChanged": "2021-10-21T14:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
@@ -1588,6 +1567,27 @@
       "timeMessageChanged": "2021-10-22T15:55:00",
       "timeRaised": "2021-10-22T15:55:16",
       "timeSeverityChanged": "2021-10-22T05:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nThe river level at Wimborne is still rising slowly, but we are confident that there will be no property flooding on the Lower River Stour\nThe forecast is dry until Sunday 24/10/2021 when further rainfall is expected.\nWe are monitoring river levels and are checking rivers for blockages in the area.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00 AM on 23/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-22T16:44:00",
+      "timeRaised": "2021-10-22T16:45:01",
+      "timeSeverityChanged": "2021-10-22T16:44:00"
     }
   ]
 }
