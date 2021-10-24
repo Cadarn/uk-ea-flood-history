@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert has been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-24T11:31:00",
+      "timeRaised": "2021-10-24T11:31:37",
+      "timeSeverityChanged": "2021-10-24T11:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54MdRoding",
+      "description": "Middle River Roding",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding",
+        "county": "Essex, Greater London, Redbridge",
+        "notation": "062WAF54MdRoding",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding/polygon",
+        "riverOrSea": "River Roding"
+      },
+      "floodAreaID": "062WAF54MdRoding",
+      "isTidal": false,
+      "message": " River levels on the Roding have continued to fall during the day and are back to within normal levels.\nThe risk of flooding has now reduced and levels are no longer a concern. \nNo further flooding to low lying land and roads is expected\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-23T16:26:00",
+      "timeRaised": "2021-10-23T16:27:08",
+      "timeSeverityChanged": "2021-10-23T16:26:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
       "description": "Middle Stour and tributaries",
       "eaAreaName": "Wessex",
@@ -91,11 +133,11 @@
       },
       "floodAreaID": "112WAFYPM",
       "isTidal": false,
-      "message": " The drain level at Huish Episcopi pumping station is 7.06 m and is stable. \nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\nPumping is not currently taking place at Huish Episcopi pumping station. Relatively dry weather is forecast over the next 24 hours. The River Yeo at Muchelney has been decreasing slowly throughout yesterday, 22/10/21, and into today.  \nWe are closely monitoring the situation.   \nThis message will be updated by 10:00 on Sunday, 24/10/21, or as the situation changes.\n",
+      "message": "The drain level at Huish Episcopi pumping station is 6.95 m and is slowly decreasing. \nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\nPumping is currently taking place at Huish Episcopi pumping station. Relatively dry weather is forecast over the next 24 hours. The River Yeo at Muchelney has been decreasing since Friday, 22/10/21.  \nWe are closely monitoring the situation.   \nThis message will be updated by 17:00 on Sunday, 24/10/21, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-23T18:54:00",
-      "timeRaised": "2021-10-23T18:55:04",
+      "timeMessageChanged": "2021-10-24T12:40:00",
+      "timeRaised": "2021-10-24T12:40:32",
       "timeSeverityChanged": "2021-10-21T14:37:00"
     },
     {
@@ -118,48 +160,6 @@
       "timeMessageChanged": "2021-10-23T10:09:00",
       "timeRaised": "2021-10-23T10:09:22",
       "timeSeverityChanged": "2021-10-22T16:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert has been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-24T11:31:00",
-      "timeRaised": "2021-10-24T11:31:37",
-      "timeSeverityChanged": "2021-10-24T11:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54MdRoding",
-      "description": "Middle River Roding",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding",
-        "county": "Essex, Greater London, Redbridge",
-        "notation": "062WAF54MdRoding",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding/polygon",
-        "riverOrSea": "River Roding"
-      },
-      "floodAreaID": "062WAF54MdRoding",
-      "isTidal": false,
-      "message": " River levels on the Roding have continued to fall during the day and are back to within normal levels.\nThe risk of flooding has now reduced and levels are no longer a concern. \nNo further flooding to low lying land and roads is expected\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-23T16:26:00",
-      "timeRaised": "2021-10-23T16:27:08",
-      "timeSeverityChanged": "2021-10-23T16:26:00"
     }
   ]
 }
