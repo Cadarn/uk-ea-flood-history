@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "This flood alert has been issued in response to forecast overtopping waves and wind blown spray. The particular area of concern is around Bridlington Lifeboat Station, between 1015 am and 1100 am on Sunday morning, 24/10/2021. Please take care around exposed promenades and roads where spray may create hazardous conditions. This message will be updated by 11:30 today, 24/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-24T10:43:00",
-      "timeRaised": "2021-10-24T10:43:57",
-      "timeSeverityChanged": "2021-10-23T19:18:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54MdRoding",
-      "description": "Middle River Roding",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding",
-        "county": "Essex, Greater London, Redbridge",
-        "notation": "062WAF54MdRoding",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding/polygon",
-        "riverOrSea": "River Roding"
-      },
-      "floodAreaID": "062WAF54MdRoding",
-      "isTidal": false,
-      "message": " River levels on the Roding have continued to fall during the day and are back to within normal levels.\nThe risk of flooding has now reduced and levels are no longer a concern. \nNo further flooding to low lying land and roads is expected\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-23T16:26:00",
-      "timeRaised": "2021-10-23T16:27:08",
-      "timeSeverityChanged": "2021-10-23T16:26:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
       "description": "Middle Stour and tributaries",
       "eaAreaName": "Wessex",
@@ -160,6 +118,48 @@
       "timeMessageChanged": "2021-10-23T10:09:00",
       "timeRaised": "2021-10-23T10:09:22",
       "timeSeverityChanged": "2021-10-22T16:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert has been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-24T11:31:00",
+      "timeRaised": "2021-10-24T11:31:37",
+      "timeSeverityChanged": "2021-10-24T11:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54MdRoding",
+      "description": "Middle River Roding",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding",
+        "county": "Essex, Greater London, Redbridge",
+        "notation": "062WAF54MdRoding",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54MdRoding/polygon",
+        "riverOrSea": "River Roding"
+      },
+      "floodAreaID": "062WAF54MdRoding",
+      "isTidal": false,
+      "message": " River levels on the Roding have continued to fall during the day and are back to within normal levels.\nThe risk of flooding has now reduced and levels are no longer a concern. \nNo further flooding to low lying land and roads is expected\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-23T16:26:00",
+      "timeRaised": "2021-10-23T16:27:08",
+      "timeSeverityChanged": "2021-10-23T16:26:00"
     }
   ]
 }
