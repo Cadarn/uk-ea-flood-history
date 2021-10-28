@@ -469,12 +469,12 @@
       },
       "floodAreaID": "122WAF939",
       "isTidal": false,
-      "message": "The flood alert for Upper River Ure has now been issued. River levels have risen as a result of persistent heavy rainfall on Wednesday 27th October. Consequently, flooding of roads and farmland is expected on Wednesday night and Thursday morning, 28th October. Areas most at risk are low lying land and roads. Further rain is forecast during Thursday and Friday. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses and do not walk or drive through flood water. This message will be updated tomorrow morning, Thursday 28th October, or as the situation changes. Please see the GOV.UK website for a 5 day flood forecast.  ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-27T20:14:00",
-      "timeRaised": "2021-10-27T20:14:22",
-      "timeSeverityChanged": "2021-10-27T20:14:00"
+      "message": "The flood alert for the Upper River Ure is no longer in force. River levels on the Upper Ure did not rise to levels predicted because rainfall totals came in below the level forecast on Wednesday evening. Further rainfall is expected throughout today, Thursday 28th October, which may see river levels rise again. Our incident response staff are closely monitoring the forecast and will re-issue the flood alert if it is required. Please see the GOV.UK website for a 5 day flood forecast.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-28T09:43:00",
+      "timeRaised": "2021-10-28T09:44:07",
+      "timeSeverityChanged": "2021-10-28T09:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF936",
@@ -490,12 +490,12 @@
       },
       "floodAreaID": "122WAF936",
       "isTidal": false,
-      "message": "The flood alert for Upper River Swale has now been issued. River levels have risen as a result of persistent heavy rainfall on Wednesday 27th October. Consequently, flooding of roads and farmland is expected on Wednesday night and Thursday morning, 28th October. Areas most at risk are low lying land and roads. Further rain is forecast during Thursday and Friday. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses and do not walk or drive through flood water. This message will be updated tomorrow morning, Thursday 28th October, or as the situation changes. Please see the GOV.UK website for a 5 day flood forecast.  ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-27T20:14:00",
-      "timeRaised": "2021-10-27T20:14:40",
-      "timeSeverityChanged": "2021-10-27T20:14:00"
+      "message": "The flood alert for the Upper River Swale is no longer in force. River levels on the Upper Swale did not rise to levels predicted because rainfall totals came in below the level forecast on Wednesday evening. Further rainfall is expected throughout today, Thursday 28th October, which may see river levels rise again. Our incident response staff are closely monitoring the forecast and will re-issue the flood alert if it is required. Please see the GOV.UK website for a 5 day flood forecast.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-28T09:44:00",
+      "timeRaised": "2021-10-28T09:44:18",
+      "timeSeverityChanged": "2021-10-28T09:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC8A",
@@ -622,6 +622,27 @@
       "timeMessageChanged": "2021-10-28T08:50:00",
       "timeRaised": "2021-10-28T08:50:35",
       "timeSeverityChanged": "2021-10-28T08:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC22",
+      "description": "River Derwent at Workington, Seaton Mill and Barepot",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC22",
+        "county": "Cumbria",
+        "notation": "011FWFNC22",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC22/polygon",
+        "riverOrSea": "River Derwent"
+      },
+      "floodAreaID": "011FWFNC22",
+      "isTidal": false,
+      "message": "River levels are high and forecast to rise further on the River Derwent due to heavy rainfall.\nAreas most at risk include residential and commercial properties at Seaton Mill, Barepot, Hall Park, Hall Park View, Workington Police Station, Leisure Centre, Bowling Green and Cricket Club. Flooding is possible from 11:30 AM on 28/10/2021. Further rainfall is forecast this morning but river levels are expected to start to fall slowly from early this afternoon. We will continue to monitor levels closely. Start acting on your flood plan if you have one.\nThis message will be updated by 06:00 PM on 28/10/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-28T10:02:00",
+      "timeRaised": "2021-10-28T10:02:40",
+      "timeSeverityChanged": "2021-10-28T10:02:00"
     }
   ]
 }
