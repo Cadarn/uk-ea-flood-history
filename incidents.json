@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T16:31:00",
+      "timeRaised": "2021-10-29T16:31:52",
+      "timeSeverityChanged": "2021-10-29T16:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -91,11 +112,11 @@
       },
       "floodAreaID": "011WAFDU",
       "isTidal": false,
-      "message": "River levels are still raised at the Fitz Bridge river gauge as a result of recent rainfall. Consequently, flooding of roads and farmland is possible. Flooding is expected to affect low lying land and roads in the Dunnerdale, Duddon Bridge, Broughton-in-Furness, Kirkby-in-Furness, Soutergate, Coniston, Ulverston, Dalton-in-Furness and Barrow-in-Furness areas. High river and lake levels are possible on the River Duddon, Kirkby Pool, Soutergate Beck, Church Beck, Yewdale Beck, Coniston Water, River Crake, Town Beck, Dragley Beck, Poaka Beck, Mill Beck and their tributaries. There is some further rain forecast for today 29/10/21 and over the weekend and so river levels are expected to remain high for the next few days. We are closely monitoring the situation. Our staff are checking watercourses for blockages. Please avoid contact with floodwater and avoid low-lying roads and footpaths near rivers. This message will be updated later today 29/10/21, or as the situation changes.",
+      "message": " River levels remain high at the Fitz Bridge river gauge as a result of recent rainfall. Consequently, flooding of roads and farmland remains possible. Flooding is expected to affect low lying land and roads in the Dunnerdale, Duddon Bridge, Broughton-in-Furness, Kirkby-in-Furness, Soutergate, Coniston, Ulverston, Dalton-in-Furness and Barrow-in-Furness areas. High river and lake levels are possible on the River Duddon, Kirkby Pool, Soutergate Beck, Church Beck, Yewdale Beck, Coniston Water, River Crake, Town Beck, Dragley Beck, Poaka Beck, Mill Beck and their tributaries. Further rain is forecast for this evening 29/10/21 and over the weekend and so river levels are expected to remain high for the next few days. We are closely monitoring the situation. Our staff are checking watercourses for blockages. Please avoid contact with floodwater and avoid low-lying roads and footpaths near rivers. This message will be updated tomorrow 30/10/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T09:26:00",
-      "timeRaised": "2021-10-29T09:26:19",
+      "timeMessageChanged": "2021-10-29T20:22:00",
+      "timeRaised": "2021-10-29T20:22:45",
       "timeSeverityChanged": "2021-10-26T17:47:00"
     },
     {
@@ -435,27 +456,6 @@
       "timeSeverityChanged": "2021-10-28T00:12:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC15",
-      "description": "River Ehen at Low Mill",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC15",
-        "county": "Cumbria",
-        "notation": "011FWFNC15",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC15/polygon",
-        "riverOrSea": "River Ehen"
-      },
-      "floodAreaID": "011FWFNC15",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-28T21:03:00",
-      "timeRaised": "2021-10-28T21:03:26",
-      "timeSeverityChanged": "2021-10-28T21:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC22",
       "description": "River Derwent at Workington, Seaton Mill and Barepot",
       "eaAreaName": "Cumbria and Lancashire",
@@ -517,27 +517,6 @@
       "timeMessageChanged": "2021-10-29T19:02:00",
       "timeRaised": "2021-10-29T19:02:26",
       "timeSeverityChanged": "2021-10-28T13:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC23",
-      "description": "River Derwent at Camerton",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC23",
-        "county": "Cumbria",
-        "notation": "011FWFNC23",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC23/polygon",
-        "riverOrSea": "River Derwent"
-      },
-      "floodAreaID": "011FWFNC23",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-28T20:56:00",
-      "timeRaised": "2021-10-28T20:56:33",
-      "timeSeverityChanged": "2021-10-28T20:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
@@ -1630,27 +1609,6 @@
       "timeMessageChanged": "2021-10-29T13:32:00",
       "timeRaised": "2021-10-29T13:32:54",
       "timeSeverityChanged": "2021-10-29T13:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T16:31:00",
-      "timeRaised": "2021-10-29T16:31:52",
-      "timeSeverityChanged": "2021-10-29T16:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
