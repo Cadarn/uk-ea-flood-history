@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:30 and 16:30 and Bridlington Lifeboat Station between 11:30 and 15:30 on Friday 29th October. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T08:00:00",
-      "timeRaised": "2021-10-29T08:00:34",
-      "timeSeverityChanged": "2021-10-29T08:00:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -448,12 +427,12 @@
       },
       "floodAreaID": "012WAFLL",
       "isTidal": false,
-      "message": "River levels are high but steady on the River Lune and River Conder due to rainfall.\nFurther rainfall is forecast tomorrow morning and river levels at Caton gauge are expected to rise again tomorrow afternoon.\nFlooding tomorrow, 30/10/2021, is forecast to affect locations near the River Lune and River Conder, with low lying land expected to be most affected, particularly around River Lune, Conder and Keer and other watercourses from Kirkby Lonsdale to Galgate including Gressingham, Carnforth, Hornby, Wray, Bentham and Lancaster.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nThis message will be updated by 07:00 PM on 29/10/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T10:29:00",
-      "timeRaised": "2021-10-29T10:29:53",
-      "timeSeverityChanged": "2021-10-27T19:40:00"
+      "message": "River levels are falling this afternoon as rainfall eases.\nNo property flooding is expected.\nThe forecast is for some further rainfall tomorrow morning.\nRiver levels may rise again tomorrow but flooding is not expected.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T16:31:00",
+      "timeRaised": "2021-10-29T16:31:30",
+      "timeSeverityChanged": "2021-10-29T16:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC8A",
@@ -1714,6 +1693,27 @@
       "timeMessageChanged": "2021-10-29T13:32:00",
       "timeRaised": "2021-10-29T13:32:54",
       "timeSeverityChanged": "2021-10-29T13:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T16:31:00",
+      "timeRaised": "2021-10-29T16:31:52",
+      "timeSeverityChanged": "2021-10-29T16:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
