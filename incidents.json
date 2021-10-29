@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2021-10-28T09:30:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:30 and 16:30 and Bridlington Lifeboat Station between 11:30 and 15:30 on Friday 29th October. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-29T08:00:00",
+      "timeRaised": "2021-10-29T08:00:34",
+      "timeSeverityChanged": "2021-10-29T08:00:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -1183,12 +1204,12 @@
       },
       "floodAreaID": "123WAF963",
       "isTidal": false,
-      "message": " The River Calder is forecast to rise as a result of heavy rainfall from late 28/10/21 to early 29/10/21.  River levels are expected to peak several times on 29/10/2021: between midnight and 08:00am at Walsden; and 04:00am and 11:15am at Elland.\nThe latest forecast indicates the possibility of flooding in the upper river around Walsden but as this part of the river is on the eastern edge of the main band of rain moving north, there is significant uncertainty around any impacts.\n\nWe are closely monitoring the forecast as it changes and our incident response staff have been out checking defences. \n\nPlease avoid using low lying footpaths near local watercourses and be aware rivers could rise very quickly even if it's not raining where you are.  \n\nThis message will be updated at 8:00am 29/10/21 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-28T20:04:00",
-      "timeRaised": "2021-10-28T20:08:06",
-      "timeSeverityChanged": "2021-10-28T20:04:00"
+      "message": "We have seen a limited response in the rivers at the top of the catchment from last nights rain. The rain is clearing during today, 29/10/21, however we could see some showers throughout the day and further rain tomorrow morning, 30/10/21.\nRiver levels at the top of the catchment have started to fall slowly but remain higher than normal. Saturdays rain could see limited response with levels being similar to those experienced last night.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T07:43:00",
+      "timeRaised": "2021-10-29T07:43:41",
+      "timeSeverityChanged": "2021-10-29T07:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF942",
@@ -1798,6 +1819,27 @@
       "timeMessageChanged": "2021-10-29T07:30:00",
       "timeRaised": "2021-10-29T07:31:11",
       "timeSeverityChanged": "2021-10-29T07:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
+      "description": "Upper Teme",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112",
+        "county": "Herefordshire, Powys, Shropshire",
+        "notation": "031WAF112",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112/polygon",
+        "riverOrSea": "River Teme, River Onny, River Corve"
+      },
+      "floodAreaID": "031WAF112",
+      "isTidal": false,
+      "message": " River levels have risen at the Onibury river gauge as a result of persistent heavy rainfall.  Consequently, flooding (of property) is imminent.  We expect flooding to affect low lying land and roads adjacent the River Onny and River Corve and their tributaries. Locations that may be affected include  Church Stretton and Ludlow. Predicted peaks:-  Onibury 1.6m to 1.8m this afternoon 29/10.\nWe expect river levels to remain high over the weekend. \nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated  this afternoon, 29/10/2021 by 14:00, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-29T07:57:00",
+      "timeRaised": "2021-10-29T07:57:55",
+      "timeSeverityChanged": "2021-10-29T07:57:00"
     }
   ]
 }
