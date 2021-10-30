@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T16:31:00",
+      "timeRaised": "2021-10-29T16:31:52",
+      "timeSeverityChanged": "2021-10-29T16:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -286,27 +307,6 @@
       "timeMessageChanged": "2021-10-29T19:43:00",
       "timeRaised": "2021-10-29T19:44:03",
       "timeSeverityChanged": "2021-10-29T19:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC14",
-      "description": "River Cocker at Southwaite Bridge",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC14",
-        "county": "Cumbria",
-        "notation": "011FWFNC14",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC14/polygon",
-        "riverOrSea": "River Cocker"
-      },
-      "floodAreaID": "011FWFNC14",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T13:18:00",
-      "timeRaised": "2021-10-29T13:18:37",
-      "timeSeverityChanged": "2021-10-29T13:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC4B",
@@ -1057,11 +1057,11 @@
       },
       "floodAreaID": "031WAF119",
       "isTidal": false,
-      "message": " River levels have risen at the Hay-On-Wye river gauge as a result of persistent heavy rainfall. Consequently, flooding is occurring. We expect flooding to affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations that may be affected include the A438, Byford, Bredwardine and Hereford. The river has peaked but we are expecting it to rise again to similar levels this afternoon. Peaks:- Hay on Wye 2.40m at 13:00 yesterday, Bredwardine 4.31m at 17:30, Belmont 4.4m last night, Old Wye Bridge 3.95m at 3am this morning , Mordiford 4.00m at 4am this morning Predicted peaks:- Ross on Wye 3.5m to 3.6m this morning 30/10. We expect river levels to remain high over the weekend with further rainfall expected. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 2pm this afternoon, 30/10/2021, or as the situation changes.",
+      "message": " River levels have risen at the Hay-On-Wye river gauge as a result of persistent heavy rainfall. Consequently, flooding is occurring. We expect flooding to affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations that may be affected include the A438, Byford, Bredwardine and Hereford. The river has peaked but we are expecting it to rise again to similar levels Sunday afternoon. Peaks:- Hay on Wye 2.40m at 13:00 yesterday, Bredwardine 4.31m at 17:30, Belmont 4.4m last night, Old Wye Bridge 3.95m at 3am this morning , Mordiford 4.00m at 4am this morning, Ross on Wye 3.52m this morning 30/10. We expect river levels to remain high over the weekend with further rainfall expected. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 7pm this evening, 30/10/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T07:49:00",
-      "timeRaised": "2021-10-30T07:49:32",
+      "timeMessageChanged": "2021-10-30T13:16:00",
+      "timeRaised": "2021-10-30T13:17:00",
       "timeSeverityChanged": "2021-10-29T07:00:00"
     },
     {
@@ -1078,11 +1078,11 @@
       },
       "floodAreaID": "031WAF117",
       "isTidal": false,
-      "message": " River levels have risen at the Titley Mill river gauge as a result of persistent heavy rainfall. Consequently, flooding is occurring. We expect flooding to affect low lying land and roads along the River Arrow from Michaelchurch to Brierley. Other areas that may be affected include Kington, Staunton and Eardisland. We expect river levels to remain high over the weekend with further rainfall expected. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 2pm today 30/10/2021, or as the situation changes.",
+      "message": " River levels have risen at the Titley Mill river gauge as a result of persistent heavy rainfall. Consequently, flooding is occurring. We expect flooding to affect low lying land and roads along the River Arrow from Michaelchurch to Brierley. Other areas that may be affected include Kington, Staunton and Eardisland. We expect river levels to remain high over the weekend with further rainfall expected. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 7pm today 30/10/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T07:48:00",
-      "timeRaised": "2021-10-30T07:49:09",
+      "timeMessageChanged": "2021-10-30T13:16:00",
+      "timeRaised": "2021-10-30T13:16:56",
       "timeSeverityChanged": "2021-10-29T07:00:00"
     },
     {
@@ -1099,33 +1099,12 @@
       },
       "floodAreaID": "031WAF215",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Parkend and Lydney river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Saturday, 30/10/21.  We expect flooding to affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.   \nFurther rainfall is forecast tomorrow morning, Sunday, 31/10/21. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 2pm today, Saturday 30/10/21, or as the situation changes.\n",
+      "message": " River levels remain high at the Lydney river gauge as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Saturday, 30/10/21.  We expect flooding to affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.   \nFurther rainfall is forecast tomorrow morning, Sunday, 31/10/21. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 7pm today, Saturday 30/10/21, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T09:13:00",
-      "timeRaised": "2021-10-30T09:14:34",
+      "timeMessageChanged": "2021-10-30T13:07:00",
+      "timeRaised": "2021-10-30T13:07:54",
       "timeSeverityChanged": "2021-10-30T09:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T16:31:00",
-      "timeRaised": "2021-10-29T16:31:52",
-      "timeSeverityChanged": "2021-10-29T16:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -1141,12 +1120,12 @@
       },
       "floodAreaID": "031WAF112",
       "isTidal": false,
-      "message": " River levels have risen at the Onibury river gauge as a result of persistent heavy rainfall. Consequently, flooding is occurring. We expect flooding to affect low lying land and roads adjacent the River Onny and River Corve and their tributaries. Locations that may be affected include Church Stretton and Ludlow. Onibury peaked at 1.72m yesterday afternoon 29/10 and we expect the level to rise again to a similar level this afternoon. We expect river levels to remain high over the weekend with further rainfall expected. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 2pm this afternoon 30/10/2021 or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T07:49:00",
-      "timeRaised": "2021-10-30T07:49:15",
-      "timeSeverityChanged": "2021-10-29T07:57:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T13:16:00",
+      "timeRaised": "2021-10-30T13:17:16",
+      "timeSeverityChanged": "2021-10-30T13:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -1162,11 +1141,11 @@
       },
       "floodAreaID": "031WAF120",
       "isTidal": false,
-      "message": " River levels have risen at the Ross-On-Wye river gauge as a result of persistent heavy rainfall.  Consequently, flooding of farmland is expected to continue.  We expect flooding to affect low lying land and roads along the River Wye. Predicted Peaks:- Ross on Wye 3.5m to 3.6m this afternoon 30/10/2021.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated  by 2pm today 30/10/2021, or as the situation changes.\n",
+      "message": " River levels have risen at the Ross-On-Wye river gauge as a result of persistent heavy rainfall.  Consequently, flooding of farmland is expected to continue.  We expect flooding to affect low lying land and roads along the River Wye. Ross on Wye peaked at 3.52m this morning 30/10/2021. We expect it to fall slightly here and return to a similar level overnight on Sunday \nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated  by 7pm tonight 30/10/2021, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T07:49:00",
-      "timeRaised": "2021-10-30T07:49:15",
+      "timeMessageChanged": "2021-10-30T13:16:00",
+      "timeRaised": "2021-10-30T13:16:48",
       "timeSeverityChanged": "2021-10-29T14:38:00"
     },
     {
@@ -1414,11 +1393,11 @@
       },
       "floodAreaID": "031WAF213",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Wedderburn Bridge river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Saturday, 30/10/21. We expect flooding to affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton and Tibberton. Water may be out of bank at Upleadon Court.   \nFurther rainfall is forecast tomorrow morning, Sunday, 31/10/21. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 2pm today, Saturday 30/10/21, or as the situation changes.\n",
+      "message": "River levels continue to rise slowly at the Bromsberrow and Wedderburn Bridge river gauge as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Saturday, 30/10/21. We expect flooding to affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton and Tibberton. Water may be out of bank at Upleadon Court.   \nFurther rainfall is forecast tomorrow morning, Sunday, 31/10/21. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 7pm today, Saturday 30/10/21, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T09:13:00",
-      "timeRaised": "2021-10-30T09:14:34",
+      "timeMessageChanged": "2021-10-30T13:07:00",
+      "timeRaised": "2021-10-30T13:08:02",
       "timeSeverityChanged": "2021-10-30T09:13:00"
     },
     {
