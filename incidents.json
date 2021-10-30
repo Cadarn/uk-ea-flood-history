@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T16:31:00",
+      "timeRaised": "2021-10-29T16:31:52",
+      "timeSeverityChanged": "2021-10-29T16:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -139,27 +160,6 @@
       "timeMessageChanged": "2021-10-29T19:20:00",
       "timeRaised": "2021-10-29T19:21:02",
       "timeSeverityChanged": "2021-10-27T06:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
-      "description": "Rivers Esk and Irthing",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI",
-        "county": "Cumbria, Northumberland",
-        "notation": "011WAFEI",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI/polygon",
-        "riverOrSea": "River Esk, River Irthing"
-      },
-      "floodAreaID": "011WAFEI",
-      "isTidal": false,
-      "message": " River levels have now fallen and are not forecast to reach flood alert level again today.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T11:58:00",
-      "timeRaised": "2021-10-29T11:58:58",
-      "timeSeverityChanged": "2021-10-29T11:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLO",
@@ -469,11 +469,11 @@
       },
       "floodAreaID": "114WAFT1W12A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:00:00",
-      "timeRaised": "2021-10-29T18:00:36",
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:36:42",
       "timeSeverityChanged": "2021-10-28T16:22:00"
     },
     {
@@ -553,11 +553,11 @@
       },
       "floodAreaID": "114WAFT1W13A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:00:00",
-      "timeRaised": "2021-10-29T18:00:58",
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:36:56",
       "timeSeverityChanged": "2021-10-28T16:22:00"
     },
     {
@@ -616,11 +616,11 @@
       },
       "floodAreaID": "114WAFT1W10A00",
       "isTidal": false,
-      "message": "Flooding is possible tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen throughout Friday, but catchments remain saturated following the rainfall over the last 24 hours. Widespread totals forecast overnight are for 10-20mm, with up to 30-35mm in a few places. There is uncertainty over the location of the most intense rainfall. Rivers are expected to rise throughout the night. Flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and into the daytime of Saturday. Flood Warnings may be issued for the area by daylight on Saturday morning. \nTake care near the areas of concern and monitor your local weather conditions. Surface water may be deep, especially where leaves have blocked the drains. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. Further unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:15:00",
-      "timeRaised": "2021-10-29T18:15:37",
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:37:08",
       "timeSeverityChanged": "2021-10-28T16:33:00"
     },
     {
@@ -637,11 +637,11 @@
       },
       "floodAreaID": "114WAFT1W09A00",
       "isTidal": false,
-      "message": "Flooding is possible tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen throughout Friday, but catchments remain saturated following the rainfall over the last 24 hours. Widespread totals forecast overnight are for 10-20mm, with up to 30-35mm in a few places. There is uncertainty over the location of the most intense rainfall. Rivers are expected to rise throughout the night. Flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and into the daytime of Saturday. Flood Warnings may be issued for the area by late morning on Saturday. \nTake care near the areas of concern and monitor your local weather conditions. Surface water may be deep, especially where leaves have blocked the drains. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. Further unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:14:00",
-      "timeRaised": "2021-10-29T18:15:12",
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:37:08",
       "timeSeverityChanged": "2021-10-28T16:33:00"
     },
     {
@@ -679,11 +679,11 @@
       },
       "floodAreaID": "114WAFT1W07A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. Widespread totals forecast overnight are for 10-20mm, with up to 30-35mm in a few places. There is uncertainty over the location of the most intense rainfall. Rivers will respond quickly to this additional rainfall. Flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and into the daytime of Saturday. \nAdditional flood warnings may be issued for some locations. \nTake care near the areas of concern and monitor your local weather conditions. Surface water may be deep, especially where leaves have blocked the drains. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. Further unsettled weather has been forecast for the weekend. This message will be updated on Saturday at midday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:15:00",
-      "timeRaised": "2021-10-29T18:16:04",
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:36:57",
       "timeSeverityChanged": "2021-10-28T16:33:00"
     },
     {
@@ -721,12 +721,12 @@
       },
       "floodAreaID": "114WAFT1W03A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. Widespread totals forecast overnight are for 10-20mm, with up to 30-35mm in a few places. There is uncertainty over the location of the most intense rainfall. Rivers will respond quickly to this additional rainfall. Flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and into the daytime of Saturday. \nAdditional flood warnings may be issued for some locations. \nTake care near the areas of concern and monitor your local weather conditions. Surface water may be deep, especially where leaves have blocked the drains. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. Further unsettled weather has been forecast for the weekend. This message will be updated on Saturday at midday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:15:00",
-      "timeRaised": "2021-10-29T18:16:26",
-      "timeSeverityChanged": "2021-10-28T17:08:00"
+      "message": "The risk of flooding has now reduced. River levels remain higher than normal, but are now below levels of concern. No further flooding is expected, however river levels are likely to remain high and there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:37:00",
+      "timeRaised": "2021-10-30T11:37:41",
+      "timeSeverityChanged": "2021-10-30T11:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC27A",
@@ -763,12 +763,12 @@
       },
       "floodAreaID": "114WAFT1W11A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. Widespread totals forecast overnight are for 10-20mm, with up to 30-35mm in a few places. There is uncertainty over the location of the most intense rainfall. Rivers will respond quickly to this additional rainfall. Flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and into the daytime of Saturday. \nAdditional flood warnings may be issued for some locations. \nTake care near the areas of concern and monitor your local weather conditions. Surface water may be deep, especially where leaves have blocked the drains. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. Further unsettled weather has been forecast for the weekend. This message will be updated on Saturday at midday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:15:00",
-      "timeRaised": "2021-10-29T18:15:52",
-      "timeSeverityChanged": "2021-10-28T17:40:00"
+      "message": "The risk of flooding has now reduced. River levels remain higher than normal, but are now below levels of concern. No further flooding is expected, however river levels are likely to remain high and there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:36:32",
+      "timeSeverityChanged": "2021-10-30T11:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW12",
@@ -973,11 +973,11 @@
       },
       "floodAreaID": "114WAFT1W08A00",
       "isTidal": false,
-      "message": "Flooding is possible tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen throughout Friday, but catchments remain saturated following the rainfall over the last 24 hours. Widespread totals forecast overnight are for 10-20mm, with up to 30-35mm in a few places. There is uncertainty over the location of the most intense rainfall. Rivers are expected to rise throughout the night. Flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and into the daytime of Saturday. Flood Warnings may be issued for the area by early afternoon on Saturday. \nTake care near the areas of concern and monitor your local weather conditions. Surface water may be deep, especially where leaves have blocked the drains. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. Further unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:14:00",
-      "timeRaised": "2021-10-29T18:15:08",
+      "timeMessageChanged": "2021-10-30T11:36:00",
+      "timeRaised": "2021-10-30T11:36:56",
       "timeSeverityChanged": "2021-10-29T00:18:00"
     },
     {
@@ -1128,27 +1128,6 @@
       "timeSeverityChanged": "2021-10-30T09:13:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T16:31:00",
-      "timeRaised": "2021-10-29T16:31:52",
-      "timeSeverityChanged": "2021-10-29T16:31:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
       "description": "Upper Teme",
       "eaAreaName": "West Midlands",
@@ -1225,12 +1204,12 @@
       },
       "floodAreaID": "114WAFT1W06A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:00:00",
-      "timeRaised": "2021-10-29T18:01:23",
-      "timeSeverityChanged": "2021-10-29T18:00:00"
+      "message": "The risk of flooding has now reduced. River levels remain higher than normal, but are now below levels of concern. No further flooding is expected, however river levels are likely to remain high and there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:37:00",
+      "timeRaised": "2021-10-30T11:37:18",
+      "timeSeverityChanged": "2021-10-30T11:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W05A00",
@@ -1246,12 +1225,12 @@
       },
       "floodAreaID": "114WAFT1W05A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:01:00",
-      "timeRaised": "2021-10-29T18:01:52",
-      "timeSeverityChanged": "2021-10-29T18:01:00"
+      "message": "The risk of flooding has now reduced. River levels remain higher than normal, but are now below levels of concern. No further flooding is expected, however river levels are likely to remain high and there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:37:00",
+      "timeRaised": "2021-10-30T11:37:29",
+      "timeSeverityChanged": "2021-10-30T11:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W02A00",
@@ -1267,12 +1246,12 @@
       },
       "floodAreaID": "114WAFT1W02A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T17:59:00",
-      "timeRaised": "2021-10-29T18:00:35",
-      "timeSeverityChanged": "2021-10-29T17:59:00"
+      "message": "The risk of flooding has now reduced. River levels remain higher than normal, but are now below levels of concern. No further flooding is expected, however river levels are likely to remain high and there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:37:00",
+      "timeRaised": "2021-10-30T11:37:48",
+      "timeSeverityChanged": "2021-10-30T11:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W04A00",
@@ -1288,12 +1267,12 @@
       },
       "floodAreaID": "114WAFT1W04A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:00:00",
-      "timeRaised": "2021-10-29T18:01:19",
-      "timeSeverityChanged": "2021-10-29T18:00:00"
+      "message": "The risk of flooding has now reduced. River levels remain higher than normal, but are now below levels of concern. No further flooding is expected, however river levels are likely to remain high and there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:37:00",
+      "timeRaised": "2021-10-30T11:37:34",
+      "timeSeverityChanged": "2021-10-30T11:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W01A00",
@@ -1309,11 +1288,11 @@
       },
       "floodAreaID": "114WAFT1W01A00",
       "isTidal": false,
-      "message": "Flooding is possible throughout tonight, Friday 29th October and into Saturday due to further persistent and heavy rainfall forecast. River levels have fallen over Friday daytime, but catchments remain saturated following the rainfall over the last 24 hours. \nWidespread totals forecast overnight are for 10-20mm, with up to 35mm in a few places. There is uncertainty over the location of the most intense rainfall. \nRivers will respond quickly to this additional rainfall and flooding is possible to low lying land and roads close to rivers from 9pm on Friday evening and continuing through Saturday. Additional flood warnings may be issued for some locations.\nSurface water may be deep, especially where leaves have blocked the drains.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance as required. \nFurther unsettled weather has been forecast for the weekend. This message will be updated by midday on Saturday or earlier if the situation changes. ",
+      "message": "Flooding is possible during today, Saturday 30th October. River levels remain high and responsive following the last 12 hours of rainfall. \n\nFurther heavy rainfall is forecast from midnight tonight until approximately 4:00am on Sunday morning, with expected rainfall totals of between 20-30mm. This will be followed by further heavy showers until dawn. Catchments are fully saturated and rivers are expected to react rapidly to this further rain. Flooding to low lying land and roads close to rivers is possible.   \n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area undertaking maintenance to screens as required. This message will be updated by 6pm today.  ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T18:01:00",
-      "timeRaised": "2021-10-29T18:02:06",
+      "timeMessageChanged": "2021-10-30T11:37:00",
+      "timeRaised": "2021-10-30T11:37:20",
       "timeSeverityChanged": "2021-10-29T18:01:00"
     },
     {
@@ -1372,12 +1351,12 @@
       },
       "floodAreaID": "031FWFSL10",
       "isTidal": false,
-      "message": "River levels have risen rapidly as a result of heavy rainfall.  Consequently, flooding of property, roads and adjacent land is imminent.  Flood Warning for The Vatch - fast flowing increased water levels may impact properties in The Vatch. Install Property level protection if required. Monitor the brook for further increases   \nFurther rainfall is forecast over the next few hours.  We expect river levels to remain high.\nWe are closely monitoring the situation.  Our incident response staff are liaising with emergency services.  Please Refer to flood plan for information. \nThis message will be updated by 2 pm on Saturday 30/10/21, or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-30T08:01:00",
-      "timeRaised": "2021-10-30T08:01:54",
-      "timeSeverityChanged": "2021-10-30T08:01:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels have fallen, but the area may still pose a flood risk.  We will continue to monitor the forecast and re-issue this warning if necessary.  Further rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-30T11:42:00",
+      "timeRaised": "2021-10-30T11:43:15",
+      "timeSeverityChanged": "2021-10-30T11:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTRCC",
