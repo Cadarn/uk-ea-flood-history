@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-29T16:31:00",
+      "timeRaised": "2021-10-29T16:31:52",
+      "timeSeverityChanged": "2021-10-29T16:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -456,48 +477,6 @@
       "timeSeverityChanged": "2021-10-28T13:13:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
-      "description": "River Churnet and River Tean",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
-        "county": "Staffordshire",
-        "notation": "033WAF317",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
-        "riverOrSea": "River Churnet, River Tean"
-      },
-      "floodAreaID": "033WAF317",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T09:14:00",
-      "timeRaised": "2021-10-29T09:14:42",
-      "timeSeverityChanged": "2021-10-29T09:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF320",
-      "description": "Lower Dove Brooks in Staffordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF320",
-        "county": "Derbyshire, Staffordshire",
-        "notation": "033WAF320",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF320/polygon",
-        "riverOrSea": "Marchington Brook, Picknall Brook, Rolleston Brook"
-      },
-      "floodAreaID": "033WAF320",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T09:14:00",
-      "timeRaised": "2021-10-29T09:14:42",
-      "timeSeverityChanged": "2021-10-29T09:14:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
       "description": "Rivers Clyst and Culm and their tributaries",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -574,11 +553,11 @@
       },
       "floodAreaID": "121WAF901",
       "isTidal": false,
-      "message": "River levels remain high on the River Tweed as a result of persistent heavy rainfall earlier this week. Consequently, flooding of riverside footpaths and low lying land and roads between Carham and Union Bridge is still possible this evening, Friday 29/10/2021, and tomorrow, 30/10/2021.\nRiver levels are continuing to fall and are expected to return to normal over the weekend. Further rain is forecast over the coming days but we do not expect river levels to significantly rise again. We will continue to monitor the situation closely.\nPlease avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 tomorrow, 30/10/2021, or as the situation changes.",
+      "message": "River levels remain high on the River Tweed as a result of persistent heavy rainfall earlier this week. Consequently, flooding of riverside footpaths and low lying land and roads between Carham and Union Bridge is still possible today, Saturday 30/10/2021.\nRiver levels rose slightly overnight but are now continuing to fall steadily. Further rain is forecast over the coming days but we do not expect river levels to significantly rise again. We will continue to monitor the situation closely. Please avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 18:00 today, 30/10/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T17:14:00",
-      "timeRaised": "2021-10-29T17:14:41",
+      "timeMessageChanged": "2021-10-30T09:15:00",
+      "timeRaised": "2021-10-30T09:15:59",
       "timeSeverityChanged": "2021-10-28T16:20:00"
     },
     {
@@ -918,27 +897,6 @@
       "timeSeverityChanged": "2021-10-28T19:02:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF942",
-      "description": "Upper River Wharfe",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF942",
-        "county": "Bradford, North Yorkshire",
-        "notation": "122WAF942",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF942/polygon",
-        "riverOrSea": "River Wharfe"
-      },
-      "floodAreaID": "122WAF942",
-      "isTidal": false,
-      "message": "The flood alert for the Upper River Wharfe is no longer in force. Rainfall totals came in lower than was forecast on Thursday 28th October and river levels did not rise as high as expected. Further rain is expected today, Friday 29th October, and over the weekend. Our incident response staff are closely monitoring the forecast and will re-issue the flood alert if it is required. Please see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T09:00:00",
-      "timeRaised": "2021-10-29T09:00:28",
-      "timeSeverityChanged": "2021-10-29T09:00:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSSR",
       "description": "South Somerset Rivers, Upper Reaches",
       "eaAreaName": "Wessex",
@@ -973,11 +931,11 @@
       },
       "floodAreaID": "112WAFRTC",
       "isTidal": false,
-      "message": "River levels remain high at the Bishops Hull river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 29/10/21.  We expect flooding to affect roads around Hillfarrance, Bradford on Tone, Lane End Road at Ham and the Creech St Michael to Henlade road. Bradford on Tone ringbanks will be bankfull.   Flooding of properties is not forecast at this point. Further heavy rainfall is forecast overnight, into tomorrow morning 30/10/21. We expect river levels to remain high throughout the weekend.  We are closely monitoring the situation.   Our incident response staff are checking defences and clearing weed screens.  Please plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and avoid using low lying footpaths near local watercourses.  This message will be updated by 13:00 on Saturday, 30/10/21, or as the situation changes.",
+      "message": "River levels are rising at the Bishops Hull river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 30/10/21.  We expect flooding to affect roads around Hillfarrance, Bradford on Tone, Lane End Road at Ham and the Creech St Michael to Henlade road. Bradford on Tone ringbanks will be bankfull.   Flooding of properties is not forecast at this point. Further heavy rainfall is forecast tomorrow morning, 31/10/21. We expect river levels to remain high throughout the weekend.  We are closely monitoring the situation.   Our incident response staff are checking defences and clearing weed screens.  Please plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and avoid using low lying footpaths near local watercourses.  This message will be updated by 13:00 on Sunday, 31/10/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T09:50:00",
-      "timeRaised": "2021-10-29T09:51:12",
+      "timeMessageChanged": "2021-10-30T09:00:00",
+      "timeRaised": "2021-10-30T09:00:24",
       "timeSeverityChanged": "2021-10-28T20:43:00"
     },
     {
@@ -994,33 +952,12 @@
       },
       "floodAreaID": "112WAFTWSS",
       "isTidal": false,
-      "message": "River levels remain high at the Beggearn Huish river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 29/10/21.  We expect flooding to affect the Horner Water, Rivers Aller and Washford, and the Hawkcombe, Monksilver and Doniford Streams and tributaries.  Further heavy rainfall is forecast overnight, into tomorrow morning 30/10/21. We expect river levels to remain high throughout the weekend. We are closely monitoring the situation.   Our incident response staff are checking defences and clearing weed screens.  Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  This message will be updated by 13:00 on Saturday, 30/10/21, or as the situation changes.",
+      "message": "River levels remain high at the Beggearn Huish river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 30/10/21.  We expect flooding to affect the Horner Water, Rivers Aller and Washford, and the Hawkcombe, Monksilver and Doniford Streams and tributaries.  Further heavy rainfall is forecast tomorrow morning, 31/10/21. We expect river levels to remain high throughout the weekend. We are closely monitoring the situation.   Our incident response staff are checking defences and clearing weed screens.  Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  This message will be updated by 13:00 on Sunday, 31/10/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T09:51:00",
-      "timeRaised": "2021-10-29T09:51:18",
+      "timeMessageChanged": "2021-10-30T09:00:00",
+      "timeRaised": "2021-10-30T09:00:23",
       "timeSeverityChanged": "2021-10-28T20:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
-      "description": "River Rye catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
-        "county": "North Yorkshire",
-        "notation": "122WAF982",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
-        "riverOrSea": "River Rye"
-      },
-      "floodAreaID": "122WAF982",
-      "isTidal": false,
-      "message": "The flood alert for the River Rye and tributaries is no longer in force. Rainfall totals came in lower than was forecast on Thursday 28th October and river levels did not rise as high as expected. Further rain is expected today, Friday 29th October, and over the weekend. Our incident response staff are closely monitoring the forecast and will re-issue the flood alert if it is required. Please see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T09:00:00",
-      "timeRaised": "2021-10-29T09:00:37",
-      "timeSeverityChanged": "2021-10-29T09:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWF1I6AA00",
@@ -1477,33 +1414,12 @@
       },
       "floodAreaID": "031WAF215",
       "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels are falling, the risk of flooding from last nights localised heavy rainfall has now reduced.  We will continue to monitor the forecast and re-issue this alert if necessary.  \nSome further rainfall is forecast over the coming weekend.  \nWe continue to monitor the situation.  \nPlease avoid contact with flood water.\n ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T13:32:00",
-      "timeRaised": "2021-10-29T13:32:54",
-      "timeSeverityChanged": "2021-10-29T13:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-29T16:31:00",
-      "timeRaised": "2021-10-29T16:31:52",
-      "timeSeverityChanged": "2021-10-29T16:31:00"
+      "message": "River levels are forecast to rise at the Parkend and Lydney river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Saturday, 30/10/21.  We expect flooding to affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.   \nFurther rainfall is forecast tomorrow morning, Sunday, 31/10/21. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 2pm today, Saturday 30/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-30T09:13:00",
+      "timeRaised": "2021-10-30T09:14:34",
+      "timeSeverityChanged": "2021-10-30T09:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -1561,11 +1477,11 @@
       },
       "floodAreaID": "112WAFTPM",
       "isTidal": false,
-      "message": "The River Tone level at Currymoor pumping station is 7.45 m and is rising in response to the heavy rainfall. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45 m. The drain level at Currymoor pumping station is 4.98 m and is rising. There is a risk of water overtopping Haymoor flood storage area and affecting Curload and Stan Moor if this level reaches 8.30 m. Pumping is taking place at Saltmoor and Northmoor pumping stations.  Further heavy rain is forecast this evening, 29/10/21, into tomorrow morning, 30/10/21. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  This message will be updated by 13:00 on Saturday, 30/10/21, or as the situation changes.",
+      "message": "The River Tone level at Currymoor pumping station is 7.45 m and is rising slowly. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45 m. The drain level at Currymoor pumping station is 5.11 m and is rising. There is a risk of water overtopping Haymoor flood storage area and affecting Curload and Stan Moor if this level reaches 8.30 m. Pumping is taking place at Saltmoor and Northmoor pumping stations.  Further rainfall is forecast tomorrow morning, 31/10/21. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  This message will be updated by 13:00 on Sunday, 31/10/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-29T16:36:00",
-      "timeRaised": "2021-10-29T16:36:56",
+      "timeMessageChanged": "2021-10-30T09:00:00",
+      "timeRaised": "2021-10-30T09:00:35",
       "timeSeverityChanged": "2021-10-29T16:36:00"
     },
     {
@@ -1735,6 +1651,69 @@
       "timeMessageChanged": "2021-10-30T08:01:00",
       "timeRaised": "2021-10-30T08:01:54",
       "timeSeverityChanged": "2021-10-30T08:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTRCC",
+      "description": "River Chew catchment",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTRCC",
+        "county": "Bath and North East Somerset, North Somerset, Somerset",
+        "notation": "112WAFTRCC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTRCC/polygon",
+        "riverOrSea": "River Chew, Chew Stoke Stream, Winford Brook"
+      },
+      "floodAreaID": "112WAFTRCC",
+      "isTidal": false,
+      "message": "River levels have risen at the Chew Stoke river gauge as a result of heavy rainfall today Saturday 30/10/21.  We expect flooding to affect the fords on Mill Lane and Pilgrims Way in Chew Stoke and The Batch and Dumpers Lane in Chew Magna. Further heavy  rainfall is forecast over the next 36 hours.  River levels can rise very quickly in response to heavy rainfall. We are closely monitoring the situation. Please plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and can owners with property flood resilience equipment install it now. This message will be updated Sunday, 31/10/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-30T08:27:00",
+      "timeRaised": "2021-10-30T08:28:25",
+      "timeSeverityChanged": "2021-10-30T08:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": "River levels have risen at the Stourbridge river gauge as a result of heavy rainfall this morning.  Consequently, flooding of roads and farmland is expected between 09:00 and 15:00 today, Saturday 30/10/21.     \nFurther rainfall is forecast over the next 24 hours.  We expect river levels to rise until 11:00 on Saturday 30/10/21.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses, plan driving routes to avoid low lying roads near rivers, which may be flooded, and stay aware in case further warnings are issued\nThis message will be updated this afternoon, Saturday 30/10/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-30T08:45:00",
+      "timeRaised": "2021-10-30T08:46:00",
+      "timeSeverityChanged": "2021-10-30T08:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
+      "description": "River Leadon catchment",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
+        "county": "Gloucestershire, Herefordshire, Worcestershire",
+        "notation": "031WAF213",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
+        "riverOrSea": "Leadon, Glynch"
+      },
+      "floodAreaID": "031WAF213",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Wedderburn Bridge river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Saturday, 30/10/21. We expect flooding to affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton and Tibberton. Water may be out of bank at Upleadon Court.   \nFurther rainfall is forecast tomorrow morning, Sunday, 31/10/21. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 2pm today, Saturday 30/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-30T09:13:00",
+      "timeRaised": "2021-10-30T09:14:34",
+      "timeSeverityChanged": "2021-10-30T09:13:00"
     }
   ]
 }
