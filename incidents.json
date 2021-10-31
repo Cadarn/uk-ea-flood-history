@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "River levels are rising on the Middle Dorset Stour.\nFlooding is forecast to affect locations near the Middle Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Sturminster Newton and Wimborne.\nFurther showery rainfall is forecast throughout the evening.\nRiver levels are rising steadily at the Hammoon gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:30 AM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T17:05:00",
-      "timeRaised": "2021-10-31T17:05:47",
-      "timeSeverityChanged": "2021-10-31T17:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington remains in force. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 00:45 and 05:45 and Bridlington Lifeboat Station between 01:15 and 05:00, in the early hours of Monday 1st November. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated tomorrow morning, Monday 1st November, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T19:21:00",
-      "timeRaised": "2021-10-31T19:24:12",
-      "timeSeverityChanged": "2021-10-31T09:39:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -979,6 +937,27 @@
       "timeMessageChanged": "2021-10-31T17:57:00",
       "timeRaised": "2021-10-31T17:58:00",
       "timeSeverityChanged": "2021-10-31T09:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington remains in force. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 00:45 and 05:45 and Bridlington Lifeboat Station between 01:15 and 05:00, in the early hours of Monday 1st November. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated tomorrow morning, Monday 1st November, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T19:21:00",
+      "timeRaised": "2021-10-31T19:24:12",
+      "timeSeverityChanged": "2021-10-31T09:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -2429,6 +2408,27 @@
       "timeSeverityChanged": "2021-10-31T16:23:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels are rising on the Middle Dorset Stour.\nFlooding is forecast to affect locations near the Middle Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Sturminster Newton and Wimborne.\nFurther showery rainfall is forecast throughout the evening.\nRiver levels are rising steadily at the Hammoon gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:30 AM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T17:05:00",
+      "timeRaised": "2021-10-31T17:05:47",
+      "timeSeverityChanged": "2021-10-31T17:05:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
       "description": "Bourne Brook (Tamworth)",
       "eaAreaName": "West Midlands",
@@ -2526,11 +2526,11 @@
       },
       "floodAreaID": "111FWFSTOM710",
       "isTidal": false,
-      "message": "River levels are rising rapidly on the Middle Dorset Stour,\nFlooding is forecast to affect locations near the Middle Dorset Stour,  with low lying land expected to be most affected, particularly around Hammoon, Bere Marsh, Stourpaine, Durweston and Lower Blandford St Mary from 06:30 PM on 31/10/2021.\nNo further rainfall is forecast however river levels are high and forecast to rise further.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nConsider activating any property flood protection products.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nPlan driving routes to avoid the Hammoon road as the gates are locked closed as the road has been affected by flooding.\nThis message will be updated by 12:00 midnight on 31/10/2021, or as the situation changes.",
+      "message": "River levels are rising rapidly on the Middle Dorset Stour,\nAreas most at risk include Hammoon, Bere Marsh, Stourpaine, Durweston and Lower Blandford St Mary.\nNo further rainfall is forecast, however river levels are rising rapidly.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nConsider activating any property flood protection products.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nMove family, pets and cars to safety and turn off gas, electricity and water if it is safe to do so.\nAvoid driving on low lying roads near rivers, which may be flooded. Roads in the Manston and Hammoon area are badly affected.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-10-31T18:29:00",
-      "timeRaised": "2021-10-31T18:30:25",
+      "timeMessageChanged": "2021-10-31T22:21:00",
+      "timeRaised": "2021-10-31T22:22:01",
       "timeSeverityChanged": "2021-10-31T18:29:00"
     },
     {
@@ -2637,6 +2637,27 @@
       "timeMessageChanged": "2021-10-31T21:38:00",
       "timeRaised": "2021-10-31T21:39:12",
       "timeSeverityChanged": "2021-10-31T21:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012FWFL3",
+      "description": "River Wyre at St Michaels North",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL3",
+        "county": "Lancashire",
+        "notation": "012FWFL3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL3/polygon",
+        "riverOrSea": "River Wyre"
+      },
+      "floodAreaID": "012FWFL3",
+      "isTidal": false,
+      "message": "River levels are high and forecast to rise further on the River Wyre.\nRiver levels will be at their highest between 11:30 PM  this evening and 02:30 AM on 01/11/2021.\nFurther rainfall is forecast tomorrow morning which will cause river levels to remain high.\nAreas most at risk include the area of St Michaels that is to the north of the River Wyre, including farm land to the north of the village.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor levels closely.\nThis message will be updated tomorrow 01/11/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-31T22:08:00",
+      "timeRaised": "2021-10-31T22:09:46",
+      "timeSeverityChanged": "2021-10-31T22:08:00"
     }
   ]
 }
