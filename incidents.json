@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T10:15:00",
+      "timeRaised": "2021-10-31T10:15:38",
+      "timeSeverityChanged": "2021-10-31T09:39:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -700,11 +721,11 @@
       },
       "floodAreaID": "112WAFTSSR",
       "isTidal": false,
-      "message": "River levels are rising at the Donyatt and Ashford Mill river gauges as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 30/10/21.  We expect flooding to affect roads at Ashford Mill, Isle Brewers, Fivehead, the Norton sub Hambdon to Stratton road, the A356 and the B3165 at Chiselborough and the B3168 at Ilford Bridges. The lower River Parrett is forecast to be bankfull and overtopping could occur.   Further heavy rainfall is forecast tomorrow morning 31/10/21. We expect river levels to remain high throughout the weekend. We are closely monitoring the situation.   Our incident response staff are checking defences and clearing weed screens. Please plan driving routes to avoid low lying roads near rivers which may be flooded, refer to local authority website for local road closures and avoid using low lying footpaths near local watercourses. Please stay aware in case further warnings are issued in the area.  This message will be updated by 13:00 on Sunday, 31/10/21, or as the situation changes.",
+      "message": "River levels remain high at the Donyatt, Ashford Mill and Chiselborough river gauges as a result of heavy rainfall this morning, 31/10/21.  Consequently, flooding of roads and farmland is possible today, 31/10/21.  We expect flooding to affect roads at Ashford Mill, Isle Brewers, Fivehead, the Norton sub Hambdon to Stratton road, the A356 and the B3165 at Chiselborough and the B3168 at Ilford Bridges. The lower River Parrett is forecast to be bankfull and overtopping could occur.   No further rainfall is forecast for today, 31/10/21. We are closely monitoring the situation.   Our incident response staff are checking defences and clearing weed screens. Please plan driving routes to avoid low lying roads near rivers which may be flooded, refer to local authority website for local road closures and avoid using low lying footpaths near local watercourses. This message will be updated by 13:00 on Monday, 01/11/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T09:19:00",
-      "timeRaised": "2021-10-30T09:19:45",
+      "timeMessageChanged": "2021-10-31T11:54:00",
+      "timeRaised": "2021-10-31T11:55:04",
       "timeSeverityChanged": "2021-10-28T20:43:00"
     },
     {
@@ -939,48 +960,6 @@
       "timeSeverityChanged": "2021-10-31T09:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T10:15:00",
-      "timeRaised": "2021-10-31T10:15:38",
-      "timeSeverityChanged": "2021-10-31T09:39:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
-      "description": "Upper Teme",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112",
-        "county": "Herefordshire, Powys, Shropshire",
-        "notation": "031WAF112",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112/polygon",
-        "riverOrSea": "River Teme, River Onny, River Corve"
-      },
-      "floodAreaID": "031WAF112",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-30T13:16:00",
-      "timeRaised": "2021-10-30T13:17:16",
-      "timeSeverityChanged": "2021-10-30T13:16:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
       "description": "River Wye in Gloucestershire",
       "eaAreaName": "West Midlands",
@@ -1015,11 +994,11 @@
       },
       "floodAreaID": "112WAFTPM",
       "isTidal": false,
-      "message": "The River Tone level at Currymoor pumping station is 7.45 m and is rising slowly. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45 m. The drain level at Currymoor pumping station is 5.11 m and is rising. There is a risk of water overtopping Haymoor flood storage area and affecting Curload and Stan Moor if this level reaches 8.30 m. Pumping is taking place at Saltmoor and Northmoor pumping stations.  Further rainfall is forecast tomorrow morning, 31/10/21. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  This message will be updated by 13:00 on Sunday, 31/10/21, or as the situation changes.",
+      "message": "The River Tone level at Currymoor pumping station is 7.46 m and is rising slowly. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45 m. The drain level at Currymoor pumping station is 5.42 m and is rising slowly. There is a risk of water overtopping Haymoor flood storage area and affecting Curload and Stan Moor if this level reaches 8.30 m. Pumping is taking place at Saltmoor and Northmoor pumping stations.  No further rainfall is forecast for today, 31/10/21. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  This message will be updated by 13:00 on Monday, 01/11/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-30T09:00:00",
-      "timeRaised": "2021-10-30T09:00:35",
+      "timeMessageChanged": "2021-10-31T11:35:00",
+      "timeRaised": "2021-10-31T11:35:21",
       "timeSeverityChanged": "2021-10-29T16:36:00"
     },
     {
@@ -1246,12 +1225,12 @@
       },
       "floodAreaID": "033WAF301",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-31T07:49:00",
-      "timeRaised": "2021-10-31T07:50:05",
-      "timeSeverityChanged": "2021-10-31T07:49:00"
+      "message": "River levels have risen at the Swans Barn river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21.  Flooding is affecting low-lying land and roads adjacent to River Cole between Majors Green and Coleshill.   \nFurther rainfall is forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, Sunday 31/10/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T12:07:00",
+      "timeRaised": "2021-10-31T12:08:28",
+      "timeSeverityChanged": "2021-10-31T12:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
@@ -1665,11 +1644,11 @@
       },
       "floodAreaID": "034WAF416",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Pinxton river gauge as a result of heavy rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around Pinxton, including the Pinxton Wharf access road, Langley Mill, Ilkeston, Stapleford, and the recreation area at Sandiacre.   \nFurther rainfall is forecast over the next 24 hours.  We expect river levels to remain high until 12:00 on 31/10/21.\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and clearing weed screens.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 19:00 on 31/10/21, or as the situation changes. ",
+      "message": "River levels are forecast to rise at the Pinxton river gauge as a result of heavy rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around Pinxton, including the Pinxton Wharf access road, Langley Mill, Ilkeston, Stapleford, and the recreation area at Sandiacre.   \nDon’t All Clear until Shipley Gate peaked.  \nFarmland and low lying roads in the Pinxton, Langley Mill, Ilkeston and Stapleford areas.  Pinxton Wharf Access Road Likely to be affected.\nFurther rainfall is forecast over the next 24 hours.  We expect river levels to remain high until 12:00 on 31/10/21.\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and clearing weed screens.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 19:00 on 31/10/21, or as the situation changes.  ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T11:01:00",
-      "timeRaised": "2021-10-31T11:02:36",
+      "timeMessageChanged": "2021-10-31T12:01:00",
+      "timeRaised": "2021-10-31T12:05:45",
       "timeSeverityChanged": "2021-10-31T11:01:00"
     },
     {
@@ -1749,11 +1728,11 @@
       },
       "floodAreaID": "111FWFFROU210",
       "isTidal": false,
-      "message": "River levels are rising steadily on the Upper Dorset Frome, Hooke River due to heavy rainfall.\nFlooding is forecast to affect locations near the Upper Dorset Frome, Hooke River, with low lying land expected to be most affected, particularly around areas in Higher Frome Vauchurch, Frome Vauchurch, Cruxton, Notton, Frampton, Grimstone, Muckleford, Stratton, Bradford Peverell, Wrackleford, Charminster, Frome Whitfield, Wolfeton, Lower Burton and Cokers Frome.\n.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nStart acting on your flood plan if you have one\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 03:00 PM on 31/10/2021, or as the situation changes.",
+      "message": "River levels are continuing to rise steadily on the Upper Dorset Frome, Hooke River due to heavy rainfall.\nFlooding is affect locations near the Upper Dorset Frome, Hooke River, with low lying land expected to be most affected, particularly around areas in Higher Frome Vauchurch, Frome Vauchurch, Cruxton, Notton, Frampton, Grimstone, Muckleford, Stratton, Bradford Peverell, Wrackleford, Charminster, Frome Whitfield, Wolfeton, Lower Burton and Cokers Frome.\n.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe are liaising with emergency services and local authorities.\n\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings. Start acting on your flood plan if you have one Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 03:00 PM on 31/10/2021, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-10-31T11:08:00",
-      "timeRaised": "2021-10-31T11:09:07",
+      "timeMessageChanged": "2021-10-31T11:46:00",
+      "timeRaised": "2021-10-31T11:46:36",
       "timeSeverityChanged": "2021-10-31T11:08:00"
     },
     {
@@ -1776,6 +1755,69 @@
       "timeMessageChanged": "2021-10-31T11:11:00",
       "timeRaised": "2021-10-31T11:11:26",
       "timeSeverityChanged": "2021-10-31T11:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPIDD",
+      "description": "River Piddle and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFPIDD",
+        "county": "Dorset Council",
+        "notation": "111WAFPIDD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFPIDD/polygon",
+        "riverOrSea": "River Piddle, River Trent"
+      },
+      "floodAreaID": "111WAFPIDD",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the River Piddle due to heavy rainfall.\nFlooding is forecast to affect locations near the River Piddle, with low lying land expected to be most affected, particularly around tributaries between Alton Pancras and Wareham.\nFlooding is possible at tributaries between Alton Pancras and Wareham from 12:30 AM on 31/10/2021.\nThe forecast is dry for this afternoon.\nRiver levels are rising, and the risk of flooding to low-lying land remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 04:00 PM on 31/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T11:33:00",
+      "timeRaised": "2021-10-31T11:34:07",
+      "timeSeverityChanged": "2021-10-31T11:33:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFBRD160",
+      "description": "River Bride from Long Bredy to Burton Bradstock",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFBRD160",
+        "county": "Dorset Council",
+        "notation": "111FWFBRD160",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFBRD160/polygon",
+        "riverOrSea": "River Bride"
+      },
+      "floodAreaID": "111FWFBRD160",
+      "isTidal": false,
+      "message": "River levels are rising rapidly on the River Bride.\nFlooding is forecast to affect locations near the River Bride, with low lying land expected to be most affected, particularly around Bridelands and Lower Farm in Long Bredy, Bride Valley Nursery in Litton Cheney and Water Lane Fish Farm in Swyre.\nFlooding of property is expected from 01:00 PM on 31/10/2021.\nFurther light rainfall is forecast this afternoon.\nRiver levels are high and forecast to rise further at the Burton Bradstock gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nStart acting on your flood plan if you have one\nMove family, pets and cars to safety and turn off gas, electricity and water if it is safe to do so.\nThis message will be updated by 04:00 PM on 31/10/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-31T12:03:00",
+      "timeRaised": "2021-10-31T12:03:43",
+      "timeSeverityChanged": "2021-10-31T12:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
+      "description": "Western Rother",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF421",
+        "county": "Hampshire, West Sussex",
+        "notation": "065WAF421",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF421/polygon",
+        "riverOrSea": "Western Rother"
+      },
+      "floodAreaID": "065WAF421",
+      "isTidal": false,
+      "message": "The Western Rother is high and rising. 25mm of rain has been recorded at Liss on Sunday morning, which is a lot in a short space of time. From 12:30 today (31/10/2021) minor flooding could affect fields, rural roads, gardens near Station Road, Liss and Mill Lane and Old Mill Lane, Sheet. From 15:30 gardens and roads in Iping and Stedham could be affected. From 21:30 flood water could affect fields, gardens and rural roads at Lodsbridge near Selham and in Fittleworth, possibly approaching isolated properties, however flood impacts should remain minor. Only isolated showers are forecast for the rest of Sunday, which should enable the river to begin to fall by 16:00 31/10/2021 in Liss. The start of next week should remain largely dry too, however, the river will not begin to fall near Fittleworth until Monday afternoon, returning to normal by midweek. The Western Rother should peak lower than on 20th October 2021. Early actions to reduce potential impacts at Lodsbridge and Fittleworth are encouraged. We will update this message by 20:00 31/10/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T12:14:00",
+      "timeRaised": "2021-10-31T12:14:53",
+      "timeSeverityChanged": "2021-10-31T12:14:00"
     }
   ]
 }
