@@ -973,12 +973,12 @@
       },
       "floodAreaID": "031WAF215",
       "isTidal": false,
-      "message": "River levels are falling, the risk of flooding from this morning’s heavy rainfall has now reduced.  We will continue to monitor the forecast and re-issue this alert if necessary.  \nSome further rainfall is forecast tomorrow morning, Sunday 31/10/21.  \nWe continue to monitor the situation.  \nPlease avoid contact with flood water.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-30T18:24:00",
-      "timeRaised": "2021-10-30T18:25:03",
-      "timeSeverityChanged": "2021-10-30T18:24:00"
+      "message": "River levels are rising at the Parkend and Lydney river gauges as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is expected today, Sunday 31/10/21.  We expect flooding to affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.   \nNo further heavy rainfall is forecast today, 31/10/2021. We expect river levels to remain high over the next 24 hours. \n\nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\n  \nThis message will be updated by 2pm today Sunday 31/10/21, or as the situation changes.\n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T09:10:00",
+      "timeRaised": "2021-10-31T09:10:46",
+      "timeSeverityChanged": "2021-10-31T09:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -1204,12 +1204,12 @@
       },
       "floodAreaID": "031FWFSL10",
       "isTidal": false,
-      "message": " This Flood Warning has been removed.  \nRiver levels have fallen, but the area may still pose a flood risk.  We will continue to monitor the forecast and re-issue this warning if necessary.  Further rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-30T11:42:00",
-      "timeRaised": "2021-10-30T11:43:15",
-      "timeSeverityChanged": "2021-10-30T11:42:00"
+      "message": "River levels have risen rapidly as a result of heavy rainfall.  Consequently, flooding of property, roads and adjacent land is imminent.  Flood Warning for The Vatch - fast flowing increased water levels may impact properties in The Vatch. Install Property level protection if required. Monitor the brook for further increases   \nFurther showers are forecast over the next few days.  We expect river levels to remain high.\nWe are closely monitoring the situation.  Our incident response staff are liaising with emergency services.  Please Refer to flood plan for information. \nThis message will be updated by 2 pm on Sunday 31/10/21, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-31T09:07:00",
+      "timeRaised": "2021-10-31T09:07:36",
+      "timeSeverityChanged": "2021-10-31T09:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTRCC",
@@ -1246,12 +1246,12 @@
       },
       "floodAreaID": "033WAF330",
       "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. \nFurther rainfall is forecast over the next 24 hours.  \nWe continue to monitor the situation.  Our incident response staff are actively monitoring river levels and the weather forecast.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-10-30T16:39:00",
-      "timeRaised": "2021-10-30T16:39:56",
-      "timeSeverityChanged": "2021-10-30T16:39:00"
+      "message": "River levels have risen at the Stourbridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21.  \nFurther rainfall is forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, Sunday 31/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T09:02:00",
+      "timeRaised": "2021-10-31T09:03:33",
+      "timeSeverityChanged": "2021-10-31T09:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
@@ -1441,6 +1441,111 @@
       "timeMessageChanged": "2021-10-31T08:59:00",
       "timeRaised": "2021-10-31T08:59:44",
       "timeSeverityChanged": "2021-10-31T08:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTCHXH011",
+      "description": "Christchurch Harbour Side",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTCHXH011",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111FWTCHXH011",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTCHXH011/polygon",
+        "riverOrSea": "Christchurch Harbour"
+      },
+      "floodAreaID": "111FWTCHXH011",
+      "isTidal": true,
+      "message": " Some overtopping of sea defences is expected as a result of unexpected high tides and strong winds this morning. The forecast high water time is 09:20 am on Sunday, 31/10/2021 and the forecast tide level is now 1.5 m AOD. The forecast wind is Force 6 South westerlies.  Tide times are in local time and refer to the high water time at Christchurch Tide Gauge. Flooding is possible at this time, however conditions may apply two to four hours either side of the high tide. We believe there is a possibility of flooding for areas in close proximity to Christchurch Harbour including Mudeford, Stanpit, the Quomps and Wick areas.\n\nOur incident response staff are closely monitoring the situation along the Dorset Coast. \n\nThis message will be updated by 11.30 am on Sunday 31/10/2021, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-31T09:08:00",
+      "timeRaised": "2021-10-31T09:09:12",
+      "timeSeverityChanged": "2021-10-31T09:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROU211",
+      "description": "Upper Frome at Maiden Newton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211",
+        "county": "Dorset Council",
+        "notation": "111FWFFROU211",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROU211/polygon",
+        "riverOrSea": "Dorset Frome"
+      },
+      "floodAreaID": "111FWFFROU211",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Upper Dorset Frome, Hooke River due to heavy rainfall overnight.\nFlooding is forecast to affect locations near the Upper Dorset Frome, Hooke River, with low lying land expected to be most affected, particularly around Dorchester Road and Frome Lane area of Maiden Newton.\nFlooding is expected at Dorchester Road and Frome Lane area of Maiden Newton from 10:00 AM on 31/10/2021.\nNo further rainfall is forecast.\nRiver levels are rising steadily, and the risk of flooding to properties remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nStart acting on your flood plan if you have one\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 02:30 PM on 31/10/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-31T09:15:00",
+      "timeRaised": "2021-10-31T09:15:42",
+      "timeSeverityChanged": "2021-10-31T09:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF43Ravnsbrn",
+      "description": "Ravensbourne area in the London Boroughs of Lewisham, Bromley, Greenwich and Croydon",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn",
+        "county": "Bromley, Croydon, Greater London, Greenwich, Lewisham",
+        "notation": "064WAF43Ravnsbrn",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF43Ravnsbrn/polygon",
+        "riverOrSea": "River Ravensbourne"
+      },
+      "floodAreaID": "064WAF43Ravnsbrn",
+      "isTidal": false,
+      "message": "River levels are rising as a result of heavy rainfall. Flooding is expected between 09:00 and 15:00 today Sunday 31st October. We expect flooding to affect low lying land, gardens and roads close to the river.    \nWe expect river levels to remain high throughout today.\nOur incident response staff are actively monitoring the situation and are prepared to respond further if required..  \nPlease avoid using low lying footpaths near local watercourses, and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 16:00 this afternoon, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T09:25:00",
+      "timeRaised": "2021-10-31T09:26:40",
+      "timeSeverityChanged": "2021-10-31T09:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF216",
+      "description": "Rivers Frome and Cam",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF216",
+        "county": "Gloucestershire",
+        "notation": "031WAF216",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF216/polygon",
+        "riverOrSea": "River Frome, River Cam"
+      },
+      "floodAreaID": "031WAF216",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Brimscombe river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21.  We expect flooding to affect low lying land and roads adjacent the river from Elmore to Sharpness. Other locations that may be affected include Chalford, Leonard Stanley and Cambridge.   \nNo further rainfall is forecast.  We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.  Our incident response staff are clearing weed screens.  \n  \nThis message will be updated by 2pm today Sunday 31/10/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T09:27:00",
+      "timeRaised": "2021-10-31T09:27:53",
+      "timeSeverityChanged": "2021-10-31T09:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
+      "description": "Upper Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU",
+        "county": "Dorset Council, Somerset, Wiltshire",
+        "notation": "111WAFSTOU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU/polygon",
+        "riverOrSea": "River Stour, River Lodden, River Shreen"
+      },
+      "floodAreaID": "111WAFSTOU",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Upper Dorset Stour, Shreen Water due to heavy rainfall.\nFlooding is forecast to affect locations near the Upper Dorset Stour, Shreen Water, with low lying land expected to be most affected, particularly around tributaries between Gillingham and Sturminster Newton.\nFlooding is possible at tributaries between Gillingham and Sturminster Newton from 09:30 AM on 31/10/2021.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\n\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 03:00 PM on 31/10/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T09:20:00",
+      "timeRaised": "2021-10-31T09:21:09",
+      "timeSeverityChanged": "2021-10-31T09:20:00"
     }
   ]
 }
