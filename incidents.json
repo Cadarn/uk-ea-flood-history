@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels are rising on the Middle Dorset Stour.\nFlooding is forecast to affect locations near the Middle Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Sturminster Newton and Wimborne.\nFurther showery rainfall is forecast throughout the evening.\nRiver levels are rising steadily at the Hammoon gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:30 AM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T17:05:00",
+      "timeRaised": "2021-10-31T17:05:47",
+      "timeSeverityChanged": "2021-10-31T17:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T10:15:00",
+      "timeRaised": "2021-10-31T10:15:38",
+      "timeSeverityChanged": "2021-10-31T09:39:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -202,6 +244,27 @@
       "timeMessageChanged": "2021-10-31T12:55:00",
       "timeRaised": "2021-10-31T12:56:06",
       "timeSeverityChanged": "2021-10-31T12:55:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLL",
+      "description": "Lower River Lune and Conder",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLL",
+        "county": "Cumbria, Lancashire, North Yorkshire",
+        "notation": "012WAFLL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLL/polygon",
+        "riverOrSea": "River Lune"
+      },
+      "floodAreaID": "012WAFLL",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Lune and River Conder due to rainfall.\nAreas most at risk include River Lune, Conder and Keer and other watercourses from Kirkby Lonsdale to Galgate including Gressingham, Carnforth, Hornby, Wray, Bentham and Lancaster.\nFlooding is possible at River Lune, Conder and Keer and other watercourses from Kirkby Lonsdale to Galgate including Gressingham, Carnforth, Hornby, Wray, Bentham and Lancaster from 08:00 PM on 31/10/2021.\nFurther rainfall is forecast overnight.\nWe are clearing debris from weed screens in the area. We will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.  Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 08:00 AM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T19:04:00",
+      "timeRaised": "2021-10-31T19:06:01",
+      "timeSeverityChanged": "2021-10-31T19:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC4B",
@@ -448,11 +511,11 @@
       },
       "floodAreaID": "114WAFT1W10A00",
       "isTidal": false,
-      "message": "Flooding is possible today, Sunday 31st October. River levels remain elevated and reactive to the heavy showers observed and forecast, though no flooding to properties is currently expected.\n\nFurther scattered heavy showers are forecast for the remainder of the day. Catchments are saturated and rivers are reacting to this further rain. Flooding to low lying land and roads close to rivers is possible. \n\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated this evening or earlier if the situation changes.\n\n",
+      "message": "Flooding is possible during the remainder of this evening and into the early hours of tomorrow morning, Monday 1st November. River levels remain elevated and reactive to the heavy showers previously observed and forecast, though no flooding to properties is currently expected. Further scattered heavy showers are forecast overnight. Catchments are saturated and rivers are reacting to this further rain. Flooding to low lying land and roads close to rivers is possible. Take care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated tomorrow morning or earlier if the situation changes.  ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T14:54:00",
-      "timeRaised": "2021-10-31T14:54:55",
+      "timeMessageChanged": "2021-10-31T19:14:00",
+      "timeRaised": "2021-10-31T19:14:31",
       "timeSeverityChanged": "2021-10-28T16:33:00"
     },
     {
@@ -832,27 +895,6 @@
       "timeMessageChanged": "2021-10-31T17:57:00",
       "timeRaised": "2021-10-31T17:58:00",
       "timeSeverityChanged": "2021-10-31T09:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T10:15:00",
-      "timeRaised": "2021-10-31T10:15:38",
-      "timeSeverityChanged": "2021-10-31T09:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -1644,11 +1686,11 @@
       },
       "floodAreaID": "034WAF430",
       "isTidal": false,
-      "message": "River levels have risen at the Mansfield The Dykes river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible now and until 3pm today, 31/10/2021.  Areas most at risk are low-lying agricultural land and roads around Mansfield, the Sherwood Forest Caravan Park at Clipstone, Edwinstowe, Ollerton, Whitewater Lane at Whitewater Bridge and West Drayton.   \nFurther rainfall is forecast over the next hour.  We expect river levels to rise until approximately 12:00 today. We are closely monitoring the situation. This message will be updated this evening, 31/10/2021, or as the situation changes.",
+      "message": "River levels have risen at the Whitewater Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected to continue until tomorrow morning, 01/11/2021.  Areas most at risk are low-lying agricultural land and roads around Mansfield, the Sherwood Forest Caravan Park at Clipstone, Edwinstowe, Ollerton, Whitewater Lane at Whitewater Bridge and West Drayton.   \nNo further significant rainfall is forecast overnight.   We expect river levels to remain high until around 03:00 tomorrow morning, 01/11/2021.\nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, 01/11/2021, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T11:11:00",
-      "timeRaised": "2021-10-31T11:11:26",
+      "timeMessageChanged": "2021-10-31T19:16:00",
+      "timeRaised": "2021-10-31T19:16:29",
       "timeSeverityChanged": "2021-10-31T11:11:00"
     },
     {
@@ -2301,27 +2343,6 @@
       "timeMessageChanged": "2021-10-31T16:23:00",
       "timeRaised": "2021-10-31T16:23:49",
       "timeSeverityChanged": "2021-10-31T16:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "River levels are rising on the Middle Dorset Stour.\nFlooding is forecast to affect locations near the Middle Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Sturminster Newton and Wimborne.\nFurther showery rainfall is forecast throughout the evening.\nRiver levels are rising steadily at the Hammoon gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:30 AM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T17:05:00",
-      "timeRaised": "2021-10-31T17:05:47",
-      "timeSeverityChanged": "2021-10-31T17:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
