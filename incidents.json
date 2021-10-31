@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T10:15:00",
+      "timeRaised": "2021-10-31T10:15:38",
+      "timeSeverityChanged": "2021-10-31T09:39:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -981,27 +1002,6 @@
       "timeSeverityChanged": "2021-10-31T09:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T10:15:00",
-      "timeRaised": "2021-10-31T10:15:38",
-      "timeSeverityChanged": "2021-10-31T09:39:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
       "description": "Upper Teme",
       "eaAreaName": "West Midlands",
@@ -1650,6 +1650,69 @@
       "timeMessageChanged": "2021-10-31T10:03:00",
       "timeRaised": "2021-10-31T10:03:33",
       "timeSeverityChanged": "2021-10-31T10:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFWIN10A",
+      "description": "Winford Brook at Chew Magna",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFWIN10A",
+        "county": "Bath and North East Somerset",
+        "notation": "112FWFWIN10A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFWIN10A/polygon",
+        "riverOrSea": "Winford Brook"
+      },
+      "floodAreaID": "112FWFWIN10A",
+      "isTidal": false,
+      "message": " River levels have risen rapidly as a result of  persistent heavy rainfall.  Consequently, flooding of property is imminent.  We forecast that flooding is likely for the road at The Batch and Streamleaze.   \nFurther rainfall is forecast over the next 12 hours.  River levels can rise very quickly in response to heavy rainfall.\nWe are closely monitoring the situation.   \nIf you have property level protection install it now.\nPlan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. This message will be updated this  evening Sunday 31st October.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-10-31T10:28:00",
+      "timeRaised": "2021-10-31T10:28:31",
+      "timeSeverityChanged": "2021-10-31T10:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF419",
+      "description": "Tilmore Brook Petersfield",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF419",
+        "county": "Hampshire",
+        "notation": "065WAF419",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF419/polygon",
+        "riverOrSea": "Tilmore Brook"
+      },
+      "floodAreaID": "065WAF419",
+      "isTidal": false,
+      "message": "The water level in the Tilmore Brook is very high but currently stable. In the last 4 hours, 20mm of rain has been recorded in Petersfield, which is a large amount in a short period of time. Currently, at Winchester Road, there is a small blockage at the debris screen. The water level in the river is almost at the top of the bank. Environment Agency staff are currently in Petersfield (10:00 Sunday 31/10/21), and will be clearing the debris screen at Charles Street, before moving to Winchester Road. Rain has now cleared the area but showers, some heavy, are forecast throughout the rest of the day. At Winchester Road and at Charles Street, as soon as the blockages are removed, the water level will reduce rapidly. However, until at least 14:00 this afternoon, the river will remain very high as it flows through central Petersfield. We will continue to monitor the forecast and will ensure the debris screens are cleared as necessary. Today, please keep away from the river as water will be deep and fast flowing. This Flood Alert will be removed by 16:00 on 31/10/21.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T10:23:00",
+      "timeRaised": "2021-10-31T10:23:36",
+      "timeSeverityChanged": "2021-10-31T10:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTESR",
+      "description": "East Somerset Rivers",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTESR",
+        "county": "Somerset",
+        "notation": "112WAFTESR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTESR/polygon",
+        "riverOrSea": "River Brue, River Sheppey, North Drain, South Drain"
+      },
+      "floodAreaID": "112WAFTESR",
+      "isTidal": false,
+      "message": "River levels are rising at the Bruton Dam river gauge as a result of heavy rainfall this morning, 31/10/21.  Consequently, flooding of roads and farmland is possible today, 31/10/21.  We expect flooding to affect the B3151 Glastonbury to Meare Road.  Overtopping is forecast from the Glastonbury Millstream and the River Brue at North Drain and Westhay.  The River Brue is forecast to be bankfull upstream of Bruton Dam with field flooding likely.   No further rainfall is forecast for today, 31/10/21. We are closely monitoring the situation.   Our incident response staff are clearing weed screens and checking defences.  Please avoid using low lying footpaths near local watercourses, plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. This message will be updated by 13:00 on Monday, 01/11/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T10:17:00",
+      "timeRaised": "2021-10-31T10:18:52",
+      "timeSeverityChanged": "2021-10-31T10:17:00"
     }
   ]
 }
