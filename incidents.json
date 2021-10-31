@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T10:15:00",
-      "timeRaised": "2021-10-31T10:15:38",
-      "timeSeverityChanged": "2021-10-31T09:39:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -918,6 +897,27 @@
       "timeSeverityChanged": "2021-10-31T09:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been issued. Overtopping waves and spray are expected as a result of strong winds and high waves. The particular areas of concern are Bridlington South Pier between 12:00 and 19:00 and Bridlington Lifeboat Station between 12:30 and 17:00 today, Sunday 31st October. Further overtopping and spray is expected in the early hours of tomorrow morning, Monday 1st November, at Bridlington South Pier between 00:30 and 05:15 and Bridlington Lifeboat Station between 01:00 and 04:15. Please take care around exposed promenades and roads where spray may create hazardous conditions. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T10:15:00",
+      "timeRaised": "2021-10-31T10:15:38",
+      "timeSeverityChanged": "2021-10-31T09:39:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
       "description": "River Wye in Gloucestershire",
       "eaAreaName": "West Midlands",
@@ -1372,11 +1372,11 @@
       },
       "floodAreaID": "111WAFSTOU",
       "isTidal": false,
-      "message": "River levels are rising steadily on the Upper Dorset Stour, Shreen Water due to heavy rainfall.\nFlooding is forecast to affect locations near the Upper Dorset Stour, Shreen Water, with low lying land expected to be most affected, particularly around tributaries between Gillingham and Sturminster Newton.\nFlooding is possible at tributaries between Gillingham and Sturminster Newton from 09:30 AM on 31/10/2021.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\n\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 03:00 PM on 31/10/2021, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall on the Upper Dorset Stour, Shreen Water.\nAreas most at risk include tributaries between Gillingham and Sturminster Newton.\nNo further rainfall is forecast this afternoon.\nRiver levels will start to fall, but the risk of flooding to properties remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T09:20:00",
-      "timeRaised": "2021-10-31T09:21:09",
+      "timeMessageChanged": "2021-10-31T15:08:00",
+      "timeRaised": "2021-10-31T15:08:31",
       "timeSeverityChanged": "2021-10-31T09:20:00"
     },
     {
@@ -1413,12 +1413,12 @@
       },
       "floodAreaID": "031WAF218",
       "isTidal": false,
-      "message": "River levels are falling slowly remain high at the Cox's Flume river gauge as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is possible today, Sunday 31/10/21.  We expect flooding to affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Aschurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington.   \nNo further heavy rainfall is forecast today.  We expect river levels to remain high until this evening, Sunday 31/10/2021.\nWe are closely monitoring the situation.  Our incident response staff are checking defences and clearing weed screens.  \nPlease avoid using low lying footpaths near local watercourses. Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 7pm today, Sunday 31/10/21, or as the situation changes.\n ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T13:52:00",
-      "timeRaised": "2021-10-31T13:52:30",
-      "timeSeverityChanged": "2021-10-31T09:44:00"
+      "message": " This Flood Alert has been removed.  \nRiver levels are falling, but still pose a flood risk.    No further heavy rainfall is forecast.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-10-31T15:29:00",
+      "timeRaised": "2021-10-31T15:29:48",
+      "timeSeverityChanged": "2021-10-31T15:29:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF53LLTribs",
@@ -1686,11 +1686,11 @@
       },
       "floodAreaID": "111FWFFROU210",
       "isTidal": false,
-      "message": "River levels are continuing to rise steadily on the Upper Dorset Frome, Hooke River due to heavy rainfall.\nFlooding is affect locations near the Upper Dorset Frome, Hooke River, with low lying land expected to be most affected, particularly around areas in Higher Frome Vauchurch, Frome Vauchurch, Cruxton, Notton, Frampton, Grimstone, Muckleford, Stratton, Bradford Peverell, Wrackleford, Charminster, Frome Whitfield, Wolfeton, Lower Burton and Cokers Frome.\n.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe are liaising with emergency services and local authorities.\n\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings. Start acting on your flood plan if you have one Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 03:00 PM on 31/10/2021, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall on the Upper Dorset Frome, Hooke River.\nAreas most at risk include areas in Higher Frome Vauchurch, Frome Vauchurch, Cruxton, Notton, Frampton, Grimstone, Muckleford, Stratton, Bradford Peverell, Wrackleford, Charminster, Frome Whitfield, Wolfeton, Lower Burton and Cokers Frome.\nRiver levels are expected to remain high this evening and flooding of properties will continue.\nThe forecast is dry for this afternoon into this evening.\nRiver levels will start to fall, but the risk of flooding to properties remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 06:30 PM on 31/10/2021, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-10-31T11:46:00",
-      "timeRaised": "2021-10-31T11:46:36",
+      "timeMessageChanged": "2021-10-31T15:04:00",
+      "timeRaised": "2021-10-31T15:04:38",
       "timeSeverityChanged": "2021-10-31T11:08:00"
     },
     {
@@ -2133,6 +2133,69 @@
       "timeMessageChanged": "2021-10-31T14:56:00",
       "timeRaised": "2021-10-31T14:57:34",
       "timeSeverityChanged": "2021-10-31T14:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
+      "description": "Upper Dove",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315",
+        "county": "Derbyshire, Staffordshire",
+        "notation": "033WAF315",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315/polygon",
+        "riverOrSea": "River Dove"
+      },
+      "floodAreaID": "033WAF315",
+      "isTidal": false,
+      "message": "River levels have risen at the Mayfield river gauge as a result of heavy rainfall this morning.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21. Flooding is affecting low-lying land and roads adjacent to the River Dove between Izaak Walton and Rocester and the Henmore Brook between Carsington Dam and Mayfield.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nThis message will be updated in the morning, Monday 01/11/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T15:23:00",
+      "timeRaised": "2021-10-31T15:24:15",
+      "timeSeverityChanged": "2021-10-31T15:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
+      "description": "River Frome in Herefordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118",
+        "county": "Herefordshire",
+        "notation": "031WAF118",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "031WAF118",
+      "isTidal": false,
+      "message": " River levels are rising at the Bishops Frome river gauge as a result of persistent heavy rainfall.  Consequently, flooding  is imminent.  We expect flooding to affect low lying land and roads along the River Frome from Bromyard to Hereford. Other locations that may be affected include Bishops Frome and Yarkhill.   \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 19:00 on 31/10/2021, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T15:18:00",
+      "timeRaised": "2021-10-31T15:19:11",
+      "timeSeverityChanged": "2021-10-31T15:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFNADD",
+      "description": "River Nadder and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFNADD",
+        "county": "Wiltshire",
+        "notation": "111WAFNADD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFNADD/polygon",
+        "riverOrSea": "River Nadder"
+      },
+      "floodAreaID": "111WAFNADD",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the River Nadder due to earlier heavy rainfall.\nFlooding is forecast to affect locations near the River Nadder, with low lying land expected to be most affected, particularly around the River Nadder and tributaries between Donhead St Mary and Salisbury.\n\nThe forecast is dry for this afternoon and into this evening.\nRiver levels are rising at the Tisbury gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T15:21:00",
+      "timeRaised": "2021-10-31T15:22:24",
+      "timeSeverityChanged": "2021-10-31T15:21:00"
     }
   ]
 }
