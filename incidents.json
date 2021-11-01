@@ -259,12 +259,12 @@
       },
       "floodAreaID": "011FWFNC35",
       "isTidal": false,
-      "message": " River levels remain high following prolonged rainfall, although they are now beginning to fall slowly. Further showers are expected today, Sunday 31/10/2021, and overnight into Monday, 01/11/2021.  Flooding is expected at properties adjacent to the River Leven at Newby Bridge and Backbarrow, including the Swan Hotel, Boat Houses, Mill Farm, The Whitewater Hotel, Water Close, Lakeland Village, Coach House and Levens Dale. We continue to closely monitor the situation. Our incident response staff are checking defences. Avoid using low lying roads and footpaths and any bridges near local watercourses, do not attempt to walk or drive through flood water. We will continue to monitor the forecast and update this message tomorrow, 01/11/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-31T13:10:00",
-      "timeRaised": "2021-10-31T13:10:16",
-      "timeSeverityChanged": "2021-10-28T11:54:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T11:55:00",
+      "timeRaised": "2021-11-01T11:55:58",
+      "timeSeverityChanged": "2021-11-01T11:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC34",
@@ -280,12 +280,12 @@
       },
       "floodAreaID": "011FWFNC34",
       "isTidal": false,
-      "message": " The level of Windermere remains high following recent heavy rainfall, although it is now beginning to fall slowly.  Further showers are expected today, Sunday 31/10/2021, and overnight into Monday, 01/11/2021.  Flooding is expected to remain a risk to low lying commercial and residential properties, camping, caravan sites and leisure facilities on the shores of Windermere. Avoid using low lying roads and footpaths and any bridges near local watercourses, do not attempt to walk or drive through flood water. We will update this message tomorrow morning 01/11/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-10-31T13:10:00",
-      "timeRaised": "2021-10-31T13:10:28",
-      "timeSeverityChanged": "2021-10-28T13:13:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T11:54:00",
+      "timeRaised": "2021-11-01T11:54:54",
+      "timeSeverityChanged": "2021-11-01T11:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
@@ -3225,6 +3225,48 @@
       "timeMessageChanged": "2021-11-01T11:16:00",
       "timeRaised": "2021-11-01T11:16:46",
       "timeSeverityChanged": "2021-11-01T11:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
+      "description": "River Alt, Formby to Huyton",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
+        "county": "Knowsley, Lancashire, Liverpool, Sefton",
+        "notation": "012WAFAC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
+        "riverOrSea": "River Alt"
+      },
+      "floodAreaID": "012WAFAC",
+      "isTidal": false,
+      "message": "River levels are rising on the River Alt due to heavy rainfall.\nFlooding is forecast to affect locations near the River Alt from midday 01/11/2021, with low lying land expected to be most affected, particularly around River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt.\nFurther rainfall is forecast this afternoon.\nWe are clearing debris from weed screens in the area. We are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 07:00 PM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T11:41:00",
+      "timeRaised": "2021-11-01T11:42:02",
+      "timeSeverityChanged": "2021-11-01T11:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFLI",
+      "description": "Lower River Irwell catchment including areas in Greater Manchester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFLI",
+        "county": "Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Tameside, Trafford",
+        "notation": "013WAFLI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFLI/polygon",
+        "riverOrSea": "River Irwell"
+      },
+      "floodAreaID": "013WAFLI",
+      "isTidal": false,
+      "message": "River levels are rising on the River Irwell due to heavy rainfall. Flooding is possible at low lying land and roads around the Rivers Irk and Medlock, Wince and Worsley Brooks and their tributaries today, on Monday 1 November 2021. Further heavy rainfall is forecast today, on 1/11/2021. Avoid using low lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. Our incident response staff are closely monitoring the situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T12:08:00",
+      "timeRaised": "2021-11-01T12:10:42",
+      "timeSeverityChanged": "2021-11-01T12:08:00"
     }
   ]
 }
