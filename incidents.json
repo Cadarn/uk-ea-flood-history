@@ -15,69 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "River levels are remaining high on the Middle Dorset Stour.\nAreas most at risk include tributaries between Sturminster Newton and Wimborne.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are beginning to fall, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 05:00 PM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T10:27:00",
-      "timeRaised": "2021-11-01T10:27:18",
-      "timeSeverityChanged": "2021-10-31T17:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": "River levels are rising steadily on the Lower Dorset Stour.\nFlooding is forecast to affect locations near the Lower Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Wimborne and Christchurch.\nFlooding is possible at tributaries between Wimborne and Christchurch from 05:00 PM on 01/11/2021.\nNo further rainfall is forecast for 24 hours.\nRiver levels are rising at the Throop and Wimborne A31 gauge.\nWe are liaising with emergency services and local authorities.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 05:00 PM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T10:59:00",
-      "timeRaised": "2021-11-01T10:59:51",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-01T07:45:00",
-      "timeRaised": "2021-11-01T07:45:25",
-      "timeSeverityChanged": "2021-11-01T07:45:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -1021,6 +958,27 @@
       "timeMessageChanged": "2021-11-01T08:35:00",
       "timeRaised": "2021-11-01T08:35:13",
       "timeSeverityChanged": "2021-11-01T08:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T07:45:00",
+      "timeRaised": "2021-11-01T07:45:25",
+      "timeSeverityChanged": "2021-11-01T07:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -2471,6 +2429,27 @@
       "timeSeverityChanged": "2021-11-01T08:16:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels are remaining high on the Middle Dorset Stour.\nAreas most at risk include tributaries between Sturminster Newton and Wimborne.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are beginning to fall, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 05:00 PM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T10:27:00",
+      "timeRaised": "2021-11-01T10:27:18",
+      "timeSeverityChanged": "2021-10-31T17:05:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
       "description": "Bourne Brook (Tamworth)",
       "eaAreaName": "West Midlands",
@@ -2715,11 +2694,32 @@
       },
       "floodAreaID": "111WAFFROL",
       "isTidal": false,
-      "message": " River levels are rising steadily on the Lower Dorset Frome. Areas most at risk include low lying areas between Dorchester and Wareham.\nNo further rainfall is forecast, however river levels are high and forecast to rise further throughout the day, today 01/11/2021. The flood impact will be similar to that of the flood incident last week.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor levels closely.\nWe are liaising with emergency services and local authorities.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
+      "message": "River levels are remaining high on the Lower Dorset Frome due to yesterdays heavy rainfall.\nFlooding is forecast to affect locations near the Lower Dorset Frome, with low lying land expected to be most affected, particularly around tributaries between Dorchester and Wareham.\nNo further rainfall is forecast for the next 24 hours.\nRiver levels are remaining high, but the risk of flooding to low-lying land remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 05:00 PM on 01/11/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T06:07:00",
-      "timeRaised": "2021-11-01T06:08:06",
+      "timeMessageChanged": "2021-11-01T11:13:00",
+      "timeRaised": "2021-11-01T11:13:36",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Lower Dorset Stour.\nFlooding is forecast to affect locations near the Lower Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Wimborne and Christchurch.\nFlooding is possible at tributaries between Wimborne and Christchurch from 05:00 PM on 01/11/2021.\nNo further rainfall is forecast for 24 hours.\nRiver levels are rising at the Throop and Wimborne A31 gauge.\nWe are liaising with emergency services and local authorities.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 05:00 PM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T10:59:00",
+      "timeRaised": "2021-11-01T10:59:51",
       "timeSeverityChanged": "2021-11-01T06:07:00"
     },
     {
@@ -2757,12 +2757,12 @@
       },
       "floodAreaID": "111FWFFROL310",
       "isTidal": false,
-      "message": "River levels are rising steadily on the Lower Dorset Frome.\nAreas most at risk include areas in Dorchester, West Stafford, Bockhampton, Lewell, Tincleton, Pallington, Waddock, Moreton, Wool and East Stoke.\nFlooding is expected at areas in Dorchester, West Stafford, Bockhampton, Lewell, Tincleton, Pallington, Waddock, Moreton, Wool and East Stoke from 08:00 AM on 01/11/2021.\nNo further rainfall is forecast however river levels are rising steadily in response to  yesterday's rainfall.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-11-01T06:09:00",
-      "timeRaised": "2021-11-01T06:10:00",
-      "timeSeverityChanged": "2021-11-01T06:09:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo further rainfall is forecast for 24 hours.\nThe Lower Dorset Frome levels remain high but are beginning to fall today (01/11/2021) and we do not expect any further flooding to properties.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T11:10:00",
+      "timeRaised": "2021-11-01T11:11:03",
+      "timeSeverityChanged": "2021-11-01T11:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
@@ -3204,6 +3204,27 @@
       "timeMessageChanged": "2021-11-01T10:20:00",
       "timeRaised": "2021-11-01T10:23:34",
       "timeSeverityChanged": "2021-11-01T10:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUD",
+      "description": "Upper River Douglas",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUD",
+        "county": "Bolton, Lancashire, Wigan",
+        "notation": "012WAFUD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUD/polygon",
+        "riverOrSea": "River Douglas"
+      },
+      "floodAreaID": "012WAFUD",
+      "isTidal": false,
+      "message": "River levels have risen on the River Douglas due to heavy rainfall.\nFlooding is forecast to affect locations near the River Douglas from 11:15 AM today, with low lying land expected to be most affected, particularly around The River Douglas from Horwich Star Vale to Appley Bridge including Adlington, Blackrod, Wigan, Standish, and Gathurst.\nFurther rainfall is forecast this afternoon.\nWe are clearing debris from weed screens in the area.  We are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.  Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 07:00 PM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T11:16:00",
+      "timeRaised": "2021-11-01T11:16:46",
+      "timeSeverityChanged": "2021-11-01T11:16:00"
     }
   ]
 }
