@@ -15,6 +15,69 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels are rising on the Middle Dorset Stour.\nFlooding is forecast to affect locations near the Middle Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Sturminster Newton and Wimborne.\nFurther showery rainfall is forecast throughout the evening.\nRiver levels are rising steadily at the Hammoon gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:30 AM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-10-31T17:05:00",
+      "timeRaised": "2021-10-31T17:05:47",
+      "timeSeverityChanged": "2021-10-31T17:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Lower Dorset Stour.\nAreas most at risk include low lying areas between Wimborne and Christchurch.\nNo further rainfall is forecast\nRiver levels are high and forecast to rise further throughout the day, today 01/11/2021.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor levels closely.\nWe are liaising with emergency services and local authorities.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T06:07:00",
+      "timeRaised": "2021-11-01T06:08:58",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T07:45:00",
+      "timeRaised": "2021-11-01T07:45:25",
+      "timeSeverityChanged": "2021-11-01T07:45:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -469,12 +532,12 @@
       },
       "floodAreaID": "114WAFT1W10A00",
       "isTidal": false,
-      "message": "Flooding is possible during the remainder of this evening and into the early hours of tomorrow morning, Monday 1st November. River levels remain elevated and reactive to the heavy showers previously observed and forecast, though no flooding to properties is currently expected. Further scattered heavy showers are forecast overnight. Catchments are saturated and rivers are reacting to this further rain. Flooding to low lying land and roads close to rivers is possible. Take care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated tomorrow morning or earlier if the situation changes.  ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T19:14:00",
-      "timeRaised": "2021-10-31T19:14:31",
-      "timeSeverityChanged": "2021-10-28T16:33:00"
+      "message": "The risk of flooding has now reduced. River levels remain slightly elevated, but are now within normal limits and below levels of concern. No further flooding is expected, however there may be standing water seen for several days.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T08:50:00",
+      "timeRaised": "2021-11-01T08:50:39",
+      "timeSeverityChanged": "2021-11-01T08:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W09A00",
@@ -952,33 +1015,12 @@
       },
       "floodAreaID": "031WAF215",
       "isTidal": false,
-      "message": " River levels are rising slowly at the Parkend and Lydney river gauges as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is expected to continue.  We expect flooding to affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.   \nNo further heavy rainfall is overnight tonight. We expect river levels to remain high over the next 24 hours. \n\nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\n  \nThis message will be updated by 10am tomorrow, Monday 01/11/21, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T17:57:00",
-      "timeRaised": "2021-10-31T17:58:00",
-      "timeSeverityChanged": "2021-10-31T09:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "message": "This Flood Alert has been removed.  \nRiver levels are falling, the risk of flooding following recent heavy rainfall has now reduced. No further significant rainfall is forecast. We will continue to monitor the forecast and re-issue this alert if necessary.  \nWe continue to monitor the situation.  \n",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2021-11-01T07:45:00",
-      "timeRaised": "2021-11-01T07:45:25",
-      "timeSeverityChanged": "2021-11-01T07:45:00"
+      "timeMessageChanged": "2021-11-01T08:35:00",
+      "timeRaised": "2021-11-01T08:35:13",
+      "timeSeverityChanged": "2021-11-01T08:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -1414,12 +1456,12 @@
       },
       "floodAreaID": "031WAF216",
       "isTidal": false,
-      "message": " River levels remain high at the Brimscombe river gauge as a result of recent heavy rainfall.  Consequently, flooding of roads and farmland is possible.  We expect flooding to affect low lying land and roads adjacent the river from Elmore to Sharpness. Other locations that may be affected include Chalford, Leonard Stanley and Cambridge.   \nNo further heavy rainfall is forecast overnight tonight. We expect river levels to remain high over the next few days.\nWe are closely monitoring the situation.  Our incident response staff are clearing weed screens.  \nThis message will be updated by 10am tomorrow, Monday 01/11/21, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T17:57:00",
-      "timeRaised": "2021-10-31T17:57:51",
-      "timeSeverityChanged": "2021-10-31T09:27:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have peaked and will remain steady, with no further rise forecasted.  No further significant rainfall is forecast. We will continue to monitor the forecast and re-issue this alert if necessary.  \nWe continue to monitor the situation. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T08:34:00",
+      "timeRaised": "2021-11-01T08:35:06",
+      "timeSeverityChanged": "2021-11-01T08:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
@@ -1518,11 +1560,11 @@
       },
       "floodAreaID": "033WAF302",
       "isTidal": false,
-      "message": "River levels remain high but steady at the Cheswick Green river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21. Flooding is affecting low-lying land and roads adjacent to the River Blythe between Cheswick Green and Blyth End.   \nShowers are forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning Monday 01/11/21, or as the situation changes.",
+      "message": "River levels remain high but steady at the Cheswick Green river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Monday 01/11/21. Flooding is affecting low-lying land and roads adjacent to the River Blythe between Cheswick Green and Blyth End.   \nNo further rainfall is forecast over the next 24 hours.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, Monday 01/11/21 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T16:43:00",
-      "timeRaised": "2021-10-31T16:43:31",
+      "timeMessageChanged": "2021-11-01T08:39:00",
+      "timeRaised": "2021-11-01T08:39:48",
       "timeSeverityChanged": "2021-10-31T10:03:00"
     },
     {
@@ -1707,12 +1749,12 @@
       },
       "floodAreaID": "033WAF312",
       "isTidal": false,
-      "message": "River levels have risen at the Coven river gauge as a result of heavy rainfall this morning.  Consequently, flooding is expected to continue.  Flooding is affecting low-lying land and roads adjacent to the River Sow between Great Bridgeford and Shugborough, the River Penk between Coven and Stafford, the Sandyford Brook, the Rising Brook, the Ridings Brook and the Saredon Brook.   \nFurther rainfall is forecast over the next 24 hours.  We expect river levels to rise until Monday 01/11/21.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses, plan driving routes to avoid low lying roads near rivers, which may be flooded and stay aware in case further warnings are issued.\nThis message will be updated in the morning Monday 01/11/21, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T17:16:00",
-      "timeRaised": "2021-10-31T17:16:36",
-      "timeSeverityChanged": "2021-10-31T11:02:00"
+      "message": "River levels have now fallen below the flood risk threshold.    Further showers are possible over the next 24 hours.  \nWe continue to monitor the situation.  Our incident response staff are actively monitoring river levels and the weather forecast.   ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T08:44:00",
+      "timeRaised": "2021-11-01T08:44:14",
+      "timeSeverityChanged": "2021-11-01T08:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFCALE",
@@ -1980,11 +2022,11 @@
       },
       "floodAreaID": "033WAF205",
       "isTidal": false,
-      "message": "River levels have risen at the Little Alne river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21. Flooding is affecting low-lying land and roads adjacent to the River Arrow between Studley and Salford Priors and the River Alne between Bird in Hand and Alcester on the River Alne including farmland and caravan parks.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nThis message will be updated this tomorrow morning, Monday 01/11/21 or as the situation changes.",
+      "message": "River levels remain high but steady Little Alne river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Monday 01/11/21. Flooding is affecting low-lying land and roads adjacent to the River Arrow between Studley and Salford Priors and the River Alne between Bird in Hand and Alcester on the River Alne including farmland and caravan parks.  \nNo further rainfall is forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nThis message will be updated this this evening, Monday 01/11/21 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T12:47:00",
-      "timeRaised": "2021-10-31T12:48:09",
+      "timeMessageChanged": "2021-11-01T08:39:00",
+      "timeRaised": "2021-11-01T08:39:59",
       "timeSeverityChanged": "2021-10-31T12:47:00"
     },
     {
@@ -2022,11 +2064,11 @@
       },
       "floodAreaID": "033WAF201",
       "isTidal": false,
-      "message": "River levels have risen at the Clay Coton river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21. Flooding is affecting low-lying land and roads adjacent to River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne.   \nShowers are forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, Monday 01/11/21 or as the situation changes.",
+      "message": " River levels remain high but steady at the Clay Coton river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Monday 01/11/21. Flooding is affecting low-lying land and roads adjacent to River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne.   \nNo further rainfall is forecast over the next 24 hours.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, Monday 01/11/21 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T14:00:00",
-      "timeRaised": "2021-10-31T14:01:26",
+      "timeMessageChanged": "2021-11-01T08:39:00",
+      "timeRaised": "2021-11-01T08:40:08",
       "timeSeverityChanged": "2021-10-31T14:00:00"
     },
     {
@@ -2043,11 +2085,11 @@
       },
       "floodAreaID": "034WAF428",
       "isTidal": false,
-      "message": "River levels remain high but are beginning to fall at the Pillings Lock river gauge as a result of heavy rainfall.  Consequently, the risk of flooding of roads and farmland is reducing.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.   \n  \nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and clearing weed screens.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 09:00 on 01/11/21, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall at the Pillings Lock river gauge as a result of heavy rainfall. Consequently, the risk of flooding of roads and farmland is reducing. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and clearing weed screens. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 19:00 on 01/11/21, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T20:20:00",
-      "timeRaised": "2021-10-31T20:21:03",
+      "timeMessageChanged": "2021-11-01T09:01:00",
+      "timeRaised": "2021-11-01T09:02:21",
       "timeSeverityChanged": "2021-10-31T13:56:00"
     },
     {
@@ -2295,11 +2337,11 @@
       },
       "floodAreaID": "033WAF204",
       "isTidal": false,
-      "message": "River levels have risen at the Stratford river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21. Flooding is affecting low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.   \nShowers are forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, Monday 01/11/21 or as the situation changes.\n",
+      "message": " River levels remain high but steady at the Stratford river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Monday 01/11/21. Flooding is affecting low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.   \nNo further rainfall is forecast over the next 24 hours.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, Monday 01/11/21 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T15:56:00",
-      "timeRaised": "2021-10-31T15:57:46",
+      "timeMessageChanged": "2021-11-01T08:39:00",
+      "timeRaised": "2021-11-01T08:40:00",
       "timeSeverityChanged": "2021-10-31T15:56:00"
     },
     {
@@ -2316,11 +2358,11 @@
       },
       "floodAreaID": "033WAF307",
       "isTidal": false,
-      "message": " River levels have risen at the Mancetter river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Sunday 31/10/21. Flooding is affecting low-lying land and roads adjacent to the River Anker between Nuneaton and Tamworth the River Sence between Temple Mill and Ratcliffe Culey.  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  ",
+      "message": "River levels remain high but steady at the Mancetter river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today Monday 01/11/21. Flooding is affecting low-lying land and roads adjacent to the River Anker between Nuneaton and Tamworth the River Sence between Temple Mill and Ratcliffe Culey.  \n\nNo further rainfall is forecast over the next 24 hours.  \n\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, Monday 01/11/21 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T15:56:00",
-      "timeRaised": "2021-10-31T15:57:24",
+      "timeMessageChanged": "2021-11-01T08:39:00",
+      "timeRaised": "2021-11-01T08:39:39",
       "timeSeverityChanged": "2021-10-31T15:56:00"
     },
     {
@@ -2427,27 +2469,6 @@
       "timeMessageChanged": "2021-11-01T08:16:00",
       "timeRaised": "2021-11-01T08:17:12",
       "timeSeverityChanged": "2021-11-01T08:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "River levels are rising on the Middle Dorset Stour.\nFlooding is forecast to affect locations near the Middle Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Sturminster Newton and Wimborne.\nFurther showery rainfall is forecast throughout the evening.\nRiver levels are rising steadily at the Hammoon gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:30 AM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-10-31T17:05:00",
-      "timeRaised": "2021-10-31T17:05:47",
-      "timeSeverityChanged": "2021-10-31T17:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
@@ -2673,11 +2694,11 @@
       },
       "floodAreaID": "012FWFL3",
       "isTidal": false,
-      "message": "River levels are high and forecast to rise further on the River Wyre.\nRiver levels will be at their highest between 11:30 PM  this evening and 02:30 AM on 01/11/2021.\nFurther rainfall is forecast tomorrow morning which will cause river levels to remain high.\nAreas most at risk include the area of St Michaels that is to the north of the River Wyre, including farm land to the north of the village.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor levels closely.\nThis message will be updated tomorrow 01/11/2021, or as the situation changes.",
+      "message": "River levels remain high on the River Wyre.\nRiver levels will be at their highest between 10:30 AM and 13:30 PM on 01/11/2021.\nProperty flooding from the river is not expected.\nFurther rainfall is forecast this morning which will cause river levels to remain high.\nAreas most at risk include the area of St Michaels that is to the north of the River Wyre, including farm land to the north of the village.\nWe are monitoring rainfall and river levels and are operating flood basins in the area.\nThis message will be updated today 01/11/2021 at 16:00, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-10-31T22:08:00",
-      "timeRaised": "2021-10-31T22:09:46",
+      "timeMessageChanged": "2021-11-01T08:50:00",
+      "timeRaised": "2021-11-01T08:51:09",
       "timeSeverityChanged": "2021-10-31T22:08:00"
     },
     {
@@ -2699,27 +2720,6 @@
       "severityLevel": 3,
       "timeMessageChanged": "2021-11-01T06:07:00",
       "timeRaised": "2021-11-01T06:08:06",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": "River levels are rising steadily on the Lower Dorset Stour.\nAreas most at risk include low lying areas between Wimborne and Christchurch.\nNo further rainfall is forecast\nRiver levels are high and forecast to rise further throughout the day, today 01/11/2021.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nWe will continue to monitor levels closely.\nWe are liaising with emergency services and local authorities.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T06:07:00",
-      "timeRaised": "2021-11-01T06:08:58",
       "timeSeverityChanged": "2021-11-01T06:07:00"
     },
     {
@@ -3015,6 +3015,111 @@
       "timeMessageChanged": "2021-11-01T08:27:00",
       "timeRaised": "2021-11-01T08:28:05",
       "timeSeverityChanged": "2021-11-01T08:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF310",
+      "description": "River Ure at Roecliffe Caravan Park",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF310",
+        "county": "North Yorkshire",
+        "notation": "122FWF310",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF310/polygon",
+        "riverOrSea": "River Ure"
+      },
+      "floodAreaID": "122FWF310",
+      "isTidal": false,
+      "message": "River levels are rising on the River Ure due to heavy rainfall. Flooding is forecast to affect locations near the River Ure, with low lying land expected to be most affected, particularly around Roecliffe Caravan Park. Flooding is expected to affect Roecliffe Caravan Park from 23:30 on Monday 1st November.\nFurther light rainfall is forecast this morning, with river levels expected to remain high. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 16:00 on Monday 1st November, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-01T08:48:00",
+      "timeRaised": "2021-11-01T08:48:21",
+      "timeSeverityChanged": "2021-11-01T08:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012FWFL43A",
+      "description": "River Ribble at Samlesbury, around Brockholes Reserve and Lower Brockholes Quarry",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL43A",
+        "county": "Lancashire",
+        "notation": "012FWFL43A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL43A/polygon",
+        "riverOrSea": "River Ribble"
+      },
+      "floodAreaID": "012FWFL43A",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Ribble due to rainfall.\nFlooding is forecast to affect locations near the River Ribble between 11:00 AM and 19:00 PM today, with low lying land expected to be most affected, particularly around Brockholes Reserve and businesses based at Lower Brockholes Quarry.\nFurther rainfall is forecast this morning.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.  Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 17:00 PM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-01T08:58:00",
+      "timeRaised": "2021-11-01T08:58:58",
+      "timeSeverityChanged": "2021-11-01T08:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012FWFL6A",
+      "description": "River Ribble at Walton-le-Dale, area from Fishwick Bottoms to Railway Bridge",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL6A",
+        "county": "Lancashire",
+        "notation": "012FWFL6A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL6A/polygon",
+        "riverOrSea": "River Ribble"
+      },
+      "floodAreaID": "012FWFL6A",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Ribble due to rainfall.\nFlooding is forecast to affect locations near the River Ribble between 13:00 PM and 19:00 PM today, with low lying land expected to be most affected, particularly around Fishwick Bottoms area on the north bank of the River Ribble upstream of Walton Bridge. Properties on the South bank of the Ribble between the Darwen Confluence and the Railway Bridge including the sewage works and Catholic College playing fields.\nFurther rainfall is forecast this morning.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.  Plan driving routes to avoid low lying roads near rivers, which may be flooded.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 17:00 PM on 01/11/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-01T09:01:00",
+      "timeRaised": "2021-11-01T09:01:45",
+      "timeSeverityChanged": "2021-11-01T09:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF964",
+      "description": "Lower River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF964",
+        "county": "Calderdale, Kirklees, Leeds, Wakefield",
+        "notation": "123WAF964",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF964/polygon",
+        "riverOrSea": "River Calder"
+      },
+      "floodAreaID": "123WAF964",
+      "isTidal": false,
+      "message": " River Levels in the lower Calder are rising in response to last nights rain. Rain is forecast to continue to around lunchtime. Levels are expected to continue rising through the morning, peaking this evening before starting to drop away over night\nConsequently, flooding to roads and farmland is possible \nAreas at risk include Calder View Road at Mirfield\nWe are closely monitoring the situation and our incident response staff are checking defences. \nPlease avoid using low lying footpaths near local watercourses and be aware rivers could rise very quickly even if it's not raining where you are. This message will be updated at 4pm, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T08:53:00",
+      "timeRaised": "2021-11-01T08:54:40",
+      "timeSeverityChanged": "2021-11-01T08:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF940",
+      "description": "Lower River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940",
+        "county": "North Yorkshire",
+        "notation": "122WAF940",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940/polygon",
+        "riverOrSea": "River Ure, Swinney Beck, Bishop Monkton Beck, River Skell, River Laver, River Tutt, Stainley Beck"
+      },
+      "floodAreaID": "122WAF940",
+      "isTidal": false,
+      "message": "River levels have risen on the River Skell and River Ure due to rainfall. Flooding is forecast to affect locations near the River Skell and River Ure, with low lying land expected to be most affected, including agricultural land and local roads in the areas around Masham, Boroughbridge, Aldborough and Bishop Monkton from later this morning, Monday 1st November. \nFurther light rainfall is forecast through today, with river levels expected to remain high. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 20:00 on Monday 1st November, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T08:47:00",
+      "timeRaised": "2021-11-01T08:48:33",
+      "timeSeverityChanged": "2021-11-01T08:47:00"
     }
   ]
 }
