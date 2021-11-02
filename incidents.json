@@ -15,69 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "River levels remain high but are beginning to fall on the Middle Dorset Stour.\nAreas most at risk include tributaries between Sturminster Newton and Wimborne.\nNo further rainfall is forecast.\nRiver levels will start to fall, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00 AM on 02/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T17:15:00",
-      "timeRaised": "2021-11-01T17:17:18",
-      "timeSeverityChanged": "2021-10-31T17:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": "River levels are rising on the Lower Dorset Stour.\nFlooding is forecast to affect locations near the Lower Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further at the Blandford, Throop, Wimborne A31 gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:00 AM on 02/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T17:15:00",
-      "timeRaised": "2021-11-01T17:17:17",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-01T07:45:00",
-      "timeRaised": "2021-11-01T07:45:25",
-      "timeSeverityChanged": "2021-11-01T07:45:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -580,6 +517,27 @@
       "timeMessageChanged": "2021-11-01T08:35:00",
       "timeRaised": "2021-11-01T08:35:13",
       "timeSeverityChanged": "2021-11-01T08:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for North Sea coast at Bridlington has now been removed due to improving weather conditions and falling tides. We no longer expect overtopping from waves. Please continue to be careful along beaches, promenades, coastal footpaths and roads.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-01T07:45:00",
+      "timeRaised": "2021-11-01T07:45:25",
+      "timeSeverityChanged": "2021-11-01T07:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -1653,6 +1611,27 @@
       "timeSeverityChanged": "2021-11-01T08:16:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels remain high but are beginning to fall on the Middle Dorset Stour.\nAreas most at risk include tributaries between Sturminster Newton and Wimborne.\nNo further rainfall is forecast.\nRiver levels will start to fall, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 10:00 AM on 02/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T17:15:00",
+      "timeRaised": "2021-11-01T17:17:18",
+      "timeSeverityChanged": "2021-10-31T17:05:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
       "description": "Bourne Brook (Tamworth)",
       "eaAreaName": "West Midlands",
@@ -1905,6 +1884,27 @@
       "timeSeverityChanged": "2021-11-01T06:07:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "River levels are rising on the Lower Dorset Stour.\nFlooding is forecast to affect locations near the Lower Dorset Stour, with low lying land expected to be most affected, particularly around tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast.\nRiver levels are high and forecast to rise further at the Blandford, Throop, Wimborne A31 gauge.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 10:00 AM on 02/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-01T17:15:00",
+      "timeRaised": "2021-11-01T17:17:17",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOL800",
       "description": "Lower Stour from Sturminster Marshall to Christchurch",
       "eaAreaName": "Wessex",
@@ -2026,8 +2026,8 @@
       "message": "The flood alert for the Lower River Swale remains in force. River levels remain high at Maunby but have begun to slowly fall. Consequently, flooding of roads and farmland is still expected. Areas most at risk are low-lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low-lying footpaths near local watercourses and do not walk or drive through flood water. This message will be updated on Tuesday morning, 2nd November, or as the situation changes. Please see the GOV.UK website for a 5 day flood forecast.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T20:24:00",
-      "timeRaised": "2021-11-01T20:24:31",
+      "timeMessageChanged": "2021-11-02T01:27:00",
+      "timeRaised": "2021-11-02T01:27:41",
       "timeSeverityChanged": "2021-11-01T07:54:00"
     },
     {
@@ -2296,11 +2296,11 @@
       },
       "floodAreaID": "122WAF940",
       "isTidal": false,
-      "message": "The Lower River Ure flood alert remains in force as river levels remain high on the River Ure due to rainfall on the Pennines over the last few days. Low lying land is likely to be most affected, including agricultural land and local roads in the areas around Boroughbridge, Aldborough and Bishop Monkton on Monday 1st November. Levels are forecast to fall in this area overnight and we plan to remove this alert on Tuesday morning. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 03:30 on Tuesday 2nd November, or as the situation changes.",
+      "message": "The Lower River Ure flood alert remains in force as river levels remain high on the River Ure due to rainfall on the Pennines over the last few days. Low-lying land is likely to be most affected, including agricultural land and local roads in the areas around Boroughbridge, Aldborough and Bishop Monkton on Tuesday 2nd November. Levels are falling in this area and we plan to remove this alert on Tuesday morning. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated in 8 hours or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T19:50:00",
-      "timeRaised": "2021-11-01T19:50:18",
+      "timeMessageChanged": "2021-11-02T01:26:00",
+      "timeRaised": "2021-11-02T01:26:59",
       "timeSeverityChanged": "2021-11-01T08:47:00"
     },
     {
@@ -2464,11 +2464,11 @@
       },
       "floodAreaID": "122WAF946",
       "isTidal": false,
-      "message": "The flood alert for the Upper River Ouse remains in force due to rising levels on the river through York. Levels are rising in response to heavy rainfall on the Pennines over the last few days. Areas most at risk include riverside footpaths and low-lying land in York and to the south, as far as Naburn Lock, including Kings Staith, Queens Staith and South Esplanade. The Foss Barrier is in operation. Avoid using low-lying footpaths near local watercourses and do not attempt to walk or drive through flood water. Levels in York are forecast to peak during Tuesday morning, 02/11/2021. Please see GOV.UK website for the latest river levels and forecast for York. This message will be updated by 04:00 on Tuesday 02/11/2021, or as the situation changes. ",
+      "message": "The flood alert for the Upper River Ouse remains in force due to rising levels on the river through York. Levels are rising in response to heavy rainfall on the Pennines over the last few days. Areas most at risk include riverside footpaths and low-lying land in York and to the south, as far as Naburn Lock, including Kings Staith, Queens Staith and South Esplanade. The Foss Barrier is in operation. Avoid using low-lying footpaths near local watercourses and do not attempt to walk or drive through flood water. Levels in York are forecast to peak during the early hours of Tuesday morning, 02/11/2021. Please see GOV.UK website for the latest river levels and forecast for York. This message will be updated in 8 hours, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T19:59:00",
-      "timeRaised": "2021-11-01T19:59:31",
+      "timeMessageChanged": "2021-11-02T01:27:00",
+      "timeRaised": "2021-11-02T01:27:54",
       "timeSeverityChanged": "2021-11-01T13:10:00"
     },
     {
@@ -2527,11 +2527,11 @@
       },
       "floodAreaID": "122WAF947",
       "isTidal": false,
-      "message": "The flood alert for the Tidal River Ouse from Naburn Lock to Selby remains as river levels are rising steadily in York due to heavy rain upstream on the Pennines over the last few days. Areas near the River Ouse with low-lying land are expected to be most affected, particularly the tidal foreshore and agricultural land next to the river in Cawood, Kelfield, Wistow and Selby areas. The river level in Naburn at 23:25 on Monday 01/11/2021 is 2.29m and levels are forecast to rise slowly overnight and peak in the early hours of Tuesday 02/11/2021. Levels downstream at Selby Westmill are not currently of concern. No significant rainfall is expected in the next couple of days. We will continue to monitor levels closely. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Please see GOV.UK website for the latest river levels and forecast for York. This message will be updated by 09:30 on Tuesday 02/11/2021, or as the situation changes.",
+      "message": "The flood alert for the Tidal River Ouse from Naburn Lock to Selby has been issued as levels are rising steadily in York due to heavy rainfall upstream in the Pennines over the last few days. Areas near the River Ouse with low-lying land are expected to be most affected, particularly around the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. The river level in Naburn at 01:00 on Tuesday 02/11/2021 is 2.35m and levels are forecast to peak early on Tuesday morning, 02/11/2021. Levels downstream at Selby Westmill are not currently of concern. No significant rainfall is expected in the next couple of days. We will continue to monitor levels closely. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Please see GOV.UK website for the latest river levels and forecast for York. This message will be updated in 8 hours, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-01T23:41:00",
-      "timeRaised": "2021-11-01T23:41:51",
+      "timeMessageChanged": "2021-11-02T01:26:00",
+      "timeRaised": "2021-11-02T01:27:25",
       "timeSeverityChanged": "2021-11-01T17:13:00"
     },
     {
@@ -2590,11 +2590,11 @@
       },
       "floodAreaID": "122FWF723",
       "isTidal": false,
-      "message": "The flood warning for the River Ouse at Naburn Lock has been issued, due to rising river levels on the Ouse following recent rainfall. The River Ouse in York is currently 2.73m and is expected to continue to rise into the early hours of Tuesday morning, reaching approximately 2.95m at around 4am on Tuesday morning, 02/11/2021. Areas most at risk are the Naburn Lock area. Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated in 8 hours, or as the situation changes.",
+      "message": "The flood warning for the River Ouse at Naburn Lock has been issued due to rising river levels on the Ouse following recent rainfall. The River Ouse in York is currently 2.79m and is expected to peak at around 2.8m at around 5am on Tuesday morning, 02/11/2021. Areas most at risk are the Naburn Lock area. Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated in 8 hours, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-11-01T23:30:00",
-      "timeRaised": "2021-11-01T23:31:15",
+      "timeMessageChanged": "2021-11-02T01:25:00",
+      "timeRaised": "2021-11-02T01:26:04",
       "timeSeverityChanged": "2021-11-01T23:30:00"
     },
     {
@@ -2611,11 +2611,11 @@
       },
       "floodAreaID": "122FWF710",
       "isTidal": false,
-      "message": "The flood warning for riverside properties in York has been issued as levels are rising on the River Ouse following recent rainfall. Consequently, flooding of properties, gardens, roads and paths is possible in the early hours of Tuesday, 02/11/2021. The River Ouse in York is forecast to peak at roughly 2.95m at around 4am on Tuesday, 02/11/2021. No further significant rainfall is expected overnight. Please avoid walking, cycling or driving through flood water and visit the GOV.UK website for a 5 day flood forecast and current river levels. We are closely monitoring the situation and will update this message in 8 hours, or as the situation changes.",
+      "message": "The flood warning for riverside properties in York has been issued as levels are rising on the River Ouse following recent rainfall. Consequently, flooding of properties, gardens, roads and paths is possible in the early hours of Tuesday, 02/11/2021. The River Ouse in York is forecast to peak at roughly 2.8m at around 5am on Tuesday, 02/11/2021. No further significant rainfall is expected overnight. Please avoid walking, cycling or driving through flood water and visit the GOV.UK website for a 5 day flood forecast and current river levels. We are closely monitoring the situation and will update this message in 8 hours, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-11-01T23:31:00",
-      "timeRaised": "2021-11-01T23:31:42",
+      "timeMessageChanged": "2021-11-02T01:26:00",
+      "timeRaised": "2021-11-02T01:26:17",
       "timeSeverityChanged": "2021-11-01T23:31:00"
     },
     {
