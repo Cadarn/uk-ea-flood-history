@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-02T13:10:00",
+      "timeRaised": "2021-11-02T13:10:23",
+      "timeSeverityChanged": "2021-11-02T13:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels are remaining high, and the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 03/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-02T13:12:00",
+      "timeRaised": "2021-11-02T13:12:21",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -595,11 +637,11 @@
       },
       "floodAreaID": "112WAFTMBA",
       "isTidal": false,
-      "message": "River levels are high but beginning to fall at the Bradford on Avon river gauge following heavy rainfall over the weekend. We expect flooding to affect low lying land and roads between Melksham and Bathford. The flood gates at Holt Road may be closed. Further light rainfall is forecast over the next 24 days. We are closely monitoring the situation. Our incident response staff are clearing weed screens. Please plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 8pm, Tuesday 02/11/21 or as the situation changes. ",
+      "message": "River levels are now falling at the Bradford on Avon river gauge following heavy rainfall over the weekend. We expect flooding to affect low lying land and roads between Melksham and Bathford. The flood gates at Holt Road may be closed. Light rainfall is forecast over the next 12 hours. We are closely monitoring the situation. Please plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and see the GOV.UK website for a 5 day flood forecast. This message will be updated Wednesday 03/11/21 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T11:25:00",
-      "timeRaised": "2021-11-02T11:25:24",
+      "timeMessageChanged": "2021-11-02T20:12:00",
+      "timeRaised": "2021-11-02T20:12:47",
       "timeSeverityChanged": "2021-10-31T14:07:00"
     },
     {
@@ -664,27 +706,6 @@
       "timeMessageChanged": "2021-11-02T09:34:00",
       "timeRaised": "2021-11-02T09:35:06",
       "timeSeverityChanged": "2021-11-02T09:34:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T13:10:00",
-      "timeRaised": "2021-11-02T13:10:23",
-      "timeSeverityChanged": "2021-11-02T13:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
@@ -832,27 +853,6 @@
       "timeMessageChanged": "2021-11-02T09:44:00",
       "timeRaised": "2021-11-02T09:45:03",
       "timeSeverityChanged": "2021-11-02T09:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": "River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels are remaining high, and the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 03/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T13:12:00",
-      "timeRaised": "2021-11-02T13:12:21",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOL800",
@@ -1183,11 +1183,11 @@
       },
       "floodAreaID": "122WAF946",
       "isTidal": false,
-      "message": "The flood alert for the Upper River Ouse remains in force as river levels in York remain high due to heavy rainfall upstream in the Pennines over the last few days. Areas most at risk include riverside footpaths and low-lying land in York and to the south, as far as Naburn Lock, including Kings Staith, Queens Staith and South Esplanade. Avoid using low-lying footpaths near local watercourses and do not attempt to walk or drive through flood water. Levels in York have been falling on Tuesday 02/11/2021 and will continue falling overnight into Wednesday 03/11/2021. Please see GOV.UK website for the latest river levels and forecast for York. This message will be updated by 21:00 on Tuesday 02/11/2021, or as the situation changes.",
+      "message": "The flood alert for the Upper River Ouse remains in force as river levels in York are high due to heavy rainfall upstream in the Pennines over the last few days. Areas most at risk include riverside footpaths and low-lying land in York and to the south, as far as Naburn Lock, including Kings Staith, Queens Staith and South Esplanade. Avoid using low-lying footpaths near local watercourses and do not attempt to walk or drive through flood water. Levels in York are continuing to fall and we currently expect to remove this alert on Wednesday morning, 03/11/2021. Please see GOV.UK website for the latest river levels and forecast for York. This message will be updated by 09:00 on Wednesday 03/11/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T17:37:00",
-      "timeRaised": "2021-11-02T17:37:26",
+      "timeMessageChanged": "2021-11-02T20:27:00",
+      "timeRaised": "2021-11-02T20:27:28",
       "timeSeverityChanged": "2021-11-01T13:10:00"
     },
     {
@@ -1246,11 +1246,11 @@
       },
       "floodAreaID": "122WAF947",
       "isTidal": false,
-      "message": "The flood alert for the Tidal River Ouse from Naburn Lock to Selby remains in force as river levels in York remain high due to heavy rainfall upstream in the Pennines over the last few days. Areas near the River Ouse with low-lying land are expected to be most affected, particularly around the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. The river level in Naburn at 17:00 on Tuesday 02/11/2021 is 2.27m and levels are continuing to fall slowly. Levels downstream at Selby Westmill are not currently of concern. No significant rainfall is expected in the next couple of days. We will continue to monitor levels closely. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Please see GOV.UK website for the latest river levels. This message will be updated by 21:00 on Tuesday 02/11/2021, or as the situation changes.",
+      "message": "The flood alert for the Tidal River Ouse from Naburn Lock to Selby remains in force as river levels in York are high due to heavy rainfall upstream in the Pennines over the last few days. Areas near the River Ouse with low-lying land are expected to be most affected, particularly the tidal foreshore and agricultural land adjacent to the river in Cawood, Kelfield, Wistow and Selby areas. The river level in Naburn at 20:00 on Tuesday 02/11/2021 is 2.2m and levels are continuing to fall slowly. Levels downstream at Selby Westmill are not currently of concern. No significant rainfall is expected in the next couple of days. We will continue to monitor levels closely and currently expect to remove this alert on Wednesday morning 03/11/2021. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Please see GOV.UK website for the latest river levels. This message will be updated by 09:00 on Wednesday 03/11/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T17:36:00",
-      "timeRaised": "2021-11-02T17:37:08",
+      "timeMessageChanged": "2021-11-02T20:27:00",
+      "timeRaised": "2021-11-02T20:27:27",
       "timeSeverityChanged": "2021-11-01T17:13:00"
     },
     {
@@ -1372,11 +1372,11 @@
       },
       "floodAreaID": "122WAF949",
       "isTidal": false,
-      "message": "The flood alert for the Upper River Derwent remains in force. Levels remain high in the headwaters of the River Derwent as a result of rainfall over the weekend. Consequently, flooding of roads and farmland is expected during Tuesday 02/11/2021 and Wednesday 03/11/2021. Areas most at risk are low-lying land and roads around Low Marishes. Levels here are currently falling but further rain is forecast for Wednesday and Thursday 04/11/2021, and levels are forecast to rise in response to this rain. Levels in Malton are not currently of concern. Please avoid using low-lying footpaths near local watercourses and do not walk or drive through flood water. Our incident response staff are closely monitoring the forecast. This message will be updated by 21:00 on Tuesday 02/11/2021, or as the situation changes. Please see the GOV.UK website for a 5 day flood forecast.",
+      "message": "The flood alert for the Upper River Derwent remains in force. Levels remain high in the headwaters of the River Derwent as a result of rainfall over the weekend. Consequently, flooding of roads and farmland is expected during Tuesday 2nd November and Wednesday 3rd November. Areas most at risk are low-lying land and roads around Low Marishes. Levels here are currently falling but further rain is forecast for Wednesday and Thursday 4th November, and levels are forecast to rise in response to this rain. Levels in Malton are not currently of concern. Please avoid using low-lying footpaths near local watercourses and do not walk or drive through flood water. Our incident response staff are closely monitoring the forecast. This message will be updated by 09:00 on Wednesday 3rd November, or as the situation changes. Please see the GOV.UK website for a 5 day flood forecast.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T17:21:00",
-      "timeRaised": "2021-11-02T17:21:28",
+      "timeMessageChanged": "2021-11-02T20:26:00",
+      "timeRaised": "2021-11-02T20:27:10",
       "timeSeverityChanged": "2021-11-02T09:36:00"
     },
     {
