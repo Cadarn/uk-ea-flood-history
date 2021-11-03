@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-02T13:10:00",
+      "timeRaised": "2021-11-02T13:10:23",
+      "timeSeverityChanged": "2021-11-02T13:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels are remaining high, and the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 03/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-02T13:12:00",
+      "timeRaised": "2021-11-02T13:12:21",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -267,27 +309,6 @@
       "timeSeverityChanged": "2021-11-02T16:44:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF208",
-      "description": "Bow and Piddle Brook",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF208",
-        "county": "Worcestershire",
-        "notation": "031WAF208",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF208/polygon",
-        "riverOrSea": "Piddle, Bow"
-      },
-      "floodAreaID": "031WAF208",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.    No further rainfall is forecast.  \nWe continue to monitor the situation.  \nPlease avoid contact with flood water. \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:22:00",
-      "timeRaised": "2021-11-02T09:23:06",
-      "timeSeverityChanged": "2021-11-02T09:22:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
       "description": "River Lugg south of Leominster",
       "eaAreaName": "West Midlands",
@@ -372,27 +393,6 @@
       "timeSeverityChanged": "2021-11-02T17:14:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF304",
-      "description": "Middle Tame",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF304",
-        "county": "Birmingham, Staffordshire, Warwickshire",
-        "notation": "033WAF304",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF304/polygon",
-        "riverOrSea": "River Tame"
-      },
-      "floodAreaID": "033WAF304",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:34:00",
-      "timeRaised": "2021-11-02T09:35:07",
-      "timeSeverityChanged": "2021-11-02T09:34:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
       "description": "Western Rother",
       "eaAreaName": "Solent and South Downs",
@@ -433,27 +433,6 @@
       "timeMessageChanged": "2021-11-02T17:49:00",
       "timeRaised": "2021-11-02T17:50:15",
       "timeSeverityChanged": "2021-11-02T17:49:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
-      "description": "Upper Avon River Swift and Clay Coton Brook",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201",
-        "county": "Leicestershire, Warwickshire, West Northamptonshire",
-        "notation": "033WAF201",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201/polygon",
-        "riverOrSea": "Avon, Swift, Claycoton"
-      },
-      "floodAreaID": "033WAF201",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:34:00",
-      "timeRaised": "2021-11-02T09:34:52",
-      "timeSeverityChanged": "2021-11-02T09:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
@@ -540,48 +519,6 @@
       "timeSeverityChanged": "2021-11-02T11:33:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF307",
-      "description": "River Anker and River Sence",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF307",
-        "county": "Leicestershire, Staffordshire, Warwickshire",
-        "notation": "033WAF307",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF307/polygon",
-        "riverOrSea": "River Anker, River Sence"
-      },
-      "floodAreaID": "033WAF307",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:34:00",
-      "timeRaised": "2021-11-02T09:35:06",
-      "timeSeverityChanged": "2021-11-02T09:34:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
-      "description": "Middle Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
-        "county": "Dorset Council",
-        "notation": "111WAFSTOM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
-        "riverOrSea": "River Stour, River Lodden"
-      },
-      "floodAreaID": "111WAFSTOM",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T13:10:00",
-      "timeRaised": "2021-11-02T13:10:23",
-      "timeSeverityChanged": "2021-11-02T13:10:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -624,90 +561,6 @@
       "timeSeverityChanged": "2021-11-02T13:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
-      "description": "Upper River Wyre, Brock",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW",
-        "county": "Lancashire",
-        "notation": "012WAFUW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW/polygon",
-        "riverOrSea": "River Wyre"
-      },
-      "floodAreaID": "012WAFUW",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nThe forecast is mainly dry for today and until the weekend.\nNo further flooding to fields and roads is expected, however there may still be some areas where flood water is present until it can naturally drain away.\nWe will continue to monitor levels closely.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:23:00",
-      "timeRaised": "2021-11-02T09:23:18",
-      "timeSeverityChanged": "2021-11-02T09:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012FWFL3",
-      "description": "River Wyre at St Michaels North",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL3",
-        "county": "Lancashire",
-        "notation": "012FWFL3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL3/polygon",
-        "riverOrSea": "River Wyre"
-      },
-      "floodAreaID": "012FWFL3",
-      "isTidal": false,
-      "message": "The Flood Warning has now been removed.  There is no longer a threat of flooding, though standing water and debris may still remain.\nNo further flooding to fields and roads is expected, however there may still be some areas where flood water is present until it can naturally drain away.\nThe forecast is main dry for today and for the next few days until the weekend.\nWe will continue to monitor levels closely.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:22:00",
-      "timeRaised": "2021-11-02T09:22:48",
-      "timeSeverityChanged": "2021-11-02T09:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
-      "description": "Lower Frome and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
-        "county": "Dorset Council",
-        "notation": "111WAFFROL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
-        "riverOrSea": "River Frome"
-      },
-      "floodAreaID": "111WAFFROL",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nThere may still be some areas where flood water is present until it can naturally drain away.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:44:00",
-      "timeRaised": "2021-11-02T09:45:03",
-      "timeSeverityChanged": "2021-11-02T09:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": "River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels are remaining high, and the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 03/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T13:12:00",
-      "timeRaised": "2021-11-02T13:12:21",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOL800",
       "description": "Lower Stour from Sturminster Marshall to Christchurch",
       "eaAreaName": "Wessex",
@@ -742,11 +595,11 @@
       },
       "floodAreaID": "013WAFDEE",
       "isTidal": false,
-      "message": "River levels remain high at the Farndon river gauge as a result of heavy rainfall. Consequently, we believe there is a possibility of flooding for low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington today, on Tuesday 2nd November 2021. We expect river levels to remain high over the next few days. Please be aware that access to Townfield Lane could be cut off due to high river levels. Our incident response staff are closely monitoring weather forecasts and river levels, and will issue flood warnings if necessary. Please avoid using low lying footpaths near local watercourses, be aware of your surroundings, and keep up to date with the current situation. This message will be updated tomorrow, on Wednesday 3rd November, or as the situation changes.",
+      "message": "River levels remain high at the Farndon river gauge as a result of heavy rainfall. Consequently, we believe there is a possibility of flooding for low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington today, on Wednesday 3rd November 2021. We expect river levels to remain high over the next few days. Please be aware that access to Townfield Lane could be cut off due to high river levels. Our incident response staff are closely monitoring weather forecasts and river levels, and will issue flood warnings if necessary. Please avoid using low lying footpaths near local watercourses, be aware of your surroundings, and keep up to date with the current situation. This message will be updated tomorrow, on Thursday 4th November, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-02T10:47:00",
-      "timeRaised": "2021-11-02T10:47:38",
+      "timeMessageChanged": "2021-11-03T10:02:00",
+      "timeRaised": "2021-11-03T10:03:01",
       "timeSeverityChanged": "2021-11-01T06:28:00"
     },
     {
@@ -811,27 +664,6 @@
       "timeMessageChanged": "2021-11-02T10:49:00",
       "timeRaised": "2021-11-02T10:50:18",
       "timeSeverityChanged": "2021-11-02T10:49:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLY",
-      "description": "River Lostock and River Yarrow",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLY",
-        "county": "Bolton, Lancashire",
-        "notation": "012WAFLY",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLY/polygon",
-        "riverOrSea": "River Lostock, River Yarrow"
-      },
-      "floodAreaID": "012WAFLY",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nThe forecast is mainly dry for today and until the weekend.\nNo further flooding to fields and roads is expected, however there may still be some areas where flood water is present until it can naturally drain away.\nWe will continue to monitor levels closely and our staff will continue to clear debris from watercourses.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T09:23:00",
-      "timeRaised": "2021-11-02T09:23:46",
-      "timeSeverityChanged": "2021-11-02T09:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLD",
