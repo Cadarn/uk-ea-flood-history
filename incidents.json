@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are now declining, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 04/11/2021, ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-03T10:57:00",
-      "timeRaised": "2021-11-03T10:57:54",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -309,6 +288,27 @@
       "timeSeverityChanged": "2021-10-31T17:23:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are now declining, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 04/11/2021, ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-03T10:57:00",
+      "timeRaised": "2021-11-03T10:57:54",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOL800",
       "description": "Lower Stour from Sturminster Marshall to Christchurch",
       "eaAreaName": "Wessex",
@@ -559,6 +559,48 @@
       "timeMessageChanged": "2021-11-03T19:08:00",
       "timeRaised": "2021-11-03T19:09:00",
       "timeSeverityChanged": "2021-11-03T19:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow morning, Thursday 4th November. Overtopping waves and spray are expected to affect the frontages and promenades in Hornsea, particularly in the area around Marine Drive and South Promenade between 03:30 and 05:00. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this warning for subsequent tides in the coming days. Please be careful along beaches, promenades coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 08:00 on Thursday 4th November 2021 or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-03T20:40:00",
+      "timeRaised": "2021-11-03T20:41:26",
+      "timeSeverityChanged": "2021-11-03T20:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow morning, Thursday 4th November between 02:30 and 05:30. The particular areas at risk are exposed area frontages in Hornsea. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides in the coming days. Please be careful along beaches, promenades coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 08:00 on Thursday 4th November 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-03T20:34:00",
+      "timeRaised": "2021-11-03T20:34:48",
+      "timeSeverityChanged": "2021-11-03T20:34:00"
     }
   ]
 }
