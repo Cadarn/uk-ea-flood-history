@@ -225,27 +225,6 @@
       "timeSeverityChanged": "2021-10-30T14:19:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
-      "description": "Lower River Soar in Leicestershire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
-        "county": "Derbyshire, Leicestershire, Nottinghamshire",
-        "notation": "034WAF428",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
-        "riverOrSea": "River Soar"
-      },
-      "floodAreaID": "034WAF428",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary.  No further rainfall is forecast.  \nWe continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.  \nPlease see the GOV.UK website for a 5 day flood forecast.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T19:09:00",
-      "timeRaised": "2021-11-02T19:09:34",
-      "timeSeverityChanged": "2021-11-02T19:09:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTMBA",
       "description": "Mid Bristol Avon area",
       "eaAreaName": "Wessex",
@@ -393,27 +372,6 @@
       "timeSeverityChanged": "2021-11-03T08:19:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
-      "description": "River Alt, Formby to Huyton",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
-        "county": "Knowsley, Lancashire, Liverpool, Sefton",
-        "notation": "012WAFAC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
-        "riverOrSea": "River Alt"
-      },
-      "floodAreaID": "012WAFAC",
-      "isTidal": false,
-      "message": " River levels are falling. There is no longer a threat of flooding, though standing water and debris may still remain.\nThe forecast is mainly dry for this evening and until the weekend.\nNo property flooding is expected.  No further flooding to fields and roads is expected, however there may still be some areas where flood water is present until it can naturally drain away.\nWe will continue to monitor levels closely and our staff will continue to clear debris from watercourses.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-02T19:09:00",
-      "timeRaised": "2021-11-02T19:09:42",
-      "timeSeverityChanged": "2021-11-02T19:09:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
       "description": "Upper River Ouse",
       "eaAreaName": "Yorkshire",
@@ -559,6 +517,48 @@
       "timeMessageChanged": "2021-11-03T16:46:00",
       "timeRaised": "2021-11-03T16:48:18",
       "timeSeverityChanged": "2021-11-03T16:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast and the eastern part of the Humber Estuary tomorrow, Thursday 4th November between 04:00 and 06:30 and then again between 16:30 and 19:00. The particular areas at risk are exposed areas of the coast around Kilnsea and Spurn Point. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides in the coming days. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 07:00 on Thursday 4th November 2021.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-03T19:09:00",
+      "timeRaised": "2021-11-03T19:09:28",
+      "timeSeverityChanged": "2021-11-03T19:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast and the eastern part of the Humber Estuary tomorrow, Thursday 4th November between 04:00 and 06:30 and then again between 16:30 and 19:00. The particular areas at risk are exposed areas of the coast around Kilnsea and Spurn Point. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides in the coming days. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 07:00 on Thursday 4th November 2021.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-03T19:08:00",
+      "timeRaised": "2021-11-03T19:09:00",
+      "timeSeverityChanged": "2021-11-03T19:08:00"
     }
   ]
 }
