@@ -154,12 +154,12 @@
       },
       "floodAreaID": "112WAFTSES",
       "isTidal": false,
-      "message": " River levels are falling but remain above the Flood Alert threshold at the Sherborne Lake river gauge. Consequently, flooding of roads and farmland is possible today, 03/11/21. Areas most at risk are the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole. No further showers are forecast over the next 24 hours. We are monitoring the situation constantly. Please avoid using low lying footpaths near local watercourses, plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. Our incident response staff are checking defences and clearing weed screens. Please see the GOV.UK website for a 5 day flood forecast. This flood alert will remain in place today and will be updated by 15:00 tomorrow, Thursday 04/11/21.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-03T15:38:00",
-      "timeRaised": "2021-11-03T15:39:12",
-      "timeSeverityChanged": "2021-10-29T19:36:00"
+      "message": " This Flood Alert has been removed.  \nRiver levels are falling, but still pose a flood risk.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further rainfall is forecast.  \nWe will monitor the weather and reissue this flood alert as necessary. Please see the GOV.UK website for a 5 day flood forecast and be aware of your local weather forecasts.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T15:21:00",
+      "timeRaised": "2021-11-04T15:21:29",
+      "timeSeverityChanged": "2021-11-04T15:21:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -181,27 +181,6 @@
       "timeMessageChanged": "2021-11-04T10:07:00",
       "timeRaised": "2021-11-04T10:07:18",
       "timeSeverityChanged": "2021-11-04T10:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTMBA",
-      "description": "Mid Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA",
-        "county": "Bath and North East Somerset, Wiltshire",
-        "notation": "112WAFTMBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTMBA",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels are falling.  There is no longer a threat of flooding, though standing water and debris may still remain.  Very little rainfall is forecast for the next few days.  \nWe continue to monitor the situation.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-03T15:07:00",
-      "timeRaised": "2021-11-03T15:07:56",
-      "timeSeverityChanged": "2021-11-03T15:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF935",
@@ -622,6 +601,90 @@
       "timeMessageChanged": "2021-11-04T14:25:00",
       "timeRaised": "2021-11-04T14:26:56",
       "timeSeverityChanged": "2021-11-04T14:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1WhitMar",
+      "description": "Coast from Whitstable to Margate",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar",
+        "county": "Kent",
+        "notation": "064WAC1WhitMar",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "064WAC1WhitMar",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Friday Morning, 05/11/2021. Highest tide is expected to be at 00:15 on Friday. Flooding is possible two hours either side of this time from 22:15 to 02:15. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 00:15 Friday morning tide is 3.54mAOD.\nThis message will be updated tomorrow morning, 05/11/2021, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T15:24:00",
+      "timeRaised": "2021-11-04T15:25:45",
+      "timeSeverityChanged": "2021-11-04T15:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1MedEst",
+      "description": "Tidal Medway, Medway estuary and Isle of Grain",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst",
+        "county": "Kent, Medway",
+        "notation": "064WAT1MedEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst/polygon",
+        "riverOrSea": "River Medway"
+      },
+      "floodAreaID": "064WAT1MedEst",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Friday Morning, 05/11/2021. Highest tide is expected to be at 00:15 on Friday. Flooding is possible two hours either side of this time from 22:15 to 02:15. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 00:15 Friday morning tide is 3.54mAOD.\nThis message will be updated tomorrow morning, 05/11/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T15:25:00",
+      "timeRaised": "2021-11-04T15:27:12",
+      "timeSeverityChanged": "2021-11-04T15:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
+      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
+        "county": "Kent",
+        "notation": "064WAC1ShepSwale",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
+        "riverOrSea": "English Channel, The Swale"
+      },
+      "floodAreaID": "064WAC1ShepSwale",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Friday Morning, 05/11/2021. Highest tide is expected to be at 00:15 on Friday. Flooding is possible two hours either side of this time from 22:15 to 02:15. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 00:15 Friday morning tide is 3.54mAOD.\nThis message will be updated tomorrow morning, 05/11/2021, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T15:24:00",
+      "timeRaised": "2021-11-04T15:26:03",
+      "timeSeverityChanged": "2021-11-04T15:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1ThamesEst",
+      "description": "Coast from Dartford to Allhallows",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst",
+        "county": "Bexley, Greater London, Kent, Medway",
+        "notation": "064WAT1ThamesEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "064WAT1ThamesEst",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Friday Morning, 05/11/2021. The highest tide is expected to be at 00:15 on Friday. Flooding is possible two hours either side of this time from 22:15 to 02:15. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 00:15 Friday morning tide is 3.54mAOD.\nThis message will be updated tomorrow morning, 05/11/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T15:26:00",
+      "timeRaised": "2021-11-04T15:27:14",
+      "timeSeverityChanged": "2021-11-04T15:26:00"
     }
   ]
 }
