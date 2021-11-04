@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are now declining, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 04/11/2021, ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-03T10:57:00",
+      "timeRaised": "2021-11-03T10:57:54",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -288,27 +309,6 @@
       "timeSeverityChanged": "2021-11-04T10:07:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are now declining, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 04/11/2021, ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-03T10:57:00",
-      "timeRaised": "2021-11-03T10:57:54",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
       "description": "River Dee catchment in England from Whitchurch to Chester",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -517,6 +517,69 @@
       "timeMessageChanged": "2021-11-04T10:48:00",
       "timeRaised": "2021-11-04T10:49:12",
       "timeSeverityChanged": "2021-11-04T10:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "Large waves are likely to cause sea spray to overtop sea defences at Porlock Weir as a result of high tides.  Forecast high water is 18:15 on 04/11/21 with a level of 6.35 mAOD and a Force 4 Northerley wind. All times are local and refer to the high water time at Hinkely Point, mAOD is height above average sea level for more detail refer to local tide tables. Flooding to roads and farmland is possible, however conditions may apply one to two hours either side of the high tide.  We expect flooding to affect the coastline between Gore Point and Hurlstone Point including Porlock Weir.   Coastal conditions are expected to continue until after the high tide.\nWe are closely monitoring the situation.    \nPlease be careful along beaches, promenades and coastal footpaths and roads.  \nThis message will be updated Friday, 05/11/21, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T12:51:00",
+      "timeRaised": "2021-11-04T12:51:36",
+      "timeSeverityChanged": "2021-11-04T12:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHKL",
+      "description": "Coast from Heacham to north of King's Lynn in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHKL",
+        "county": "Norfolk",
+        "notation": "052WATCSTHKL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHKL/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHKL",
+      "isTidal": true,
+      "message": "Tides are expected to be higher than usual as a result of strong onshore winds. Tides will be at their highest at 06:00am tomorrow morning, 05/11/21. Flooding to the promenade/seafront is possible at this time, however conditions may apply two to four hours either side of the high tide. It is possible flooding could affect Heacham, Snettisham, Ingoldisthorpe, Dersingham and Wolferton.   \nWe are closely monitoring the situation.  Our incident response staff are closing flood gates and checking defences.  \n  \nThis message will be updated tomorrow morning, 05/11/21, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T13:13:00",
+      "timeRaised": "2021-11-04T13:14:11",
+      "timeSeverityChanged": "2021-11-04T13:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "Tides are expected to be higher than usual as a result of strong onshore winds. Tides will be at their highest at 06:00am tomorrow morning, 05/11/21. Flooding to the promenade/seafront is possible at this time, however conditions may apply two to four hours either side of the high tide. It is possible flooding could affect Hunstanton seafront.   \nWe are closely monitoring the situation.  Our incident response staff are closing flood gates and checking defences.  \n  \nThis message will be updated tomorrow morning, 05/11/21, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T13:13:00",
+      "timeRaised": "2021-11-04T13:14:03",
+      "timeSeverityChanged": "2021-11-04T13:13:00"
     }
   ]
 }
