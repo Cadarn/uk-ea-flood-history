@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-04T14:19:00",
-      "timeRaised": "2021-11-04T14:20:16",
-      "timeSeverityChanged": "2021-11-04T14:19:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -246,6 +225,27 @@
       "timeSeverityChanged": "2021-11-04T10:07:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T14:19:00",
+      "timeRaised": "2021-11-04T14:20:16",
+      "timeSeverityChanged": "2021-11-04T14:19:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
       "description": "River Dee catchment in England from Whitchurch to Chester",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -448,12 +448,12 @@
       },
       "floodAreaID": "121WAC921",
       "isTidal": true,
-      "message": " Large and powerful waves are expected to overtop sea defences as a result of high spring tides and strong winds at Beadnell Habour Road North. Tides will be at their highest between 14:00 and 16:30 today, 04/11/2021. Flooding to roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tide. Areas most at risk are beaches, promenades, coastal footpaths and roads. Warkworth flood gates remain open, and are not expected to be closed. Flooding of properties is not forecast at this point. Our incident response staff are monitoring the situation. \nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We are expecting higher than normal tides over the next 3 days and as a result we may issue further alerts. This message will be updated by 18:00 on 04/11/2021, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-04T10:48:00",
-      "timeRaised": "2021-11-04T10:49:12",
-      "timeSeverityChanged": "2021-11-04T10:48:00"
+      "message": "There is no longer a threat of large and powerful waves overtopping sea defences as a result of high spring tides and strong winds, though standing water and debris may still remain. No further flooding to fields and roads is expected, however there may be standing water seen for several days. \nWe are expecting higher than normal tides over the next 3 days and as a result we may issue further alerts. Our incident duty team will continue to monitor the forecast and re-issue this alert if necessary. Please continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T18:12:00",
+      "timeRaised": "2021-11-04T18:13:13",
+      "timeSeverityChanged": "2021-11-04T18:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
