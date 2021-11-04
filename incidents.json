@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are now declining, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 04/11/2021, ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-03T10:57:00",
+      "timeRaised": "2021-11-03T10:57:54",
+      "timeSeverityChanged": "2021-11-01T06:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -288,48 +309,6 @@
       "timeSeverityChanged": "2021-11-04T10:07:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " River levels are expected to remain high on the Lower Dorset Stour.\nAreas most at risk include tributaries between Wimborne and Christchurch.\nNo further rainfall is forecast for 24 hours.\nRiver levels remain high but are now declining, but the risk of flooding to low-lying land remains.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 04/11/2021, ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-03T10:57:00",
-      "timeRaised": "2021-11-03T10:57:54",
-      "timeSeverityChanged": "2021-11-01T06:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOL800",
-      "description": "Lower Stour from Sturminster Marshall to Christchurch",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOL800",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
-        "notation": "111FWFSTOL800",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOL800/polygon",
-        "riverOrSea": "River Stour"
-      },
-      "floodAreaID": "111FWFSTOL800",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-03T10:57:00",
-      "timeRaised": "2021-11-03T10:58:14",
-      "timeSeverityChanged": "2021-11-03T10:57:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
       "description": "River Dee catchment in England from Whitchurch to Chester",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -343,12 +322,12 @@
       },
       "floodAreaID": "013WAFDEE",
       "isTidal": false,
-      "message": "River levels remain high at the Farndon river gauge as a result of heavy rainfall. Consequently, we believe there is a possibility of flooding for low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington today, on Wednesday 3rd November 2021. We expect river levels to remain high over the next few days. Please be aware that access to Townfield Lane could be cut off due to high river levels. Our incident response staff are closely monitoring weather forecasts and river levels, and will issue flood warnings if necessary. Please avoid using low lying footpaths near local watercourses, be aware of your surroundings, and keep up to date with the current situation. This message will be updated tomorrow, on Thursday 4th November, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-03T10:02:00",
-      "timeRaised": "2021-11-03T10:03:01",
-      "timeSeverityChanged": "2021-11-01T06:28:00"
+      "message": "This Flood Alert has been removed. River levels have now fallen below the flood risk threshold on 04/11/21. Further showers are possible over the next few days. We will continue to monitor the situation and reissue the alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T10:38:00",
+      "timeRaised": "2021-11-04T10:39:09",
+      "timeSeverityChanged": "2021-11-04T10:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
@@ -370,27 +349,6 @@
       "timeMessageChanged": "2021-11-04T08:00:00",
       "timeRaised": "2021-11-04T08:01:22",
       "timeSeverityChanged": "2021-11-04T08:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSTOL823",
-      "description": "Lower Stour at Redhill and Wheatplot Home Sites",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOL823",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
-        "notation": "111FWFSTOL823",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSTOL823/polygon",
-        "riverOrSea": "River Stour"
-      },
-      "floodAreaID": "111FWFSTOL823",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-03T10:57:00",
-      "timeRaised": "2021-11-03T10:58:13",
-      "timeSeverityChanged": "2021-11-03T10:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -538,6 +496,27 @@
       "timeMessageChanged": "2021-11-04T08:42:00",
       "timeRaised": "2021-11-04T08:42:23",
       "timeSeverityChanged": "2021-11-04T08:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
+      "description": "Northumberland coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921",
+        "county": "Northumberland",
+        "notation": "121WAC921",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC921",
+      "isTidal": true,
+      "message": " Large and powerful waves are expected to overtop sea defences as a result of high spring tides and strong winds at Beadnell Habour Road North. Tides will be at their highest between 14:00 and 16:30 today, 04/11/2021. Flooding to roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tide. Areas most at risk are beaches, promenades, coastal footpaths and roads. Warkworth flood gates remain open, and are not expected to be closed. Flooding of properties is not forecast at this point. Our incident response staff are monitoring the situation. \nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We are expecting higher than normal tides over the next 3 days and as a result we may issue further alerts. This message will be updated by 18:00 on 04/11/2021, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-04T10:48:00",
+      "timeRaised": "2021-11-04T10:49:12",
+      "timeSeverityChanged": "2021-11-04T10:48:00"
     }
   ]
 }
