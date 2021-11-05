@@ -78,27 +78,6 @@
       "timeSeverityChanged": "2021-11-05T14:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
-      "description": "Keswick Campsite",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
-        "county": "Cumbria",
-        "notation": "011FWFNC6KC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
-        "riverOrSea": "Derwentwater"
-      },
-      "floodAreaID": "011FWFNC6KC",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-04T15:49:00",
-      "timeRaised": "2021-11-04T15:49:41",
-      "timeSeverityChanged": "2021-11-04T15:49:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
       "description": "Lower Tone and Parrett Moors",
       "eaAreaName": "Wessex",
@@ -160,27 +139,6 @@
       "timeMessageChanged": "2021-11-04T21:45:00",
       "timeRaised": "2021-11-04T21:45:52",
       "timeSeverityChanged": "2021-11-04T21:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
-      "description": "Upper River Derwent",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
-        "county": "East Riding of Yorkshire, North Yorkshire",
-        "notation": "122WAF949",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
-        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
-      },
-      "floodAreaID": "122WAF949",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed as levels have fallen below levels of concern. No significant rainfall is forecast over the next few days. We are monitoring the forecast and will re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-04T16:12:00",
-      "timeRaised": "2021-11-04T16:13:06",
-      "timeSeverityChanged": "2021-11-04T16:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -811,6 +769,27 @@
       "timeMessageChanged": "2021-11-05T15:19:00",
       "timeRaised": "2021-11-05T15:20:13",
       "timeSeverityChanged": "2021-11-05T15:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACHC",
+      "description": "Coast from Heysham to Cockerham",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC",
+        "county": "Lancashire",
+        "notation": "012WACHC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "012WACHC",
+      "isTidal": true,
+      "message": "As a result of high spring tides and strong winds, tides will be at their highest overnight at 11:15 PM on 05/11/2021.\nAreas most at risk include Sandylands, Middleton, Sunderland, Bank Houses, Hillam, Sand Side and Cockerham Moss.\nHighest tide level is expected to be at Sandylands, Middleton, Sunderland, Bank Houses, Hillam, Sand Side and Cockerham Moss at 11:15 PM on 05/11/2021. Flooding is possible 2 hours either side of this time.\nThe next high tide is expected to be higher than normal and may result in us issuing a further alert.\n\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 07:00 AM on 06/11/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-05T15:39:00",
+      "timeRaised": "2021-11-05T15:39:57",
+      "timeSeverityChanged": "2021-11-05T15:39:00"
     }
   ]
 }
