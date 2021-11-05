@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T14:19:00",
+      "timeRaised": "2021-11-04T14:20:16",
+      "timeSeverityChanged": "2021-11-04T14:19:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -181,27 +202,6 @@
       "timeMessageChanged": "2021-11-04T21:45:00",
       "timeRaised": "2021-11-04T21:45:52",
       "timeSeverityChanged": "2021-11-04T21:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-04T14:19:00",
-      "timeRaised": "2021-11-04T14:20:16",
-      "timeSeverityChanged": "2021-11-04T14:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
@@ -685,6 +685,48 @@
       "timeMessageChanged": "2021-11-05T11:13:00",
       "timeRaised": "2021-11-05T11:14:29",
       "timeSeverityChanged": "2021-11-05T11:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
+      "description": "Wye Estuary in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
+        "county": "Gloucestershire, Monmouthshire",
+        "notation": "031WAT122",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
+        "riverOrSea": "Wye Estuary"
+      },
+      "floodAreaID": "031WAT122",
+      "isTidal": true,
+      "message": "A series of high spring tides and strong winds are expected over the next three days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.4m to 7.7m at 19:30 on 05/11/21, Newport 7m to 7.2m at 19:15 on 05/11/21. Tides will be at their highest between 19:00 and 20:00 this evening. Flooding to roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tide.     \n\nWe are closely monitoring the situation. Our incident response staff are liaising with our partners.  \nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated by 22:00 on 05/11/21, or if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-05T12:46:00",
+      "timeRaised": "2021-11-05T12:47:06",
+      "timeSeverityChanged": "2021-11-05T12:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
+      "description": "North Devon coast from Hartland Point to Lynmouth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
+        "county": "Devon",
+        "notation": "113WACT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "113WACT2A",
+      "isTidal": true,
+      "message": " Flooding is possible over the high tides from Friday evening 5th November until Saturday evening 6th November associated with large spring tides. \nThe time of high water at Ilfracombe on Friday evening is at 6:10pm, and the water level at high tide is forecast to be 5.05m AOD on Friday building to 5.16m AOD on Saturday with winds forecast to be Westerly Force 4 strengthening to Force 6 on Saturday evening, and offshore wave heights of up to 2.5m. Wave overtopping of sea defences and sea spray in exposed coastal locations is possible at Ilfracombe and Lynmouth.  Expect tides to be around 150mm higher than predicted due to weather conditions.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-05T12:53:00",
+      "timeRaised": "2021-11-05T12:54:32",
+      "timeSeverityChanged": "2021-11-05T12:53:00"
     }
   ]
 }
