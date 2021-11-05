@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-04T14:19:00",
-      "timeRaised": "2021-11-04T14:20:16",
-      "timeSeverityChanged": "2021-11-04T14:19:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -244,6 +223,27 @@
       "timeMessageChanged": "2021-11-04T10:07:00",
       "timeRaised": "2021-11-04T10:07:18",
       "timeSeverityChanged": "2021-11-04T10:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T14:19:00",
+      "timeRaised": "2021-11-04T14:20:16",
+      "timeSeverityChanged": "2021-11-04T14:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
@@ -574,12 +574,12 @@
       },
       "floodAreaID": "051FWCDV5B3EASTA",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 11:00pm Thursday 4th November and 1:00am tomorrow. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.42mAODN at midnight tonight, which is 0.34m above tide tables, wind Force 5, north-westerly. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. An update to this message will be provided by 10:00am tomorrow.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-11-04T14:11:00",
-      "timeRaised": "2021-11-04T14:11:59",
-      "timeSeverityChanged": "2021-11-04T14:11:00"
+      "message": "Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides.  Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-05T08:23:00",
+      "timeRaised": "2021-11-05T08:24:22",
+      "timeSeverityChanged": "2021-11-05T08:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
