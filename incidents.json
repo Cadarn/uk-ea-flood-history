@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-04T14:19:00",
+      "timeRaised": "2021-11-04T14:20:16",
+      "timeSeverityChanged": "2021-11-04T14:19:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -181,27 +202,6 @@
       "timeMessageChanged": "2021-11-04T21:45:00",
       "timeRaised": "2021-11-04T21:45:52",
       "timeSeverityChanged": "2021-11-04T21:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
-      "description": "Lower Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFSTOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
-        "riverOrSea": "River Allen, River Stour"
-      },
-      "floodAreaID": "111WAFSTOL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-04T14:19:00",
-      "timeRaised": "2021-11-04T14:20:16",
-      "timeSeverityChanged": "2021-11-04T14:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
@@ -664,6 +664,27 @@
       "timeMessageChanged": "2021-11-05T09:44:00",
       "timeRaised": "2021-11-05T09:45:02",
       "timeSeverityChanged": "2021-11-05T09:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
+      "description": "Mersey Estuary at Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
+        "county": "Halton, Warrington",
+        "notation": "013WATMEW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEW",
+      "isTidal": true,
+      "message": "The high tide is expected to be higher than usual at the Mersey Estuary at Warrington as a result of high spring tides and strong winds. We believe there is a possibility of flooding for low lying land and roads today, on Friday 5th November, in the following places between Midday and 1:00pm: Fiddlers Ferry, Eastford Road, Arpley Bridge, and Knutsford Road. It is possible that river levels may affect Arpley Road under the railway bridge.\nCoastal conditions are expected to continue and worsen for high tide tonight, between Midnight and 1:00am, however flood warnings are currently not expected at this time. High tides are also expected for tomorrow, Saturday 6th November, and into Sunday, 7th November.\nOur incident response staff are closely monitoring weather forecasts and river levels and will issue flood warnings if necessary. Please be aware of your surroundings and keep up to date with the current situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-05T11:13:00",
+      "timeRaised": "2021-11-05T11:14:29",
+      "timeSeverityChanged": "2021-11-05T11:13:00"
     }
   ]
 }
