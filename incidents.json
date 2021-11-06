@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9PM on Saturday 6th November 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T13:13:00",
+      "timeRaised": "2021-11-06T13:13:40",
+      "timeSeverityChanged": "2021-11-06T13:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-11-06T15:17:00",
       "timeRaised": "2021-11-06T15:18:08",
       "timeSeverityChanged": "2021-11-06T15:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9PM on Saturday 6th November 2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T13:13:00",
-      "timeRaised": "2021-11-06T13:13:40",
-      "timeSeverityChanged": "2021-11-06T13:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
@@ -202,6 +202,27 @@
       "timeMessageChanged": "2021-11-06T13:24:00",
       "timeRaised": "2021-11-06T13:24:24",
       "timeSeverityChanged": "2021-11-06T13:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "Spring tides and strong winds are forecast to bring high levels and large waves along the Yorkshire coast on Sunday 7th November. The area most at risk are properties from Marine Drive, along South Promenade, Hornsea Burton Road and along Stream Dike and Foss Beck. Some of the highest tides of the year are expected over this weekend, and the forecast shows that, due to the local weather conditions, Sunday morning’s tide will be particularly high. The highest levels are expected on Sunday morning around 04:30-08:00 and Sunday evening, between 18:00-19:00. Our operational staff will be out inspecting our flood defences before and after the peak tides, and we are liaising closely with our partners. Please keep away from flood water. To report an issue relating to river, tidal or coastal flooding, call our Incident Hotline number 0800 80 70 60. Be aware of your surroundings. Keep up to date with the current situation via our Check for Flooding Service on Gov.UK or via Floodline number 0345 988 1188. This message will be updated after 08:00 on Sunday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-06T18:47:00",
+      "timeRaised": "2021-11-06T18:47:43",
+      "timeSeverityChanged": "2021-11-06T18:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -385,11 +406,11 @@
       },
       "floodAreaID": "013WATMEW",
       "isTidal": true,
-      "message": "The high tide is expected to be higher than usual at the Mersey Estuary at Warrington as a result of high spring tides and strong winds. We believe there is a possibility of flooding for low lying land and roads this afternoon, on Saturday 6th November, in the following places: Fiddlers Ferry, peak level of 6.45m at 12:45pm, Eastford Road, peak level of 6.61m at 1:00pm, and Arpley Bridge, peak level of 6.66m at 1:15pm. It is possible that river levels may affect Arpley Road under the railway bridge. High tides are also expected for this evening and tomorrow afternoon, Sunday 7th November. A flood warning for tonight’s tide at Arpley Bridge is possible. Our incident response staff are closely monitoring weather forecasts and river levels and will issue flood warnings if necessary. Please be aware of your surroundings and keep up to date with the current situation. This message will be updated in 8 hours, or as the situation changes.",
+      "message": "The high tide is expected to be higher than usual at the Mersey Estuary at Warrington as a result of high spring tides and strong winds. We believe there is a possibility of flooding for low lying land and roads late this evening on Saturday 6th November, in the following places: Fiddlers Ferry, peak level of 6.6m at 01:00am, Eastford Road, peak level of 6.74m at 01:15am, Arpley Bridge, peak level of 6.8m at 01:30am, Knutsford Road, peak level of 6.82m at 01:30am and Howley, peak level of 6.82m at 01:30am. It is possible that river levels may affect Arpley Road under the railway bridge. It is expected that a flood warning for tonight’s tide at Arpley Bridge will also be issued. High tides are also expected for tomorrow afternoon, Sunday 7th November. Our incident response staff are closely monitoring weather forecasts and river levels and will issue flood warnings if necessary. Please be aware of your surroundings and keep up to date with the current situation. This message will be updated in 8 hours, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T09:32:00",
-      "timeRaised": "2021-11-06T09:33:30",
+      "timeMessageChanged": "2021-11-06T18:58:00",
+      "timeRaised": "2021-11-06T18:59:02",
       "timeSeverityChanged": "2021-11-05T11:13:00"
     },
     {
@@ -1315,6 +1336,132 @@
       "timeMessageChanged": "2021-11-06T18:27:00",
       "timeRaised": "2021-11-06T18:27:54",
       "timeSeverityChanged": "2021-11-06T18:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC306",
+      "description": "Coast from Fairlight to Dungeness including the Tidal Rother",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC306",
+        "county": "East Sussex, Kent",
+        "notation": "064WAC306",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC306/polygon",
+        "riverOrSea": "English Channel, Rother"
+      },
+      "floodAreaID": "064WAC306",
+      "isTidal": true,
+      "message": "High water levels are forecast to affect the foreshore from Fairlight to Dungeness tomorrow lunchtime, Sunday 07/11/2021, as a result of high spring tides and strong winds. Tides will be at their highest between 12:00 and 12:30 tomorrow, Sunday 07/11/2021, with high tide at 12:15. Flooding to roads and low lying land is expected at these times, however these conditions may apply two to four hours either side of high tide. We expect flooding to affect coastal areas, particularly low lying land and roads nearest the sea particularly around Rye Harbour, Camber and Jury’s Gap and low lying land along the Tidal Rother. We are closely monitoring the situation and our incident response staff are prepared to respond if required. This message will be updated tomorrow afternoon, 07/11/2021, or as the situation changes. For those that use it, the astronomical water level will be 4.24m AOD and the total water level will be 4.58m AOD.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T18:44:00",
+      "timeRaised": "2021-11-06T18:44:56",
+      "timeSeverityChanged": "2021-11-06T18:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC303",
+      "description": "Coast from St Margaret's at Cliffe to Sandgate",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303",
+        "county": "Kent",
+        "notation": "064WAC303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303/polygon",
+        "riverOrSea": "English Channel, North Sea"
+      },
+      "floodAreaID": "064WAC303",
+      "isTidal": true,
+      "message": "High water levels are forecast to affect the foreshore from St Margaret’s at Cliffe to Sandgate, Dover and Folkestone tomorrow lunchtime, Sunday 07/11/2021, as a result of high spring tides and strong winds. Tides will be at their highest between 12:00 and 12:30 tomorrow, Sunday 07/11/2021, with high tide at 12:15. Flooding to roads and low lying land is expected at these times, however these conditions may apply two to four hours either side of high tide. We expect flooding to affect coastal areas, particularly low lying land and roads nearest the sea. We are closely monitoring the situation and our incident response staff are prepared to respond if required. This message will be updated tomorrow afternoon, 07/11/2021, or as the situation changes. Please stay aware in case further warnings are issued. For those that use it, the astronomical water level will be 3.37m AOD and the total water level will be 3.91m AOD.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T18:36:00",
+      "timeRaised": "2021-11-06T18:36:29",
+      "timeSeverityChanged": "2021-11-06T18:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC040",
+      "description": "North Sea at Whitby Harbour",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC040",
+        "county": "North Yorkshire",
+        "notation": "122FWC040",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC040/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC040",
+      "isTidal": true,
+      "message": "Spring tides and strong winds are forecast to bring high levels and large waves along the Yorkshire coast on Sunday 7th November. The area most at risk are properties along New Quay Road, Langbourne Road and Whitby Harbour. Some of the highest tides of the year are expected over this weekend, and the forecast shows that, due to the local weather conditions, Sunday morning’s tide will be particularly high. The highest levels are expected on Sunday morning around 04:15-05:45 and Sunday evening, between 18:30-20:30. Our operational staff will be out inspecting our flood defences before and after the peak tides, and we are liaising closely with our partners. Please keep away from flood water and to report an issue relating to river, tidal or coastal flooding, call our Incident Hotline number 0800 80 70 60. Be aware of your surroundings and keep up to date with the current situation via our Check for Flooding Service on Gov.UK or via Floodline number 0345 988 1188. This message will be updated after 06:00 on Sunday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-06T18:38:00",
+      "timeRaised": "2021-11-06T18:39:13",
+      "timeSeverityChanged": "2021-11-06T18:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWT011",
+      "description": "North Bank of the Humber estuary from Kilnsea to Skeffling and Weeton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWT011",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWT011",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWT011/polygon",
+        "riverOrSea": "The Humber"
+      },
+      "floodAreaID": "122FWT011",
+      "isTidal": true,
+      "message": "Spring tides and strong winds are forecast to bring high levels and large waves along the Humber estuary on Sunday 7th November. The area most at risk are properties from Kilnsea to Skeffling and Weeton. Some of the highest tides of the year are expected over this weekend, and the forecast shows that, due to the local weather conditions, Sunday morning’s tide will be particularly high. The highest levels are expected on Sunday morning around 06:15-07:00. Our operational staff will be out inspecting our flood defences before and after the peak tides, and we are liaising closely with our partners. Please keep away from flood water and to report an issue relating to river, tidal or coastal flooding, call our Incident Hotline number 0800 80 70 60. Be aware of your surroundings and keep up to date with the current situation via our Check for Flooding Service on Gov.UK or via Floodline number 0345 988 1188. This message will be updated after 08:00 on Sunday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-06T19:01:00",
+      "timeRaised": "2021-11-06T19:01:48",
+      "timeSeverityChanged": "2021-11-06T19:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
+      "description": "North Sea coast at Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC007",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC007",
+      "isTidal": true,
+      "message": "Spring tides and strong winds are forecast to bring high levels and large waves along the Yorkshire coast on Sunday 7th November. The area most at risk are properties at Easington and Kilnsea. Some of the highest tides of the year are expected over this weekend, and the forecast shows that, due to the local weather conditions, Sunday morning’s tide will be particularly high. The highest levels are expected on Sunday morning around 05:30-07:30. Our operational staff will be out inspecting our flood defences before and after the peak tides, and we are liaising closely with our partners. Please keep away from flood water and to report an issue relating to river, tidal or coastal flooding, call our Incident Hotline number 0800 80 70 60. Be aware of your surroundings and keep up to date with the current situation via our Check for Flooding Service on Gov.UK or via Floodline number 0345 988 1188. This message will be updated after 08:00 on Sunday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-06T18:54:00",
+      "timeRaised": "2021-11-06T18:54:41",
+      "timeSeverityChanged": "2021-11-06T18:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEWLW",
+      "description": "Mersey Estuary from Liverpool and Wirral to Widnes",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEWLW",
+        "county": "Cheshire West and Chester, Halton, Knowsley, Liverpool, Sefton, Wirral",
+        "notation": "013WATMEWLW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEWLW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEWLW",
+      "isTidal": true,
+      "message": "The high tide is expected to be higher than usual at the Mersey Estuary from Liverpool and Wirral to Widnes as a result of high spring tides and strong winds.  This alert is being issued based on levels at Hale village. Levels are due to peak at  6.04m at 00:45am. We believe there is a possibility of flooding for low lying land and roads around the Mersey Estuary.   \n\nHigh tides are also expected for tomorrow, Sunday 7th November.\n\nOur incident response staff are closely monitoring weather forecasts and river levels and will issue flood warnings if necessary.  \nPlease be aware of your surroundings and keep up to date with the current situation. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T19:01:00",
+      "timeRaised": "2021-11-06T19:02:17",
+      "timeSeverityChanged": "2021-11-06T19:01:00"
     }
   ]
 }
