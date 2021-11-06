@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9AM on Sunday 7th November 2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T21:06:00",
-      "timeRaised": "2021-11-06T21:06:19",
-      "timeSeverityChanged": "2021-11-06T13:13:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2021-11-06T15:17:00",
       "timeRaised": "2021-11-06T15:18:08",
       "timeSeverityChanged": "2021-11-06T15:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9AM on Sunday 7th November 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T21:06:00",
+      "timeRaised": "2021-11-06T21:06:19",
+      "timeSeverityChanged": "2021-11-06T13:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
@@ -427,11 +427,11 @@
       },
       "floodAreaID": "031WAT122",
       "isTidal": true,
-      "message": "A series of high spring tides and strong winds are expected over the weekend. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.8m to 8.1m at 20:15 on 06/11/21, Newport 7.3m to 7.6m at 20:00 on 06/11/21. Tides will be at their highest between 19:30 and 20:45. Flooding to roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tide.     \n\nWe are closely monitoring the situation. Our incident response staff are liaising with our partners.  \nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated by 22:00 on 06/11/21, or if the situation changes.",
+      "message": " A series of high spring tides and strong winds are expected over the weekend. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.4m to 7.7m at 08:30 on 07/11/21, Newport 7.0m to 7.3m at 08:30 on 07/11/21.   This series of high tides will last until Sunday 07/11/21. Flooding to roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tide. We are closely monitoring the situation. Our incident response staff are liaising with our partners. Please avoid using low lying footpaths near local watercourses. This message will be updated by 10:00 on 07/11/21, or if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T09:44:00",
-      "timeRaised": "2021-11-06T09:44:39",
+      "timeMessageChanged": "2021-11-06T22:18:00",
+      "timeRaised": "2021-11-06T22:19:05",
       "timeSeverityChanged": "2021-11-05T12:46:00"
     },
     {
@@ -637,11 +637,11 @@
       },
       "floodAreaID": "031WAT217",
       "isTidal": true,
-      "message": "High spring tides and strong winds are expected this evening in the Severn Estuary. \nFlooding may affect low lying land and roads adjacent to the Severn Estuary from Sandhurst to Chepstow and Sharpness. Locations that may be affected include areas river side of defences where defences are present including Lydney Harbour. Low lying land at Purton on the east bank may also be impacted. Fluvial tidal interaction may cause minor flooding during the high tide at Gloucester and Sandhurst. High tides may also affect watercourses draining into the Severn Estuary. Predicted peaks: Sharpness 10m to 10.3m at 20:45 on 06/11/21, Sandhurst 2.9m to 3.2m at 22:30 on 6/11/21, Gloucester 3m to 3.3m.\nWe are closely monitoring the situation. Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses.\nThis message will be updated by 22:00 on 06/11/21, or if the situation changes.",
+      "message": " High spring tides and strong winds are expected over the weekend in the Severn Estuary. Flooding may affect low lying land and roads adjacent to the Severn Estuary from Sandhurst to Chepstow and Sharpness. Locations that may be affected include areas river side of defences where defences are present including Lydney Harbour. Low lying land at Purton on the east bank may also be impacted. Fluvial tidal interaction may cause minor flooding during the high tide at Gloucester and Sandhurst. High tides may also affect watercourses draining into the Severn Estuary. On the current forecast tomorrow mornings tide will not reach the threshold and will therefore be removed before the next high tide unless the situation changes.  We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T10:18:00",
-      "timeRaised": "2021-11-06T10:19:56",
+      "timeMessageChanged": "2021-11-06T22:18:00",
+      "timeRaised": "2021-11-06T22:18:52",
       "timeSeverityChanged": "2021-11-06T10:18:00"
     },
     {
@@ -658,11 +658,11 @@
       },
       "floodAreaID": "031FWTWY0F",
       "isTidal": true,
-      "message": "High spring tides and strong winds will cause high tidal peaks on The River Wye over the next two days. Tides will be at their highest between 19:30 and 21:00 tonight, the 06/11/21. Flooding to properties, roads and farmland is expected at these times, however conditions may apply two to four hours either side of the high tide. High tides may impact garages & footpaths in Brockweir. Predicted peaks: Avonmouth Portbury 7.8m to 8.1m at 20:15, Newport 7.3m to 7.6m at 20:00.   \n\nWe are closely monitoring the situation. Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated by 22:00 on 06/11/21, or if the situation changes.",
+      "message": " High spring tides and strong winds will cause high tidal peaks on The River Wye over the weekend. Flooding to properties, roads and farmland may be occur and conditions may apply two to four hours either side of the high tide. High tides may impact garages & footpaths in Brockweir.  On the current forecast tomorrow mornings tide will not reach the threshold and will therefore be removed before the next high tide unless the situation changes. We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses. ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2021-11-06T10:33:00",
-      "timeRaised": "2021-11-06T10:34:15",
+      "timeMessageChanged": "2021-11-06T22:18:00",
+      "timeRaised": "2021-11-06T22:18:37",
       "timeSeverityChanged": "2021-11-06T10:33:00"
     },
     {
