@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9AM on Sunday 7th November 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T21:06:00",
+      "timeRaised": "2021-11-06T21:06:19",
+      "timeSeverityChanged": "2021-11-06T13:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-11-06T15:17:00",
       "timeRaised": "2021-11-06T15:18:08",
       "timeSeverityChanged": "2021-11-06T15:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9AM on Sunday 7th November 2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T21:06:00",
-      "timeRaised": "2021-11-06T21:06:19",
-      "timeSeverityChanged": "2021-11-06T13:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
@@ -973,11 +973,11 @@
       },
       "floodAreaID": "054WACDV3B",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 8:15am and 12:15pm on Sunday 7 November. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.08 mAODN at 10:15am, on Sunday 7 November, which is 0.80m above tide tables, wind Force 7, Westerly, which will be blowing strongly offshore. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on roads and footpaths at the coast and in the estuaries, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. It is possible we may need to re-issue the alert for Sunday evening's tide. This message will be updated by 11am tomorrow, Sunday 7 November.",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 08:15am and 12:15pm on Sunday 7th November. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.15mAODN at 10:15am, on Sunday 7th November, which is 0.87m above tide tables, wind Force 7, Westerly, which will be blowing strongly offshore. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. It is possible we may need to re-issue this Alert for Sunday evening's tide. This message will be updated by 1pm tomorrow, Sunday 7th November.\t",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:13:00",
-      "timeRaised": "2021-11-06T15:16:40",
+      "timeMessageChanged": "2021-11-06T21:47:00",
+      "timeRaised": "2021-11-06T21:47:59",
       "timeSeverityChanged": "2021-11-06T15:13:00"
     },
     {
@@ -1120,11 +1120,11 @@
       },
       "floodAreaID": "054WACDV3C",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 8:15am and 12:15pm on Sunday 7th November. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.08mAODN at 10:15am, on Sunday 7th November, which is 0.80m above tide tables, wind Force 7, Westerly, which will be blowing strongly offshore. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on roads and footpaths at the coast and around the Blyth Estuary, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. It is possible we may need to re-issue the alert for Sunday evening's tide. ",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 08:15am and 12:15pm on Sunday 7th November. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.15mAODN at 10:15am, on Sunday 7th November, which is 0.87m above tide tables, wind Force 7, Westerly, which will be blowing strongly offshore. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. It is possible we may need to re-issue this Alert for Sunday evening's tide. This message will be updated by 1pm tomorrow, Sunday 7th November.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:27:00",
-      "timeRaised": "2021-11-06T15:28:16",
+      "timeMessageChanged": "2021-11-06T21:38:00",
+      "timeRaised": "2021-11-06T21:38:42",
       "timeSeverityChanged": "2021-11-06T15:27:00"
     },
     {
@@ -1798,6 +1798,27 @@
       "timeMessageChanged": "2021-11-06T21:23:00",
       "timeRaised": "2021-11-06T21:24:06",
       "timeSeverityChanged": "2021-11-06T21:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWT028",
+      "description": "Humber estuary at East Hessle foreshore",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWT028",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWT028",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWT028/polygon",
+        "riverOrSea": "Humber estuary"
+      },
+      "floodAreaID": "122FWT028",
+      "isTidal": true,
+      "message": "Spring tides and strong winds are forecast to bring high levels and large waves along the Humber estuary on Sunday 7th November. The area most at risk is the North Bank of the Humber estuary at Hessle foreshore. Some of the highest tides of the year are expected over this weekend, and the forecast shows that, due to the local weather conditions, Sunday morning’s tide will be particularly high. The highest levels are expected on Sunday morning around 06:30-08:00. Our operational staff will be out inspecting our flood defences before and after the peak tides, and we are liaising closely with our partners. Please keep away from flood water and to report an issue relating to river, tidal or coastal flooding, call our Incident Hotline number 0800 80 70 60. Be aware of your surroundings and keep up to date with the current situation via our Check for Flooding Service on Gov.UK or via Floodline number 0345 988 1188. This message will be updated after 09:00 on Sunday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-11-06T21:34:00",
+      "timeRaised": "2021-11-06T21:35:05",
+      "timeSeverityChanged": "2021-11-06T21:34:00"
     }
   ]
 }
