@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9PM on Saturday 6th November 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T13:13:00",
+      "timeRaised": "2021-11-06T13:13:40",
+      "timeSeverityChanged": "2021-11-06T13:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-11-06T15:17:00",
       "timeRaised": "2021-11-06T15:18:08",
       "timeSeverityChanged": "2021-11-06T15:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9PM on Saturday 6th November 2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T13:13:00",
-      "timeRaised": "2021-11-06T13:13:40",
-      "timeSeverityChanged": "2021-11-06T13:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
