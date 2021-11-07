@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9AM on Sunday 7th November 2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-06T21:06:00",
+      "timeRaised": "2021-11-06T21:06:19",
+      "timeSeverityChanged": "2021-11-06T13:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -55,27 +76,6 @@
       "timeMessageChanged": "2021-11-06T15:17:00",
       "timeRaised": "2021-11-06T15:18:08",
       "timeSeverityChanged": "2021-11-06T15:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast tomorrow, Sunday 7th November between 04:30 and 08:00am. The particular areas at risk are exposed frontages and paths around Bridlington and low paths around Bridlington Harbour. Spring tides peak over the weekend, and combined with unsettled weather may result in us issuing this alert for subsequent tides on Sunday and Monday, after which we expect tidal conditions to improve. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9AM on Sunday 7th November 2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T21:06:00",
-      "timeRaised": "2021-11-06T21:06:19",
-      "timeSeverityChanged": "2021-11-06T13:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
@@ -330,6 +330,90 @@
       "timeSeverityChanged": "2021-11-06T13:54:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1WhitMar",
+      "description": "Coast from Whitstable to Margate",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar",
+        "county": "Kent",
+        "notation": "064WAC1WhitMar",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "064WAC1WhitMar",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Sunday afternoon, 07/11/2021.  Highest tide is expected to be at 13:45 this afternoon. Flooding is possible two hours either side of this time from 11:45 to 15:45. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 13:45 Sunday afternoon tide is 3.54mAOD.\nThis message will be updated this evening, 07/11/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-07T08:10:00",
+      "timeRaised": "2021-11-07T08:11:56",
+      "timeSeverityChanged": "2021-11-07T08:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1MedEst",
+      "description": "Tidal Medway, Medway estuary and Isle of Grain",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst",
+        "county": "Kent, Medway",
+        "notation": "064WAT1MedEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst/polygon",
+        "riverOrSea": "River Medway"
+      },
+      "floodAreaID": "064WAT1MedEst",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Sunday afternoon, 07/11/2021.  Highest tide is expected to be at 13:45 this afternoon. Flooding is possible two hours either side of this time from 11:45 to 15:45. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 13:45 Sunday afternoon tide is 3.54mAOD.\nThis message will be updated this evening, 07/11/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-07T08:12:00",
+      "timeRaised": "2021-11-07T08:13:52",
+      "timeSeverityChanged": "2021-11-07T08:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
+      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
+        "county": "Kent",
+        "notation": "064WAC1ShepSwale",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
+        "riverOrSea": "English Channel, The Swale"
+      },
+      "floodAreaID": "064WAC1ShepSwale",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Sunday afternoon, 07/11/2021.  Highest tide is expected to be at 13:45 this afternoon. Flooding is possible two hours either side of this time from 11:45 to 15:45. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 13:45 Sunday afternoon tide is 3.54mAOD.\nThis message will be updated this evening, 07/11/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-07T08:10:00",
+      "timeRaised": "2021-11-07T08:12:41",
+      "timeSeverityChanged": "2021-11-07T08:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1ThamesEst",
+      "description": "Coast from Dartford to Allhallows",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst",
+        "county": "Bexley, Greater London, Kent, Medway",
+        "notation": "064WAT1ThamesEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "064WAT1ThamesEst",
+      "isTidal": true,
+      "message": "This Flood alert has been issued due to a high tide forecast for Sunday afternoon, 07/11/2021.  Highest tide is expected to be at 13:45 this afternoon. Flooding is possible two hours either side of this time from 11:45 to 15:45. Flooding to properties is not expected.\nOur incident response staff are checking our defences and structures and are prepared to respond if required.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. For those who need it, the forecast total water height at Sheerness for the 13:45 Sunday afternoon tide is 3.54mAOD.\nThis message will be updated this evening, 07/11/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-07T08:11:00",
+      "timeRaised": "2021-11-07T08:13:14",
+      "timeSeverityChanged": "2021-11-07T08:11:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
       "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
       "eaAreaName": "Cumbria and Lancashire",
@@ -469,12 +553,12 @@
       },
       "floodAreaID": "012WATLE",
       "isTidal": true,
-      "message": "As a result of high spring tides and strong winds, tides will be at their highest overnight at 12:01 AM on 07/11/2021.\nAreas most at risk include Aldcliffe Marsh, Heaton Marsh, Marsh, Greyhound Bridge, Skerton Bridge, Newton, Overton, Middleton, Glasson and Thurnham Moss.\nHighest tide level is expected to be at Aldcliffe Marsh, Heaton Marsh, Marsh, Greyhound Bridge, Skerton Bridge, Newton, Overton, Middleton, Glasson and Thurnham Moss at 12:01 AM on 07/11/2021. Flooding is possible 2 hours either side of this time.\nWe are expecting higher than normal tides over the next 2 days and as a result we may issue further alerts/warnings.\nWe are closing locks and flood gates in the area.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 06:30 AM on 07/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:14:00",
-      "timeRaised": "2021-11-06T15:16:42",
-      "timeSeverityChanged": "2021-11-05T15:03:00"
+      "message": "After this tide‚ the weather is more settled and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T07:56:00",
+      "timeRaised": "2021-11-07T07:56:53",
+      "timeSeverityChanged": "2021-11-07T07:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
@@ -595,12 +679,12 @@
       },
       "floodAreaID": "012WACHC",
       "isTidal": true,
-      "message": "As a result of high spring tides and strong winds, tides will be at their highest overnight at 12:01 AM on 07/11/2021.\nAreas most at risk include Sandylands, Middleton, Sunderland, Bank Houses, Hillam, Sand Side and Cockerham Moss.\nHighest tide level is expected to be at Sandylands, Middleton, Sunderland, Bank Houses, Hillam, Sand Side and Cockerham Moss at 12:01 AM on 07/11/2021. Flooding is possible 2 hours either side of this time.\nThe next high tide is expected to be higher than normal and may result in us issuing a further alert.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 06:30 AM on 07/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:12:00",
-      "timeRaised": "2021-11-06T15:13:10",
-      "timeSeverityChanged": "2021-11-05T15:39:00"
+      "message": "After this tide‚ the weather is more settled and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T07:56:00",
+      "timeRaised": "2021-11-07T07:56:32",
+      "timeSeverityChanged": "2021-11-07T07:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACFB",
@@ -616,12 +700,12 @@
       },
       "floodAreaID": "012WACFB",
       "isTidal": true,
-      "message": " As a result of high spring tides and strong winds, tides will be at their highest overnight at 12:01 AM on 07/11/2021.\nAreas most at risk include Fleetwood, Larkholme, Broadwater, Cleveleys, Rossall Beach, Anchorsholme, Blackpool and Revoe.\nHighest tide level is expected to be at Fleetwood, Larkholme, Broadwater, Cleveleys, Rossall Beach, Anchorsholme, Blackpool and Revoe at 12:01 AM on 07/11/2021. Flooding is possible 2 hours either side of this time.\nThe next high tide is expected to be higher than normal and may result in us issuing a further alert.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 06:30 AM on 07/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:25:00",
-      "timeRaised": "2021-11-06T15:26:50",
-      "timeSeverityChanged": "2021-11-06T06:02:00"
+      "message": "After this tide‚ the weather is more settled and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T07:56:00",
+      "timeRaised": "2021-11-07T07:57:19",
+      "timeSeverityChanged": "2021-11-07T07:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
@@ -637,12 +721,12 @@
       },
       "floodAreaID": "031WAT217",
       "isTidal": true,
-      "message": " High spring tides and strong winds are expected over the weekend in the Severn Estuary. Flooding may affect low lying land and roads adjacent to the Severn Estuary from Sandhurst to Chepstow and Sharpness. Locations that may be affected include areas river side of defences where defences are present including Lydney Harbour. Low lying land at Purton on the east bank may also be impacted. Fluvial tidal interaction may cause minor flooding during the high tide at Gloucester and Sandhurst. High tides may also affect watercourses draining into the Severn Estuary. On the current forecast tomorrow mornings tide will not reach the threshold and will therefore be removed before the next high tide unless the situation changes.  We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T22:18:00",
-      "timeRaised": "2021-11-06T22:18:52",
-      "timeSeverityChanged": "2021-11-06T10:18:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T08:04:00",
+      "timeRaised": "2021-11-07T08:05:08",
+      "timeSeverityChanged": "2021-11-07T08:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTWY0F",
@@ -658,12 +742,12 @@
       },
       "floodAreaID": "031FWTWY0F",
       "isTidal": true,
-      "message": " High spring tides and strong winds will cause high tidal peaks on The River Wye over the weekend. Flooding to properties, roads and farmland may be occur and conditions may apply two to four hours either side of the high tide. High tides may impact garages & footpaths in Brockweir.  On the current forecast tomorrow mornings tide will not reach the threshold and will therefore be removed before the next high tide unless the situation changes. We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-11-06T22:18:00",
-      "timeRaised": "2021-11-06T22:18:37",
-      "timeSeverityChanged": "2021-11-06T10:33:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T08:10:00",
+      "timeRaised": "2021-11-07T08:10:43",
+      "timeSeverityChanged": "2021-11-07T08:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAT602WTEa",
@@ -1057,12 +1141,12 @@
       },
       "floodAreaID": "012WATRE",
       "isTidal": true,
-      "message": "As a result of high spring tides and strong winds, tides will be at their highest overnight at 12:01 AM on 07/11/2021.\nAreas most at risk include Freckleton Marsh, Riversway Docklands, Lower Penwortham, Hutton Marsh, Longton Marsh, Becconsall Marsh, Much Hoole Marsh, Bretherton Eyes, Croston Finney, Hesketh Out Marsh and Hundred End.\nHighest tide level is expected to be at Freckleton Marsh, Riversway Docklands, Lower Penwortham, Hutton Marsh, Longton Marsh, Becconsall Marsh, Much Hoole Marsh, Bretherton Eyes, Croston Finney, Hesketh Out Marsh and Hundred End at 12:01 AM on 07/11/2021. Flooding is possible 2 hours either side of this time.\nWe will continue to monitor levels closely.\nStay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 06:30 AM on 07/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:14:00",
-      "timeRaised": "2021-11-06T15:16:41",
-      "timeSeverityChanged": "2021-11-06T15:14:00"
+      "message": "After this tide‚ the weather is more settled and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T07:56:00",
+      "timeRaised": "2021-11-07T07:56:24",
+      "timeSeverityChanged": "2021-11-07T07:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT983",
@@ -1099,12 +1183,12 @@
       },
       "floodAreaID": "012WACSM",
       "isTidal": true,
-      "message": "As a result of high spring tides and strong winds, tides will be at their highest overnight at 12:01 AM on 07/11/2021.\nStrong winds and spring tides may cause large waves and spray overtopping on the coast overnight.\nAreas most at risk include Warton, Carnforth, Crag Bank, Bolton-le-Sands, Hest Bank, Bare, Torrisholme, Great Hestham and Heysham Harbour.\nHighest tide level is expected to be at Warton, Carnforth, Crag Bank, Bolton-le-Sands, Hest Bank, Bare, Torrisholme, Great Hestham and Heysham Harbour at 12:01 AM on 07/11/2021. Flooding is possible 2 hours either side of this time.\nWe will continue to monitor levels closely.\nStay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 06:30 AM on 07/11/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T15:25:00",
-      "timeRaised": "2021-11-06T15:25:38",
-      "timeSeverityChanged": "2021-11-06T15:25:00"
+      "message": "After this tide‚ the weather is more settled and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T07:56:00",
+      "timeRaised": "2021-11-07T07:56:32",
+      "timeSeverityChanged": "2021-11-07T07:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
