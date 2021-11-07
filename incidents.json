@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-07T08:54:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "This flood alert has been removed due to improving weather conditions and falling tides. Please continue to be careful along beaches, promenades, coastal footpaths and roads. We will continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-07T09:58:00",
-      "timeRaised": "2021-11-07T09:58:18",
-      "timeSeverityChanged": "2021-11-07T09:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2021-11-06T15:17:00",
       "timeRaised": "2021-11-06T15:18:08",
       "timeSeverityChanged": "2021-11-06T15:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "This flood alert has been removed due to improving weather conditions and falling tides. Please continue to be careful along beaches, promenades, coastal footpaths and roads. We will continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T09:58:00",
+      "timeRaised": "2021-11-07T09:58:18",
+      "timeSeverityChanged": "2021-11-07T09:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
@@ -847,12 +847,12 @@
       },
       "floodAreaID": "055WAT602WTEa",
       "isTidal": true,
-      "message": "Stormy conditions are forecast, resulting in large waves moving down the East Coast of England on Sunday afternoon. This will lead to unusually high tidal levels along the Wash Frontage. The time and date of the forecast high water is 19:15 on 7th November 2021, however conditions may apply two to four hours either side of the high tide. The high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences.  Low lying coastal land and roads will be affected first.  Our forecasts indicate that flooding to properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring tide levels, and have staff in the field checking our defences and closing tidal gates where required. Please avoid using low lying coastal footpaths near beaches or promenades and plan driving routes to avoid low lying roads, as sea spray and waves could be dangerous. This message will be updated as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-07T11:05:00",
-      "timeRaised": "2021-11-07T11:05:59",
-      "timeSeverityChanged": "2021-11-06T13:00:00"
+      "message": "Stormy conditions have now past. The risk of tidal flooding for areas near the Wash Frontage in Lincolnshire has now reduced and has fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T15:00:00",
+      "timeRaised": "2021-11-07T15:00:11",
+      "timeSeverityChanged": "2021-11-07T15:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
@@ -1141,11 +1141,11 @@
       },
       "floodAreaID": "054WACDV3B",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 08:15am and 12:15pm on Sunday 7th November. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.15mAODN at 10:15am, on Sunday 7th November, which is 0.87m above tide tables, wind Force 7, Westerly, which will be blowing strongly offshore. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. It is possible we may need to re-issue this Alert for Sunday evening's tide. This message will be updated by 1pm tomorrow, Sunday 7th November.\t",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 8:45pm tonight, Sunday 7th November, and 12:45am tomorrow. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast for those that use it is for a peak level at Lowestoft of 1.78 mAODN at 10:45pm on Sunday 7th November, which is 0.7m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level - for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 10:00am tomorrow, Monday 8th November.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T21:47:00",
-      "timeRaised": "2021-11-06T21:47:59",
+      "timeMessageChanged": "2021-11-07T14:49:00",
+      "timeRaised": "2021-11-07T14:50:48",
       "timeSeverityChanged": "2021-11-06T15:13:00"
     },
     {
@@ -1162,12 +1162,12 @@
       },
       "floodAreaID": "053WAT600SHBb",
       "isTidal": true,
-      "message": "Stormy conditions are forecast, resulting in large waves moving down the East Coast of England on Sunday afternoon. This will lead to unusually high tidal levels along the South Humber Bank between Whitton and South Ferriby. The time and date of the forecast high water is 19:00 on 7th November 2021, however conditions may apply two to four hours either side of the high tide. The high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences. Low lying coastal land and roads will be affected first. Our forecasts currently indicate that the closure of the A1077 flood gate isn't required and flooding to properties is not expected. We are constantly monitoring tide levels, and have staff in the field checking our defences and closing tidal gates where required. Please avoid using low lying coastal footpaths near beaches or promenades and plan driving routes to avoid low lying roads, as sea spray and waves could be dangerous. This message will be updated as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-07T10:54:00",
-      "timeRaised": "2021-11-07T10:54:19",
-      "timeSeverityChanged": "2021-11-06T15:17:00"
+      "message": "Stormy conditions have now past. The risk of tidal flooding for areas near the South Humber Bank from Whitton to South Ferriby has now reduced and has fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T14:54:00",
+      "timeRaised": "2021-11-07T14:54:18",
+      "timeSeverityChanged": "2021-11-07T14:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3A",
@@ -1204,12 +1204,12 @@
       },
       "floodAreaID": "053WAT600SHBa",
       "isTidal": true,
-      "message": "Stormy conditions are forecast, resulting in large waves moving down the East Coast of England on Sunday afternoon. This will lead to unusually high tidal levels along the South Humber Bank between Barton Upon Humber to Humberston. The time and date of the forecast high water is 19:00 on 7th November 2021, however conditions may apply two to four hours either side of the high tide. The high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences.  Low lying coastal land and roads will be affected first.  Our forecasts indicate that flooding to properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring tide levels, and have staff in the field checking our defences and closing tidal gates where required. Please avoid using low lying coastal footpaths near beaches or promenades and plan driving routes to avoid low lying roads, as sea spray and waves could be dangerous. This message will be updated as the situation changes.  \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-07T10:48:00",
-      "timeRaised": "2021-11-07T10:49:40",
-      "timeSeverityChanged": "2021-11-06T15:07:00"
+      "message": "The risk of tidal flooding for the areas near the South Humber Bank from Barton Upon Humber to Humberston has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T14:51:00",
+      "timeRaised": "2021-11-07T14:51:36",
+      "timeSeverityChanged": "2021-11-07T14:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATRE",
@@ -1288,11 +1288,11 @@
       },
       "floodAreaID": "054WACDV3C",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 08:15am and 12:15pm on Sunday 7th November. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.15mAODN at 10:15am, on Sunday 7th November, which is 0.87m above tide tables, wind Force 7, Westerly, which will be blowing strongly offshore. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. It is possible we may need to re-issue this Alert for Sunday evening's tide. This message will be updated by 1pm tomorrow, Sunday 7th November.",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 8:45pm tonight, Sunday 7th November, and 12:45am tomorrow. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 1.78mAODN at 10:45pm, on Sunday 7th November, which is 0.7m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 10:00am tomorrow, Monday 8th November.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-06T21:38:00",
-      "timeRaised": "2021-11-06T21:38:42",
+      "timeMessageChanged": "2021-11-07T14:35:00",
+      "timeRaised": "2021-11-07T14:36:31",
       "timeSeverityChanged": "2021-11-06T15:27:00"
     },
     {
@@ -1939,12 +1939,12 @@
       },
       "floodAreaID": "053WAT601TLCa",
       "isTidal": true,
-      "message": "Stormy conditions are forecast, resulting in large waves moving down the East Coast of England on Sunday afternoon. This will lead to unusually high tidal levels along the Lincolnshire Coastline. The time and date of the forecast high water is 19:00 on 7th November 2021, however conditions may apply two to four hours either side of the high tide. The high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences.  Low lying coastal land and roads will be affected first.  Our forecasts indicate that flooding to properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring tide levels, and have staff in the field checking our defences and closing tidal gates where required. Please avoid using low lying coastal footpaths near beaches or promenades and plan driving routes to avoid low lying roads, as sea spray and waves could be dangerous. This message will be updated as the situation changes.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-07T10:59:00",
-      "timeRaised": "2021-11-07T10:59:47",
-      "timeSeverityChanged": "2021-11-06T20:43:00"
+      "message": "Stormy conditions have now past. The risk of tidal flooding for areas near the Lincolnshire Coastline has now reduced and has fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.\n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T14:56:00",
+      "timeRaised": "2021-11-07T14:57:16",
+      "timeSeverityChanged": "2021-11-07T14:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV3C1",
@@ -1960,12 +1960,12 @@
       },
       "floodAreaID": "054FWCDV3C1",
       "isTidal": true,
-      "message": "This message has been issued because our latest forecast shows possible flooding to coastal roads, footpaths and businesses at the Harbour between 08:15am and 12:15pm on Sunday 7th November. Areas most at risk are around Southwold Harbour, Ferry road, the bottom of Queens Road and Constitution Hill, North Road, the bottom of Pier Avenue and Mights Road in Southwold and Bridge Road and Hillside Road in Reydon. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.15mAODN at 10:15am, on Sunday 7th November, which is 0.87m above tide tables, wind Force 7, westerly. (mAODN is height above average sea level, for more info refer to local tide tables). High water at Southwold will be around 1 hour later.  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are continuing to monitor the situation. This message will be updated by 1pm tomorrow, Sunday 7th November.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-11-06T21:23:00",
-      "timeRaised": "2021-11-06T21:24:06",
-      "timeSeverityChanged": "2021-11-06T21:23:00"
+      "message": "Levels are now well below the flood warning risk threshold. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely. A flood alert for the area will still be in place overnight. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T14:37:00",
+      "timeRaised": "2021-11-07T14:37:58",
+      "timeSeverityChanged": "2021-11-07T14:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWT028",
@@ -2023,12 +2023,12 @@
       },
       "floodAreaID": "054FWTBT2A",
       "isTidal": true,
-      "message": "This message has been issued because flooding of homes and businesses is likely from 10:30am Sunday 7 November, over the next few hours and into this evening. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. Areas most at risk are Reedham, Cantley and Brundall. Roads affected include Ferry Road in Reedham, the A47 and the railway line between Reedham and Brundall. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Be ready to take action to protect your property if flooding is expected. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 9pm Sunday 7 November 2021. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-11-07T08:58:00",
-      "timeRaised": "2021-11-07T08:59:39",
-      "timeSeverityChanged": "2021-11-07T08:58:00"
+      "message": "Levels are now well below the flood warning risk threshold. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely. A flood alert for the area is still in place for this evening, Sunday 7th November, and overnight. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-07T14:58:00",
+      "timeRaised": "2021-11-07T14:59:08",
+      "timeSeverityChanged": "2021-11-07T14:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV4C1a",
