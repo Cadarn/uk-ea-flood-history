@@ -78,6 +78,48 @@
       "timeSeverityChanged": "2021-11-08T09:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast and the eastern part of the Humber Estuary today, Tuesday 9th November between 09:00-10:15. The particular areas at risk are exposed areas of the coast around Kilnsea and Spurn Point. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9PM on Tuesday 9th November 2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-09T09:02:00",
+      "timeRaised": "2021-11-09T09:02:55",
+      "timeSeverityChanged": "2021-11-09T09:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping along the East Yorkshire Coast and the eastern part of the Humber Estuary today, Tuesday 9th November between 09:00-10:45. The particular areas at risk are exposed areas of the coast around Kilnsea and Spurn Point. Please be careful along beaches, coastal footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast and levels closely. This message will be updated by 9PM on Tuesday 9th November 2021, or as the situation changes.    ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-09T09:02:00",
+      "timeRaised": "2021-11-09T09:02:43",
+      "timeSeverityChanged": "2021-11-09T09:02:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -118,27 +160,6 @@
       "timeMessageChanged": "2021-11-08T09:06:00",
       "timeRaised": "2021-11-08T09:07:28",
       "timeSeverityChanged": "2021-11-08T09:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
-      "description": "The tidal Deben estuary",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
-        "county": "Suffolk",
-        "notation": "054WACDV4A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
-        "riverOrSea": "River Deben, North Sea"
-      },
-      "floodAreaID": "054WACDV4A",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T09:01:00",
-      "timeRaised": "2021-11-08T09:01:21",
-      "timeSeverityChanged": "2021-11-08T09:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
@@ -183,90 +204,6 @@
       "timeSeverityChanged": "2021-11-08T09:18:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
-      "description": "The Norfolk coast from Eccles on Sea, to and including, Winterton-on-Sea",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B",
-        "county": "Norfolk",
-        "notation": "054WACDV2B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV2B",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T08:42:00",
-      "timeRaised": "2021-11-08T08:43:10",
-      "timeSeverityChanged": "2021-11-08T08:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
-      "description": "The Suffolk coast from Lowestoft to Bawdsey",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
-        "county": "Suffolk",
-        "notation": "054WACDV3B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV3B",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T08:55:00",
-      "timeRaised": "2021-11-08T08:55:30",
-      "timeSeverityChanged": "2021-11-08T08:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
-      "description": "The Suffolk coast at Southwold",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
-        "county": "Suffolk",
-        "notation": "054WACDV3C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV3C",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T09:03:00",
-      "timeRaised": "2021-11-08T09:03:44",
-      "timeSeverityChanged": "2021-11-08T09:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
-      "description": "Tidal River Ouse, Don and the Dutch River catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAT979",
-        "county": "Doncaster, East Riding of Yorkshire, North Lincolnshire, North Yorkshire",
-        "notation": "123WAT979",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAT979/polygon",
-        "riverOrSea": "River Ouse, River Don, Dutch River"
-      },
-      "floodAreaID": "123WAT979",
-      "isTidal": true,
-      "message": "This flood alert is being removed as yesterdays tide was not as high as expected. Tidal levels will be falling going into next week. Following this yesterdays high tide, our operational staff are checking our flood embankments and other defences in the area. Please keep away from flood water and to report an issue relating to river, tidal or coastal flooding, call our Incident Hotline 0800 80 70 60. Be aware of your surroundings and keep up to date with the current situation via our Check for Flooding Service on Gov.UK or via Floodline 0345 988 1188.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T08:45:00",
-      "timeRaised": "2021-11-08T08:45:53",
-      "timeSeverityChanged": "2021-11-08T08:45:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
       "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -307,69 +244,6 @@
       "timeMessageChanged": "2021-11-08T09:17:00",
       "timeRaised": "2021-11-08T09:17:44",
       "timeSeverityChanged": "2021-11-08T09:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC304",
-      "description": "Coast from Ramsgate to Kingsdown",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC304",
-        "county": "Kent",
-        "notation": "064WAC304",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC304/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "064WAC304",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed. The risk of flooding along the Coast from Ramsgate to Kingsdown including the Tidal Stour has now reduced and water levels have fallen. There is no longer a threat of flooding, though standing water and debris may still remain. Please continue to be careful along beaches, promenades, coastal footpaths and low lying roads near watercourses. Tides are now reducing, however we will continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T08:38:00",
-      "timeRaised": "2021-11-08T08:38:49",
-      "timeSeverityChanged": "2021-11-08T08:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC303",
-      "description": "Coast from St Margaret's at Cliffe to Sandgate",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303",
-        "county": "Kent",
-        "notation": "064WAC303",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303/polygon",
-        "riverOrSea": "English Channel, North Sea"
-      },
-      "floodAreaID": "064WAC303",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed. The risk of flooding along the coast at St Margaret’s at Cliffe to Sandgate, Dover and Folkestone has now reduced and water levels have fallen. There is no longer a threat of flooding, though standing water and debris may still remain. Please continue to be careful along beaches, promenades, coastal footpaths and low lying roads near watercourses. Tides are now reducing, however we will continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T08:38:00",
-      "timeRaised": "2021-11-08T08:38:33",
-      "timeSeverityChanged": "2021-11-08T08:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV2B1",
-      "description": "The Norfolk coast from Bacton to Ostend, including Walcott",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2B1",
-        "county": "Norfolk",
-        "notation": "054FWCDV2B1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV2B1/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054FWCDV2B1",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-11-08T08:54:00",
-      "timeRaised": "2021-11-08T08:54:46",
-      "timeSeverityChanged": "2021-11-08T08:54:00"
     }
   ]
 }
