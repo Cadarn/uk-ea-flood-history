@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
-      "description": "River Rye catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
-        "county": "North Yorkshire",
-        "notation": "122WAF982",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
-        "riverOrSea": "River Rye"
-      },
-      "floodAreaID": "122WAF982",
-      "isTidal": false,
-      "message": "The flood alert for the River Rye and tributaries has been issued. River levels have risen as a result of rainfall overnight on Friday 26th November 2021.  Consequently, flooding of roads and farmland is expected during Saturday 27th November 2021. Areas most at risk are low lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses, and do not walk or drive through flood water. This message will be updated by 20:00 on Saturday 27th November 2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-27T13:58:00",
-      "timeRaised": "2021-11-27T13:59:15",
-      "timeSeverityChanged": "2021-11-27T13:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
       "description": "North Sea coast at Bridlington",
       "eaAreaName": "Yorkshire",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2021-11-27T12:53:00",
       "timeRaised": "2021-11-27T12:53:28",
       "timeSeverityChanged": "2021-11-26T16:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
+      "description": "River Rye catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
+        "county": "North Yorkshire",
+        "notation": "122WAF982",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
+        "riverOrSea": "River Rye"
+      },
+      "floodAreaID": "122WAF982",
+      "isTidal": false,
+      "message": "The flood alert for the River Rye and tributaries has been issued. River levels have risen as a result of rainfall overnight on Friday 26th November 2021.  Consequently, flooding of roads and farmland is expected during Saturday 27th November 2021. Areas most at risk are low lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses, and do not walk or drive through flood water. This message will be updated by 20:00 on Saturday 27th November 2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-11-27T13:58:00",
+      "timeRaised": "2021-11-27T13:59:15",
+      "timeSeverityChanged": "2021-11-27T13:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
@@ -154,11 +154,11 @@
       },
       "floodAreaID": "122WAF980",
       "isTidal": false,
-      "message": "The flood alert for the River Seven catchment remains in force. River levels have risen in this area as a result of rainfall overnight on Friday 26th November 2021. Consequently, flooding of roads and farmland is expected during Saturday 27th November 2021. Levels are expected to peak between 13:00 and 15:00 on Saturday 27th November 2021 but will remain higher than normal into Sunday 28th November 2021. Areas most at risk are low lying land and roads. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. You can check flood warnings and alerts on the GOV.UK website or via Floodline number 0345 988 1188. We are monitoring the situation closely. This message will be updated by 20:00 on Saturday 27th November 2021, or as the situation changes.",
+      "message": "The flood alert for the River Seven catchment remains in force. River levels have risen in this area as a result of rainfall overnight on Friday 26th November 2021. Whilst river levels have now peaked, the risk of flooding of roads and farmland remains this evening and overnight into Sunday 28th November 2021. Areas most at risk are low lying land and roads. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. You can check flood warnings and alerts on the GOV.UK website or via Floodline number 0345 988 1188. We are monitoring the situation closely. This message will be updated in 8 hours, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-11-27T14:33:00",
-      "timeRaised": "2021-11-27T14:33:59",
+      "timeMessageChanged": "2021-11-27T17:58:00",
+      "timeRaised": "2021-11-27T17:58:26",
       "timeSeverityChanged": "2021-11-27T08:41:00"
     },
     {
@@ -322,12 +322,12 @@
       },
       "floodAreaID": "121WAC921",
       "isTidal": true,
-      "message": "Large and powerful waves are expected to continue to overtop sea defences as a result of Storm Arwen along the Northumberland Coast. Strong waves and spray are expected throughout the morning and into this afternoon, 27/11/2021. Areas most at risk are beaches, promenades, coastal footpaths and roads. Flooding of properties is not forecast at this point.\n\nWe are closely monitoring the situation. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  \n\nThis message will be updated by 19:00 tonight, 27/11/2021, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-27T10:38:00",
-      "timeRaised": "2021-11-27T10:38:51",
-      "timeSeverityChanged": "2021-11-26T15:30:00"
+      "message": "This Flood Alert has been removed.  \n\nThe risk of flooding from Storm Arwen has now reduced.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-27T17:59:00",
+      "timeRaised": "2021-11-27T17:59:50",
+      "timeSeverityChanged": "2021-11-27T17:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
@@ -490,12 +490,12 @@
       },
       "floodAreaID": "121WAC928",
       "isTidal": true,
-      "message": "Large and powerful waves are expected to continue to overtop sea defences as a result of Storm Arwen along the Hartlepool to Cowbar coast. Strong waves and spray are expected throughout the morning and into this afternoon, 27/11/2021. Areas most at risk are beaches, promenades, coastal footpaths and roads. Flooding of properties is not forecast at this point.\n\nWe are closely monitoring the situation. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  \n\nThis message will be updated by 19:00 tonight, 27/11/2021, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-11-27T10:38:00",
-      "timeRaised": "2021-11-27T10:38:38",
-      "timeSeverityChanged": "2021-11-26T15:29:00"
+      "message": "This Flood Alert has been removed.  \n\nThe risk of flooding from Storm Arwen has now reduced.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-11-27T17:59:00",
+      "timeRaised": "2021-11-27T17:59:36",
+      "timeSeverityChanged": "2021-11-27T17:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC036",
