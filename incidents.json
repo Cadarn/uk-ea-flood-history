@@ -28,11 +28,11 @@
       },
       "floodAreaID": "054WATBT1",
       "isTidal": true,
-      "message": "This message has been issued, because some minor flooding to riverside roads and footpaths is likely this afternoon, overnight tonight and into tomorrow morning. Water levels continue to remain high. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry road in Horning. Flood water is dangerous. Don't put yourself or others at risk. We are monitoring the situation and are not expecting the situation to escalate. We will update this message by 10am tomorrow, Sunday 5th December 2021.\t\n",
+      "message": "This message has been issued, because some minor flooding to riverside roads and footpaths is likely this morning and into the afternoon. Water levels continue to remain high. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry road in Horning. Flood water is dangerous. Don't put yourself or others at risk. We are monitoring the situation and are not expecting the situation to escalate. We will update this message by 10am tomorrow, Monday 6th December 2021. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-04T10:03:00",
-      "timeRaised": "2021-12-04T10:04:17",
+      "timeMessageChanged": "2021-12-05T08:18:00",
+      "timeRaised": "2021-12-05T08:19:28",
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
@@ -624,6 +624,27 @@
       "timeSeverityChanged": "2021-12-03T16:48:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued, because some minor flooding to riverside roads and footpaths is likely this morning and into the afternoon. Water levels continue to remain high. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Flood water is dangerous. Don't put yourself or others at risk. We are monitoring the situation and are not expecting the situation to escalate. We will update this message by 10am tomorrow, Monday 6th December 2021. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-05T08:23:00",
+      "timeRaised": "2021-12-05T08:23:44",
+      "timeSeverityChanged": "2021-12-05T08:23:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
       "description": "Climping Seafront",
       "eaAreaName": "Solent and South Downs",
@@ -1021,6 +1042,48 @@
       "timeMessageChanged": "2021-12-05T07:20:00",
       "timeRaised": "2021-12-05T07:21:43",
       "timeSeverityChanged": "2021-12-05T07:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF904",
+      "description": "Lower River Coquet",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF904",
+        "county": "Northumberland",
+        "notation": "121WAF904",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF904/polygon",
+        "riverOrSea": "River Coquet"
+      },
+      "floodAreaID": "121WAF904",
+      "isTidal": false,
+      "message": "River levels are high on the Lower Coquet as a result of heavy rainfall overnight. Areas most at risk are riverside footpaths and low lying land and roads. There is less rainfall forecast today, 05/12/2021 however levels will remain high for most of the day before reducing. \n\nWe are closely monitoring the situation and do not currently expect to issue any Flood Warnings. We are not expecting to close Warkworth flood gates. Please avoid using low lying footpaths near local watercourses.  \n\nThis message will be updated by 16:00 this evening, 05/12/2021. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-05T08:24:00",
+      "timeRaised": "2021-12-05T08:24:58",
+      "timeSeverityChanged": "2021-12-05T08:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF905",
+      "description": "River Wansbeck",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF905",
+        "county": "Northumberland",
+        "notation": "121WAF905",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF905/polygon",
+        "riverOrSea": "River Wansbeck, River Font, Hart Burn"
+      },
+      "floodAreaID": "121WAF905",
+      "isTidal": false,
+      "message": "River levels are high on the River Wansbeck as a result of heavy rainfall overnight. Areas most at risk are riverside footpaths and low lying land and roads. There is less rainfall forecast today, 05/12/2021 however levels will remain high for most of the day before reducing. \n\nWe are closely monitoring the situation and do not currently expect to issue any Flood Warnings. We are not expecting to close Morpeth flood gates. Please avoid using low lying footpaths near local watercourses.  \n\nThis message will be updated by 16:00 this evening, 05/12/2021. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-05T08:25:00",
+      "timeRaised": "2021-12-05T08:27:21",
+      "timeSeverityChanged": "2021-12-05T08:25:00"
     }
   ]
 }
