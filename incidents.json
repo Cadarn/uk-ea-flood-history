@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-05T20:36:00",
-      "timeRaised": "2021-12-05T20:36:56",
-      "timeSeverityChanged": "2021-12-05T20:36:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
       "description": "River Churnet and River Tean",
       "eaAreaName": "West Midlands",
@@ -97,6 +76,27 @@
       "timeMessageChanged": "2021-12-06T08:23:00",
       "timeRaised": "2021-12-06T08:24:07",
       "timeSeverityChanged": "2021-12-05T15:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-05T20:36:00",
+      "timeRaised": "2021-12-05T20:36:56",
+      "timeSeverityChanged": "2021-12-05T20:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -616,12 +616,12 @@
       },
       "floodAreaID": "054WATBT2",
       "isTidal": true,
-      "message": "This message has been issued, because some minor flooding to riverside roads and footpaths is likely this morning and into the afternoon. Water levels continue to remain high. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Flood water is dangerous. Don't put yourself or others at risk. We are monitoring the situation and are not expecting the situation to escalate. We will update this message by 10am tomorrow, Monday 6th December 2021. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-05T08:23:00",
-      "timeRaised": "2021-12-05T08:23:44",
-      "timeSeverityChanged": "2021-12-05T08:23:00"
+      "message": "Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-06T10:33:00",
+      "timeRaised": "2021-12-06T10:33:45",
+      "timeSeverityChanged": "2021-12-06T10:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF903",
@@ -868,12 +868,12 @@
       },
       "floodAreaID": "121WAF904",
       "isTidal": false,
-      "message": "River levels remain high in the lower catchment of the River Coquet as a result of heavy rainfall. Areas most at risk are riverside footpaths, low lying land and roads. The forecast continues to be unsettled overnight, 05/12/2021, however river levels are forecast to remain steady. We are closely monitoring the situation and do not currently expect to issue any Flood Warnings. Please avoid using low lying footpaths near local watercourses. This message will be updated by 10:00 tomorrow morning, 06/12/2021",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-05T16:27:00",
-      "timeRaised": "2021-12-05T16:27:10",
-      "timeSeverityChanged": "2021-12-05T08:24:00"
+      "message": "This Flood Alert has been removed. River levels are beginning to fall and there is no longer a threat of flooding, though standing water and debris may still remain.\nThe forecast continues to be unsettled over the next few days. We will continue to monitor the situation and re-issue this alert if necessary. Please continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-06T10:49:00",
+      "timeRaised": "2021-12-06T10:50:10",
+      "timeSeverityChanged": "2021-12-06T10:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF905",
@@ -931,11 +931,11 @@
       },
       "floodAreaID": "121WAF906",
       "isTidal": false,
-      "message": "River levels remain high on the River Pont and Blyth as a result of heavy rainfall. Areas most at risk are riverside footpaths, low lying land and roads. The forecast continues to be unsettled overnight, 05/12/2021, however river levels are forecast to remain steady. We are closely monitoring the situation and do not currently expect to issue any Flood Warnings. Please avoid using low lying footpaths near local watercourses. This message will be updated by 10:00 tomorrow morning, 06/12/2021.",
+      "message": "River levels remain high on the River Pont and Blyth as a result of heavy rainfall. Areas most at risk are riverside footpaths, low lying land and roads. \nThe forecast continues to be unsettled today, 06/12/2021. Some light rainfall is possible, however river levels are forecast to remain steady. We are closely monitoring the situation and do not currently expect to issue any Flood Warnings. Please avoid using low lying footpaths near local watercourses. This message will be updated by 17:00 today, 06/12/2021, or as the situation changes. \n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-05T16:21:00",
-      "timeRaised": "2021-12-05T16:21:36",
+      "timeMessageChanged": "2021-12-06T10:59:00",
+      "timeRaised": "2021-12-06T10:59:42",
       "timeSeverityChanged": "2021-12-05T11:27:00"
     }
   ]
