@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
-      "description": "River Rye catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
-        "county": "North Yorkshire",
-        "notation": "122WAF982",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
-        "riverOrSea": "River Rye"
-      },
-      "floodAreaID": "122WAF982",
-      "isTidal": false,
-      "message": "River levels remain high as a result of recent rainfall. Consequently, flooding of property, roads and farmland is possible today Monday 06/12/2021. Areas most at risk are low lying land around the River Rye and its tributaries, including Ralsdale Beck, River Seph, Ledge Beck, Fangdale Beck, Prodale Beck, Ladhill Beck, Etton Gill, Borough Beck and Spittle Beck. Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated on Monday evening, 06/12/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T16:58:00",
-      "timeRaised": "2021-12-06T16:58:39",
-      "timeSeverityChanged": "2021-12-05T15:49:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
       "description": "North Sea coast at Bridlington",
       "eaAreaName": "Yorkshire",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2021-12-05T20:36:00",
       "timeRaised": "2021-12-05T20:36:56",
       "timeSeverityChanged": "2021-12-05T20:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
+      "description": "River Rye catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
+        "county": "North Yorkshire",
+        "notation": "122WAF982",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
+        "riverOrSea": "River Rye"
+      },
+      "floodAreaID": "122WAF982",
+      "isTidal": false,
+      "message": "River levels remain high as a result of recent rainfall. Consequently, flooding of property, roads and farmland is possible today Monday 06/12/2021. Areas most at risk are low lying land around the River Rye and its tributaries, including Ralsdale Beck, River Seph, Ledge Beck, Fangdale Beck, Prodale Beck, Ladhill Beck, Etton Gill, Borough Beck and Spittle Beck. Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated on Monday evening, 06/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:58:00",
+      "timeRaised": "2021-12-06T16:58:39",
+      "timeSeverityChanged": "2021-12-05T15:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
@@ -1168,6 +1168,48 @@
       "timeMessageChanged": "2021-12-06T17:39:00",
       "timeRaised": "2021-12-06T17:39:44",
       "timeSeverityChanged": "2021-12-06T17:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC1401",
+      "description": "Langstone and Emsworth",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1401",
+        "county": "Hampshire, West Sussex",
+        "notation": "065FWC1401",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1401/polygon",
+        "riverOrSea": "Langstone Harbour, Emsworth Harbour"
+      },
+      "floodAreaID": "065FWC1401",
+      "isTidal": true,
+      "message": "Tuesday afternoon's tide at 13:00 on 07/12/2021 is higher than normal due to unsettled weather with strong South Easterly Force 7 winds and moderate waves. The weather increases tide table values by 0.51 m. The total forecast tide is 5.43 metres Chart Datum (2.70 mAOD) at Portsmouth. For 1 hour either side of high water, road and car park flooding will affect Langstone High Street, The Royal Oak and Ship Inn Pub (Langstone), South Street, Queen Street and the A259 junction of Lumley Road. In Emsworth, the promenade may become open harbour. Isolated property flooding is expected. At Bridge Road, the tide may rise to the top of the river bank for a short period of time. At 01:45 on 08/12/2021‚ the tide level remains elevated, but it is unlikely to cause flooding to property. We'll issue further advice. To help protect property, we have installed drop boards at Emsworth Promenade (on the south side of the Mill Pond). If you have it, please install flood protection 1 hour before high tide. We will update this message by 19:00 on 07/12/2021.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-12-06T18:38:00",
+      "timeRaised": "2021-12-06T18:39:58",
+      "timeSeverityChanged": "2021-12-06T18:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC0801",
+      "description": "Fareham",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC0801",
+        "county": "Hampshire",
+        "notation": "065FWC0801",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC0801/polygon",
+        "riverOrSea": "Portsmouth Harbour"
+      },
+      "floodAreaID": "065FWC0801",
+      "isTidal": true,
+      "message": "Tuesday afternoon's tide at 13:00 on 07/12/2021 is higher than normal due to unsettled weather with strong South Easterly Force 7 winds. The weather increases tide table values by 0.51 m. The total forecast tide is 5.43 metres Chart Datum (2.70 mAOD) at Portsmouth. For 1 hour either side of high water, the tide will exceed the top of the slipway at Lower Quay, which could impact a very small number of properties in this location. The lower end of Wallington Shore Road and the road at Eastern Parade will flood. Flood water in Wallington Shore Road will be between 0.1 m and 0.2 m deep. At 01:45 on 08/12/2021‚ the tide level remains elevated, but it is unlikely to cause flooding to property. We will issue further advice. We continue to monitor the forecast. At Town Quay, if you have it, please install flood protection 1 hour before high tide. Cars should not park at the lower end of Wallington Shore Road. We will update this message by 19:00 on 07/12/2021.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-12-06T18:34:00",
+      "timeRaised": "2021-12-06T18:35:42",
+      "timeSeverityChanged": "2021-12-06T18:34:00"
     }
   ]
 }
