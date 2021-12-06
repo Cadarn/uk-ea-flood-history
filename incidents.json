@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-05T20:36:00",
-      "timeRaised": "2021-12-05T20:36:56",
-      "timeSeverityChanged": "2021-12-05T20:36:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
       "description": "River Churnet and River Tean",
       "eaAreaName": "West Midlands",
@@ -112,12 +91,33 @@
       },
       "floodAreaID": "122WAF982",
       "isTidal": false,
-      "message": "River levels have risen as a result of recent rainfall. Consequently, flooding of property, roads and farmland is possible today Sunday 05/12/2021 and overnight into Monday 06/12/2021. Areas most at risk are low lying land around the River Rye and its tributaries, including Ralsdale Beck, River Seph, Ledge Beck, Fangdale Beck, Prodale Beck, Ladhill Beck, Etton Gill, Borough Beck and Spittle Beck. Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated on Monday morning 06/12/2021, or as the situation changes.",
+      "message": "River levels remain high as a result of recent rainfall. Consequently, flooding of property, roads and farmland is possible today Monday 06/12/2021. Areas most at risk are low lying land around the River Rye and its tributaries, including Ralsdale Beck, River Seph, Ledge Beck, Fangdale Beck, Prodale Beck, Ladhill Beck, Etton Gill, Borough Beck and Spittle Beck. Our incident response staff are closely monitoring the forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated on Monday afternoon, 06/12/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-05T22:03:00",
-      "timeRaised": "2021-12-05T22:03:29",
+      "timeMessageChanged": "2021-12-06T08:23:00",
+      "timeRaised": "2021-12-06T08:24:07",
       "timeSeverityChanged": "2021-12-05T15:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-05T20:36:00",
+      "timeRaised": "2021-12-05T20:36:56",
+      "timeSeverityChanged": "2021-12-05T20:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -238,11 +238,11 @@
       },
       "floodAreaID": "122WAF949",
       "isTidal": false,
-      "message": "The flood alert for the Upper River Derwent remains in force. River levels remain high as a result of rainfall and snowmelt over the past few days, and a slight rise in levels is possible overnight into Monday 06/12/2021 following recent rainfall. Consequently, flooding of roads and farmland is possible today, Sunday, 05/12/2021 and on Monday 06/12/2021. Further rainfall is forecast and river levels could remain high for a number of days. Areas most at risk are low lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses, and do not walk or drive through flood water. This message will be updated on Monday morning 06/12/2021, or as the situation changes.",
+      "message": "The flood alert for the Upper River Derwent has been reissued as levels are now starting to rise again following rainfall over the weekend. River levels are forecast to rise slowly through Monday and into Tuesday, and are then expected to return to levels similar to those seen on Friday 3 December. Consequently, flooding of roads and farmland is possible today, Monday, 06/12/2021 and on Tuesday 07/12/2021. Further rainfall is forecast and river levels could remain high until later in the week. Areas most at risk are low lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses, and do not walk or drive through flood water. This message will be updated on Monday afternoon, 06/12/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-05T22:03:00",
-      "timeRaised": "2021-12-05T22:03:54",
+      "timeMessageChanged": "2021-12-06T08:30:00",
+      "timeRaised": "2021-12-06T08:31:29",
       "timeSeverityChanged": "2021-12-01T19:21:00"
     },
     {
@@ -477,6 +477,27 @@
       "timeSeverityChanged": "2021-12-05T15:50:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:15 PM on Monday 06/12/2021.\n\nFlooding of low lying land and roads is expected between 11:00 AM and 01:30 PM on Monday 06/12/2021.\n\nNo flooding of properties is expected.\n\nFurther flood alerts may be issued as part of this high spring tide cycle which lasts until Wednesday 08/12/2021. \n\nAvoid footpaths along the coastline and estuary. Take care planning driving routes to coastal roads, which may be flooded.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T08:12:00",
+      "timeRaised": "2021-12-06T08:13:35",
+      "timeSeverityChanged": "2021-12-06T08:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
       "description": "Coast at North Morecambe Bay",
       "eaAreaName": "Cumbria and Lancashire",
@@ -517,6 +538,27 @@
       "timeMessageChanged": "2021-12-05T14:28:00",
       "timeRaised": "2021-12-05T14:28:58",
       "timeSeverityChanged": "2021-12-05T14:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:15 PM on Monday 06/12/2021.\n\nFlooding of low lying land and roads is expected between 11:00 AM and 01:30 PM on Monday 06/12/2021.\n\nNo flooding of properties is expected.\n\nFurther flood alerts may be issued as part of this high spring tide cycle which lasts until Wednesday 08/12/2021. \n\nAvoid footpaths along the coastline and estuary. Take care planning driving routes to coastal roads, which may be flooded.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T08:12:00",
+      "timeRaised": "2021-12-06T08:12:59",
+      "timeSeverityChanged": "2021-12-06T08:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
@@ -580,6 +622,27 @@
       "timeMessageChanged": "2021-12-06T07:07:00",
       "timeRaised": "2021-12-06T07:07:56",
       "timeSeverityChanged": "2021-12-06T07:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACHC",
+      "description": "Coast from Heysham to Cockerham",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC",
+        "county": "Lancashire",
+        "notation": "012WACHC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "012WACHC",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:15 PM on Monday 06/12/2021.\n\nStrong winds and spring tides may cause large waves and spray overtopping on the coast between 11:00 AM and 01:30 PM on Monday 06/12/2021.\n\nNo flooding of properties is expected.\n\nFurther flood alerts may be issued as part of this high spring tide cycle, which lasts until Wednesday 08/12/2021.\n\nAvoid coastal footpaths and roads as large waves and sea spray could be dangerous.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T08:11:00",
+      "timeRaised": "2021-12-06T08:12:17",
+      "timeSeverityChanged": "2021-12-06T08:11:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
