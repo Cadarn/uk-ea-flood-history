@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-05T20:36:00",
+      "timeRaised": "2021-12-05T20:36:56",
+      "timeSeverityChanged": "2021-12-05T20:36:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
       "description": "River Rye catchment",
       "eaAreaName": "Yorkshire",
@@ -57,25 +78,46 @@
       "timeSeverityChanged": "2021-12-05T15:49:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
       },
-      "floodAreaID": "122WAC954",
+      "floodAreaID": "111WATCHXH",
       "isTidal": true,
-      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-05T20:36:00",
-      "timeRaised": "2021-12-05T20:36:56",
-      "timeSeverityChanged": "2021-12-05T20:36:00"
+      "message": " Tuesday's tides at 11:00 AM  and 11:45 PM will be higher than normal due to stormy conditions associated with Storm Barra. \nSouth-westerly force 8 winds and large waves will produce a swell within the harbour.\nAreas most at risk include Christchurch Harbour side and tidal stretches of the Lower Stour and Avon.\nWe are closing flood gates in the area.\nOur incident response staff are closing flood gates and checking defences.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nPeople in the areas should consider taking action now. We urge all people to take care and not drive or walk through flood water.\nThis message will be updated by 04:00 PM on 07/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:34:00",
+      "timeRaised": "2021-12-06T17:35:24",
+      "timeSeverityChanged": "2021-12-06T17:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTCHXH011",
+      "description": "Christchurch Harbour Side",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTCHXH011",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111FWTCHXH011",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTCHXH011/polygon",
+        "riverOrSea": "Christchurch Harbour"
+      },
+      "floodAreaID": "111FWTCHXH011",
+      "isTidal": true,
+      "message": "   Tuesday's tide at 10:30 AM  and 00:30 AM on Wednesday will be higher than normal due to stormy conditions associated with Storm Barra. \nSouth-westerly force 8 winds and large waves will produce a swell within the harbour.\nAreas most at risk include The Quomps, Mudeford and the Stanpit area\nOur incident response staff are closing flood gates and checking defences.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nPeople in the areas should consider taking action now. We urge all people to take care and not drive or walk through flood water.\nThis message will be updated by 04:00 PM on 07/12/2021, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-12-06T17:43:00",
+      "timeRaised": "2021-12-06T17:44:24",
+      "timeSeverityChanged": "2021-12-06T17:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -202,27 +244,6 @@
       "timeMessageChanged": "2021-12-06T17:00:00",
       "timeRaised": "2021-12-06T17:01:04",
       "timeSeverityChanged": "2021-12-01T19:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-05T17:48:00",
-      "timeRaised": "2021-12-05T17:49:25",
-      "timeSeverityChanged": "2021-12-05T17:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
@@ -1105,6 +1126,48 @@
       "timeMessageChanged": "2021-12-06T17:15:00",
       "timeRaised": "2021-12-06T17:16:40",
       "timeSeverityChanged": "2021-12-06T17:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACWCD",
+      "description": "West coast of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACWCD",
+        "county": "Dorset Council",
+        "notation": "111WACWCD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACWCD/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WACWCD",
+      "isTidal": true,
+      "message": " Storm Barra is forecast to bring strong winds, large waves and spray overtopping on the coast on Tuesday. Winds are forecast to be South South Westerly Force 8 gusting to 50 knots at times.\nTime of high water at locations along the West Dorset Coast is at 08:45 AM and 09:15 PM on Tuesday 07/12/2021\nOur incident response staff are closing flood gates and checking defences.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor levels closely.\nStay away from exposed beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Avoid walking close to cliffs due to the high risk of rock falls in the prevailing conditions.\nThis message will be updated by 04:00 PM on 07/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:22:00",
+      "timeRaised": "2021-12-06T17:23:34",
+      "timeSeverityChanged": "2021-12-06T17:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATPOOH",
+      "description": "Dorset coast at Poole Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
+        "notation": "111WATPOOH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATPOOH",
+      "isTidal": true,
+      "message": "  Tuesday's tide at 10:30 AM  and 00:30 AM on Wednesday will be higher than normal due to stormy conditions associated with Storm Barra. \nSouth-westerly force 8 winds and large waves will produce a swell within the harbour.\nAreas most at risk include Wareham Quayside and Hamworthy.\nOur incident response staff are closing flood gates and checking defences.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nPeople in the areas should consider taking action now. We urge all people to take care and not drive or walk through flood water.\nThis message will be updated by 04:00 PM on 07/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:39:00",
+      "timeRaised": "2021-12-06T17:39:44",
+      "timeSeverityChanged": "2021-12-06T17:39:00"
     }
   ]
 }
