@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-05T20:36:00",
+      "timeRaised": "2021-12-05T20:36:56",
+      "timeSeverityChanged": "2021-12-05T20:36:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
       "description": "River Churnet and River Tean",
       "eaAreaName": "West Midlands",
@@ -76,27 +97,6 @@
       "timeMessageChanged": "2021-12-06T08:23:00",
       "timeRaised": "2021-12-06T08:24:07",
       "timeSeverityChanged": "2021-12-05T15:49:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-05T20:36:00",
-      "timeRaised": "2021-12-05T20:36:56",
-      "timeSeverityChanged": "2021-12-05T20:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -448,12 +448,12 @@
       },
       "floodAreaID": "012WATLE",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 12:15 PM on Monday 06/12/2021.\n\nFlooding of low lying land and roads is expected between 11:00 AM and 01:30 PM on Monday 06/12/2021.\n\nNo flooding of properties is expected.\n\nFurther flood alerts may be issued as part of this high spring tide cycle which lasts until Wednesday 08/12/2021. \n\nAvoid footpaths along the coastline and estuary. Take care planning driving routes to coastal roads, which may be flooded.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T08:12:00",
-      "timeRaised": "2021-12-06T08:12:59",
-      "timeSeverityChanged": "2021-12-06T08:12:00"
+      "message": "The high tide at 00:45 AM on Tuesday 07/12/2021 is currently not expected to reach flood alert levels. However, forecasts indicate that further alerts/warnings may be issued from Tuesday to Wednesday as high tides coincide with Storm Barra leading to increased surge.\n\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-06T14:02:00",
+      "timeRaised": "2021-12-06T14:02:55",
+      "timeSeverityChanged": "2021-12-06T14:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
@@ -790,6 +790,27 @@
       "timeMessageChanged": "2021-12-06T12:36:00",
       "timeRaised": "2021-12-06T12:37:37",
       "timeSeverityChanged": "2021-12-06T12:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC150",
+      "description": "Milford on Sea to Lymington",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC150",
+        "county": "Hampshire",
+        "notation": "065WAC150",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC150/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065WAC150",
+      "isTidal": true,
+      "message": "Tuesday afternoon's tide at 12:22 and 14:30 on 07/12/2021 is higher than normal due to unsettled weather with strong South Easterly Force 7 winds. The weather increases tide table values by 0.58 m. The total forecast tide is 3.96 metres Chart Datum (1.98 mAOD) at Lymington. The tide will be highest at the time of second high water. For 1 hour either side of high tide, water will flood the footpath near the Ship Inn pub, Town Quay. Saltgrass Lane will flood and be completely impassable to traffic. In Milford-on-Sea High Street, near the Smugglers Inn pub, the river will increase with the tide and come close to the top of the river bank, possibly flooding footpaths. The tide will not flood property. At 01:09 on 08/12/2021‚ the tide will be similar in magnitude. We will issue further advice. To protect property from flooding, at Keyhaven and Lymington, our tidal defence gates will be closed for 2 hours either side of high water. All private defence gates should be closed. Any cars parked at Saltgrass Lane will flood. We will update this message by 19:00 on 07/12/2021.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T14:01:00",
+      "timeRaised": "2021-12-06T14:02:00",
+      "timeSeverityChanged": "2021-12-06T14:01:00"
     }
   ]
 }
