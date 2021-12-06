@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-05T20:36:00",
-      "timeRaised": "2021-12-05T20:36:56",
-      "timeSeverityChanged": "2021-12-05T20:36:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
       "description": "River Rye catchment",
       "eaAreaName": "Yorkshire",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2021-12-06T16:58:00",
       "timeRaised": "2021-12-06T16:58:39",
       "timeSeverityChanged": "2021-12-05T15:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea coast at Bridlington has been removed. The situation is improving and no further flooding is expected in this area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-05T20:36:00",
+      "timeRaised": "2021-12-05T20:36:56",
+      "timeSeverityChanged": "2021-12-05T20:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -154,11 +154,11 @@
       },
       "floodAreaID": "033WAF305",
       "isTidal": false,
-      "message": " River levels remain high at the Hints river gauge as a result of persistent heavy rainfall over the weekend. Consequently, the risk of flooding of roads and farmland remains throughout Monday, 06/12/21.\nFlooding is affecting low-lying land and roads adjacent to the Bourne Brook.   \nFurther rainfall is expected over the next 24 hours.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.\nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and avoid using low lying footpaths and bridges near local watercourses.  \nThis message will be updated this afternoon, 06/12/21 or as the situation changes. ",
+      "message": " River levels remain high at the Hints river gauge as a result of persistent heavy rainfall.\nConsequently, the risk of flooding of roads and farmland remains overnight into Tuesday, 07/12/21.\nFlooding is affecting low-lying land and roads adjacent to the Bourne Brook.   \nFurther rainfall is expected over the next 24 hours.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast, and clearing weed screens. \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and avoid using low lying footpaths and bridges near local watercourses.  \nThis message will be updated tomorrow morning, 07/12/21 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T10:21:00",
-      "timeRaised": "2021-12-06T10:22:05",
+      "timeMessageChanged": "2021-12-06T17:05:00",
+      "timeRaised": "2021-12-06T17:06:07",
       "timeSeverityChanged": "2021-12-05T07:40:00"
     },
     {
@@ -582,6 +582,90 @@
       "timeSeverityChanged": "2021-12-06T16:59:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2CA00",
+      "description": "Tidal River Camel excluding Wadebridge and Chapel Amble",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2CA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T2CA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2CA00/polygon",
+        "riverOrSea": "North Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T2CA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tides on Tuesday evening and Wednesday morning. High water at Padstow is at 19:36 on Tuesday 7th December and 07:59 on Wednesday 8th December, times of high water will vary along the coast. \n\nStrong Force 8 south westerly winds, veering north westerly, and offshore wave heights of over 7m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations. \n\nLocations particularly at risk include the A389 at Sladesbridge \n\nExpect tides to be around 600mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.    \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  \n\nThis message will be updated by 4pm on Tuesday 7th December. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:16:00",
+      "timeRaised": "2021-12-06T17:16:58",
+      "timeSeverityChanged": "2021-12-06T17:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2DA00",
+      "description": "North Cornwall coast from The Rumps to Hartland Point excluding Bude",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2DA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T2DA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2DA00/polygon",
+        "riverOrSea": "North Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T2DA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tides on Tuesday evening and Wednesday morning. High water at Padstow is at 19:36 on Tuesday 7th December and 07:59 on Wednesday 8th December, times of high water will vary along the coast. \n\nStrong Force 8 south westerly winds, veering north westerly, and offshore wave heights of over 7m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations. Edge of quays likely to flood including any low lying car parks and roads with particular emphasis on Port Quinn, Port Isaac and Port Gaverne, Boscastle and Crooklets Beach \n\nExpect tides to be around 600mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.    \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  \n\nThis message will be updated by 4pm on Tuesday 7th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:16:00",
+      "timeRaised": "2021-12-06T17:16:55",
+      "timeSeverityChanged": "2021-12-06T17:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2BA00",
+      "description": "North Cornwall coast from Chapel Porth to The Rumps excluding the tidal River Camel",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2BA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T2BA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2BA00/polygon",
+        "riverOrSea": "North Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T2BA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tides on Tuesday evening and Wednesday morning. High water at Padstow is at 19:36 on Tuesday 7th December and 07:59 on Wednesday 8th December, times of high water will vary along the coast.\n\nStrong Force 8 south westerly winds, veering north westerly, and offshore wave heights of over 7m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations. Edge of quays likely to flood including any low lying car parks and roads with particular emphasis on Trevaunance Cove, Perranporth, Newquay, Mawgan Porth, Trevone and Polzeath.\n\nExpect tides to be around 600mm higher than predicted due to weather conditions.\n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.  \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required. \n\nThis message will be updated by 4pm on Tuesday 7th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:16:00",
+      "timeRaised": "2021-12-06T17:17:22",
+      "timeSeverityChanged": "2021-12-06T17:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2AA00",
+      "description": "North Cornwall coast from Lands End to Chapel Porth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2AA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T2AA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2AA00/polygon",
+        "riverOrSea": "North Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T2AA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tides on Tuesday evening and Wednesday morning. High water at St Ives is at 19:19 on Tuesday 7th December and 07:44 on Wednesday 8th December, times of high water will vary along the coast.\n\nStrong Force 8 south westerly winds, veering north westerly, and offshore wave heights of over 7m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations including St Ives Harbour, Portreath Harbour and the Causeway at Hayle.\n\nExpect tides to be around 600mm higher than predicted because of forecast weather conditions.\n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.   \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\n\nThis message will be updated by 4pm on Tuesday 7th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:16:00",
+      "timeRaised": "2021-12-06T17:17:23",
+      "timeSeverityChanged": "2021-12-06T17:16:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
       "description": "Beaulieu estuary",
       "eaAreaName": "Solent and South Downs",
@@ -1000,6 +1084,27 @@
       "timeMessageChanged": "2021-12-06T16:47:00",
       "timeRaised": "2021-12-06T16:48:14",
       "timeSeverityChanged": "2021-12-06T16:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACECD",
+      "description": "East coast of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACECD",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
+        "notation": "111WACECD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACECD/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WACECD",
+      "isTidal": true,
+      "message": "Storm Barra is forecast to bring strong winds, large waves and spray overtopping on the coast on Tuesday. Winds are forecast to be South South Westerly Force 8 gusting to 50 knots at times.\nTime off high water at locations along the East Dorset Coast is as follows:\nWeymouth Preston Beach at 08:30 AM and 09:00 PM,\nSwanage Bay at 10:20 AM and 11:15 PM,\nPoole Harbour at Wareham at 12:00 mid day and 01:45 AM on Wednesday,\nand Christchurch Harbour at 02:00 PM and 01:30 AM on Wednesday.\nOur incident response staff are closing flood gates and checking defences.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor levels closely.\nStay away from exposed beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 04:00 PM on 07/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T17:15:00",
+      "timeRaised": "2021-12-06T17:16:40",
+      "timeSeverityChanged": "2021-12-06T17:15:00"
     }
   ]
 }
