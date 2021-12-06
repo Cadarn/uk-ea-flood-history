@@ -91,12 +91,12 @@
       },
       "floodAreaID": "033WAF312",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-06T08:51:00",
-      "timeRaised": "2021-12-06T08:52:07",
-      "timeSeverityChanged": "2021-12-06T08:51:00"
+      "message": "River levels have risen at the Deepmore Farm river gauge as a result of persistent heavy rainfall. Consequently, flooding of roads and farmland is possible between 18:00 to 23:00, Monday, 06/12/2021. Flooding is affecting low-lying land and roads adjacent to the River Sow between Great Bridgeford and Shugborough, the River Penk between Coven and Stafford, the Sandyford Brook, the Rising Brook, the Ridings Brook and the Saredon Brook. Further rainfall is possible over the next 8 hours. We expect river levels to rise until later this evening 06/12/2021. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded and avoid using low lying footpaths and bridges near local watercourses. This message will be updated tomorrow morning, Tuesday, 07/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:35:00",
+      "timeRaised": "2021-12-06T16:36:00",
+      "timeSeverityChanged": "2021-12-06T16:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
@@ -519,6 +519,48 @@
       "timeSeverityChanged": "2021-12-06T16:07:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC405",
+      "description": "Tidal areas of Littlehampton Rope Walk",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC405",
+        "county": "West Sussex",
+        "notation": "065WAC405",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC405/polygon",
+        "riverOrSea": "Littlehampton Harbour"
+      },
+      "floodAreaID": "065WAC405",
+      "isTidal": true,
+      "message": "Tuesday afternoon's tide at 13:15 on 07/12/2021 is higher than normal due to Storm Barra, which brings Gale Force 8 Southerly winds. The weather increases tide table values by 0.4 m. The total forecast tide is 6.40 metres Chart Datum (3.35 mAOD) at Littlehampton. For 2 hours either side of high water, the tide will cause flooding to boatyards and the industrial areas along Littlehampton Rope Walk. Water will be high up slipways and could be forced up through drains, causing flooding to roads. The early Wednesday morning tide, at 01:45 08/12/2021 is predicted to be 10 cm lower, but will be accompanied by very large waves. We expect flood impacts could be similar. Strong winds and large waves will continue until Thursday. We continue to monitor the forecast. If you have it, please install flood protection 2 hours before high tide. We will update this message by 16:00 on 07/12/2021.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:36:00",
+      "timeRaised": "2021-12-06T16:36:24",
+      "timeSeverityChanged": "2021-12-06T16:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
+      "description": "Climping Seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
+        "county": "West Sussex",
+        "notation": "065WAC404",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC404",
+      "isTidal": true,
+      "message": "Tuesday afternoon's tide at 13:15 on 07/12/2021 is higher than normal due to Storm Barra, which brings Gale Force 8 Southerly winds and large waves. The weather increases tide table values by 0.4 m. The total forecast tide is 6.40 metres Chart Datum (3.35 mAOD) at Littlehampton. For 2 hours either side of high tide, shallow water will affect land and fields at Climping beach. Water may pond in Climping Street Car Park and on Mill Lane. Waves overtopping the sea front could potentially direct water along Mill Lane (from the right of the east car park) towards properties on Climping Street. Wednesday morning's tide at 01:45 08/12/2021 is similar, but accompanied by very large waves. We expect more water to collect on land and in fields. We continue to monitor the forecast. We recycled shingle in November and routinely check the condition of the beach at Climping. Shingle and debris can be thrown by large waves. Avoid walking on the beach or parking at Climping Street Car Park. Access could be restricted during and after high tide. We will update this message by 16:00 on 07/12/2021.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:21:00",
+      "timeRaised": "2021-12-06T16:21:43",
+      "timeSeverityChanged": "2021-12-06T16:21:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
       "description": "Beaulieu estuary",
       "eaAreaName": "Solent and South Downs",
@@ -832,6 +874,90 @@
       "timeMessageChanged": "2021-12-06T14:49:00",
       "timeRaised": "2021-12-06T14:50:09",
       "timeSeverityChanged": "2021-12-06T14:49:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
+      "description": "Severn Estuary at Severn Beach",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
+        "county": "South Gloucestershire",
+        "notation": "112WATSVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "112WATSVN1",
+      "isTidal": true,
+      "message": "A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the first forecast high water is 09:00 am on 07/12/2021. The forecast tide level is 7.12 m AOD. The forecast wind strength and direction is Force 7 in a south easterly direction. The time and date of the second forecast high water is 21:15 on 07/12/2021. The forecast tide level is 7.15 m AOD. The forecast wind strength and direction is Force 7 in a south westerly direction. \nThere is a possibility of flooding for the Severn estuary at Severn Beach, including New Passage and Pilning. Conditions may apply one/two hours either side of the high tide.\nBe careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:20:00",
+      "timeRaised": "2021-12-06T16:21:28",
+      "timeSeverityChanged": "2021-12-06T16:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1DA00",
+      "description": "South Cornwall coast from Rame Head to Plymouth including tidal estuaries",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00",
+        "county": "Cornwall, Devon, Plymouth",
+        "notation": "114WACT1T1DA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1DA00",
+      "isTidal": true,
+      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Plymouth is at 7:33 and 20:04. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 8 and veering south westerly winds and offshore wave heights of over 6m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations. Locations particularly at risk include: Kingsand, Cawsand, harbours and coastal car parks, ferry terminals and quaysides exposed to the open sea and vulnerable to large waves.  Expect tides to be around 500mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:46:00",
+      "timeRaised": "2021-12-06T16:47:26",
+      "timeSeverityChanged": "2021-12-06T16:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
+      "description": "South Cornwall Coast from Gribbin Head to Rame Head",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1CA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1CA00",
+      "isTidal": true,
+      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Plymouth is at 7:33 and 20:04. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 8 and veering south westerly winds and offshore wave heights of over 6m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations Fowey: Fore Street, Town Quay, Albert Quay and Caffa Mill Car park Looe: East Looe & West Looe quaysides and Quay Road Edge of quays likely to flood including any low lying car parks with particular emphasis on Fowey and East & West Looe.  Expect tides to be around 500mm higher than predicted due to weather conditions.  \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:47:00",
+      "timeRaised": "2021-12-06T16:47:41",
+      "timeSeverityChanged": "2021-12-06T16:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
+      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding Truro City",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1BA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1BA00",
+      "isTidal": true,
+      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Truro is at 7:10 and 19:41. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 9 and veering westerly winds and offshore wave heights of over 9m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal areas. Locations particular at risk include Commercial Road Penryn, Trefusis Road Flushing, the A39 at Perranarworthal and the A390 at Tresillian.  Expect tides to be around 400mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-06T16:47:00",
+      "timeRaised": "2021-12-06T16:48:03",
+      "timeSeverityChanged": "2021-12-06T16:47:00"
     }
   ]
 }
