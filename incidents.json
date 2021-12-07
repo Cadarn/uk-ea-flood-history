@@ -183,6 +183,27 @@
       "timeSeverityChanged": "2021-12-01T19:21:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 16:30 on 07/12/21.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is low for this time of year at 27 cubic metres per second and is steady. We anticipate the flows to remain low for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 18:30 on 07/12/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-07T11:31:00",
+      "timeRaised": "2021-12-07T11:32:40",
+      "timeSeverityChanged": "2021-12-07T11:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
       "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
       "eaAreaName": "East Anglia",
@@ -370,6 +391,27 @@
       "timeMessageChanged": "2021-12-07T06:48:00",
       "timeRaised": "2021-12-07T06:49:06",
       "timeSeverityChanged": "2021-12-07T06:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
+      "description": "North Devon coast from Hartland Point to Lynmouth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
+        "county": "Devon",
+        "notation": "113WACT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "113WACT2A",
+      "isTidal": true,
+      "message": "Storm Barra is forecast to bring strong winds, large waves and spray overtopping on the coast on Tuesday. Flooding is possible over high tides on Tuesday evening and Wednesday morning. \n\nHigh water at Ilfracombe is at 08:15 PM on Tuesday 07/12/2021 and at 08:30 AM on Wednesday 08/12/2021, times of high water will vary along the coast. Force 9 westerly winds and offshore wave heights of 9.7m are forecast, which could result in wave overtopping of sea defences and localised flooding in exposed coastal locations. Expect tides to be up to 0.6m higher than predicted due to weather conditions. \n\nPeople are advised to stay away from risk areas and take care next to the coast. Keep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required. \n\nThis message will be updated by 12:00 PM on 08/12/2021, or as the situation changes.\n\nDetailed tidal information for those who use it; The forecast high tide level at Ilfracombe on Tuesday 07/12/2021 at 08:15 PM is 4.81 mAOD, this is 0.60 metres above astronomical tide level. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-07T11:05:00",
+      "timeRaised": "2021-12-07T11:06:26",
+      "timeSeverityChanged": "2021-12-07T11:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
@@ -784,11 +826,11 @@
       },
       "floodAreaID": "113WACT1B",
       "isTidal": true,
-      "message": "Flooding is possible throughout Tuesday 7th December. High water on Tuesday at Teignmouth is at 08:30, times of high water will vary along the coast. \n\nForce 8 southerly winds and offshore wave heights of 1.4m are forecast. Strong winds and large waves are forecast throughout Tuesday, which could result in wave overtopping of sea defences and localised flooding in exposed coastal locations. Expect tides to be up to 0.28m higher than predicted due to weather conditions. \n\nPeople are advised to stay away from risk areas and take care next to the coast. Keep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required. \n\nDetailed tidal information for those who use it; The forecast high tide level at Teignmouth on Tuesday 7th December at 08:30 is 2.48 mAOD, this is 0.28 metres above astronomical tide level. ",
+      "message": "Storm Barra is forecast to bring strong winds, large waves and spray overtopping on the South Devon coast. \nFlooding is possible over the high tides on Tuesday evening and Wednesday morning. High water at Teignmouth is at 08:45 PM on Tuesday 07/12/2021 and at 09:00 AM on Wednesday 08/12/2021, times of high water will vary along the coast. \nForce 7 south westerly winds and offshore wave heights of 1.5m are forecast on Tuesday evening, which could result in wave overtopping of sea defences and localised flooding in exposed coastal locations. Expect tides to be up to 0.48m higher than predicted due to weather conditions. \nPeople are advised to stay away from risk areas and take care next to the coast. Keep up to date with weather and tide conditions on local radio. \nWe will continue to monitor levels closely. This message will be updated by 12:00 PM on 08/12/2021, or as the situation changes. \nDetailed tidal information for those who use it; the forecast high tide level at Teignmouth on Tuesday 07/12/2021 at 08:45 PM is 2.34 mAOD, this is 0.48m above astronomical tide level. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T12:35:00",
-      "timeRaised": "2021-12-06T12:35:46",
+      "timeMessageChanged": "2021-12-07T11:05:00",
+      "timeRaised": "2021-12-07T11:05:35",
       "timeSeverityChanged": "2021-12-06T12:35:00"
     },
     {
@@ -805,11 +847,11 @@
       },
       "floodAreaID": "113WACT1C",
       "isTidal": true,
-      "message": "Flooding is possible throughout Tuesday 7th December. High water on Tuesday at Exmouth is at 09:00, times of high water will vary along the coast.\n\nForce 7 southerly winds and offshore wave heights of 1.5m are forecast. Strong winds and large waves are forecast throughout Tuesday, which could result in wave overtopping of sea defences and localised flooding in exposed coastal locations. Expect tides to be up to 0.23m higher than predicted due to weather conditions. \n\nPeople are advised to stay away from risk areas and take care next to the coast. Keep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required. \n\nDetailed tidal information for those who use it; The forecast high tide level at Exmouth on Tuesday 7th December is at 09:00 is 2.35 mAOD, this is 0.23 metres above astronomical tide level. ",
+      "message": "Storm Barra is forecast to bring strong winds, large waves and spray overtopping on the South Devon coast. \nFlooding is possible over the high tides on Tuesday evening and Wednesday morning. High water at Exmouth is at 09:00 PM on Tuesday 07/12/2021 and at 09:15 AM on Wednesday 08/12/2021, times of high water will vary along the coast. \nForce 8 south westerly winds and offshore wave heights of 1.6m are forecast on Tuesday evening, which could result in wave overtopping of sea defences and localised flooding in exposed coastal locations. Expect tides to be up to 0.33m higher than predicted due to weather conditions. \nPeople are advised to stay away from risk areas and take care next to the coast. Keep up to date with weather and tide conditions on local radio. \nWe will continue to monitor levels closely. This message will be updated by 12:00 PM on 08/12/2021, or as the situation changes. \nDetailed tidal information for those who use it; the forecast high tide level at Exmouth on Tuesday 07/12/2021 at 09:00 PM is 2.12 mAOD, this is 0.33m above astronomical tide level.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T12:36:00",
-      "timeRaised": "2021-12-06T12:37:37",
+      "timeMessageChanged": "2021-12-07T11:05:00",
+      "timeRaised": "2021-12-07T11:05:52",
       "timeSeverityChanged": "2021-12-06T12:36:00"
     },
     {
