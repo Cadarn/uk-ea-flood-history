@@ -204,6 +204,27 @@
       "timeSeverityChanged": "2021-12-07T08:50:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
+      "description": "River Trent from Cromwell Weir to Gainsborough",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424",
+        "county": "Lincolnshire, Nottinghamshire",
+        "notation": "034WAB424",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424/polygon",
+        "riverOrSea": "River Trent, River Idle"
+      },
+      "floodAreaID": "034WAB424",
+      "isTidal": false,
+      "message": "River levels have risen at the Torksey river gauge as a result of high spring tides coinciding with high river levels.  Consequently, flooding of roads and farmland is possible between 10:30 and 13:00 today, 07/12/21.  Areas most at risk are Church Laneham to Rampton Road.   \n  \nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 22:00 on 07/12/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-07T10:51:00",
+      "timeRaised": "2021-12-07T10:52:59",
+      "timeSeverityChanged": "2021-12-07T10:51:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
       "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
       "eaAreaName": "East Anglia",
@@ -729,27 +750,6 @@
       "timeSeverityChanged": "2021-12-06T14:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF904",
-      "description": "Lower River Coquet",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF904",
-        "county": "Northumberland",
-        "notation": "121WAF904",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF904/polygon",
-        "riverOrSea": "River Coquet"
-      },
-      "floodAreaID": "121WAF904",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. River levels are beginning to fall and there is no longer a threat of flooding, though standing water and debris may still remain.\nThe forecast continues to be unsettled over the next few days. We will continue to monitor the situation and re-issue this alert if necessary. Please continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-06T10:49:00",
-      "timeRaised": "2021-12-06T10:50:10",
-      "timeSeverityChanged": "2021-12-06T10:49:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF906",
       "description": "Rivers Pont and Blyth",
       "eaAreaName": "North East",
@@ -994,11 +994,11 @@
       },
       "floodAreaID": "114WACT1T1DA00",
       "isTidal": true,
-      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Plymouth is at 7:33 and 20:04. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 8 and veering south westerly winds and offshore wave heights of over 6m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations. Locations particularly at risk include: Kingsand, Cawsand, harbours and coastal car parks, ferry terminals and quaysides exposed to the open sea and vulnerable to large waves.  Expect tides to be around 500mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  ",
+      "message": "Flooding is possible over the evening high tide on Tuesday 7th December. High water at Plymouth is at 20:04. Times of high water will vary along the coast \n\nStrong Force 7 westerly winds and offshore wave heights of over 5m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations. Locations particularly at risk include: Kingsand, Cawsand, harbours and coastal car parks, ferry terminals and quaysides exposed to the open sea and vulnerable to large waves.  Expect tides to be around 350mm higher than predicted due to weather conditions.  \n\nWith strong winds and large waves, sea front areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.  \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  \n\nThis message will be updated on the morning of Wednesday 8th December.  ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T16:46:00",
-      "timeRaised": "2021-12-06T16:47:26",
+      "timeMessageChanged": "2021-12-07T10:39:00",
+      "timeRaised": "2021-12-07T10:39:29",
       "timeSeverityChanged": "2021-12-06T16:46:00"
     },
     {
@@ -1015,11 +1015,11 @@
       },
       "floodAreaID": "114WACT1T1CA00",
       "isTidal": true,
-      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Plymouth is at 7:33 and 20:04. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 8 and veering south westerly winds and offshore wave heights of over 6m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations Fowey: Fore Street, Town Quay, Albert Quay and Caffa Mill Car park Looe: East Looe & West Looe quaysides and Quay Road Edge of quays likely to flood including any low lying car parks with particular emphasis on Fowey and East & West Looe.  Expect tides to be around 500mm higher than predicted due to weather conditions.  \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.",
+      "message": "Flooding is possible over the evening high tide on Tuesday 7th December. High water at Plymouth is at 20:04. Times of high water will vary along the coast.  \n\nStrong Force 7 westerly winds and offshore wave heights of over 5m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations Fowey: Fore Street, Town Quay, Albert Quay and Caffa Mill Car park Looe: East Looe & West Looe quaysides, and Quay Road. Edge of quays likely to flood include any low-lying car parks, with particular emphasis on Fowey, and East & West Looe.  Expect tides to be around 350mm higher than predicted due to weather conditions.   \n\nWith strong winds and large waves, sea front areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.  \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  \n\nThis message will be updated on the morning of Wednesday 8th December.  ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T16:47:00",
-      "timeRaised": "2021-12-06T16:47:41",
+      "timeMessageChanged": "2021-12-07T10:39:00",
+      "timeRaised": "2021-12-07T10:39:40",
       "timeSeverityChanged": "2021-12-06T16:47:00"
     },
     {
@@ -1036,11 +1036,11 @@
       },
       "floodAreaID": "114WACT1T1BA00",
       "isTidal": true,
-      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Truro is at 7:10 and 19:41. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 9 and veering westerly winds and offshore wave heights of over 9m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal areas. Locations particular at risk include Commercial Road Penryn, Trefusis Road Flushing, the A39 at Perranarworthal and the A390 at Tresillian.  Expect tides to be around 400mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast. \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.",
+      "message": "Flooding is possible over the evening high tide on Tuesday 7th December. High water at Truro is at 19:41. Times of high water will vary along the coast.  \n\nStrong Force 7 westerly winds and offshore wave heights of over 5m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal areas. Locations particular at risk include Commercial Road Penryn, Trefusis Road Flushing, the A39 at Perranarworthal and the A390 at Tresillian.  Expect tides to be around 350mm higher than predicted due to weather conditions.  \n\nWith strong winds and large waves, sea front areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.  \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  \n\nThis message will be updated on the morning of Wednesday 8th December. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T16:47:00",
-      "timeRaised": "2021-12-06T16:48:03",
+      "timeMessageChanged": "2021-12-07T10:39:00",
+      "timeRaised": "2021-12-07T10:39:47",
       "timeSeverityChanged": "2021-12-06T16:47:00"
     },
     {
@@ -1057,11 +1057,11 @@
       },
       "floodAreaID": "114WACT1T1AA00",
       "isTidal": true,
-      "message": "Flooding is possible over both of the high tides on Tuesday 7th December. High water at Newlyn is at 6:26 and 18:51. Times of high water will vary along the coast. \n\nStrong Force 7 southerly winds increasing to Force 9 and veering westerly winds, and offshore wave heights of over 9m, are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations in Mounts Bay.  Expect tides to be around 400mm higher than predicted due to weather conditions. \n\nWith strong wind and large waves seafront areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.  \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required. ",
+      "message": "Flooding is possible over the evening high tide on Tuesday 7th December. High water at Newlyn is at 18:51. Times of high water will vary along the coast.  \n\nStrong Force 7 westerly winds, and offshore wave heights of over 5m, are forecast to cause wave over-topping of sea defences and sea spray in exposed coastal locations in Mounts Bay.  Expect tides to be around 350mm higher than predicted due to weather conditions.  \n\nWith strong wind and large waves, sea front areas will be dangerous. People are advised to stay away from risk areas and take care next to the coast.   \n\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.  \n\nThis message will be updated on the morning of Wednesday 8th December.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T16:47:00",
-      "timeRaised": "2021-12-06T16:48:14",
+      "timeMessageChanged": "2021-12-07T10:39:00",
+      "timeRaised": "2021-12-07T10:39:54",
       "timeSeverityChanged": "2021-12-06T16:47:00"
     },
     {
