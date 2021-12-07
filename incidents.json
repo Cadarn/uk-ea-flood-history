@@ -498,27 +498,6 @@
       "timeSeverityChanged": "2021-12-07T11:05:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
-      "description": "Lune estuary south west of Lancaster",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
-        "county": "Lancashire",
-        "notation": "012WATLE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
-        "riverOrSea": "Lune estuary"
-      },
-      "floodAreaID": "012WATLE",
-      "isTidal": true,
-      "message": "The high tide at 00:45 AM on Tuesday 07/12/2021 is currently not expected to reach flood alert levels. However, forecasts indicate that further alerts/warnings may be issued from Tuesday to Wednesday as high tides coincide with Storm Barra leading to increased surge.\n\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-06T14:02:00",
-      "timeRaised": "2021-12-06T14:02:55",
-      "timeSeverityChanged": "2021-12-06T14:02:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
       "description": "Coast from St Bees Head to Millom",
       "eaAreaName": "Cumbria and Lancashire",
@@ -727,6 +706,27 @@
       "timeMessageChanged": "2021-12-06T16:59:00",
       "timeRaised": "2021-12-06T17:00:42",
       "timeSeverityChanged": "2021-12-06T16:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121FWT519",
+      "description": "North Sea at Berwick-Upon-Tweed and Tweedmouth",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT519",
+        "county": "Northumberland",
+        "notation": "121FWT519",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT519/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121FWT519",
+      "isTidal": true,
+      "message": "Large and powerful waves are expected to overtop sea defences as a result of Storm Barra.  Consequently, flooding is expected at Berwick Dock and Main Road for the duration of the strong winds, between 15:45 and 18:45 on Tuesday, 07/12/21. High winds and coastal conditions are expected to continue throughout the day and afternoon, and will start to ease during Tuesday evening, 07/12/21.\nWe are closely monitoring the situation.  Our incident response staff are checking defences and liaising with emergency services.  \nPlease stay away from beaches, promenades, coastal footpaths and roads as the expected large waves and sea spray will be dangerous. Consider activating any property flood protection products you may have. \nThis message will be updated by 20:00 on 07/12/21, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-12-07T13:57:00",
+      "timeRaised": "2021-12-07T13:58:23",
+      "timeSeverityChanged": "2021-12-07T13:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC001",
@@ -1162,11 +1162,11 @@
       },
       "floodAreaID": "112WATSVN1",
       "isTidal": true,
-      "message": "A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the first forecast high water is 09:00 am on 07/12/2021. The forecast tide level is 7.12 m AOD. The forecast wind strength and direction is Force 7 in a south easterly direction. The time and date of the second forecast high water is 21:15 on 07/12/2021. The forecast tide level is 7.15 m AOD. The forecast wind strength and direction is Force 7 in a south westerly direction. \nThere is a possibility of flooding for the Severn estuary at Severn Beach, including New Passage and Pilning. Conditions may apply one/two hours either side of the high tide.\nBe careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\n",
+      "message": "A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the first forecast high water is 21:30 on 07/12/2021. The forecast tide level is 7.40 m AOD. The forecast wind strength and direction is Force 9 in a westerly direction. The time and date of the second forecast high water is 09:45 on 08/12/2021. The forecast tide level is 6.95 m AOD. The forecast wind strength and direction is Force 8 in a westerly direction. \nThere is a possibility of flooding for the Severn estuary at Severn Beach, including New Passage and Pilning. Conditions may apply one/two hours either side of the high tide.\nBe careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\n\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-06T16:20:00",
-      "timeRaised": "2021-12-06T16:21:28",
+      "timeMessageChanged": "2021-12-07T13:21:00",
+      "timeRaised": "2021-12-07T13:21:31",
       "timeSeverityChanged": "2021-12-06T16:20:00"
     },
     {
@@ -1399,6 +1399,48 @@
       "timeMessageChanged": "2021-12-07T12:59:00",
       "timeRaised": "2021-12-07T12:59:56",
       "timeSeverityChanged": "2021-12-07T12:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN2",
+      "description": "Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN2",
+        "county": "City of Bristol, Gloucestershire, South Gloucestershire",
+        "notation": "112WATSVN2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN2/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "112WATSVN2",
+      "isTidal": true,
+      "message": "A large tidal surge is expected with possible overtopping and onshore flooding as a result of high water levels. The time and date of the forecast high water is 21:30 on 07/12/2021. The forecast tide level is 7.40 m AOD. The forecast wind strength and direction is Force 9 in a westerly direction. There is a possibility of flooding for the Severn estuary at the Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth including Aust and Old Passage. Conditions may apply one/two hours either side of the high tide.\nBe careful along beaches, promenades and coastal footpaths and roads. \nPlease note all tide times are in local time and are using the 24 hour clock and refer to the high water time at Avonmouth.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-07T13:27:00",
+      "timeRaised": "2021-12-07T13:27:48",
+      "timeSeverityChanged": "2021-12-07T13:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121FWT544",
+      "description": "Tyne estuary at North Shields, South Shields and Howdon Pans",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT544",
+        "county": "North Tyneside, South Tyneside",
+        "notation": "121FWT544",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT544/polygon",
+        "riverOrSea": "River Tyne"
+      },
+      "floodAreaID": "121FWT544",
+      "isTidal": true,
+      "message": " Large and powerful waves are expected to overtop sea defences as a result of Storm Barra.  Consequently, flooding is expected at North Shields Western Quay Prom for the duration of the strong winds, between 16:00 and 18:15 on Tuesday, 07/12/21. High winds and coastal conditions are expected to continue throughout the day and afternoon, and will start to ease during Tuesday evening, 07/12/21.\nWe are closely monitoring the situation.  Our incident response staff are checking defences and liaising with emergency services.  \nPlease stay away from beaches, promenades, coastal footpaths and roads as the expected large waves and sea spray will be dangerous. Consider activating any property flood protection products you may have.  \nThis message will be updated by 20:00 on 07/12/21, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2021-12-07T14:02:00",
+      "timeRaised": "2021-12-07T14:02:57",
+      "timeSeverityChanged": "2021-12-07T14:02:00"
     }
   ]
 }
