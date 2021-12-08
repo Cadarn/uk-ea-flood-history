@@ -393,6 +393,27 @@
       "timeSeverityChanged": "2021-12-07T16:02:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "River levels are rising at the Pillings Lock river gauge as a result of rainfall. Consequently, flooding of roads and farmland is possible. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. We are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated tomorrow, 09/12/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T18:16:00",
+      "timeRaised": "2021-12-08T18:17:04",
+      "timeSeverityChanged": "2021-12-08T18:16:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
       "description": "River Trent in Derbyshire",
       "eaAreaName": "East Midlands",
@@ -469,11 +490,11 @@
       },
       "floodAreaID": "064WAF32MdleMole",
       "isTidal": false,
-      "message": " River levels have risen overnight as a result of heavy rainfall associated with Storm Barra.  Flooding of roads and low lying land is expected from approximately 6am today, Wednesday 08 December 2021 at Kinnersley Manor, and is also possible along the River Mole as far as Cobham.  We expect flooding to affect land and roads.  Property flooding is not currently expected.   \nFurther rainfall is forecast over the next 5 days.  \nWe are closely monitoring the situation. Our incident response staff are clearing trash screens and actively monitoring the situation and are prepared to respond if required.",
+      "message": " River levels have risen as a result of heavy rainfall associated with Storm Barra.  Flooding of roads and low lying land is possible overnight tonight, Wednesday 8 December 2021.  We expect flooding to affect land and roads.  Property flooding is not currently expected.\n\nRiver levels are now falling around Kinnersley Manor, however standing water may still be present. River levels are still rising at Leatherhead and Cobham.\n\nFurther rainfall is forecast over the next 5 days. We are closely monitoring the situation. Our incident response staff are clearing trash screens and actively monitoring the situation and are prepared to respond if required.\n\nThis message will be updated by 10am tomorrow, Thursday 9 December 2021, or as the situation changes. \n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T06:41:00",
-      "timeRaised": "2021-12-08T06:43:04",
+      "timeMessageChanged": "2021-12-08T18:01:00",
+      "timeRaised": "2021-12-08T18:01:45",
       "timeSeverityChanged": "2021-12-08T06:41:00"
     },
     {
@@ -679,11 +700,11 @@
       },
       "floodAreaID": "013WAFMM",
       "isTidal": false,
-      "message": "River levels are rising on the River Mersey due to heavy rainfall. Flooding is possible at low lying land and roads around Micker, Cringle, Sinderland and Poynton Brooks and their tributaries throughout today, Wednesday 8th December 2021. Further heavy rainfall is forecast throughout the rest of today, and we will continue to monitor river levels closely. Please avoid using low lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 20:00 this evening, or as the situation changes.",
+      "message": "River levels remain high on the River Mersey due to heavy rainfall. Flooding is possible of low lying land and roads around Micker, Cringle, Sinderland and Poynton Brooks and their tributaries throughout today Wednesday 8th December 2021. Further rainfall is forecast this evening and river levels are forecast to peak later this evening, and will remain high throughout the night.  \n\nPlease avoid using low lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water.  \n\nThis message will be updated by 10am on Thursday 9th December, or as the situation changes. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T12:21:00",
-      "timeRaised": "2021-12-08T12:23:42",
+      "timeMessageChanged": "2021-12-08T17:33:00",
+      "timeRaised": "2021-12-08T17:33:26",
       "timeSeverityChanged": "2021-12-08T12:21:00"
     },
     {
@@ -706,27 +727,6 @@
       "timeMessageChanged": "2021-12-08T15:35:00",
       "timeRaised": "2021-12-08T15:35:55",
       "timeSeverityChanged": "2021-12-01T19:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T18:16:00",
-      "timeRaised": "2021-12-07T18:16:58",
-      "timeSeverityChanged": "2021-12-07T18:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -2023,12 +2023,12 @@
       },
       "floodAreaID": "064WAF6UpStour",
       "isTidal": false,
-      "message": "River levels remain high following heavy rainfall from storm Barra. Flooding of roads and low lying land is expected to continue today, Wednesday 8th December 2021. We expect flooding to affect low lying land and roads along the River Great Stour and the River East Stour, particularly in and around Ashford and around Stone Cross. \nFurther light rainfall is forecast tonight Wednesday 8th December 2021.  \nOur incident response staff are actively monitoring the situation and are prepared to respond if required. \nPlease avoid using low lying footpaths near local watercourses.\nThis message will be updated this evening, Wednesday 8th December 2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T07:01:00",
-      "timeRaised": "2021-12-08T07:01:43",
-      "timeSeverityChanged": "2021-12-07T19:42:00"
+      "message": "This Flood Alert has been removed. River levels remain high but have now fallen below the level expected to cause flooding. There is no longer a threat of flooding, though standing water and debris may still remain. Further light rainfall is forecast tomorrow afternoon, Thursday 9 December 2021, and we will continue to monitor the situation. Please stay aware in case further flood alerts are issued.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T17:47:00",
+      "timeRaised": "2021-12-08T17:47:38",
+      "timeSeverityChanged": "2021-12-08T17:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF321",
@@ -2044,12 +2044,12 @@
       },
       "floodAreaID": "064WAF321",
       "isTidal": false,
-      "message": "River levels remain high following heavy rainfall from storm Barra. Flooding of roads and low lying land is expected to continue today, Wednesday 8th December 2021. We expect flooding to affect low lying land and roads close to the rivers around Forest Row, Ashurst, Hartfield, Penshurst and particularly on and around Balls Green. \nFurther light rainfall is forecast tonight, Wednesday 8th December 2021. \nOur incident response staff are actively monitoring the situation and are prepared to respond if required. Please avoid using low lying footpaths near local watercourses. \nThis message will be updated this evening, Wednesday 8th December 2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T06:54:00",
-      "timeRaised": "2021-12-08T06:54:26",
-      "timeSeverityChanged": "2021-12-07T20:53:00"
+      "message": "This Flood Alert has been removed. River levels have now fallen below the level expected to cause flooding. There is no longer a threat of flooding, though standing water and debris may still remain. Further light rainfall is forecast tomorrow afternoon, Thursday 9 December 2021, and we will continue to monitor the situation. Please stay aware in case further flood alerts are issued. \n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T17:52:00",
+      "timeRaised": "2021-12-08T17:53:00",
+      "timeSeverityChanged": "2021-12-08T17:52:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8Beult",
@@ -2065,12 +2065,12 @@
       },
       "floodAreaID": "064WAF8Beult",
       "isTidal": false,
-      "message": "River levels have risen as a result of Storm Barra. Flooding of roads and low lying land is expected between 5am and 8pm today, Wednesday 8th December 2021.  We expect flooding to affect low lying land and roads close to the river, particularly in the Staplehurst area.   \nFurther light rainfall is forecast for tonight, Wednesday 8th December 2021.  We expect river levels to remain high until 8pm on Wednesday 8th December 2021.\nOur incident response staff are actively monitoring the situation and are prepared to respond if required. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated  this evening, Wednesday 8th December 2021, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T06:12:00",
-      "timeRaised": "2021-12-08T06:14:12",
-      "timeSeverityChanged": "2021-12-08T06:12:00"
+      "message": "This Flood Alert has been removed. River levels remain high but have now fallen below the level expected to cause flooding. There is no longer a threat of flooding, though standing water and debris may still remain. Further light rainfall is forecast tomorrow afternoon, Thursday 9 December 2021, and we will continue to monitor the situation. Please stay aware in case further flood alerts are issued.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T17:44:00",
+      "timeRaised": "2021-12-08T17:45:11",
+      "timeSeverityChanged": "2021-12-08T17:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8LowMed",
@@ -2086,11 +2086,11 @@
       },
       "floodAreaID": "064WAF8LowMed",
       "isTidal": false,
-      "message": "River levels have risen as a result of Storm Barra.  Flooding of roads and low lying land is expected between 5am and 8pm today Wednesday 8th December 2021. We expect flooding to affect low lying land and roads along the River Medway particularly footpaths and riverside areas in the Maidstone area and particularly around Aylesford. \nFurther light rainfall is forecast for tonight, Wednesday 8th December 2021.  We expect river levels to remain high until 8pm on Wednesday 8th December 2021.\nOur incident response staff are actively monitoring the situation and are prepared to respond if required.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated  this evening, Wednesday 8th December 2021, or as the situation changes. \n",
+      "message": "River levels remain high but are beginning to fall as a result of Storm Barra. We expect river levels to remain high this evening, Wednesday 8 December 2021, and for flooding to affect low lying land and roads along the River Medway particularly footpaths and riverside areas in the Maidstone area. Our incident response staff are actively monitoring the situation and are out on the ground checking and clearing any blockages and debris from rivers. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. Further light rainfall is forecast tomorrow afternoon, Thursday 9 December 2021, however we do not expect this to cause further impacts. This message will be updated tomorrow morning, Thursday 9 December 2021, or as the situation changes.\n ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T06:02:00",
-      "timeRaised": "2021-12-08T06:05:07",
+      "timeMessageChanged": "2021-12-08T17:35:00",
+      "timeRaised": "2021-12-08T17:36:12",
       "timeSeverityChanged": "2021-12-08T06:02:00"
     },
     {
@@ -2155,6 +2155,27 @@
       "timeMessageChanged": "2021-12-08T14:14:00",
       "timeRaised": "2021-12-08T14:15:27",
       "timeSeverityChanged": "2021-12-08T14:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
+      "description": "Tern and Perry catchments",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF104",
+        "county": "Shropshire, Staffordshire, Telford and Wrekin, Wrexham",
+        "notation": "031WAF104",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF104/polygon",
+        "riverOrSea": "River Tern, River Perry"
+      },
+      "floodAreaID": "031WAF104",
+      "isTidal": false,
+      "message": " River levels have risen at the Tern - Walcot river gauge as a result of Storm Barra.  Consequently, flooding of roads and farmland is possible between now and the weekend.  We expect flooding to affect low lying land and roads adjacent to the river from Wolverley to Newport. Other locations that may be affected include Market Drayton, Wem and Rodington.   \nFurther rainfall is forecast over the next 12 hours.  We expect river levels to remain high until into the weekend.\nWe are closely monitoring the situation.  Our incident response staff are liaising with emergency services.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated  by 09:00 on 09/12/21, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T17:45:00",
+      "timeRaised": "2021-12-08T17:45:36",
+      "timeSeverityChanged": "2021-12-08T17:45:00"
     }
   ]
 }
