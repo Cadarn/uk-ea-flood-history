@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "High tides and strong winds are expected to cause large waves and spray overtopping along the East Yorkshire coast on the evening of Tuesday 07/12/2021 between 4pm and midnight, and on the morning of Wednesday 08/12/2021 between 6am and midday. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Wednesday morning, 08/12/2021, or as the situation changes.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T22:15:00",
-      "timeRaised": "2021-12-07T22:15:45",
-      "timeSeverityChanged": "2021-12-07T22:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -118,6 +97,27 @@
       "timeMessageChanged": "2021-12-07T18:41:00",
       "timeRaised": "2021-12-07T18:42:44",
       "timeSeverityChanged": "2021-12-07T18:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "High tides and strong winds are expected to cause large waves and spray overtopping along the East Yorkshire coast on the evening of Tuesday 07/12/2021 between 4pm and midnight, and on the morning of Wednesday 08/12/2021 between 6am and midday. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Wednesday morning, 08/12/2021, or as the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-07T22:15:00",
+      "timeRaised": "2021-12-07T22:15:45",
+      "timeSeverityChanged": "2021-12-07T22:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
@@ -1882,6 +1882,48 @@
       "timeMessageChanged": "2021-12-07T20:53:00",
       "timeRaised": "2021-12-07T20:53:41",
       "timeSeverityChanged": "2021-12-07T20:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8Beult",
+      "description": "River Beult from Pluckley and Bethersden to Hampstead Lock at Yalding",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8Beult",
+        "county": "Kent",
+        "notation": "064WAF8Beult",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8Beult/polygon",
+        "riverOrSea": "Beult"
+      },
+      "floodAreaID": "064WAF8Beult",
+      "isTidal": false,
+      "message": "River levels have risen as a result of Storm Barra. Flooding of roads and low lying land is expected between 5am and 8pm today, Wednesday 8th December 2021.  We expect flooding to affect low lying land and roads close to the river, particularly in the Staplehurst area.   \nFurther light rainfall is forecast for tonight, Wednesday 8th December 2021.  We expect river levels to remain high until 8pm on Wednesday 8th December 2021.\nOur incident response staff are actively monitoring the situation and are prepared to respond if required. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated  this evening, Wednesday 8th December 2021, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T06:12:00",
+      "timeRaised": "2021-12-08T06:14:12",
+      "timeSeverityChanged": "2021-12-08T06:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8LowMed",
+      "description": "Lower River Medway",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8LowMed",
+        "county": "Kent",
+        "notation": "064WAF8LowMed",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8LowMed/polygon",
+        "riverOrSea": "River Medway"
+      },
+      "floodAreaID": "064WAF8LowMed",
+      "isTidal": false,
+      "message": "River levels have risen as a result of Storm Barra.  Flooding of roads and low lying land is expected between 5am and 8pm today Wednesday 8th December 2021. We expect flooding to affect low lying land and roads along the River Medway particularly footpaths and riverside areas in the Maidstone area and particularly around Aylesford. \nFurther light rainfall is forecast for tonight, Wednesday 8th December 2021.  We expect river levels to remain high until 8pm on Wednesday 8th December 2021.\nOur incident response staff are actively monitoring the situation and are prepared to respond if required.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated  this evening, Wednesday 8th December 2021, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T06:02:00",
+      "timeRaised": "2021-12-08T06:05:07",
+      "timeSeverityChanged": "2021-12-08T06:02:00"
     }
   ]
 }
