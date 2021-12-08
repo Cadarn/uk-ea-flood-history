@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "High tides and strong winds are expected to cause large waves and spray overtopping along the East Yorkshire coast on the morning of Wednesday 08/12/2021 between 6am and midday. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Wednesday afternoon, 08/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T08:58:00",
+      "timeRaised": "2021-12-08T08:58:49",
+      "timeSeverityChanged": "2021-12-08T08:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -97,27 +118,6 @@
       "timeMessageChanged": "2021-12-07T18:41:00",
       "timeRaised": "2021-12-07T18:42:44",
       "timeSeverityChanged": "2021-12-07T18:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "High tides and strong winds are expected to cause large waves and spray overtopping along the East Yorkshire coast on the morning of Wednesday 08/12/2021 between 6am and midday. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Wednesday afternoon, 08/12/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T08:58:00",
-      "timeRaised": "2021-12-08T08:58:49",
-      "timeSeverityChanged": "2021-12-08T08:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -763,12 +763,12 @@
       },
       "floodAreaID": "065WAC162",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:45 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds and large waves. The weather increases tide table values by 0.33 m. The total forecast tide is 5.08 metres Chart Datum (2.35 mAOD) at Portsmouth. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding. If impacts do occur, they will be relatively minor and confined to the immediate sea front. For 30 minutes either side of high tide, the water level may be high at South Street and Queen Street, Emsworth. The Ship Inn car park and Langstone High Street may experience some very shallow water flooding. Waves may cause some spray overtopping around The Promenade. After this tide‚ no further impacts are expected. We continue to monitor the forecast. As a very precautionary measure, and if you have it, you may wish to leave flood protection installed until tomorrow morning (08/12/2021). We will remove this message by 11:00 on 08/12/2021.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:07:00",
-      "timeRaised": "2021-12-07T16:07:49",
-      "timeSeverityChanged": "2021-12-06T14:02:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:39:00",
+      "timeRaised": "2021-12-08T09:39:36",
+      "timeSeverityChanged": "2021-12-08T09:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
@@ -1120,12 +1120,12 @@
       },
       "floodAreaID": "065WAC152",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:18 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds. The weather increases tide table values by 0.48 m. The total forecast tide is 4.14 metres Chart Datum (2.14 mAOD) at Beaulieu. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some very minor impact flooding. For 30 minutes either side of high water, it is possible that some road flooding may occur at Palace Lane. The tide may also flood into the garden of the Mill House on the downstream side of the Mill Pond. After this tide‚ the weather is more settled, and no further impacts are expected. We continue to monitor the forecast. For safety, please take care if driving through Beaulieu. The incoming tide will flood the main road quickly. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:08:00",
-      "timeRaised": "2021-12-07T16:09:10",
-      "timeSeverityChanged": "2021-12-06T14:27:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:40:00",
+      "timeRaised": "2021-12-08T09:41:04",
+      "timeSeverityChanged": "2021-12-08T09:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
@@ -1141,12 +1141,12 @@
       },
       "floodAreaID": "065WAF124",
       "isTidal": false,
-      "message": "Wednesday's early morning tide at 01:18 and 03:18 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds. The weather increases tide table values by 0.48 m. The total forecast tide is 5.04 metres Chart Datum (2.3 mAOD) at Southampton. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding. For 30 minutes either side of high water, footpath flooding may affect some areas within Riverside Park. The pub car park at Mansbridge, may see minor impact flooding for a short period of time. Any flood depth would be relatively shallow. The tide will not flood property or the A27. After this tide‚ the weather is more settled, and no further impacts are expected. We continue to monitor the forecast. As a very precautionary measure, please consider closing the defence gates around the pub. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:09:00",
-      "timeRaised": "2021-12-07T16:09:27",
-      "timeSeverityChanged": "2021-12-06T14:20:00"
+      "message": "The weather remains unsettled over the next few days, but the tide level is now reducing, and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:38:00",
+      "timeRaised": "2021-12-08T09:38:51",
+      "timeSeverityChanged": "2021-12-08T09:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM2",
@@ -1267,12 +1267,12 @@
       },
       "floodAreaID": "065WAC150",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:09 and 03:09 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds. The weather increases tide table values by 0.46 m. The total forecast tide is 3.79 metres Chart Datum (1.81 mAOD) at Lymington. For 1 hour either side of high tide, small amounts of water will flood the footpath near the Ship Inn pub at Town Quay. Saltgrass Lane will flood and will be impassable to traffic. Property flooding is not expected. After this tide‚ the weather becomes more settled, and no further impacts are expected. To protect property from flooding, at Keyhaven and Lymington, we will close our tidal defence gates for 2 hours either side of high water. We recommend that all private defence gates are closed. Any cars parked at Saltgrass Lane will flood. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:09:00",
-      "timeRaised": "2021-12-07T16:09:57",
-      "timeSeverityChanged": "2021-12-06T14:01:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:41:00",
+      "timeRaised": "2021-12-08T09:41:59",
+      "timeSeverityChanged": "2021-12-08T09:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC151",
@@ -1288,12 +1288,12 @@
       },
       "floodAreaID": "065WAC151",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:18 and 03:18 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds and large waves. The weather increases tide table values by 0.48 m. The total forecast tide is 5.04 metres Chart Datum (2.3 mAOD) at Southampton. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding along the estuary front. For 30 minutes either side of high water, the tide may affect roads and car parks at The Quay Hamble, Rising Sun Pub Warsash, Magazine Lane at Marchwood, Shore Road and Promenade, Hythe. After this tide‚ the weather becomes more settled, and no further impacts are expected. We continue to monitor the forecast. Avoid parking in low lying coastal car parks and plan driving routes to avoid the roads listed above. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:09:00",
-      "timeRaised": "2021-12-07T16:10:28",
-      "timeSeverityChanged": "2021-12-06T14:09:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:41:00",
+      "timeRaised": "2021-12-08T09:41:36",
+      "timeSeverityChanged": "2021-12-08T09:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC220",
@@ -1309,12 +1309,12 @@
       },
       "floodAreaID": "065WAC220",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:30 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds and large waves. The weather increases tide table values by 0.48 m. The total forecast tide is 4.79 metres Chart Datum (2.20 mAOD) at Cowes. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding, especially as wave heights are larger. For 1 hour either side of high water, minor impact flooding will affect some sea front roads, esplanades and car parks across the island, especially at more exposed locations such as Freshwater Bay, Shanklin and Gurnard. After this tide‚ the weather is more settled, and no further impacts are expected. We continue to monitor the forecast. Please avoid driving or parking at the sea front at high tide. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:07:00",
-      "timeRaised": "2021-12-07T16:08:02",
-      "timeSeverityChanged": "2021-12-06T14:17:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:39:00",
+      "timeRaised": "2021-12-08T09:39:16",
+      "timeSeverityChanged": "2021-12-08T09:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
@@ -1351,12 +1351,12 @@
       },
       "floodAreaID": "065WAC158",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:45 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds and large waves. The weather increases tide table values by 0.33 m. The total forecast tide is 5.08 metres Chart Datum (2.35 mAOD) at Portsmouth. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding. For 1 hour either side of high water, spray overtopping of defence walls at Southsea promenade and Eastern Road is expected. To protect property in Old Portsmouth, tidal defence gates will be closed. After this tide‚ the weather is more settled, and no further impacts are expected. We are liaising with the local authority over flood defence gate closures. Avoid the exposed sea front at high tide, especially Southsea. Spray and large waves can carry and throw shingle and debris. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:08:00",
-      "timeRaised": "2021-12-07T16:08:50",
-      "timeSeverityChanged": "2021-12-06T14:36:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:39:00",
+      "timeRaised": "2021-12-08T09:40:04",
+      "timeSeverityChanged": "2021-12-08T09:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC155",
@@ -1372,12 +1372,12 @@
       },
       "floodAreaID": "065WAC155",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:45 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds and large waves. The weather increases tide table values by 0.33 m. The total forecast tide is 5.08 metres Chart Datum (2.35 mAOD) at Portsmouth. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding. For 1 hour either side of high water, the main road at Northney will flood. At South Hayling, large waves may move and remove shingle on the beach. This may cause garden and minor impact road flooding, at the immediate sea front. After this tide‚ the weather is more settled and no further impacts are expected. We are liaising with the local authority over beach condition at South Hayling. Avoid the sea front at high tide. Shingle and debris can be thrown by large waves. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:08:00",
-      "timeRaised": "2021-12-07T16:09:26",
-      "timeSeverityChanged": "2021-12-06T14:33:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:40:00",
+      "timeRaised": "2021-12-08T09:40:44",
+      "timeSeverityChanged": "2021-12-08T09:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC156",
@@ -1393,12 +1393,12 @@
       },
       "floodAreaID": "065WAC156",
       "isTidal": true,
-      "message": "Wednesday's early morning tide at 01:45 on 08/12/2021 is higher than normal due to unsettled weather with strong South Westerly Force 5 winds and large waves. The weather increases tide table values by 0.33 m. The total forecast tide is 5.08 metres Chart Datum (2.35 mAOD) at Portsmouth. The tide will be much lower than it was this afternoon, but the residual impacts from Storm Barra may still cause some minor impact flooding. For 30 minutes either side of high water, spray overtopping of sea defence walls into low lying coastal roads between Hillhead and Gosport, namely Cliff Road and Stokes Bay Road, is expected. At Hillhead, low lying sea front car parks may flood. Property flooding is not expected. After this tide‚ the weather is more settled, and no further impacts are expected. We continue to monitor the forecast. Be careful if driving at Gosport sea front at high tide. Large waves can carry and throw shingle and debris, which could affect the main road at Stokes Bay. We will remove this message by 11:00 on 08/12/2021.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T16:08:00",
-      "timeRaised": "2021-12-07T16:08:28",
-      "timeSeverityChanged": "2021-12-06T14:49:00"
+      "message": "Whilst strong winds are expected at times over the next few days, the tide level is now reducing, and no further impacts are expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T09:40:00",
+      "timeRaised": "2021-12-08T09:40:18",
+      "timeSeverityChanged": "2021-12-08T09:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
@@ -1966,6 +1966,27 @@
       "timeMessageChanged": "2021-12-08T06:02:00",
       "timeRaised": "2021-12-08T06:05:07",
       "timeSeverityChanged": "2021-12-08T06:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOCAM",
+      "description": "Lower River Cam in Cambridgeshire",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOCAM",
+        "county": "Cambridgeshire",
+        "notation": "052WAFLOCAM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOCAM/polygon",
+        "riverOrSea": "River Cam"
+      },
+      "floodAreaID": "052WAFLOCAM",
+      "isTidal": false,
+      "message": "River levels have risen as a result of yesterday's rainfall at Stapleford. Consequently, flooding is possible along the River Cam from Stapleford to Waterbeach.\n   \nFurther light rainfall is forecast today meaning river levels are likely to remain high. We are closely monitoring the situation.  \n\nPlease avoid using low lying footpaths near local watercourses.  \n\nThis message will be updated this evening, 08/12/2021, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T09:46:00",
+      "timeRaised": "2021-12-08T09:47:18",
+      "timeSeverityChanged": "2021-12-08T09:46:00"
     }
   ]
 }
