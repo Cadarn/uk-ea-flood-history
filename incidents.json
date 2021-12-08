@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "High tides and strong winds are expected to cause large waves and spray overtopping along the East Yorkshire coast on the morning of Wednesday 08/12/2021 between 6am and midday. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Wednesday afternoon, 08/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T08:58:00",
+      "timeRaised": "2021-12-08T08:58:49",
+      "timeSeverityChanged": "2021-12-08T08:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -70,11 +91,11 @@
       },
       "floodAreaID": "113WAFTW07",
       "isTidal": false,
-      "message": "Following the heavy rainfall this morning due to Storm Barra, river levels are continuing to steadily rise on the Rivers Clyst and Culm. \n\nFlooding of low lying land and roads close to the river is possible this afternoon, Tuesday 07/12/2021 and overnight. No flooding to properties is currently forecast. Take care near the areas of concern and monitor your local weather conditions. \n\nWe are constantly monitoring river levels and will update this message on Wednesday morning, 08/12/2021, or earlier if the situation changes. ",
+      "message": " Following the heavy rainfall from Storm Barra, river levels remain high on the Rivers Clyst and Culm and may respond to overnight rainfall. \n\nFlooding of low lying land and roads close to the river is possible overnight into Thursday 09/12/2021. No flooding to properties is currently forecast. Take care near the areas of concern and monitor your local weather conditions. \n\nWe are constantly monitoring river levels and will update this message on Thursday morning, 09/12/2021, or earlier if the situation changes\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-07T15:22:00",
-      "timeRaised": "2021-12-07T15:23:40",
+      "timeMessageChanged": "2021-12-08T16:16:00",
+      "timeRaised": "2021-12-08T16:16:56",
       "timeSeverityChanged": "2021-12-07T15:22:00"
     },
     {
@@ -139,27 +160,6 @@
       "timeMessageChanged": "2021-12-08T11:01:00",
       "timeRaised": "2021-12-08T11:01:46",
       "timeSeverityChanged": "2021-12-08T11:01:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "High tides and strong winds are expected to cause large waves and spray overtopping along the East Yorkshire coast on the morning of Wednesday 08/12/2021 between 6am and midday. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Wednesday afternoon, 08/12/2021, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T08:58:00",
-      "timeRaised": "2021-12-08T08:58:49",
-      "timeSeverityChanged": "2021-12-08T08:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -238,12 +238,12 @@
       },
       "floodAreaID": "111FWTCHXH011",
       "isTidal": true,
-      "message": "The high tide at  00:30 AM on Wednesday will be higher than normal due to stormy conditions associated with Storm Barra. \nSouth-westerly force 8 winds and large waves will produce a swell within the harbour.\nAreas most at risk include The Quomps, Mudeford and the Stanpit area\nOur incident response staff are closing flood gates and checking defences.\nWe are liaising with emergency services and local authorities.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nPeople in the areas should consider taking action now. We urge all people to take care and not drive or walk through flood water.\nThis message will be updated by 10:00 AM on 08/12/2021, or as the situation changes. \n\n\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-12-07T16:42:00",
-      "timeRaised": "2021-12-07T16:42:29",
-      "timeSeverityChanged": "2021-12-06T17:43:00"
+      "message": " The risk of flooding from Storm Barra has now reduced.\nAfter this tide‚ the weather is more settled and no further impacts are expected.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T15:47:00",
+      "timeRaised": "2021-12-08T15:47:43",
+      "timeSeverityChanged": "2021-12-08T15:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
@@ -322,11 +322,11 @@
       },
       "floodAreaID": "033WAF201",
       "isTidal": false,
-      "message": "River levels remain high but are beginning to fall at the Lilbourne river gauge as a result of the recent heavy rainfall.  Consequently, the risk of flooding is reducing.  Flooding is affecting low-lying land and roads adjacent to River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne.   \nFurther light rainfall is forecast over the next few days.  River levels are falling, but still pose a flood risk, and could respond quickly to even small amounts of rainfall, as the catchments are now saturated.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis Flood Alert may be removed later today (08/12/2021), if river levels continue to fall, but this will be based on an updated weather forecast this evening.",
+      "message": "River levels are continuing to remain high, but are falling slowly, at the Lilbourne river gauge as a result of the recent heavy rainfall. Consequently, the risk of flooding is reducing. Flooding is affecting low-lying land and roads adjacent to River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne. Further light rainfall is forecast over the next few days. River levels could respond quickly to even small amounts of new rainfall, as the catchments are now saturated, so this Flood Alert remains in force overnight (08/12/2021). We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This Flood Alert may be removed tomorrow morning (09/12/2021), if the river level has continued to fall overnight, but this will be based on an updated weather forecast the morning (09/12/2021).",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T10:51:00",
-      "timeRaised": "2021-12-08T10:52:06",
+      "timeMessageChanged": "2021-12-08T15:43:00",
+      "timeRaised": "2021-12-08T15:44:08",
       "timeSeverityChanged": "2021-12-07T16:02:00"
     },
     {
@@ -414,6 +414,27 @@
       "timeSeverityChanged": "2021-12-08T06:41:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
+      "description": "Upper River Wyre, Brock",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW",
+        "county": "Lancashire",
+        "notation": "012WAFUW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW/polygon",
+        "riverOrSea": "River Wyre"
+      },
+      "floodAreaID": "012WAFUW",
+      "isTidal": false,
+      "message": "River levels have risen on the River Wyre, River Brock due to heavy rainfall. Areas most at risk include Rivers Wyre, Calder and Brock and other watercourses from Abbeystead to Catterall including Scorton, Garstang, Bilsborrow, Ainspool and Churchtown. Flooding is possible at Rivers Wyre, Calder and Brock and other watercourses from Abbeystead to Catterall including Scorton, Garstang, Bilsborrow, Ainspool and Churchtown from 03:00 PM on 08/12/2021. Further rainfall is forecast this evening but river levels are not forecast to reach the flood warning threshold. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 09:00 AM on 09/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T15:52:00",
+      "timeRaised": "2021-12-08T15:52:40",
+      "timeSeverityChanged": "2021-12-08T15:52:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
       "description": "River Leam and River Itchen",
       "eaAreaName": "West Midlands",
@@ -433,6 +454,27 @@
       "timeMessageChanged": "2021-12-08T10:28:00",
       "timeRaised": "2021-12-08T10:28:43",
       "timeSeverityChanged": "2021-12-08T10:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLW",
+      "description": "Lower River Wyre",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW",
+        "county": "Blackpool, Lancashire",
+        "notation": "012WAFLW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW/polygon",
+        "riverOrSea": "River Wyre, Main Dyke"
+      },
+      "floodAreaID": "012WAFLW",
+      "isTidal": false,
+      "message": "River levels have risen on the River Wyre due to heavy rainfall. Areas most at risk include River Wyre, River Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall. Flooding is possible at River Wyre, River Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall from 03:00 PM on 08/12/2021. Further rainfall is forecast this evening but river levels are not expected to reach the flood warning threshold. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 09:00 AM on 09/12/2021, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T15:51:00",
+      "timeRaised": "2021-12-08T15:52:12",
+      "timeSeverityChanged": "2021-12-08T15:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUD",
@@ -490,11 +532,11 @@
       },
       "floodAreaID": "122WAF949",
       "isTidal": false,
-      "message": "The flood alert for the Upper River Derwent remains in force as river levels remain high following recent rainfall. Consequently, flooding of roads and farmland is possible today, Wednesday 08/12/2021. Further rainfall is forecast today, and river levels could remain high until later in the week. Areas most at risk are low lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses, and do not walk or drive through flood water. This message will be updated on Wednesday afternoon, 08/12/2021, or as the situation changes.",
+      "message": "The flood alert for the Upper River Derwent remains in force as river levels remain high following recent rainfall. Consequently, flooding of roads and farmland remains possible overnight into Thursday 09/12/2021. Further rainfall is forecast tomorrow, and river levels could remain high until later in the week. Areas most at risk are low lying land and roads. Our incident response staff are closely monitoring the forecast. Please avoid using low lying footpaths near local watercourses, and do not walk or drive through flood water. This message will be updated on Thursday morning, 09/12/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T09:00:00",
-      "timeRaised": "2021-12-08T09:00:42",
+      "timeMessageChanged": "2021-12-08T15:35:00",
+      "timeRaised": "2021-12-08T15:35:55",
       "timeSeverityChanged": "2021-12-01T19:21:00"
     },
     {
@@ -517,27 +559,6 @@
       "timeMessageChanged": "2021-12-07T18:16:00",
       "timeRaised": "2021-12-07T18:16:58",
       "timeSeverityChanged": "2021-12-07T18:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
-      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
-        "county": "Essex",
-        "notation": "051WACDV4C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "051WACDV4C",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T16:15:00",
-      "timeRaised": "2021-12-07T16:15:28",
-      "timeSeverityChanged": "2021-12-07T16:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -622,48 +643,6 @@
       "timeMessageChanged": "2021-12-07T16:20:00",
       "timeRaised": "2021-12-07T16:21:05",
       "timeSeverityChanged": "2021-12-07T16:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
-      "description": "The tidal Deben estuary",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
-        "county": "Suffolk",
-        "notation": "054WACDV4A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
-        "riverOrSea": "River Deben, North Sea"
-      },
-      "floodAreaID": "054WACDV4A",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T16:12:00",
-      "timeRaised": "2021-12-07T16:12:30",
-      "timeSeverityChanged": "2021-12-07T16:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
-      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
-        "county": "Thurrock",
-        "notation": "051FWCDV5B3EASTA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
-        "riverOrSea": "Thames Estuary"
-      },
-      "floodAreaID": "051FWCDV5B3EASTA",
-      "isTidal": true,
-      "message": "Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T15:59:00",
-      "timeRaised": "2021-12-07T15:59:23",
-      "timeSeverityChanged": "2021-12-07T15:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -1401,27 +1380,6 @@
       "timeSeverityChanged": "2021-12-08T09:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
-      "description": "Fareham to Portchester",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160",
-        "county": "Hampshire, Portsmouth",
-        "notation": "065WAC160",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160/polygon",
-        "riverOrSea": "Portsmouth Harbour"
-      },
-      "floodAreaID": "065WAC160",
-      "isTidal": true,
-      "message": "The tide level is now reducing. The tide forecast in the early hours of Wednesday morning (08/12/2021) at 01:45 remains a little elevated, but it is no longer expected to cause property or minor impact flooding. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T16:04:00",
-      "timeRaised": "2021-12-07T16:05:16",
-      "timeSeverityChanged": "2021-12-07T16:04:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC158",
       "description": "Portsmouth",
       "eaAreaName": "Solent and South Downs",
@@ -1653,69 +1611,6 @@
       "timeSeverityChanged": "2021-12-06T17:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC1401",
-      "description": "Langstone and Emsworth",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1401",
-        "county": "Hampshire, West Sussex",
-        "notation": "065FWC1401",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1401/polygon",
-        "riverOrSea": "Langstone Harbour, Emsworth Harbour"
-      },
-      "floodAreaID": "065FWC1401",
-      "isTidal": true,
-      "message": "The tide level is now reducing and it is no longer expected to cause property flooding. The tide forecast in the early hours of Wednesday morning (08/12/2021) at 01:45 remains a little elevated, with larger waves. As there is a small possibility that some very minor impact flooding may occur, a Flood Alert will remain in force for this tide. The Flood Alert will be issued shortly.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T16:04:00",
-      "timeRaised": "2021-12-07T16:05:55",
-      "timeSeverityChanged": "2021-12-07T16:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC0801",
-      "description": "Fareham",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC0801",
-        "county": "Hampshire",
-        "notation": "065FWC0801",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC0801/polygon",
-        "riverOrSea": "Portsmouth Harbour"
-      },
-      "floodAreaID": "065FWC0801",
-      "isTidal": true,
-      "message": "The tide level is now reducing. The tide forecast in the early hours of Wednesday morning (08/12/2021) at 01:45 remains a little elevated, but it is no longer expected to cause property flooding. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T16:05:00",
-      "timeRaised": "2021-12-07T16:06:04",
-      "timeSeverityChanged": "2021-12-07T16:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWB0102",
-      "description": "Beaulieu",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWB0102",
-        "county": "Hampshire",
-        "notation": "065FWB0102",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWB0102/polygon",
-        "riverOrSea": "The Solent"
-      },
-      "floodAreaID": "065FWB0102",
-      "isTidal": false,
-      "message": "The tide level is now reducing, and it is no longer expected to cause property flooding. The tide forecast in the early hours of Wednesday morning (08/12/2021) at 01:18 and 03:18 remains a little elevated. As there is a small possibility that some very minor impact flooding may occur, a Flood Alert will remain in force for this tide. The Flood Alert will be issued shortly.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-07T16:05:00",
-      "timeRaised": "2021-12-07T16:06:25",
-      "timeSeverityChanged": "2021-12-07T16:05:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT916",
       "description": "Wear estuary",
       "eaAreaName": "North East",
@@ -1897,12 +1792,12 @@
       },
       "floodAreaID": "111FWCECD022",
       "isTidal": true,
-      "message": "Storm Barra has brought  strong, Force 7, south westerly winds, large waves and spray overtopping on the coast. \nHigh water will be at about 10:00 pm this evening, Tuesday 07/12/2021.\nTides are expected to be higher than usual due to the weather conditions.\nAreas most at risk include The Sea Life Centre and the Preston Beach Road area of Lodmoor.\nOur incident response staff are in the area and will be checking local defences.\nPlan driving routes to avoid Preston Beach Road which may be affected by flooding.\nStay away from Weymouth beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nWe will remove this message by 10:00 AM on 08/12/2021.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-12-07T16:56:00",
-      "timeRaised": "2021-12-07T16:57:03",
-      "timeSeverityChanged": "2021-12-07T16:56:00"
+      "message": " The risk of flooding from Storm Barra has now reduced.\nAfter this tide‚ the weather is more settled and no further impacts are expected.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T15:45:00",
+      "timeRaised": "2021-12-08T15:46:01",
+      "timeSeverityChanged": "2021-12-08T15:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTWBH010",
@@ -1918,12 +1813,12 @@
       },
       "floodAreaID": "111FWTWBH010",
       "isTidal": true,
-      "message": "Storm Barra has brought  strong, Force 7, south westerly winds, large waves and spray overtopping on the coast. \nHigh water will be at about 10:00 pm this evening, Tuesday 07/12/2021, although levels will remain high for several hours afterwards.\nTides are expected to be higher than usual due to the weather conditions.\nAreas most at risk include the inner harbour, East Beach and the esplanade on East Beach.\nOur incident response staff are in the area and will be checking local defences.\nAvoid going near cliffs as the risk of cliff falls is considerably raised during storm conditions.\nStay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nWe will remove this message by 10:00 AM on 08/12/2021.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-12-07T17:04:00",
-      "timeRaised": "2021-12-07T17:05:31",
-      "timeSeverityChanged": "2021-12-07T17:04:00"
+      "message": "The risk of flooding from Storm Barra has now reduced.\nAfter this tide‚ the weather is more settled and no further impacts are expected.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T15:46:00",
+      "timeRaised": "2021-12-08T15:46:32",
+      "timeSeverityChanged": "2021-12-08T15:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
