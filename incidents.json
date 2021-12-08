@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "This flood alert is no longer in force due to levels falling below levels of concern. We will continue to monitor the situation and forecast and re-issue if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-08T16:38:00",
-      "timeRaised": "2021-12-08T16:38:44",
-      "timeSeverityChanged": "2021-12-08T16:38:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -202,6 +181,27 @@
       "timeMessageChanged": "2021-12-08T17:01:00",
       "timeRaised": "2021-12-08T17:01:59",
       "timeSeverityChanged": "2021-12-08T11:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "This flood alert is no longer in force due to levels falling below levels of concern. We will continue to monitor the situation and forecast and re-issue if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T16:38:00",
+      "timeRaised": "2021-12-08T16:38:44",
+      "timeSeverityChanged": "2021-12-08T16:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -727,6 +727,48 @@
       "timeMessageChanged": "2021-12-08T17:33:00",
       "timeRaised": "2021-12-08T17:33:26",
       "timeSeverityChanged": "2021-12-08T12:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDI",
+      "description": "River Ditton catchment including areas around Huyton-with-Roby and Widnes",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDI",
+        "county": "Halton, Knowsley, Liverpool, St. Helens, Warrington",
+        "notation": "013WAFDI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDI/polygon",
+        "riverOrSea": "River Ditton"
+      },
+      "floodAreaID": "013WAFDI",
+      "isTidal": false,
+      "message": "River levels are high and continue to rise on the River Ditton due to heavy rainfall. \nFlooding is possible at low lying land and roads around Ditton, Logwood Mill, Fox's Bank, Dog Clog, Stewards, and Netherley Brooks and their tributaries from 21:15 on 8/12/2021 \nFurther rainfall is forecast overnight. \nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. \nThis message will be updated on 09/12/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T21:16:00",
+      "timeRaised": "2021-12-08T21:16:33",
+      "timeSeverityChanged": "2021-12-08T21:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFSA",
+      "description": "River Sankey catchment with St Helens and Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFSA",
+        "county": "Lancashire, St. Helens, Warrington, Wigan",
+        "notation": "013WAFSA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFSA/polygon",
+        "riverOrSea": "River Sankey"
+      },
+      "floodAreaID": "013WAFSA",
+      "isTidal": false,
+      "message": "River levels are high and continue to rise on the River Sankey due to heavy rainfall. \nFlooding is possible at low lying land and roads around Black, Barkers, Windle and Whittle Brooks and their tributaries from 21:15 on 8/12/2021 \nFurther rainfall is forecast overnight \nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. \nThis message will be updated on 09/12/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T21:16:00",
+      "timeRaised": "2021-12-08T21:17:39",
+      "timeSeverityChanged": "2021-12-08T21:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
@@ -2176,6 +2218,27 @@
       "timeMessageChanged": "2021-12-08T20:29:00",
       "timeRaised": "2021-12-08T20:30:11",
       "timeSeverityChanged": "2021-12-08T20:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFBO",
+      "description": "River Bollin catchment, including Knutsford, Wilmslow, Macclesfield and Bollington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFBO",
+        "county": "Cheshire East, Manchester, Stockport, Trafford, Warrington",
+        "notation": "013WAFBO",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFBO/polygon",
+        "riverOrSea": "River Bollin"
+      },
+      "floodAreaID": "013WAFBO",
+      "isTidal": false,
+      "message": "River levels are high and continue to rise on the River Bollin due to heavy rainfall. \nFlooding is possible at low lying land and roads around the Rivers Bollin, Dean and Pedley, Birkin and Mobberley Brooks and their tributaries this evening, Wednesday 8/12/2021 \nFurther rainfall is forecast overnight. \nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. \nThis message will be updated on 09/12/2021, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-08T21:15:00",
+      "timeRaised": "2021-12-08T21:16:33",
+      "timeSeverityChanged": "2021-12-08T21:15:00"
     }
   ]
 }
