@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2021-11-27T10:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "This flood alert is no longer in force due to levels falling below levels of concern. We will continue to monitor the situation and forecast and re-issue if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-08T16:38:00",
+      "timeRaised": "2021-12-08T16:38:44",
+      "timeSeverityChanged": "2021-12-08T16:38:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -162,27 +183,6 @@
       "timeSeverityChanged": "2021-12-08T11:01:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "This flood alert is no longer in force due to levels falling below levels of concern. We will continue to monitor the situation and forecast and re-issue if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-08T16:38:00",
-      "timeRaised": "2021-12-08T16:38:44",
-      "timeSeverityChanged": "2021-12-08T16:38:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
       "description": "Upper Teme",
       "eaAreaName": "West Midlands",
@@ -238,11 +238,11 @@
       },
       "floodAreaID": "112WAFTSES",
       "isTidal": false,
-      "message": "The level of the River Yeo at Sherborne Lake remains marginally above Flood Alert threshold and is falling slowly. Other rivers in the area have fallen to winter baseflow levels. Further showery rainfall is forecast over the next 24 hours, with a moderate band of rain this evening, Wednesday 08/12/2021. While this is not expected to cause widespread flooding impacts, the catchments are wet and it may be enough to keep Sherborne Lake just above Alert level with a low level of flood risk in the local area. We will continue to monitor the weather and the Lake level over the coming days, and we will keep reviewing the need for this Alert. There may continue to be a localised risk of flooding to low lying land and roads in the area. We do not anticipate flooding of properties, based on the current forecast. Please remain vigilant and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 12:00 tomorrow, Thursday 09/12/2021, or as the situation changes.",
+      "message": "The level of the River Yeo at Sherborne Lake has now reduced to the Flood Alert level and is stable. Other rivers in the area are back to winter baseflow levels. A band of moderate rain is currently passing over the area, with further sporadic showers expected later this afternoon and evening, Thursday 09/12/2021. While this is not expected to cause widespread flooding impacts, the catchments are wet and it may be enough for Sherborne Lake to rise just above Alert level again, with a low level of flood risk in the local area. Therefore this Alert remains in force as a precautionary measure. We will continue to monitor the weather and the Lake level, and we will keep reviewing the need for this Alert. There may continue to be a localised risk of flooding to low lying land and roads in the area. We do not anticipate flooding of properties, based on the current forecast. Please remain vigilant and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 12:00 tomorrow, Friday 10/12/2021, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2021-12-08T13:33:00",
-      "timeRaised": "2021-12-08T13:33:58",
+      "timeMessageChanged": "2021-12-09T13:35:00",
+      "timeRaised": "2021-12-09T13:36:14",
       "timeSeverityChanged": "2021-12-07T19:05:00"
     },
     {
@@ -1351,12 +1351,12 @@
       },
       "floodAreaID": "034FWFWYBAKMILF",
       "isTidal": false,
-      "message": "River levels remain high but are beginning to fall at the Ashford river gauge as a result of heavy rainfall.  Consequently, flooding (of property) is expected to continue.  Areas most at risk are Wye Bank, Brook Side, and Milford at Bakewell.  Further rainfall is forecast over the next 24 hours.  River levels are falling, but still pose a flood risk.  We are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  Please move possessions and valuables off the ground or to safety.  This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-12-09T08:14:00",
-      "timeRaised": "2021-12-09T08:14:48",
-      "timeSeverityChanged": "2021-12-08T22:14:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation and will re-issue this flood warning if necessary.\nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-09T13:41:00",
+      "timeRaised": "2021-12-09T13:42:08",
+      "timeSeverityChanged": "2021-12-09T13:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWYASHFRDCS",
@@ -1372,12 +1372,12 @@
       },
       "floodAreaID": "034FWFWYASHFRDCS",
       "isTidal": false,
-      "message": "River levels remain high but are beginning to fall at the Ashford river gauge as a result of heavy rainfall.  Consequently, flooding (of property) is expected to continue.  Areas most at risk are Church Street area at Ashford in the Water, and the A6 at Buxton.  Further rainfall is forecast over the next 24 hours.  River levels are falling, but still pose a flood risk.  We are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  Please move possessions and valuables off the ground or to safety.  This message will be updated in 8 hours, or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2021-12-09T08:11:00",
-      "timeRaised": "2021-12-09T08:11:13",
-      "timeSeverityChanged": "2021-12-08T22:14:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation and will re-issue this flood warning if necessary.\nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-09T13:33:00",
+      "timeRaised": "2021-12-09T13:34:31",
+      "timeSeverityChanged": "2021-12-09T13:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013FWFCH46",
