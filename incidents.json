@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "River levels have now peaked and are falling. The forecast is for benign conditions as we experience a high pressure system until the end of the week.  There is no rain in the forecast.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2021-12-14T09:46:00",
-      "timeRaised": "2021-12-14T09:46:36",
-      "timeSeverityChanged": "2021-12-14T09:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -133,12 +112,33 @@
       },
       "floodAreaID": "052WAFLOT",
       "isTidal": false,
-      "message": "River levels continue to fall at the Redbridge river gauge following recent rainfall but continue to slowly rise at downstream gauges at Melford on the River Thet, and at Abbey Heath on the Little Ouse River. Consequently, flooding of property/roads and farmland is possible today, Tuesday 14 December.  We expect flooding to affect the Little Ouse River from Rickinghall to Hockwold, including The Black Bourn, and River Thet from Attleborough to Thetford.   \n\nNo rainfall is forecast for the next 24 hours.  \n\nWe are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses.  \n\nThis message will be updated this afternoon, Tuesday 14 December, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2021-12-14T09:15:00",
-      "timeRaised": "2021-12-14T09:15:58",
-      "timeSeverityChanged": "2021-12-11T12:00:00"
+      "message": "This Flood Alert has been removed.  \n\nRiver levels are below the flood risk threshold and will remain steady, with no further rise forecasted.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  No further rainfall is forecast.  \n\nWe continue to monitor the situation.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-14T17:07:00",
+      "timeRaised": "2021-12-14T17:07:39",
+      "timeSeverityChanged": "2021-12-14T17:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "River levels have now peaked and are falling. The forecast is for benign conditions as we experience a high pressure system until the end of the week.  There is no rain in the forecast.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2021-12-14T09:46:00",
+      "timeRaised": "2021-12-14T09:46:36",
+      "timeSeverityChanged": "2021-12-14T09:46:00"
     }
   ]
 }
