@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
+      "description": "Upper Teme",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112",
+        "county": "Herefordshire, Powys, Shropshire",
+        "notation": "031WAF112",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF112/polygon",
+        "riverOrSea": "River Teme, River Onny, River Corve"
+      },
+      "floodAreaID": "031WAF112",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Onibury river gauge as a result of heavy rainfall forecast Friday today and tomorrow Saturday 25/12/21.  Consequently, flooding of roads and farmland is possible from 04:00 tomorrow morning, 25/12/21.  We believe there is a possibility of flooding for low lying land and roads adjacent the River Teme, River Onny and River Corve and their tributaries. Locations that may be affected include Bishops Castle, Church Stretton, Knighton and Ludlow. Predicted peaks:-  Onibury 1.6m to 1.8m Saturday morning 25/12/21.   \nFurther rainfall is forecast over the next 48 hours with another band of rain expected Saturday evening 25/12/21, which will cause river levels to rise again.  We expect river levels to remain high until 26/12/21.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning 25/12/21 by 09:00, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2021-12-24T15:40:00",
+      "timeRaised": "2021-12-24T15:41:00",
+      "timeSeverityChanged": "2021-12-24T15:40:00"
+    }
+  ]
 }
