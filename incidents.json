@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
+      "description": "River Trent from Cromwell Weir to Gainsborough",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424",
+        "county": "Lincolnshire, Nottinghamshire",
+        "notation": "034WAB424",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424/polygon",
+        "riverOrSea": "River Trent, River Idle"
+      },
+      "floodAreaID": "034WAB424",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Torksey river gauge as a result of high tides.  Flooding is possible on the high tide at 21:00 on Sunday evening 02/01/2022, and consequent tides.  Areas most at risk are Church Laneham to Rampton Road.   Flooding of properties is not forecast at this point. We expect high river levels to occur for the next few days.  We are closely monitoring the situation.  Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  This message will be updated on Monday morning, 03/01/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T14:46:00",
+      "timeRaised": "2022-01-02T14:47:53",
+      "timeSeverityChanged": "2022-01-02T14:46:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -706,6 +727,27 @@
       "timeMessageChanged": "2022-01-02T12:05:00",
       "timeRaised": "2022-01-02T12:06:28",
       "timeSeverityChanged": "2022-01-02T12:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "As a result of high tides , tides will be at their highest throughout the evening at 10:45 PM on 02/01/2022.\nAreas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nHighest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 10:45 PM on 02/01/2022. Flooding is possible 2 hours either side of this time.\nThe tide at 11:15 AM on 03/01/2022 is also currently forecast to be a to be at Flood alert levels ,we will send an update once this current tide has passed\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 07:00 AM on 03/01/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T14:47:00",
+      "timeRaised": "2022-01-02T14:47:59",
+      "timeSeverityChanged": "2022-01-02T14:47:00"
     }
   ]
 }
