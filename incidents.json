@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumbria",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": " River and lake levels are now falling on the Upper River Derwent, Stonethwaite Beck and Derwent Water but the lake level remains high. The weather forecast is for another drier day today and the lake level will continue to fall slowly. Areas still affected are locations around Derwent Water, with low lying land expected to be most affected. This message will be updated tomorrow, the 03/01/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T11:20:00",
+      "timeRaised": "2022-01-02T11:20:18",
+      "timeSeverityChanged": "2021-12-30T16:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -139,6 +160,27 @@
       "timeMessageChanged": "2022-01-02T11:05:00",
       "timeRaised": "2022-01-02T11:05:46",
       "timeSeverityChanged": "2022-01-02T11:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
+      "description": "River Dee catchment in England from Whitchurch to Chester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
+        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
+        "notation": "013WAFDEE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
+        "riverOrSea": "River Dee"
+      },
+      "floodAreaID": "013WAFDEE",
+      "isTidal": false,
+      "message": "River levels remain high on the River Dee. Flooding remains possible at low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington throughout today 02/01/2022. We will see river levels gradually drop throughout today. Please be aware that Townfield Lane could be cut off. We will continue to monitor the forecast and re-issue this alert if necessary. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated tomorrow morning (3/1/2022), or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T10:06:00",
+      "timeRaised": "2022-01-02T10:07:12",
+      "timeSeverityChanged": "2021-12-30T15:21:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
@@ -351,48 +393,6 @@
       "timeSeverityChanged": "2022-01-02T07:51:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
-      "description": "River Dee catchment in England from Whitchurch to Chester",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
-        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
-        "notation": "013WAFDEE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
-        "riverOrSea": "River Dee"
-      },
-      "floodAreaID": "013WAFDEE",
-      "isTidal": false,
-      "message": "River levels remain high on the River Dee. Flooding remains possible at low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington throughout today 02/01/2022. We will see river levels gradually drop throughout today. Please be aware that Townfield Lane could be cut off. We will continue to monitor the forecast and re-issue this alert if necessary. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated tomorrow morning (3/1/2022), or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-02T10:06:00",
-      "timeRaised": "2022-01-02T10:07:12",
-      "timeSeverityChanged": "2021-12-30T15:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumbria",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": "River and lake levels have now peaked on the Upper River Derwent, Stonethwaite Beck and Derwent Water but the lake level remains high. The weather forecast is for a drier day and the lake level will continue to fall slowly. Areas still affected are locations around Derwent Water, with low lying land expected to be most affected. This message will be updated tomorrow, the 02/01/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-01T11:39:00",
-      "timeRaised": "2022-01-01T11:40:06",
-      "timeSeverityChanged": "2021-12-30T16:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
       "description": "Rivers Brathay, Rothay and Winster",
       "eaAreaName": "Cumbria and Lancashire",
@@ -469,11 +469,11 @@
       },
       "floodAreaID": "111WATCHXH",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 09:00 AM on 02/01/2022 with a forecast level of 1.31m. \nThe Flood Alert will be in force for 2 hours before and after the high water time.\nForecasts suggests further Flood Alerts may need to be issued for tides on Sunday Evening and Monday Morning. We will re-issue this alert with further details should forecasts continue to suggest that it is needed.\nAreas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon.\nOur incident response staff have closed relevant flood gates and have been checking defences.\nWe will continue to monitor levels closely.\nPlease avoid flooded footpaths in the area.\nThis message will be updated by 02:00 PM on 02/01/2022, or as the situation changes.",
+      "message": "This Flood Alert has been issued due to the high tide forecast at 9:15 PM on 02/01/2022 and for the high tide forecast at 9:45 AM on the 03/01/2022. The Flood Alert will be in force for 2 hours before and after the two high water times. Forecasts suggests further Flood Alerts may need to be issued for high tide on Tuesday Morning. We will re-issue this alert with further details should forecasts continue to suggest that it is needed. Areas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon. Our incident response staff have closed relevant flood gates and have been checking defences. We will continue to monitor levels closely. Please avoid flooded footpaths in the area during high tides. This message will be updated by 02:00 PM on 03/01/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-01-01T11:52:00",
-      "timeRaised": "2022-01-01T11:53:23",
+      "timeMessageChanged": "2022-01-02T11:30:00",
+      "timeRaised": "2022-01-02T11:31:33",
       "timeSeverityChanged": "2021-12-31T15:23:00"
     },
     {
@@ -601,6 +601,111 @@
       "timeMessageChanged": "2022-01-02T11:15:00",
       "timeRaised": "2022-01-02T11:15:58",
       "timeSeverityChanged": "2022-01-02T11:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
+      "description": "Coast from St Bees Head to Millom",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3",
+        "county": "Cumbria",
+        "notation": "011WACN3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN3",
+      "isTidal": true,
+      "message": " This Flood Alert has been issued due to the high tide forecast overnight tonight on 02/01/2022.\nAreas most at risk include low lying areas along the coast from St Bees Head to Millom including Ravenglass and Annaside.\nThe highest tide level is expected at 11:00 PM on 02/01/2022 and will be accompanied by strong winds and large waves. Flooding is possible 2 hours either side of this time.\nThe next high tide is also expected to be higher than normal and may result in us issuing a further alert.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 10:00 AM on 03/01/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T11:32:00",
+      "timeRaised": "2022-01-02T11:32:36",
+      "timeSeverityChanged": "2022-01-02T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN1",
+      "description": "Coast from Gretna to Silloth",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN1",
+        "county": "Cumbria",
+        "notation": "011WACN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN1/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN1",
+      "isTidal": true,
+      "message": " This Flood Alert has been issued due to the high tide forecast overnight tonight on 02/01/2022.\nAreas most at risk include low lying areas along the Coastline from Gretna to Silloth.\nThe highest tide level is expected at 11:15 PM on 02/01/2022 and will be accompanied by strong winds and large waves. Flooding is possible 2 hours either side of this time.\nThe next high tide is also expected to be higher than normal and may result in us issuing a further alert.\nWe are closing flood gates in the area.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 10:00 AM on 03/01/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T11:31:00",
+      "timeRaised": "2022-01-02T11:32:12",
+      "timeSeverityChanged": "2022-01-02T11:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
+      "description": "Coast from Silloth to St Bees",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2",
+        "county": "Cumbria",
+        "notation": "011WACN2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN2",
+      "isTidal": true,
+      "message": " This Flood Alert has been issued due to the high tide forecast overnight tonight on 02/01/2022.\nAreas most at risk include low lying areas along the coast from Silloth to St Bees Head including Allonby, Maryport, Flimby, Workington, Parton and Whitehaven.\nThe highest tide level is expected at 11:15 PM on 02/01/2022 and will be accompanied by strong winds and large waves. Flooding is possible 2 hours either side of this time.\nThe next high tide is also expected to be higher than normal and may result in us issuing a further alert.\nWe are closing flood gates in the area.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 10:00 AM on 03/01/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T11:32:00",
+      "timeRaised": "2022-01-02T11:32:32",
+      "timeSeverityChanged": "2022-01-02T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Cumbria, Lancashire",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": " This Flood Alert has been issued due to the high tide forecast overnight tonight on 02/01/2022.\nAreas most at risk include the Coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale.\nThe highest tide level is expected to be at 10:45 PM on 02/01/2022 and will be accompanied by strong winds and large waves. Flooding is possible 2 hours either side of this time.\nThe next high tide is also expected to be higher than normal and may result in us issuing a further alert.\nWe have closed flood gates in the area.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 10:00 AM on 03/01/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T11:32:00",
+      "timeRaised": "2022-01-02T11:33:19",
+      "timeSeverityChanged": "2022-01-02T11:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
+      "description": "Severn estuary from Gloucester to Sharpness",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217",
+        "county": "Gloucestershire",
+        "notation": "031WAT217",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "031WAT217",
+      "isTidal": true,
+      "message": "High spring tides are expected this evening and for the next few days in the Severn Estuary. \nFlooding may affect low lying land and roads adjacent to the Severn Estuary from Sandhurst to Chepstow and Sharpness. High tides may also affect watercourses draining into the Severn Estuary. Predicted peaks: Sandhurst 3m to 3.4m at 21:15 on 2/1/22. Flooding is not expected in any other gauge location this evening, however Gloucester is currently forecast to be affected on Monday morning’s tide at 9:15am.\nWe are closely monitoring the situation. Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses.\nThis message will be updated by 22:30 on 02/01/22, or if the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-02T12:05:00",
+      "timeRaised": "2022-01-02T12:06:28",
+      "timeSeverityChanged": "2022-01-02T12:05:00"
     }
   ]
 }
