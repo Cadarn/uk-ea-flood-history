@@ -15,6 +15,69 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
+      "description": "River Trent from Cromwell Weir to Gainsborough",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424",
+        "county": "Lincolnshire, Nottinghamshire",
+        "notation": "034WAB424",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424/polygon",
+        "riverOrSea": "River Trent, River Idle"
+      },
+      "floodAreaID": "034WAB424",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Torksey and Gainsborough river gauges as a result of high tides.  Flooding is possible during the high tides over the next few days.  Areas most at risk are Church Laneham to Rampton Road, Lea Marsh, Gainsborough, Morton, East and West Stockwith, Trent Wharfage and Gainsborough Railway Bridge.  Flooding of properties is not forecast at this point.  We are closely monitoring the situation.  Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  This message will be updated on Monday evening, 03/01/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-03T10:01:00",
+      "timeRaised": "2022-01-03T10:02:12",
+      "timeSeverityChanged": "2022-01-02T14:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumbria",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": " River and lake levels are now falling on the Upper River Derwent, Stonethwaite Beck and Derwent Water but the lake level remains high. The weather forecast is for further showers today but the lake level is forecast to continue to fall slowly. Areas still affected are locations around Derwent Water, with low lying land expected to be most affected. This message will be updated tomorrow, the 04/01/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-03T11:29:00",
+      "timeRaised": "2022-01-03T11:29:12",
+      "timeSeverityChanged": "2021-12-30T16:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The peak is expected from today, 3rd January, and the flood alert is expected to stay in force until Thursday 6th January. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide-locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 4th January.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-03T11:50:00",
+      "timeRaised": "2022-01-03T11:50:50",
+      "timeSeverityChanged": "2022-01-03T11:50:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -55,6 +118,27 @@
       "timeMessageChanged": "2022-01-03T09:19:00",
       "timeRaised": "2022-01-03T09:19:55",
       "timeSeverityChanged": "2021-12-26T20:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The peak is expected from today 3rd January, and the flood alert is expected to stay in force until Thusday 6th January. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide-locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 4th January.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-03T11:50:00",
+      "timeRaised": "2022-01-03T11:51:32",
+      "timeSeverityChanged": "2022-01-03T11:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
@@ -99,24 +183,24 @@
       "timeSeverityChanged": "2021-12-26T07:58:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
       },
-      "floodAreaID": "054WATBT2",
+      "floodAreaID": "054WATBT3",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The peak is expected from today, 3rd January, and the flood alert is expected to stay in force until Thursday 6th January. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide-locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 4th January.",
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The peak is expected from today, 3rd January, and the flood alert is expected to stay in force until Thursday 6th January. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide-locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 4th January.",
       "severity": "Flood alert",
       "severityLevel": 3,
       "timeMessageChanged": "2022-01-03T11:50:00",
-      "timeRaised": "2022-01-03T11:50:50",
+      "timeRaised": "2022-01-03T11:50:41",
       "timeSeverityChanged": "2022-01-03T11:50:00"
     },
     {
@@ -139,6 +223,27 @@
       "timeMessageChanged": "2022-01-03T09:49:00",
       "timeRaised": "2022-01-03T09:49:28",
       "timeSeverityChanged": "2022-01-02T11:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
+      "description": "River Dee catchment in England from Whitchurch to Chester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
+        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
+        "notation": "013WAFDEE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
+        "riverOrSea": "River Dee"
+      },
+      "floodAreaID": "013WAFDEE",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-03T08:54:00",
+      "timeRaised": "2022-01-03T08:54:48",
+      "timeSeverityChanged": "2022-01-03T08:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
@@ -288,27 +393,6 @@
       "timeSeverityChanged": "2021-12-25T20:19:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
-      "description": "River Trent from Cromwell Weir to Gainsborough",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424",
-        "county": "Lincolnshire, Nottinghamshire",
-        "notation": "034WAB424",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424/polygon",
-        "riverOrSea": "River Trent, River Idle"
-      },
-      "floodAreaID": "034WAB424",
-      "isTidal": false,
-      "message": "River levels are forecast to rise at the Torksey and Gainsborough river gauges as a result of high tides.  Flooding is possible during the high tides over the next few days.  Areas most at risk are Church Laneham to Rampton Road, Lea Marsh, Gainsborough, Morton, East and West Stockwith, Trent Wharfage and Gainsborough Railway Bridge.  Flooding of properties is not forecast at this point.  We are closely monitoring the situation.  Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  This message will be updated on Monday evening, 03/01/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-03T10:01:00",
-      "timeRaised": "2022-01-03T10:02:12",
-      "timeSeverityChanged": "2022-01-02T14:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF14LChrwell",
       "description": "River Cherwell from Lower Heyford down to and including Oxford",
       "eaAreaName": "Thames",
@@ -372,48 +456,6 @@
       "timeSeverityChanged": "2022-01-03T10:14:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
-      "description": "River Dee catchment in England from Whitchurch to Chester",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
-        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
-        "notation": "013WAFDEE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
-        "riverOrSea": "River Dee"
-      },
-      "floodAreaID": "013WAFDEE",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-03T08:54:00",
-      "timeRaised": "2022-01-03T08:54:48",
-      "timeSeverityChanged": "2022-01-03T08:54:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumbria",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": " River and lake levels are now falling on the Upper River Derwent, Stonethwaite Beck and Derwent Water but the lake level remains high. The weather forecast is for further showers today but the lake level is forecast to continue to fall slowly. Areas still affected are locations around Derwent Water, with low lying land expected to be most affected. This message will be updated tomorrow, the 04/01/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-03T11:29:00",
-      "timeRaised": "2022-01-03T11:29:12",
-      "timeSeverityChanged": "2021-12-30T16:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
       "description": "Christchurch Harbour",
       "eaAreaName": "Wessex",
@@ -427,11 +469,11 @@
       },
       "floodAreaID": "111WATCHXH",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 9:15 PM on 02/01/2022 and for the high tide forecast at 9:45 AM on the 03/01/2022. The Flood Alert will be in force for 2 hours before and after the two high water times. Forecasts suggests further Flood Alerts may need to be issued for high tide on Tuesday Morning. We will re-issue this alert with further details should forecasts continue to suggest that it is needed. Areas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon. Our incident response staff have closed relevant flood gates and have been checking defences. We will continue to monitor levels closely. Please avoid flooded footpaths in the area during high tides. This message will be updated by 02:00 PM on 03/01/2022, or as the situation changes.",
+      "message": "This Flood Alert has been issued due to the high tide forecast at 10:30 AM on 04/01/2022. The Flood Alert will be in force for 2 hours before and after the high water time. Forecasts suggests further Flood Alerts may need to be issued for high tide on Wednesday Morning. We will re-issue this alert with further details should forecasts continue to suggest that it is needed. Areas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon. Our incident response staff have closed relevant flood gates and have been checking defences. We will continue to monitor levels closely. Please avoid flooded footpaths in the area during high tides. This message will be updated by 02:00 PM on 04/01/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-01-02T11:30:00",
-      "timeRaised": "2022-01-02T11:31:33",
+      "timeMessageChanged": "2022-01-03T12:35:00",
+      "timeRaised": "2022-01-03T12:36:26",
       "timeSeverityChanged": "2021-12-31T15:23:00"
     },
     {
@@ -876,46 +918,46 @@
       "timeSeverityChanged": "2022-01-03T11:46:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
+      "description": "Tweed estuary",
+      "eaAreaName": "North East",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902",
+        "county": "Northumberland",
+        "notation": "121WAT902",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902/polygon",
+        "riverOrSea": "River Tweed"
       },
-      "floodAreaID": "054WATBT3",
+      "floodAreaID": "121WAT902",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The peak is expected from today, 3rd January, and the flood alert is expected to stay in force until Thursday 6th January. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide-locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 4th January.",
+      "message": "Strong winds and high tides are forecast to cause wave overtopping and spray at Berwick Between the Bridges on the Tweed Estuary. Tides will be at their highest between 15:00 and 18:00, this afternoon, 03/01/2022, and again between 03:00 and 05:30, tomorrow morning, 04/01/2022. Flooding to roads and farmland is possible at these times, however conditions may apply up to two hours either side of the high tide. Areas most at risk are riverside footpaths and low lying land and roads. Property flooding is not expected. We are closely monitoring the situation. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 10:00 tomorrow, 04/01/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-01-03T11:50:00",
-      "timeRaised": "2022-01-03T11:50:41",
-      "timeSeverityChanged": "2022-01-03T11:50:00"
+      "timeMessageChanged": "2022-01-03T12:41:00",
+      "timeRaised": "2022-01-03T12:42:22",
+      "timeSeverityChanged": "2022-01-03T12:41:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
+        "county": "Dorset Council",
+        "notation": "111WATWBYH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
+        "riverOrSea": "English Channel"
       },
-      "floodAreaID": "054WATBT1",
+      "floodAreaID": "111WATWBYH",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The peak is expected from today 3rd January, and the flood alert is expected to stay in force until Thusday 6th January. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide-locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Tuesday 4th January.",
+      "message": "This Flood Alert has been issued due to the high tide forecast at 7:45 AM on 04/01/2022. The Flood Alert will be in force for 2 hours before and after the high water time. Areas most at risk include West Bay Harbour and the tidal stretch of the River Brit.. Our incident response staff have closed relevant flood gates and have been checking defences. We will continue to monitor levels closely. This message will be updated by 02:00 PM on 04/01/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-01-03T11:50:00",
-      "timeRaised": "2022-01-03T11:51:32",
-      "timeSeverityChanged": "2022-01-03T11:50:00"
+      "timeMessageChanged": "2022-01-03T12:39:00",
+      "timeRaised": "2022-01-03T12:40:01",
+      "timeSeverityChanged": "2022-01-03T12:39:00"
     }
   ]
 }
