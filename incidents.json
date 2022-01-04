@@ -309,27 +309,6 @@
       "timeSeverityChanged": "2021-12-27T20:15:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTMBA",
-      "description": "Mid Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA",
-        "county": "Bath and North East Somerset, Wiltshire",
-        "notation": "112WAFTMBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTMBA",
-      "isTidal": false,
-      "message": "Levels at the Bradford-on-Avon gauge have now fallen below the Flood Alert threshold and are expected to remain relatively stable for the next 48 hours.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-03T10:14:00",
-      "timeRaised": "2022-01-03T10:15:13",
-      "timeSeverityChanged": "2022-01-03T10:14:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -1693,6 +1672,27 @@
       "timeMessageChanged": "2022-01-04T09:50:00",
       "timeRaised": "2022-01-04T09:50:46",
       "timeSeverityChanged": "2022-01-04T09:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064FWT1Medway",
+      "description": "Tidal River Medway and Medway estuary",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWT1Medway",
+        "county": "Kent, Medway",
+        "notation": "064FWT1Medway",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWT1Medway/polygon",
+        "riverOrSea": "River Medway"
+      },
+      "floodAreaID": "064FWT1Medway",
+      "isTidal": true,
+      "message": "This Flood Warning has been issued due to the high tide expected today, Tuesday the 4th of January, as a result of high spring tides and strong winds. The tide will be high  between 11:15 to 15:15 today, with high tide expected at 13:15. We expect flooding to affect locations nearest the estuary, in particular around Lower Upnor, Canal Road Strood and outer parts of the Medway Estuary.\n\nCoastal conditions are expected to continue until after the high tide at 14:15 tomorrow, the 05/01/22. We are closely monitoring the situation and our incident response staff are checking our defences and structures and are prepared to respond when required.\n\nPlease take action to protect yourself and your property if you believe you are at risk. Be careful along beaches, promenades, coastal footpaths and roads near the water. For those that use it, the astronomical water level for the 13:15 tide recorded at Sheerness will be 3.01mAOD and the forecast total water level will be 3.85mAOD. The wind will be a force 5 Northerly wind. This message will be updated this afternoon or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-01-04T10:24:00",
+      "timeRaised": "2022-01-04T10:32:03",
+      "timeSeverityChanged": "2022-01-04T10:24:00"
     }
   ]
 }
