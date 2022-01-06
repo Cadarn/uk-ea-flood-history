@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides.  Please note there is potential for levels to rise again following Saturday morning's tide. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-06T08:54:00",
+      "timeRaised": "2022-01-06T08:54:40",
+      "timeSeverityChanged": "2022-01-06T08:54:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -57,6 +78,27 @@
       "timeSeverityChanged": "2021-12-26T20:14:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The higher water levels will continue through today, Thursday 6th January, and the flood alert is expected to stay in force for at least the next few days. Further high tides are expected at Great Yarmouth over the weekend which may further restrict the levels from falling. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham Boat Yards and Ferry Road in Horning. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will update messages when necessary. We will update this message by 10am tomorrow, Friday 7th January.\t\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-06T08:53:00",
+      "timeRaised": "2022-01-06T08:53:59",
+      "timeSeverityChanged": "2022-01-03T11:50:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
       "description": "Tern and Perry catchments",
       "eaAreaName": "West Midlands",
@@ -78,25 +120,25 @@
       "timeSeverityChanged": "2022-01-06T08:35:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
       },
-      "floodAreaID": "054WATBT2",
+      "floodAreaID": "054WATBT3",
       "isTidal": true,
       "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides.  Please note there is potential for levels to rise again following Saturday morning's tide. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T08:54:00",
-      "timeRaised": "2022-01-06T08:54:40",
-      "timeSeverityChanged": "2022-01-06T08:54:00"
+      "timeMessageChanged": "2022-01-06T09:01:00",
+      "timeRaised": "2022-01-06T09:01:24",
+      "timeSeverityChanged": "2022-01-06T09:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
@@ -391,48 +433,6 @@
       "timeMessageChanged": "2022-01-06T08:46:00",
       "timeRaised": "2022-01-06T08:47:01",
       "timeSeverityChanged": "2022-01-06T08:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides.  Please note there is potential for levels to rise again following Saturday morning's tide. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T09:01:00",
-      "timeRaised": "2022-01-06T09:01:24",
-      "timeSeverityChanged": "2022-01-06T09:01:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely. The higher water levels will continue through today, Thursday 6th January, and the flood alert is expected to stay in force for at least the next few days. Further high tides are expected at Great Yarmouth over the weekend which may further restrict the levels from falling. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham Boat Yards and Ferry Road in Horning. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will update messages when necessary. We will update this message by 10am tomorrow, Friday 7th January.\t\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-06T08:53:00",
-      "timeRaised": "2022-01-06T08:53:59",
-      "timeSeverityChanged": "2022-01-03T11:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
@@ -813,48 +813,6 @@
       "timeSeverityChanged": "2022-01-05T17:14:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV4A2",
-      "description": "Isolated riverside properties on the tidal River Deben estuary",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A2",
-        "county": "Suffolk",
-        "notation": "054FWCDV4A2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A2/polygon",
-        "riverOrSea": "River Deben"
-      },
-      "floodAreaID": "054FWCDV4A2",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-05T16:13:00",
-      "timeRaised": "2022-01-05T16:14:08",
-      "timeSeverityChanged": "2022-01-05T16:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV4A1",
-      "description": "Bawdsey Quay and Felixstowe Ferry",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A1",
-        "county": "Suffolk",
-        "notation": "054FWCDV4A1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A1/polygon",
-        "riverOrSea": "River Deben, North Sea"
-      },
-      "floodAreaID": "054FWCDV4A1",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-05T16:12:00",
-      "timeRaised": "2022-01-05T16:12:34",
-      "timeSeverityChanged": "2022-01-05T16:12:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3",
       "description": "The Essex coast from Fobbing to Purfleet",
       "eaAreaName": "East Anglia",
@@ -1042,48 +1000,6 @@
       "timeMessageChanged": "2022-01-06T11:14:00",
       "timeRaised": "2022-01-06T11:14:33",
       "timeSeverityChanged": "2022-01-06T11:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV4B6",
-      "description": "The tidal River Stour at Mistley",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV4B6",
-        "county": "Essex",
-        "notation": "051FWCDV4B6",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV4B6/polygon",
-        "riverOrSea": "River Stour"
-      },
-      "floodAreaID": "051FWCDV4B6",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-05T16:18:00",
-      "timeRaised": "2022-01-05T16:18:36",
-      "timeSeverityChanged": "2022-01-05T16:18:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV4B3a",
-      "description": "The tidal River Orwell at Cliff Quay industrial area in Ipswich",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4B3a",
-        "county": "Suffolk",
-        "notation": "054FWCDV4B3a",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4B3a/polygon",
-        "riverOrSea": "River Orwell"
-      },
-      "floodAreaID": "054FWCDV4B3a",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-05T16:16:00",
-      "timeRaised": "2022-01-05T16:16:21",
-      "timeSeverityChanged": "2022-01-05T16:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV4B11",
