@@ -162,27 +162,6 @@
       "timeSeverityChanged": "2022-01-06T09:01:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \n    \nWe continue to monitor the situation.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-05T13:03:00",
-      "timeRaised": "2022-01-05T13:04:04",
-      "timeSeverityChanged": "2022-01-05T13:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
       "description": "North Sea coast at Bridlington",
       "eaAreaName": "Yorkshire",
@@ -454,6 +433,27 @@
       "timeMessageChanged": "2022-01-05T13:30:00",
       "timeRaised": "2022-01-05T13:31:54",
       "timeSeverityChanged": "2022-01-02T12:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
+      "description": "Mersey Estuary at Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
+        "county": "Halton, Warrington",
+        "notation": "013WATMEW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEW",
+      "isTidal": true,
+      "message": "Tides are expected to be higher than usual due to the forecast weather conditions and spring tides. \nAreas most at risk include low lying land and roads at Fiddlers Ferry, Eastford Road, Arpley Bridge and Knutsford Road. It is possible that river levels may affect Arpley Road under the railway bridge.\nThe detailed tidal information for those who use it is for a peak level at: \nEastford Road, forecast high water is between 14:50 PM and 15:00 PM on 06/01/2022 with a level of 6.38m.\nArpley Bridge, forecast high water is between 15:05 PM and 15:45 PM on 06/01/2022 with a level of 6.43m.\nFiddlers Ferry, forecast high water is between 14:40 PM and 14:45 PM on 06/01/2022 with a level of 6.22m.\nOur incident response staff are closely monitoring the situation.\nAfter this tide no further impacts are expected.\nThis message will be updated by 06:00 PM on 06/01/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-06T13:06:00",
+      "timeRaised": "2022-01-06T13:07:42",
+      "timeSeverityChanged": "2022-01-06T13:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
