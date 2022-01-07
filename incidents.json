@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Pillings Lock river gauge as a result of persistant rainfall.  Consequently, flooding of roads and farmland is possible to begin tomorrow morning, 08/01/22.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.   \nFurther rainfall is forecast over the next 24 hours.  We expect river levels to begin rising in the early hours of tomorrow morning on 08/01/22.\nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, 08/01/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-07T17:14:00",
+      "timeRaised": "2022-01-07T17:15:42",
+      "timeSeverityChanged": "2022-01-07T17:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible overnight tonight into the morning Saturday 8th January. High water levels may last over the weekend with a reaction to forecast rain interacting with tides and natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10:00am tomorrow, Saturday 8th January. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-07T15:28:00",
+      "timeRaised": "2022-01-07T15:29:55",
+      "timeSeverityChanged": "2022-01-07T15:28:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -57,25 +99,67 @@
       "timeSeverityChanged": "2022-01-07T08:25:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
       "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
         "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
       },
-      "floodAreaID": "054WATBT2",
+      "floodAreaID": "054WATBT1",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible overnight tonight into the morning Saturday 8th January. High water levels may last over the weekend with a reaction to forecast rain interacting with tides and natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10:00am tomorrow, Saturday 8th January. ",
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There is the potential for levels to rise again over the weekend with a combination of tides and rainfall. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.\t\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-07T09:55:00",
+      "timeRaised": "2022-01-07T09:56:08",
+      "timeSeverityChanged": "2022-01-07T09:55:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible overnight tonight into the morning, Saturday 8th January. High water levels may last over the weekend with a reaction to forecast rain interacting with tides and natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10:00am tomorrow, Saturday 8th January. \t\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-01-07T15:28:00",
-      "timeRaised": "2022-01-07T15:29:55",
-      "timeSeverityChanged": "2022-01-07T15:28:00"
+      "timeMessageChanged": "2022-01-07T15:37:00",
+      "timeRaised": "2022-01-07T15:38:10",
+      "timeSeverityChanged": "2022-01-07T15:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed.  \n    \nWe continue to monitor the situation. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-07T16:36:00",
+      "timeRaised": "2022-01-07T16:36:41",
+      "timeSeverityChanged": "2022-01-07T16:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
@@ -225,69 +309,6 @@
       "timeSeverityChanged": "2022-01-07T11:55:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN1",
-      "description": "Coast from Gretna to Silloth",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN1",
-        "county": "Cumbria",
-        "notation": "011WACN1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN1/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN1",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T17:09:00",
-      "timeRaised": "2022-01-06T17:09:19",
-      "timeSeverityChanged": "2022-01-06T17:09:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
-      "description": "Coast at North Morecambe Bay",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
-        "county": "Cumbria, Lancashire",
-        "notation": "011WACN6",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN6",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T17:08:00",
-      "timeRaised": "2022-01-06T17:09:10",
-      "timeSeverityChanged": "2022-01-06T17:08:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
-      "description": "Severn estuary from Gloucester to Sharpness",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217",
-        "county": "Gloucestershire",
-        "notation": "031WAT217",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "031WAT217",
-      "isTidal": true,
-      "message": " This Flood Alert has been removed.  \nCoastal conditions should ease for the 07/01/22 high tide at 00:30.    \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T16:33:00",
-      "timeRaised": "2022-01-06T16:33:51",
-      "timeSeverityChanged": "2022-01-06T16:33:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
       "description": "Mersey Estuary at Warrington",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -307,69 +328,6 @@
       "timeMessageChanged": "2022-01-06T17:42:00",
       "timeRaised": "2022-01-06T17:42:24",
       "timeSeverityChanged": "2022-01-06T17:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible overnight tonight into the morning, Saturday 8th January. High water levels may last over the weekend with a reaction to forecast rain interacting with tides and natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10:00am tomorrow, Saturday 8th January. \t\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-07T15:37:00",
-      "timeRaised": "2022-01-07T15:38:10",
-      "timeSeverityChanged": "2022-01-07T15:37:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There is the potential for levels to rise again over the weekend with a combination of tides and rainfall. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.\t\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-07T09:55:00",
-      "timeRaised": "2022-01-07T09:56:08",
-      "timeSeverityChanged": "2022-01-07T09:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "High water levels with sea spray are forecast as a result of high tides and increased wind speeds. First forecast high water is 21:30 on 6/1/22 with a level of 5.60 mAOD and a Force 7 westerly wind. Second forecast high water is 10:00 on 7/1/22 with a level of 5.24 mAOD and a Force 6 north westerly wind. All times are local and refer to the high water time at Hinkley Point, mAOD is height above average sea level for more detail refer to local tide tables. Flooding to roads and farmland is possible at these times, however conditions may apply two hours either side of the high tide. We expect flooding to affect the coastline between Gore Point and Hurlstone Point including Porlock Weir. Coastal conditions should ease for the 7/1/22 high tide at 22:30. Our incident response staff are closely monitoring the situation. Please be careful along beaches, promenades and coastal footpaths and roads. This message will be updated by 11:00 tomorrow on Thursday, 7/1/22, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-06T18:33:00",
-      "timeRaised": "2022-01-06T18:34:19",
-      "timeSeverityChanged": "2022-01-06T18:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW04",
