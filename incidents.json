@@ -57,6 +57,48 @@
       "timeSeverityChanged": "2022-01-07T08:25:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There is the potential for levels to rise again over the weekend with a combination of tides and rainfall. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.\t\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-07T09:55:00",
+      "timeRaised": "2022-01-07T09:56:08",
+      "timeSeverityChanged": "2022-01-07T09:55:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "High water levels with sea spray are forecast as a result of high tides and increased wind speeds. First forecast high water is 21:30 on 6/1/22 with a level of 5.60 mAOD and a Force 7 westerly wind. Second forecast high water is 10:00 on 7/1/22 with a level of 5.24 mAOD and a Force 6 north westerly wind. All times are local and refer to the high water time at Hinkley Point, mAOD is height above average sea level for more detail refer to local tide tables. Flooding to roads and farmland is possible at these times, however conditions may apply two hours either side of the high tide. We expect flooding to affect the coastline between Gore Point and Hurlstone Point including Porlock Weir. Coastal conditions should ease for the 7/1/22 high tide at 22:30. Our incident response staff are closely monitoring the situation. Please be careful along beaches, promenades and coastal footpaths and roads. This message will be updated by 11:00 tomorrow on Thursday, 7/1/22, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-06T18:33:00",
+      "timeRaised": "2022-01-06T18:34:19",
+      "timeSeverityChanged": "2022-01-06T18:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
       "description": "North Sea coast at Bridlington",
       "eaAreaName": "Yorkshire",
@@ -118,27 +160,6 @@
       "timeMessageChanged": "2022-01-07T08:33:00",
       "timeRaised": "2022-01-07T08:33:47",
       "timeSeverityChanged": "2022-01-07T08:33:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23Trowlock",
-      "description": "River Thames at Trowlock Island",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock",
-        "county": "Greater London, Richmond upon Thames",
-        "notation": "061WAB23Trowlock",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "061WAB23Trowlock",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nWe continue to monitor the situation. The Thames Barrier is no longer in operation and river levels are forecast to fall below the flood alert threshold.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T11:14:00",
-      "timeRaised": "2022-01-06T11:14:32",
-      "timeSeverityChanged": "2022-01-06T11:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN1",
@@ -223,69 +244,6 @@
       "timeMessageChanged": "2022-01-06T17:42:00",
       "timeRaised": "2022-01-06T17:42:24",
       "timeSeverityChanged": "2022-01-06T17:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There is the potential for levels to rise again over the weekend with a combination of tides and rainfall. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.\t\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-07T09:55:00",
-      "timeRaised": "2022-01-07T09:56:08",
-      "timeSeverityChanged": "2022-01-07T09:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "High water levels with sea spray are forecast as a result of high tides and increased wind speeds. First forecast high water is 21:30 on 6/1/22 with a level of 5.60 mAOD and a Force 7 westerly wind. Second forecast high water is 10:00 on 7/1/22 with a level of 5.24 mAOD and a Force 6 north westerly wind. All times are local and refer to the high water time at Hinkley Point, mAOD is height above average sea level for more detail refer to local tide tables. Flooding to roads and farmland is possible at these times, however conditions may apply two hours either side of the high tide. We expect flooding to affect the coastline between Gore Point and Hurlstone Point including Porlock Weir. Coastal conditions should ease for the 7/1/22 high tide at 22:30. Our incident response staff are closely monitoring the situation. Please be careful along beaches, promenades and coastal footpaths and roads. This message will be updated by 11:00 tomorrow on Thursday, 7/1/22, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-06T18:33:00",
-      "timeRaised": "2022-01-06T18:34:19",
-      "timeSeverityChanged": "2022-01-06T18:33:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Hampton",
-      "description": "River Thames from Hampton and Thames Ditton to Teddington",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Hampton",
-        "county": "Greater London, Kingston upon Thames, Richmond upon Thames, Surrey",
-        "notation": "061WAF23Hampton",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Hampton/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "061WAF23Hampton",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nWe continue to monitor the situation. The Thames Barrier is no longer in operation and river levels are forecast to fall below the flood alert threshold.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-06T11:14:00",
-      "timeRaised": "2022-01-06T11:14:33",
-      "timeSeverityChanged": "2022-01-06T11:14:00"
     }
   ]
 }
