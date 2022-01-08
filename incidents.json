@@ -78,27 +78,6 @@
       "timeSeverityChanged": "2021-12-29T16:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There is the potential for levels to rise again over the weekend with a combination of tides and rainfall. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.\t\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-07T09:55:00",
-      "timeRaised": "2022-01-07T09:56:08",
-      "timeSeverityChanged": "2022-01-07T09:55:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
       "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -244,6 +223,27 @@
       "timeMessageChanged": "2022-01-07T17:46:00",
       "timeRaised": "2022-01-07T17:47:23",
       "timeSeverityChanged": "2022-01-07T17:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
+      "description": "Rivers Duddon, Crake and Mill Beck",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
+        "county": "Cumbria",
+        "notation": "011WAFDU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
+        "riverOrSea": "River Duddon, River Crake, Mill Beck"
+      },
+      "floodAreaID": "011WAFDU",
+      "isTidal": false,
+      "message": " River levels have risen in the early hours of this morning Saturday 08/01/22 on the Rivers Duddon, Crake and Mill Beck due to heavy rainfall. Flooding is forecast to affect locations near these watercourses, with low lying land expected to be most affected, particularly around Rivers Duddon, Crake and Mill Beck and other watercourses, from Coniston to Barrow-in-Furness including low lying areas around Ulpha, Duddon Bridge, Broughton in Furness, Kirkby-in-Furness, Dalton in Furness and Ulverston. Flooding is possible this morning with some further rainfall over the next few hours. Following this band of rain there should be drier interludes with just showers to follow today and for Sunday and Monday. We will continue to monitor the situation but we are not expecting any further flooding impacts. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated tomorrow, Sunday 09/01/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-08T09:35:00",
+      "timeRaised": "2022-01-08T09:36:24",
+      "timeSeverityChanged": "2022-01-08T09:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
