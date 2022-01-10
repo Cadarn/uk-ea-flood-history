@@ -57,48 +57,6 @@
       "timeSeverityChanged": "2022-01-10T09:51:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. Light rain is forecast for tomorrow, Tuesday 11th January. River levels on the upper tidal limits on the Bure, Ant and Thurne will remain higher than at the downstream ends for longer, but there is no further risk expected from high tides this week, with lower, neap tides and good drainage of the broads out to sea. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-10T09:07:00",
-      "timeRaised": "2022-01-10T09:07:49",
-      "timeSeverityChanged": "2022-01-10T09:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
-      "description": "South East Somerset Rivers, Upper Reaches",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES",
-        "county": "Dorset Council, Somerset",
-        "notation": "112WAFTSES",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES/polygon",
-        "riverOrSea": "River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream"
-      },
-      "floodAreaID": "112WAFTSES",
-      "isTidal": false,
-      "message": "\nRiver levels have risen at the Sherborne Lake river gauge as a result of the ground being saturated and reacting to further rainfall. Consequently, flooding of roads and farmland is possible today, 09/01/22.  We expect flooding to affect the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole. We expect river levels to remain above the Flood Alert threshold until tomorrow, 10/01/22. We are closely monitoring the situation. Our incident response staff are clearing weed screens and closing flood gates. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. This message will be updated by 11:00 on Monday, 10/01/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-09T13:34:00",
-      "timeRaised": "2022-01-09T13:34:20",
-      "timeSeverityChanged": "2022-01-08T19:21:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
       "description": "Tern and Perry catchments",
       "eaAreaName": "West Midlands",
@@ -118,27 +76,6 @@
       "timeMessageChanged": "2022-01-10T09:47:00",
       "timeRaised": "2022-01-10T09:47:33",
       "timeSeverityChanged": "2022-01-10T09:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \n      \nWe continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-09T13:26:00",
-      "timeRaised": "2022-01-09T13:26:37",
-      "timeSeverityChanged": "2022-01-09T13:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
@@ -181,6 +118,27 @@
       "timeMessageChanged": "2022-01-09T16:37:00",
       "timeRaised": "2022-01-09T16:37:51",
       "timeSeverityChanged": "2022-01-09T16:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
+      "description": "South East Somerset Rivers, Upper Reaches",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES",
+        "county": "Dorset Council, Somerset",
+        "notation": "112WAFTSES",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES/polygon",
+        "riverOrSea": "River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream"
+      },
+      "floodAreaID": "112WAFTSES",
+      "isTidal": false,
+      "message": "\nRiver levels have risen at the Sherborne Lake river gauge as a result of the ground being saturated and reacting to further rainfall. Consequently, flooding of roads and farmland is possible today, 09/01/22.  We expect flooding to affect the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole. We expect river levels to remain above the Flood Alert threshold until tomorrow, 10/01/22. We are closely monitoring the situation. Our incident response staff are clearing weed screens and closing flood gates. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. This message will be updated by 11:00 on Monday, 10/01/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-01-09T13:34:00",
+      "timeRaised": "2022-01-09T13:34:20",
+      "timeSeverityChanged": "2022-01-08T19:21:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
@@ -265,6 +223,48 @@
       "timeMessageChanged": "2022-01-10T08:36:00",
       "timeRaised": "2022-01-10T08:36:55",
       "timeSeverityChanged": "2022-01-10T08:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. Light rain is forecast for tomorrow, Tuesday 11th January. River levels on the upper tidal limits on the Bure, Ant and Thurne will remain higher than at the downstream ends for longer, but there is no further risk expected from high tides this week, with lower, neap tides and good drainage of the broads out to sea. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-10T09:07:00",
+      "timeRaised": "2022-01-10T09:07:49",
+      "timeSeverityChanged": "2022-01-10T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed.  \n      \nWe continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-09T13:26:00",
+      "timeRaised": "2022-01-09T13:26:37",
+      "timeSeverityChanged": "2022-01-09T13:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF937",
