@@ -57,46 +57,25 @@
       "timeSeverityChanged": "2022-01-10T09:51:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
-      "description": "Tern and Perry catchments",
-      "eaAreaName": "West Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF104",
-        "county": "Shropshire, Staffordshire, Telford and Wrekin, Wrexham",
-        "notation": "031WAF104",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF104/polygon",
-        "riverOrSea": "River Tern, River Perry"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
       },
-      "floodAreaID": "031WAF104",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels are below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. No further significant rainfall is forecast.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.",
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. Light rain is forecast for tomorrow, Tuesday 11th January. River levels on the upper tidal limits on the Bure, Ant and Thurne will remain higher than at the downstream ends for longer, but there is no further risk expected from high tides this week, with lower, neap tides and good drainage of the broads out to sea. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2022-01-10T09:47:00",
-      "timeRaised": "2022-01-10T09:47:33",
-      "timeSeverityChanged": "2022-01-10T09:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
-      "description": "Rivers Clyst and Culm and their tributaries",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW07",
-        "county": "Devon, Somerset",
-        "notation": "113WAFTW07",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW07/polygon",
-        "riverOrSea": "River Clyst, River Culm"
-      },
-      "floodAreaID": "113WAFTW07",
-      "isTidal": false,
-      "message": " The risk of flooding from the River Clyst has now reduced, and river levels are falling below levels of concern. \nFurther rain showers are forecast for the next few days, causing river levels to remain higher than normal. \nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-10T08:45:00",
-      "timeRaised": "2022-01-10T08:45:52",
-      "timeSeverityChanged": "2022-01-10T08:45:00"
+      "timeMessageChanged": "2022-01-10T09:07:00",
+      "timeRaised": "2022-01-10T09:07:49",
+      "timeSeverityChanged": "2022-01-10T09:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
@@ -120,6 +99,27 @@
       "timeSeverityChanged": "2022-01-11T08:25:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
+      "description": "Tern and Perry catchments",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF104",
+        "county": "Shropshire, Staffordshire, Telford and Wrekin, Wrexham",
+        "notation": "031WAF104",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF104/polygon",
+        "riverOrSea": "River Tern, River Perry"
+      },
+      "floodAreaID": "031WAF104",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels are below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. No further significant rainfall is forecast.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-01-10T09:47:00",
+      "timeRaised": "2022-01-10T09:47:33",
+      "timeSeverityChanged": "2022-01-10T09:47:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -133,11 +133,11 @@
       },
       "floodAreaID": "112WAFTWSS",
       "isTidal": false,
-      "message": "River levels have risen at the Beggearn Huish river gauge as a result of the ground being saturated and reacting to further rainfall. Consequently, flooding of roads and farmland is possible today, 10/01/22. We expect flooding to affect the Horner Water, Rivers Aller and Washford, and the Hawkcombe, Monksilver and Doniford Streams and tributaries. We expect river levels remain above the Flood Alert threshold throughout today, 10/01/22. We are closely monitoring the situation. Our incident response staff are clearing weed screens and closing flood gates. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. This message will be updated by 11:00 on Tuesday, 11/01/22, or as the situation changes.",
+      "message": "River levels have risen at the Beggearn Huish river gauge as a result of the ground being saturated and reacting to further rainfall. Consequently, flooding of roads and farmland is possible today, 11/01/22. We expect flooding to affect the Horner Water, Rivers Aller and Washford, and the Hawkcombe, Monksilver and Doniford Streams and tributaries. We expect river levels remain above the Flood Alert threshold throughout today, 11/01/22. We are closely monitoring the situation. Our incident response staff are clearing weed screens and closing flood gates. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. This message will be updated by 11:00 on Wednesday, 12/01/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-01-10T22:48:00",
-      "timeRaised": "2022-01-10T22:48:26",
+      "timeMessageChanged": "2022-01-11T08:38:00",
+      "timeRaised": "2022-01-11T08:38:54",
       "timeSeverityChanged": "2022-01-07T18:40:00"
     },
     {
@@ -160,48 +160,6 @@
       "timeMessageChanged": "2022-01-10T10:40:00",
       "timeRaised": "2022-01-10T10:40:22",
       "timeSeverityChanged": "2022-01-10T10:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
-      "description": "Upper River Ouse",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
-        "county": "North Yorkshire, York",
-        "notation": "122WAF946",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
-        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
-      },
-      "floodAreaID": "122WAF946",
-      "isTidal": false,
-      "message": "This flood alert is no longer in force. The level of the River Ouse at York Viking Recorder has continued to fall overnight. The level is expected to continue falling slowly through today, Monday 10/01/2022, and no further significant rain is forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-10T08:36:00",
-      "timeRaised": "2022-01-10T08:36:55",
-      "timeSeverityChanged": "2022-01-10T08:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. Light rain is forecast for tomorrow, Tuesday 11th January. River levels on the upper tidal limits on the Bure, Ant and Thurne will remain higher than at the downstream ends for longer, but there is no further risk expected from high tides this week, with lower, neap tides and good drainage of the broads out to sea. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-01-10T09:07:00",
-      "timeRaised": "2022-01-10T09:07:49",
-      "timeSeverityChanged": "2022-01-10T09:07:00"
     }
   ]
 }
