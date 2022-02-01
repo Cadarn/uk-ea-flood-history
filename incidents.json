@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT2A",
-      "description": "Riverside properties along the tidal River Yare including Cantley, Brundall and Reedham",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT2A",
-        "county": "Norfolk",
-        "notation": "054FWTBT2A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT2A/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054FWTBT2A",
-      "isTidal": true,
-      "message": "This message has been issued because some flooding to riverside roads and footpaths is likely. Water levels will continue to rise today, Monday 31st January, with levels expected to peak this evening.  High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. Areas most at risk are in Reedham, Cantley and Brundall. Roads affected include Ferry Road in Reedham, the A47 and the railway line between Reedham and Brundall.  Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will update this message by 10am tomorrow, Tuesday 1st February. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-01-31T15:19:00",
-      "timeRaised": "2022-01-31T15:20:28",
-      "timeSeverityChanged": "2022-01-31T15:19:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT3B",
       "description": "Isolated low lying properties along the tidal River Waveney",
       "eaAreaName": "East Anglia",
@@ -225,27 +204,6 @@
       "timeSeverityChanged": "2022-01-31T09:26:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
-      "description": "Hunstanton coast in Norfolk",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
-        "county": "Norfolk",
-        "notation": "052WATCSTHUN",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "052WATCSTHUN",
-      "isTidal": true,
-      "message": "Due to increased wind strength the surge height is higher than forecast. We expect some minor impacts along the seafront in Hunstanton into this evening, Monday 31st January. The local Authority are closing the flood gates at Hunstanton which will make access difficult.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-01-31T16:59:00",
-      "timeRaised": "2022-01-31T16:59:14",
-      "timeSeverityChanged": "2022-01-31T16:52:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
       "description": "The Norfolk coast from Eccles on Sea, to and including, Winterton-on-Sea",
       "eaAreaName": "East Anglia",
@@ -328,6 +286,27 @@
       "timeMessageChanged": "2022-02-01T08:57:00",
       "timeRaised": "2022-02-01T08:57:17",
       "timeSeverityChanged": "2022-02-01T08:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT2A",
+      "description": "Riverside properties along the tidal River Yare including Cantley, Brundall and Reedham",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT2A",
+        "county": "Norfolk",
+        "notation": "054FWTBT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT2A/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054FWTBT2A",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds which trigger a flood warning. A flood alert remains in place for the wider area.  There is currently low flood risk from high tides for the rest of this morning and into the afternoon. However, it is likely that tides will again be high this evening, Tuesday 1st February, and bring high water levels in the Broads. We will continue to monitor levels closely and issue any messages as necessary.   Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-01T09:28:00",
+      "timeRaised": "2022-02-01T09:29:44",
+      "timeSeverityChanged": "2022-02-01T09:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
@@ -580,6 +559,27 @@
       "timeMessageChanged": "2022-02-01T08:31:00",
       "timeRaised": "2022-02-01T08:32:19",
       "timeSeverityChanged": "2022-02-01T08:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-01T09:30:00",
+      "timeRaised": "2022-02-01T09:30:36",
+      "timeSeverityChanged": "2022-02-01T09:30:00"
     }
   ]
 }
