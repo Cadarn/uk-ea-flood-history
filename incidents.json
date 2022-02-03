@@ -78,6 +78,48 @@
       "timeSeverityChanged": "2022-01-29T16:06:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed.  \nThere is a possibility that this Flood Alert may be reissued for the Thursday, 03/02/2022, evening high tide and the Friday, 04/02/2022, morning high tide. \nWe continue to monitor the situation.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-02T11:31:00",
+      "timeRaised": "2022-02-02T11:31:44",
+      "timeSeverityChanged": "2022-02-02T11:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "This flood alert is no longer in force.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-03T10:38:00",
+      "timeRaised": "2022-02-03T10:38:17",
+      "timeSeverityChanged": "2022-02-03T07:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
       "description": "Coast at North Morecambe Bay",
       "eaAreaName": "Cumbria and Lancashire",
@@ -160,48 +202,6 @@
       "timeMessageChanged": "2022-02-03T10:10:00",
       "timeRaised": "2022-02-03T10:11:07",
       "timeSeverityChanged": "2022-02-03T10:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \nThere is a possibility that this Flood Alert may be reissued for the Thursday, 03/02/2022, evening high tide and the Friday, 04/02/2022, morning high tide. \nWe continue to monitor the situation.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-02T11:31:00",
-      "timeRaised": "2022-02-02T11:31:44",
-      "timeSeverityChanged": "2022-02-02T11:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": "This flood alert is no longer in force.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-03T10:38:00",
-      "timeRaised": "2022-02-03T10:38:17",
-      "timeSeverityChanged": "2022-02-03T07:33:00"
     }
   ]
 }
