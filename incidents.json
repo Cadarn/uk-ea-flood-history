@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2022-01-29T14:48:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert remains in force as overtopping waves and spray are expected to continue as a result of high spring tides and strong winds. Consequently, flooding of property, roads and farmland is possible on the high tide between 07:45 and 09:15 tomorrow morning, Friday 04/02/2022. Areas most at risk are low lying land and roads. Worsening coastal conditions are expected to continue on subsequent tides as wind strength is expected to increase. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message in 12 hours or as required with updated information.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-03T21:26:00",
+      "timeRaised": "2022-02-03T21:27:08",
+      "timeSeverityChanged": "2022-02-03T14:37:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
       "description": "Humber estuary from Spurn Point to Winestead Outfall",
       "eaAreaName": "Yorkshire",
@@ -78,27 +99,6 @@
       "timeSeverityChanged": "2022-01-29T15:57:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This flood alert remains in force as overtopping waves and spray are expected to continue as a result of high spring tides and strong winds. Consequently, flooding of property, roads and farmland is possible on the high tide between 07:45 and 09:15 tomorrow morning, Friday 04/02/2022. Areas most at risk are low lying land and roads. Worsening coastal conditions are expected to continue on subsequent tides as wind strength is expected to increase. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message in 12 hours or as required with updated information.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-03T21:26:00",
-      "timeRaised": "2022-02-03T21:27:08",
-      "timeSeverityChanged": "2022-02-03T14:37:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
       "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -118,27 +118,6 @@
       "timeMessageChanged": "2022-02-03T11:42:00",
       "timeRaised": "2022-02-03T11:42:41",
       "timeSeverityChanged": "2022-01-29T16:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": "This flood alert is no longer in force.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-03T10:38:00",
-      "timeRaised": "2022-02-03T10:38:17",
-      "timeSeverityChanged": "2022-02-03T07:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -223,6 +202,27 @@
       "timeMessageChanged": "2022-02-03T10:10:00",
       "timeRaised": "2022-02-03T10:11:07",
       "timeSeverityChanged": "2022-02-03T10:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "This flood alert is no longer in force.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-03T10:38:00",
+      "timeRaised": "2022-02-03T10:38:17",
+      "timeSeverityChanged": "2022-02-03T07:33:00"
     }
   ]
 }
