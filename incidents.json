@@ -15,25 +15,67 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
-      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
       "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
-        "county": "Thurrock",
-        "notation": "051FWCDV5B3EASTA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
-        "riverOrSea": "Thames Estuary"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
       },
-      "floodAreaID": "051FWCDV5B3EASTA",
+      "floodAreaID": "051WACDV4C",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely today between 1pm and 5pm, Friday 4th February. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.540mAODN at 2:45pm today, Friday 4th February, which is 0.53m above tide tables, Wind Force 5, Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate.  We will update this message by 5pm today, Friday 4th February.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-04T09:38:00",
-      "timeRaised": "2022-02-04T09:38:55",
-      "timeSeverityChanged": "2022-02-04T09:38:00"
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely today between 12 noon and 4pm, Friday 4th February.  Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.980mAODN at 2:30pm today, Friday 4th February, which is 0.72m above tide tables, Wind Force 5, Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 5pm today, Friday 4th February.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-04T07:56:00",
+      "timeRaised": "2022-02-04T07:58:05",
+      "timeSeverityChanged": "2022-02-04T07:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1ThamesEst",
+      "description": "Coast from Dartford to Allhallows",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst",
+        "county": "Bexley, Greater London, Kent, Medway",
+        "notation": "064WAT1ThamesEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "064WAT1ThamesEst",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide expected to affect coastal and tidal locations this afternoon, Friday 4 February. Flooding is possible two hours either side of high tide, between 1pm and 5pm this afternoon, with strong winds and unsettled weather causing higher water levels than normal. Flooding will affect lower lying locations nearest the Thames throughout this area, particularly between Town Pier and the promenade in Gravesend. The unsettled weather is likely to continue over the coming days so some further periods of flooding are possible this week, we will issue further messages if required. Please be careful in areas around the coast during this period of concern and avoid contact with flood waters present. We will continue to monitor this situation, and have staff prepared to respond if needed. This message will be updated or removed by 6pm this afternoon. For those who need it, the total water level for Sheerness is forecast to be 3.60m AOD at 14:45 on Friday, 04/02/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-04T08:17:00",
+      "timeRaised": "2022-02-04T08:18:47",
+      "timeSeverityChanged": "2022-02-04T08:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
+      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
+        "county": "Kent",
+        "notation": "064WAC1ShepSwale",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
+        "riverOrSea": "English Channel, The Swale"
+      },
+      "floodAreaID": "064WAC1ShepSwale",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide expected to affect coastal and tidal locations this afternoon, Friday 4 February. Flooding is possible two hours either side of high tide, between 1pm and 5pm this afternoon, with strong winds and unsettled weather causing higher water levels than normal. Flooding will affect lower lying locations nearest the coast throughout this area, particularly around Faversham Creek and Conyer. The unsettled weather is likely to continue over the coming days so some further periods of flooding are possible this week, we will issue further messages if required. Please be careful in areas around the coast during this period of concern and avoid contact with flood waters present. We will continue to monitor this situation, and have staff prepared to respond if needed. This message will be updated or removed by 6pm this afternoon. For those who need it, the total water level for Sheerness is forecast to be 3.60m AOD at 14:45 on Friday, 04/02/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-04T08:15:00",
+      "timeRaised": "2022-02-04T08:18:06",
+      "timeSeverityChanged": "2022-02-04T08:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
@@ -55,90 +97,6 @@
       "timeMessageChanged": "2022-02-04T10:09:00",
       "timeRaised": "2022-02-04T10:10:25",
       "timeSeverityChanged": "2022-01-29T14:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This flood alert remains in force as overtopping waves and spray are expected to continue as a result of high spring tides and strong winds. Consequently, flooding of property, roads and farmland is possible on the high tide between 07:45 and 09:15 tomorrow morning, Friday 04/02/2022. Areas most at risk are low lying land and roads. Worsening coastal conditions are expected to continue on subsequent tides as wind strength is expected to increase. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message in 12 hours or as required with updated information.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-03T21:26:00",
-      "timeRaised": "2022-02-03T21:27:08",
-      "timeSeverityChanged": "2022-02-03T14:37:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "This flood alert remains in force as overtopping waves and spray are expected to continue as a result of high spring tides and strong winds. Consequently, flooding of property, roads and farmland is possible on the high tide between 07:15 and 10:00 tomorrow morning, Friday 04/02/2022. Areas most at risk are low lying land and roads. Worsening coastal conditions are expected to continue on subsequent tides as wind strength is expected to increase. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message in 12 hours or as required with updated information.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-03T21:26:00",
-      "timeRaised": "2022-02-03T21:27:08",
-      "timeSeverityChanged": "2022-02-03T14:33:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
-      },
-      "floodAreaID": "054WATBT1",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible over the next few days. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth is currently restricting the normal drainage of the Broads river system out to sea at low tide. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Saturday 5th February.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-04T09:56:00",
-      "timeRaised": "2022-02-04T09:57:01",
-      "timeSeverityChanged": "2022-01-29T15:57:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible over the next few days until the high tides at Great Yarmouth have passed. This Flood Alert will remain in force for the next few days due to sustained high water levels caused by the natural tide locking effect in the Broads. High tidal water moving up the rivers from Great Yarmouth is restricting the normal drainage of the Broads river system out to sea at low tide. Also, overtopping of the railway embankment at Haddiscoe New Cut has caused a reduction in the flood alert threshold. The Environment Agency and Network Rail are currently on site and working to resolve the issue. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Saturday 5th February. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-04T10:09:00",
-      "timeRaised": "2022-02-04T10:10:07",
-      "timeSeverityChanged": "2022-01-29T16:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
@@ -183,25 +141,88 @@
       "timeSeverityChanged": "2022-02-04T07:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23East",
-      "description": "Tidal Thames riverside from Dartford Creek and The Mardyke to the Thames Barrier",
-      "eaAreaName": "Kent, South London and East Sussex",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East",
-        "county": "Barking and Dagenham, Bexley, Greater London, Greenwich, Havering, Kent, Newham, Thurrock",
-        "notation": "063WAT23East",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East/polygon",
-        "riverOrSea": "River Thames"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
       },
-      "floodAreaID": "063WAT23East",
+      "floodAreaID": "122WAT957",
       "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides and a closure of the Thames Barrier.\n\nWater will be maintained within the downstream network of flood defences, which include river walls, embankments and flood gates, however flooding of low lying footpaths and open spaces is possible for 1-2 hours around high tide.\n\nThe forecast high tide at the Thames Barrier is at 15:45 on 04/02/2022.\n\nWe are closely monitoring the situation. Our incident response staff are out on the ground ensuring all flood gates are closed.\n\nMembers of the public are advised to avoid floodwater and also to keep abreast of updates to the forecast as further Thames Barrier closures are possible.\n\nThis message will be updated by 19:00 on 04/02/2022, or as the situation changes.\n",
+      "message": "This flood alert remains in force as overtopping waves and spray are expected to continue as a result of high spring tides and strong winds. Consequently, flooding of property, roads and farmland is possible on the high tide between 07:15 and 10:00 tomorrow morning, Friday 04/02/2022. Areas most at risk are low lying land and roads. Worsening coastal conditions are expected to continue on subsequent tides as wind strength is expected to increase. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message in 12 hours or as required with updated information.\n\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-04T09:00:00",
-      "timeRaised": "2022-02-04T09:01:24",
-      "timeSeverityChanged": "2022-02-04T09:00:00"
+      "timeMessageChanged": "2022-02-03T21:26:00",
+      "timeRaised": "2022-02-03T21:27:08",
+      "timeSeverityChanged": "2022-02-03T14:33:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible over the next few days. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth is currently restricting the normal drainage of the Broads river system out to sea at low tide. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Saturday 5th February.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-04T09:56:00",
+      "timeRaised": "2022-02-04T09:57:01",
+      "timeSeverityChanged": "2022-01-29T15:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert remains in force as overtopping waves and spray are expected to continue as a result of high spring tides and strong winds. Consequently, flooding of property, roads and farmland is possible on the high tide between 07:45 and 09:15 tomorrow morning, Friday 04/02/2022. Areas most at risk are low lying land and roads. Worsening coastal conditions are expected to continue on subsequent tides as wind strength is expected to increase. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message in 12 hours or as required with updated information.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-03T21:26:00",
+      "timeRaised": "2022-02-03T21:27:08",
+      "timeSeverityChanged": "2022-02-03T14:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible over the next few days until the high tides at Great Yarmouth have passed. This Flood Alert will remain in force for the next few days due to sustained high water levels caused by the natural tide locking effect in the Broads. High tidal water moving up the rivers from Great Yarmouth is restricting the normal drainage of the Broads river system out to sea at low tide. Also, overtopping of the railway embankment at Haddiscoe New Cut has caused a reduction in the flood alert threshold. The Environment Agency and Network Rail are currently on site and working to resolve the issue. We expect to see high water levels at Beccles Quay. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Saturday 5th February. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-04T10:09:00",
+      "timeRaised": "2022-02-04T10:10:07",
+      "timeSeverityChanged": "2022-01-29T16:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1WhitMar",
@@ -244,69 +265,6 @@
       "timeMessageChanged": "2022-02-04T08:17:00",
       "timeRaised": "2022-02-04T08:19:58",
       "timeSeverityChanged": "2022-02-04T08:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
-      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
-        "county": "Kent",
-        "notation": "064WAC1ShepSwale",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
-        "riverOrSea": "English Channel, The Swale"
-      },
-      "floodAreaID": "064WAC1ShepSwale",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide expected to affect coastal and tidal locations this afternoon, Friday 4 February. Flooding is possible two hours either side of high tide, between 1pm and 5pm this afternoon, with strong winds and unsettled weather causing higher water levels than normal. Flooding will affect lower lying locations nearest the coast throughout this area, particularly around Faversham Creek and Conyer. The unsettled weather is likely to continue over the coming days so some further periods of flooding are possible this week, we will issue further messages if required. Please be careful in areas around the coast during this period of concern and avoid contact with flood waters present. We will continue to monitor this situation, and have staff prepared to respond if needed. This message will be updated or removed by 6pm this afternoon. For those who need it, the total water level for Sheerness is forecast to be 3.60m AOD at 14:45 on Friday, 04/02/2022.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-04T08:15:00",
-      "timeRaised": "2022-02-04T08:18:06",
-      "timeSeverityChanged": "2022-02-04T08:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1ThamesEst",
-      "description": "Coast from Dartford to Allhallows",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst",
-        "county": "Bexley, Greater London, Kent, Medway",
-        "notation": "064WAT1ThamesEst",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "064WAT1ThamesEst",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide expected to affect coastal and tidal locations this afternoon, Friday 4 February. Flooding is possible two hours either side of high tide, between 1pm and 5pm this afternoon, with strong winds and unsettled weather causing higher water levels than normal. Flooding will affect lower lying locations nearest the Thames throughout this area, particularly between Town Pier and the promenade in Gravesend. The unsettled weather is likely to continue over the coming days so some further periods of flooding are possible this week, we will issue further messages if required. Please be careful in areas around the coast during this period of concern and avoid contact with flood waters present. We will continue to monitor this situation, and have staff prepared to respond if needed. This message will be updated or removed by 6pm this afternoon. For those who need it, the total water level for Sheerness is forecast to be 3.60m AOD at 14:45 on Friday, 04/02/2022.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-04T08:17:00",
-      "timeRaised": "2022-02-04T08:18:47",
-      "timeSeverityChanged": "2022-02-04T08:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
-      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
-        "county": "Essex",
-        "notation": "051WACDV4C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "051WACDV4C",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely today between 12 noon and 4pm, Friday 4th February.  Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.980mAODN at 2:30pm today, Friday 4th February, which is 0.72m above tide tables, Wind Force 5, Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 5pm today, Friday 4th February.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-04T07:56:00",
-      "timeRaised": "2022-02-04T07:58:05",
-      "timeSeverityChanged": "2022-02-04T07:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -391,6 +349,48 @@
       "timeMessageChanged": "2022-02-04T10:29:00",
       "timeRaised": "2022-02-04T10:29:14",
       "timeSeverityChanged": "2022-02-03T10:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23East",
+      "description": "Tidal Thames riverside from Dartford Creek and The Mardyke to the Thames Barrier",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East",
+        "county": "Barking and Dagenham, Bexley, Greater London, Greenwich, Havering, Kent, Newham, Thurrock",
+        "notation": "063WAT23East",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23East",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides and a closure of the Thames Barrier.\n\nWater will be maintained within the downstream network of flood defences, which include river walls, embankments and flood gates, however flooding of low lying footpaths and open spaces is possible for 1-2 hours around high tide.\n\nThe forecast high tide at the Thames Barrier is at 15:45 on 04/02/2022.\n\nWe are closely monitoring the situation. Our incident response staff are out on the ground ensuring all flood gates are closed.\n\nMembers of the public are advised to avoid floodwater and also to keep abreast of updates to the forecast as further Thames Barrier closures are possible.\n\nThis message will be updated by 19:00 on 04/02/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-04T09:00:00",
+      "timeRaised": "2022-02-04T09:01:24",
+      "timeSeverityChanged": "2022-02-04T09:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
+      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
+        "county": "Thurrock",
+        "notation": "051FWCDV5B3EASTA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
+        "riverOrSea": "Thames Estuary"
+      },
+      "floodAreaID": "051FWCDV5B3EASTA",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely today between 1pm and 5pm, Friday 4th February. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.540mAODN at 2:45pm today, Friday 4th February, which is 0.53m above tide tables, Wind Force 5, Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate.  We will update this message by 5pm today, Friday 4th February.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-04T09:38:00",
+      "timeRaised": "2022-02-04T09:38:55",
+      "timeSeverityChanged": "2022-02-04T09:38:00"
     }
   ]
 }
