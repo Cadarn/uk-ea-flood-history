@@ -99,48 +99,6 @@
       "timeSeverityChanged": "2022-02-05T13:52:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
-      "description": "Coast at North Morecambe Bay",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
-        "county": "Cumbria, Lancashire",
-        "notation": "011WACN6",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN6",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued because some minor flooding to coastal roads and footpaths is likely this afternoon on 05/02/2022 between 01:00 PM and 03:00 PM.\nThe areas most at risk are around Storth Sandside. Impacts are also possible at Canal Foot, and low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale. After this tide‚ the weather is more settled and no further impacts are expected. We will continue to monitor levels closely. Please be careful along beaches, promenades, coastal footpaths and roads as waves and sea spray could be dangerous. We will remove this message on the evening of Saturday 05/02/2022.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-05T09:30:00",
-      "timeRaised": "2022-02-05T09:31:09",
-      "timeSeverityChanged": "2022-02-02T06:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 02:06 PM on 05/02/2022. Areas most at risk include Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods. Flooding of low lying land and roads is expected between 12:06 PM and 04:06 PM on 05/02/2022. After this tide‚ the weather is more settled and no further impacts are expected. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 05:00 PM on 05/02/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-05T09:02:00",
-      "timeRaised": "2022-02-05T09:03:13",
-      "timeSeverityChanged": "2022-02-02T08:30:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
       "description": "Upper Dove",
       "eaAreaName": "West Midlands",
@@ -393,27 +351,6 @@
       "timeSeverityChanged": "2022-02-05T08:40:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23East",
-      "description": "Tidal Thames riverside from Dartford Creek and The Mardyke to the Thames Barrier",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East",
-        "county": "Barking and Dagenham, Bexley, Greater London, Greenwich, Havering, Kent, Newham, Thurrock",
-        "notation": "063WAT23East",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23East",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-04T17:46:00",
-      "timeRaised": "2022-02-04T17:46:31",
-      "timeSeverityChanged": "2022-02-04T17:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC304",
       "description": "Coast from Ramsgate to Kingsdown",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -622,6 +559,48 @@
       "timeMessageChanged": "2022-02-05T11:17:00",
       "timeRaised": "2022-02-05T11:18:05",
       "timeSeverityChanged": "2022-02-05T11:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Cumbria, Lancashire",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": "After the tide on Saturday afternoon (05/02/2022)‚ the water level decreases and no further impacts are expected. We will continue to monitor the forecast and re-issue messages if necessary. Continue to take care on waterside roads and footpaths, as standing water and debris may still remain, and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-05T17:47:00",
+      "timeRaised": "2022-02-05T17:47:38",
+      "timeSeverityChanged": "2022-02-05T17:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "Tide levels are now reducing. No further Flood Alerts are forecast. We will continue to monitor the situation closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-05T17:19:00",
+      "timeRaised": "2022-02-05T17:19:57",
+      "timeSeverityChanged": "2022-02-05T17:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
