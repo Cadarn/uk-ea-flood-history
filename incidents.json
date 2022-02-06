@@ -540,25 +540,25 @@
       "timeSeverityChanged": "2022-02-05T17:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
+      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
+      "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
+        "county": "Thurrock",
+        "notation": "051FWCDV5B3EASTA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
+        "riverOrSea": "Thames Estuary"
       },
-      "floodAreaID": "012WATWE",
+      "floodAreaID": "051FWCDV5B3EASTA",
       "isTidal": true,
-      "message": "Tide levels are now reducing. No further Flood Alerts are forecast. We will continue to monitor the situation closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-05T17:19:00",
-      "timeRaised": "2022-02-05T17:19:57",
-      "timeSeverityChanged": "2022-02-05T17:19:00"
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 2am and 6am tomorrow, Monday 7th February. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.4mAODN at 4am tomorrow, Monday 7th February, which is 0.88m above tide tables, Wind Force 5, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 11am tomorrow, Monday 7th February.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-06T17:31:00",
+      "timeRaised": "2022-02-06T17:31:58",
+      "timeSeverityChanged": "2022-02-06T17:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHKL",
@@ -973,11 +973,11 @@
       },
       "floodAreaID": "031WAF119",
       "isTidal": false,
-      "message": "River levels have risen at the Hay-On-Wye river gauge as a result of recent rainfall. Consequently, flooding of roads and farmland is possible from this morning, Sunday 6th February. We expect flooding to affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations that may be affected include the A438, Byford, Bredwardine and Hereford. Predicted peaks:- Hay on Wye 1.9m to 2.2m Sunday afternoon, Bredwardine 3.6m to 4.0m Sunday evening. Further showers are forecast over the next few days. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated this afternoon, 06/02/22 by 6pm, or as the situation changes.",
+      "message": " River levels have risen at the Bredwardine river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected to continue overnight tonight, 6th February.  We expect flooding to affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations that may be affected include the main A438 between Letton and Willersey, Byford, Bredwardine and Hereford. Road closures and diversions on the main A438 may be in force. Predicted peaks:- Hay on Wye peaked at 2.23m this afternoon, Bredwardine 4m to 4.2m this evening, Belmont 3.9m to 4.2m overnight, Old Wye Bridge 3.4m to 3.7m overnight, Mordiford 3.6m to 3.8m overnight.   \nFurther light rainfall is forecast over the next 12 hours.  We expect river levels to remain high until early next week.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated  tomorrow morning 07/02/2022 by 10am, or as the situation changes. \n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-06T08:20:00",
-      "timeRaised": "2022-02-06T08:21:53",
+      "timeMessageChanged": "2022-02-06T17:17:00",
+      "timeRaised": "2022-02-06T17:19:34",
       "timeSeverityChanged": "2022-02-06T08:20:00"
     },
     {
@@ -1336,6 +1336,48 @@
       "timeMessageChanged": "2022-02-06T17:00:00",
       "timeRaised": "2022-02-06T17:00:37",
       "timeSeverityChanged": "2022-02-06T17:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
+      "description": "River Trent in Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414",
+        "county": "Derby, Derbyshire, Leicestershire",
+        "notation": "034WAF414",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414/polygon",
+        "riverOrSea": "River Trent"
+      },
+      "floodAreaID": "034WAF414",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Willington and Shardlow river gauges as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is expected to begin from 23:30 tonight, 06/02/2022.  Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane, and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane.   \nNo further rainfall is forecast.  We expect river levels to remain high until tomorrow, 07/02/2022.\nWe are closely monitoring the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded, and avoid using low-lying footpaths near local watercourses.  \nThis message will be updated tomorrow morning, 07/02/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-06T17:04:00",
+      "timeRaised": "2022-02-06T17:04:59",
+      "timeSeverityChanged": "2022-02-06T17:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV4A2",
+      "description": "Isolated riverside properties on the tidal River Deben estuary",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A2",
+        "county": "Suffolk",
+        "notation": "054FWCDV4A2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV4A2/polygon",
+        "riverOrSea": "River Deben"
+      },
+      "floodAreaID": "054FWCDV4A2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 1am and 5am tomorrow, Monday 7th February. Areas most at risk are Martlesham Bridge, including isolated properties on Bealings Road, School Lane and Sandy Lane, as well as riverside areas around Waldringfield and Methersgate Quay. The detailed forecast for those that use it is for a peak level at Harwich of 2.920mAODN at 3:30am tomorrow, Monday 7th February, which is 1.08m above tide tables, Wind Force 6, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). There may be two separate high water peaks. Remain vigilant. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 11am tomorrow, Monday 7th February.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-06T17:20:00",
+      "timeRaised": "2022-02-06T17:21:02",
+      "timeSeverityChanged": "2022-02-06T17:20:00"
     }
   ]
 }
