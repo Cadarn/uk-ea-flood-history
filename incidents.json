@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
-      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
-        "county": "Cumbria",
-        "notation": "011WAFDW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
-        "riverOrSea": "Derwent, Stonethwaite Beck"
-      },
-      "floodAreaID": "011WAFDW",
-      "isTidal": false,
-      "message": "River levels are rising on the Upper River Derwent, Stonethwaite Beck and Derwent Water due to heavy rainfall through the early hours of this morning. Areas most at risk include the Upper Derwent from Seathwaite to Derwent Water. Further rainfall is forecast through till late afternoon, today (Saturday 12/02/22) but no property flooding is expected. We will continue to monitor the forecast and amend this message if necessary. Our teams have been out checking watercourses for blockages. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Further rainfall tomorrow is possible which might have an effect on these watercourses but the exact pattern of this is not yet clear. This message will be updated on Sunday morning (13/02/2022), or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-12T07:25:00",
-      "timeRaised": "2022-02-12T07:25:21",
-      "timeSeverityChanged": "2022-02-12T07:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "Levels are now below the localised flood risk thresholds at Haddiscoe. The forecast is for no current flood risk from high tides or tide locking for the next couple of days. Forecast for Monday evening tides could result in issuing or more localised Flood Alerts.  We will continue to monitor levels closely and update you as the situation changes.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-11T11:03:00",
-      "timeRaised": "2022-02-11T11:03:36",
-      "timeSeverityChanged": "2022-02-11T11:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
       "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -76,6 +34,27 @@
       "timeMessageChanged": "2022-02-11T11:06:00",
       "timeRaised": "2022-02-11T11:06:48",
       "timeSeverityChanged": "2022-02-11T11:06:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumbria",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "River levels are rising on the Upper River Derwent, Stonethwaite Beck and Derwent Water due to heavy rainfall through the early hours of this morning. Areas most at risk include the Upper Derwent from Seathwaite to Derwent Water. Further rainfall is forecast through till late afternoon, today (Saturday 12/02/22) but no property flooding is expected. We will continue to monitor the forecast and amend this message if necessary. Our teams have been out checking watercourses for blockages. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Further rainfall tomorrow is possible which might have an effect on these watercourses but the exact pattern of this is not yet clear. This message will be updated on Sunday morning (13/02/2022), or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-12T07:25:00",
+      "timeRaised": "2022-02-12T07:25:21",
+      "timeSeverityChanged": "2022-02-12T07:25:00"
     }
   ]
 }
