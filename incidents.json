@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
-      "description": "Keswick Campsite",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
-        "county": "Cumbria",
-        "notation": "011FWFNC6KC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
-        "riverOrSea": "Derwentwater"
-      },
-      "floodAreaID": "011FWFNC6KC",
-      "isTidal": false,
-      "message": " The level of Derwentwater is still rising albeit slowly as a result of further heavy rainfall during this morning. Consequently, flooding is expected to continue to affect low lying areas bordering the shores of Derwentwater and the the lake frontage areas of the Keswick Camping and Caravan Club Site. Flooding of properties is not forecast at this point. Further rainfall is not forecast over the rest of tonight and we expect levels on Derwentwater to flatten off around Midnight but remain high through into Monday morning, 14/02/22. We are closely monitoring the situation.  Our incident response staff are liaising closely with Keswick Campsite Management as the Lodore Lake Level Gauge has developed a fault which we are seeking to rectify as soon as possible tomorrow.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated on Monday (14/02/2022), or as the situation changes. \n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-13T19:03:00",
-      "timeRaised": "2022-02-13T19:03:29",
-      "timeSeverityChanged": "2022-02-13T10:44:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -99,6 +78,27 @@
       "timeSeverityChanged": "2022-02-13T19:41:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF310",
+      "description": "River Ure at Roecliffe Caravan Park",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF310",
+        "county": "North Yorkshire",
+        "notation": "122FWF310",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF310/polygon",
+        "riverOrSea": "River Ure"
+      },
+      "floodAreaID": "122FWF310",
+      "isTidal": false,
+      "message": "River levels have risen as a result of recent rainfall.  Consequently, flooding of riverside areas is expected tonight, Sunday 13/2/22.  The current upstream level at Westwick Weir is 1.0m, and is expected to reach 1.6m in the early hours of Monday, several hours before levels peak. The area most at risk is around Roecliffe Caravan Park.  We expect river levels to remain high into Monday 14/02/22.  We are closely monitoring the situation.  Our incident response staff are checking and operating local defences as required.  Please stay away from fast moving water, and do not walk or drive through floodwater.  This message will be updated on Monday morning, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-13T21:12:00",
+      "timeRaised": "2022-02-13T21:12:55",
+      "timeSeverityChanged": "2022-02-13T21:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF940",
       "description": "Lower River Ure",
       "eaAreaName": "Yorkshire",
@@ -141,6 +141,27 @@
       "timeSeverityChanged": "2022-02-13T19:41:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
+      "description": "Upper River Ouse",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
+        "county": "North Yorkshire, York",
+        "notation": "122WAF946",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
+        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
+      },
+      "floodAreaID": "122WAF946",
+      "isTidal": false,
+      "message": "This flood alert has been issued as river levels are rising following recent rainfall in the Yorkshire Dales. Consequently, flooding of property, roads and farmland is expected from around 08:00 on Monday morning 14/02/2022. Areas most at risk are low lying land and roads and riverside foot and cycle paths. We expect levels on the River Ouse to rise through Monday and to peak overnight into Tuesday. Our incident response staff are closely monitoring the forecast and checking and operating defences as required. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads or carparks near rivers, which may be flooded. This message will be updated on Monday morning or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-13T21:18:00",
+      "timeRaised": "2022-02-13T21:18:32",
+      "timeSeverityChanged": "2022-02-13T21:18:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
       "description": "North Sea coast at Bridlington",
       "eaAreaName": "Yorkshire",
@@ -154,12 +175,12 @@
       },
       "floodAreaID": "122WAC954",
       "isTidal": true,
-      "message": "The flood alert for the North Sea coast at Bridlington has been issued. Overtopping waves and spray are expected as a result of large waves and southerly winds. Overtopping waves are expected during high tide on the afternoon of Sunday 13 February 2022, between 3pm and 6pm. The areas of particular concern are around Bridlington South Pier and the Lifeboat Station. Please be careful along all beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous with debris. We will continue to monitor the forecast and levels closely. This message will be updated on Sunday evening, 13 February 2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-13T10:34:00",
-      "timeRaised": "2022-02-13T10:34:26",
-      "timeSeverityChanged": "2022-02-13T10:34:00"
+      "message": "This flood alert has been removed as conditions have eased and tides have fallen below a level of concern. Please see the GOV.UK website for a 5 day flood forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-13T21:20:00",
+      "timeRaised": "2022-02-13T21:20:28",
+      "timeSeverityChanged": "2022-02-13T21:20:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
@@ -181,6 +202,27 @@
       "timeMessageChanged": "2022-02-13T08:45:00",
       "timeRaised": "2022-02-13T08:46:07",
       "timeSeverityChanged": "2022-02-12T16:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
+      "description": "Keswick Campsite",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
+        "county": "Cumbria",
+        "notation": "011FWFNC6KC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
+        "riverOrSea": "Derwentwater"
+      },
+      "floodAreaID": "011FWFNC6KC",
+      "isTidal": false,
+      "message": " The level of Derwentwater is still rising albeit slowly as a result of further heavy rainfall during this morning. Consequently, flooding is expected to continue to affect low lying areas bordering the shores of Derwentwater and the the lake frontage areas of the Keswick Camping and Caravan Club Site. Flooding of properties is not forecast at this point. Further rainfall is not forecast over the rest of tonight and we expect levels on Derwentwater to flatten off around Midnight but remain high through into Monday morning, 14/02/22. We are closely monitoring the situation.  Our incident response staff are liaising closely with Keswick Campsite Management as the Lodore Lake Level Gauge has developed a fault which we are seeking to rectify as soon as possible tomorrow.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated on Monday (14/02/2022), or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-13T19:03:00",
+      "timeRaised": "2022-02-13T19:03:29",
+      "timeSeverityChanged": "2022-02-13T10:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW14",
