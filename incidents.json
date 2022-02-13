@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2022-02-12T07:25:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "This flood alert has been removed as conditions have eased and tides have fallen below a level of concern. Please see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-12T20:25:00",
-      "timeRaised": "2022-02-12T20:25:41",
-      "timeSeverityChanged": "2022-02-12T20:25:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
       "description": "Rivers Duddon, Crake and Mill Beck",
       "eaAreaName": "Cumbria and Lancashire",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2022-02-13T08:45:00",
       "timeRaised": "2022-02-13T08:46:07",
       "timeSeverityChanged": "2022-02-12T16:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "This flood alert has been removed as conditions have eased and tides have fallen below a level of concern. Please see the GOV.UK website for a 5 day flood forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-12T20:25:00",
+      "timeRaised": "2022-02-12T20:25:41",
+      "timeSeverityChanged": "2022-02-12T20:25:00"
     }
   ]
 }
