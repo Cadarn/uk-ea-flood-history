@@ -15,25 +15,25 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
-      "description": "Keswick Campsite",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
+      "description": "Coast from St Bees Head to Millom",
       "eaAreaName": "Cumbria and Lancashire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3",
         "county": "Cumbria",
-        "notation": "011FWFNC6KC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
-        "riverOrSea": "Derwentwater"
+        "notation": "011WACN3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN3/polygon",
+        "riverOrSea": "Irish Sea"
       },
-      "floodAreaID": "011FWFNC6KC",
-      "isTidal": false,
-      "message": "The level of Derwentwater has fallen but remains high following recent heavy rainfall. Consequently, flooding is expected to continue to affect low lying areas bordering the shores of Derwentwater and the lake frontage of the Keswick Camping and Caravan Club Site into today, Wednesday 16/02/2022. Flooding of properties is not expected though the campsite itself remains closed. A band of rain that came in overnight has cleared but we expect the level of Derwentwater to rise again in response to further rain forecast, which is associated with Met Office named Storms Dudley during today and Storm Eunice on Friday. We are closely monitoring the situation. The Lodore Lake Level recording gauge has been repaired and is working normally. Please avoid using low lying footpaths near Derwentwater and local watercourses, which may be flooded and avoid driving through floodwater. This message will be updated tomorrow, Thursday 17/02/2022, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-16T07:07:00",
-      "timeRaised": "2022-02-16T07:07:16",
-      "timeSeverityChanged": "2022-02-13T10:44:00"
+      "floodAreaID": "011WACN3",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 11:30AM on Wednesday 16/02/22, with impacts possible two hours before and after this time. Storm Dudley is forecast to bring strong winds, large waves and spray overtopping on the coast. Waves are forecast to overtop coastal defences at Braystones Beach and the area near Braystones, Nethertown and Coulderton along the foreshore may be affected.\nWe expect Storm Dudley and Storm Eunice to affect the coast over the next few days, and with increasing spring tides the effects are predicted to intensify. Tonight’s high tide is also expected to require a flood alert, and we are likely to issue further alerts and warnings over the next 3-4 days, depending on the path of the next storm. We will continue to monitor levels closely and our incident support staff will be out checking defences and closing gates where necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, Wednesday, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-16T08:59:00",
+      "timeRaised": "2022-02-16T09:00:05",
+      "timeSeverityChanged": "2022-02-16T08:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
@@ -91,11 +91,11 @@
       },
       "floodAreaID": "031WAF114",
       "isTidal": false,
-      "message": "River levels are currently rising again at the Llanymynech and Cae Howell river gauges following recent heavy rainfall. The risk of flooding of roads and farmland remains. \nWe expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Minor roads between Maesbrook, Melverley and Pentre start to flood. \nA predicted peak at Llanymynech of 3.8 to 4.3m is expected this evening, 15/02/22, and at Cae Howel is 4.43m but rising slowly.\nFurther rainfall is forecast over the next few days and we expect levels to remain high.\nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 9am on 16/02/2022, or as the situation changes.\n ",
+      "message": "River levels remain high at all river gauges following recent heavy rainfall. The risk of flooding of roads and farmland remains. \nWe expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Minor roads between Maesbrook, Melverley and Pentre start to flood. \nPredicted Peaks:- Llanymynech of 4.0m – 4.5m overnight tonight 16/02/22, at Cae Howel the level 3.62m and rising slowly.\nFurther heavy rain is forecast over the week with, heavy rainfall predicted for Friday overnight which may cause further rises in river levels.  We expect river levels to remain high over the weekend \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 2pm today, 16/02/2022, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T15:45:00",
-      "timeRaised": "2022-02-15T15:46:04",
+      "timeMessageChanged": "2022-02-16T08:46:00",
+      "timeRaised": "2022-02-16T08:46:13",
       "timeSeverityChanged": "2022-02-13T19:41:00"
     },
     {
@@ -120,6 +120,69 @@
       "timeSeverityChanged": "2022-02-13T19:41:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
+      "description": "River Churnet and River Tean",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
+        "county": "Staffordshire",
+        "notation": "033WAF317",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
+        "riverOrSea": "River Churnet, River Tean"
+      },
+      "floodAreaID": "033WAF317",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T07:36:00",
+      "timeRaised": "2022-02-16T07:36:22",
+      "timeSeverityChanged": "2022-02-16T07:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
+      "description": "Tidal River Ouse from Naburn Lock to Selby",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF947",
+        "county": "Leeds, North Yorkshire, York",
+        "notation": "122WAF947",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF947/polygon",
+        "riverOrSea": "River Ouse"
+      },
+      "floodAreaID": "122WAF947",
+      "isTidal": false,
+      "message": "The river has now fallen below levels of concern and this Flood Alert has been removed. Rain is forecast in the next few days. We will continue to monitor the situation and re-issue the alert if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-15T09:14:00",
+      "timeRaised": "2022-02-15T09:14:19",
+      "timeSeverityChanged": "2022-02-15T09:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
+      "description": "Upper River Ouse",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
+        "county": "North Yorkshire, York",
+        "notation": "122WAF946",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
+        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
+      },
+      "floodAreaID": "122WAF946",
+      "isTidal": false,
+      "message": "The river has now fallen below levels of concern and this Flood Alert has been removed. The forecast in the next few days is for further unsettled weather. We will continue to monitor the situation and re-issue the alert if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-15T20:57:00",
+      "timeRaised": "2022-02-15T20:57:31",
+      "timeSeverityChanged": "2022-02-15T20:57:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF103",
       "description": "River Severn in Shropshire",
       "eaAreaName": "West Midlands",
@@ -133,11 +196,11 @@
       },
       "floodAreaID": "031WAF103",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Crew Green river gauge as a result of persistent heavy rainfall.  Consequently, flooding of property, roads and farmland is expected to begin between this evening 15/02/22.  We expect flooding to affect low lying land and roads adjacent the river from Shrewsbury to Upper Arley. Locations that may be affected are White Abbey, Coalbrookdale, Ironbridge and Bridgnorth. River Severn bankfull at White Abbey. \nPredicted Peaks:- Crew Green 5.3m to 5.8m overnight tonight, Montford 4.5m to 5.0m Thursday morning, Welshbridge 2.7m to 3.2m Thursday evening, Buildwas 3.8m to 4.3m Friday, Bridgnorth 3.5m to 4.0m Friday.\nFurther rain is forecast over the week and heavy rainfall is forecast for Friday overnight which may cause further rises in river levels.  We expect river levels to remain high over the weekend.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 9am tomorrow morning 16/02/22, or as the situation changes.\n",
+      "message": " River levels remain high at all gauges as a result of recent heavy rainfall.  \nConsequently, flooding of property, roads and farmland is expected to continue.  We expect flooding to affect low lying land and roads adjacent the river from Shrewsbury to Upper Arley. Locations that may be affected are White Abbey, Coalbrookdale, Ironbridge and Bridgnorth. River Severn bankfull at White Abbey. \nPredicted Peaks:- Crew Green 5.8m to 6.2m overnight tonight, Montford 5.1m to 5.6m Thursday morning, Welshbridge 2.7m to 3.2m Thursday evening, Buildwas 3.9m to 4.4m Friday, Bridgnorth 3.1m to 3.6m Friday.\nFurther heavy rain is forecast over the week with, heavy rainfall predicted for Friday overnight which may cause further rises in river levels.  We expect river levels to remain high over the weekend.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 2pm today 16/02/22, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T14:59:00",
-      "timeRaised": "2022-02-15T15:00:03",
+      "timeMessageChanged": "2022-02-16T08:46:00",
+      "timeRaised": "2022-02-16T08:46:14",
       "timeSeverityChanged": "2022-02-15T14:59:00"
     },
     {
@@ -183,6 +246,27 @@
       "timeSeverityChanged": "2022-02-14T10:29:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
+      "description": "Keswick Campsite",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC",
+        "county": "Cumbria",
+        "notation": "011FWFNC6KC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC6KC/polygon",
+        "riverOrSea": "Derwentwater"
+      },
+      "floodAreaID": "011FWFNC6KC",
+      "isTidal": false,
+      "message": "The level of Derwentwater has fallen but remains high following recent heavy rainfall. Consequently, flooding is expected to continue to affect low lying areas bordering the shores of Derwentwater and the lake frontage of the Keswick Camping and Caravan Club Site into today, Wednesday 16/02/2022. Flooding of properties is not expected though the campsite itself remains closed. A band of rain that came in overnight has cleared but we expect the level of Derwentwater to rise again in response to further rain forecast, which is associated with Met Office named Storms Dudley during today and Storm Eunice on Friday. We are closely monitoring the situation. The Lodore Lake Level recording gauge has been repaired and is working normally. Please avoid using low lying footpaths near Derwentwater and local watercourses, which may be flooded and avoid driving through floodwater. This message will be updated tomorrow, Thursday 17/02/2022, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-16T07:07:00",
+      "timeRaised": "2022-02-16T07:07:16",
+      "timeSeverityChanged": "2022-02-13T10:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
       "description": "South East Somerset Rivers, Upper Reaches",
       "eaAreaName": "Wessex",
@@ -202,6 +286,27 @@
       "timeMessageChanged": "2022-02-15T14:43:00",
       "timeRaised": "2022-02-15T14:43:13",
       "timeSeverityChanged": "2022-02-13T15:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
+      "description": "Upper River Wey",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey",
+        "county": "Hampshire, Surrey, West Sussex",
+        "notation": "061WAF30UpperWey",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey/polygon",
+        "riverOrSea": "River Wey"
+      },
+      "floodAreaID": "061WAF30UpperWey",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold. Further light rainfall is forecast for today, but we do not expect the river to react. We will continue to monitor the situation and re-issue this alert if necessary and are clearing debris from weed screens.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-15T09:16:00",
+      "timeRaised": "2022-02-15T09:16:57",
+      "timeSeverityChanged": "2022-02-15T09:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
@@ -364,12 +469,12 @@
       },
       "floodAreaID": "031WAF105",
       "isTidal": false,
-      "message": "River levels have risen at the Hookagate river gauge as a result of persistent heavy rainfall.  Consequently, flooding of property/roads and farmland is expected today 15/02/2022.  We expect flooding to affect low lying land and roads adjacent to the river from Shrewsbury to Church Stretton. Other locations that may be affected include Minsterley, Pontesford and Harrington. The floodplain has started to fill adjacent to the gauge on the left bank.   \n  We expect river levels to remain high into tomorrow. \nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated  by 9am tomorrow 16/02/22, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T14:07:00",
-      "timeRaised": "2022-02-15T14:07:19",
-      "timeSeverityChanged": "2022-02-15T14:07:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  \nWe will continue to monitor the forecast and re-issue this alert if necessary.  \nFurther rainfall is forecast over the next few days, with heavy persistent rainfall forecast for the weekend which may result in river levels rising again.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:46:00",
+      "timeRaised": "2022-02-16T08:46:41",
+      "timeSeverityChanged": "2022-02-16T08:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF200",
@@ -385,12 +490,33 @@
       },
       "floodAreaID": "031WAF200",
       "isTidal": false,
-      "message": "  \nRiver levels have risen at the Newnham Bridge river gauge as a result of heavy rainfall.  Consequently, flooding (of property) is imminent.  We expect flooding to affect low lying land and roads adjacent to the Ledyche Brook and River Rea. Locations that may be affected include Cleobury Mortimer, Neen Sollars and Caynham.   \n  \nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 9 am, tomorrow morning  16/02/22 or as the situation changes.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T15:05:00",
-      "timeRaised": "2022-02-15T15:05:29",
-      "timeSeverityChanged": "2022-02-15T15:05:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  \nWe will continue to monitor the forecast and re-issue this alert if necessary.  \nFurther rainfall is forecast over the next few days, with heavy persistent rainfall forecast for the weekend which may result in river levels rising again.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:46:00",
+      "timeRaised": "2022-02-16T08:46:26",
+      "timeSeverityChanged": "2022-02-16T08:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
+      "description": "River Blythe in Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
+        "county": "Solihull, Warwickshire",
+        "notation": "033WAF302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033WAF302",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:27:00",
+      "timeRaised": "2022-02-16T08:27:56",
+      "timeSeverityChanged": "2022-02-16T08:27:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -406,12 +532,12 @@
       },
       "floodAreaID": "031WAF112",
       "isTidal": false,
-      "message": " River levels have risen at the Onibury river gauge as a result of heavy rainfall.  Consequently, flooding of property, roads and farmland is possible to begin today Tuesday, 15/02/22.  We expect flooding to affect low lying land and roads adjacent the River Teme, River Onny and River Corve and their tributaries. Locations that may be affected include Bishops Castle, Church Stretton, Knighton and Ludlow.\nPredicted peaks:-  Leintwardine 1.0m to 1.3m overnight; Onibury 1.7m to 2.0 this afternoon; Corve 2.0m to 2.3m overnight.   \nFurther rainfall is forecast over the next few days.  We expect river levels to rise until later this evening, 15/02/22.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated  by 9am on Wednesday 16/02/22, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T15:22:00",
-      "timeRaised": "2022-02-15T15:23:09",
-      "timeSeverityChanged": "2022-02-15T15:22:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  \nWe will continue to monitor the forecast and re-issue this alert if necessary.  \nFurther rainfall is forecast over the next few days, with heavy persistent rainfall forecast for the weekend which may result in river levels rising again.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:46:00",
+      "timeRaised": "2022-02-16T08:46:36",
+      "timeSeverityChanged": "2022-02-16T08:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
@@ -427,12 +553,33 @@
       },
       "floodAreaID": "034WAF428",
       "isTidal": false,
-      "message": " River levels have risen at the Pillings Lock river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.  We expect river levels to rise this afternoon and into this evening on 15/02/22. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded.  This message will be updated tomorrow morning 16/02/22, or as the situation changes.",
+      "message": "River levels are high but steady at the Pillings Lock river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected today, 16/02/22.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. We expect river levels to remain high throughout today 16/02/22. We are closely monitoring the situation.  Please plan driving routes to avoid low-lying roads near rivers, which may be flooded.  This message will be updated tomorrow morning, 17/02/22 or as the situation changes",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T15:58:00",
-      "timeRaised": "2022-02-15T15:59:08",
+      "timeMessageChanged": "2022-02-16T09:01:00",
+      "timeRaised": "2022-02-16T09:01:22",
       "timeSeverityChanged": "2022-02-15T15:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF205",
+      "description": "River Arrow and River Alne",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205",
+        "county": "Warwickshire, Worcestershire",
+        "notation": "033WAF205",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205/polygon",
+        "riverOrSea": "Arrow, Alne"
+      },
+      "floodAreaID": "033WAF205",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:28:00",
+      "timeRaised": "2022-02-16T08:28:09",
+      "timeSeverityChanged": "2022-02-16T08:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
@@ -469,12 +616,12 @@
       },
       "floodAreaID": "031WAF118",
       "isTidal": false,
-      "message": " River levels have risen at the Bishops Frome river gauge as a result of heavy rainfall.  Consequently, flooding of property, roads and farmland is expected overnight.  We expect flooding to affect low lying land and roads along the River Frome from Bromyard to Hereford. Other locations that may be affected include Bishops Frome and Yarkhill.   \n  We expect river levels to remain high until Wednesday.\nWe are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 9am tomorrow morning 16/02/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T17:38:00",
-      "timeRaised": "2022-02-15T17:38:47",
-      "timeSeverityChanged": "2022-02-15T17:38:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  \nWe will continue to monitor the forecast and re-issue this alert if necessary.  \nFurther rainfall is forecast over the next few days, with heavy persistent rainfall forecast for the weekend which may result in river levels rising again.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:46:00",
+      "timeRaised": "2022-02-16T08:46:18",
+      "timeSeverityChanged": "2022-02-16T08:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF28UpColne",
@@ -490,12 +637,12 @@
       },
       "floodAreaID": "062WAF28UpColne",
       "isTidal": false,
-      "message": "Today, Tuesday 15 February we have seen consistent rain causing river levels in the Upper Colne to rise.  \n\nThere is likely to be flooding to low lying land and roads close to the river in Colney Heath. \n\nFlooding from surface water, where water gathers and flows off road surfaces, could also occur.\n\nNo flooding to properties is currently expected.\n\nAvoid walking, cycling or driving through flood water and follow any local diversion routes.\n\nWe are constantly monitoring river levels and have staff on standby to attend to any blockages in the river.\n\nOvernight the forecast should improve, river levels should drop and we expect to be able to remove this alert in the morning, Wednesday 16 February. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T18:21:00",
-      "timeRaised": "2022-02-15T18:22:09",
-      "timeSeverityChanged": "2022-02-15T18:21:00"
+      "message": " The risk of flooding from the Upper River Colne has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-16T08:45:00",
+      "timeRaised": "2022-02-16T08:45:20",
+      "timeSeverityChanged": "2022-02-16T08:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF12Evenlode",
@@ -532,11 +679,11 @@
       },
       "floodAreaID": "062WAF54MdRoding",
       "isTidal": false,
-      "message": "Throughout the day on Tuesday 15 February we saw heavy rainfall across the area. This caused the river Roding to rise.\n\nThe main area of concern is currently Abridge where river levels have risen the most. There is likely to be flooding to low lying land and roads close to the river. Flooding from surface water, where water gathers and flows off road surfaces, could also occur. \n\nYou should avoid walking, cycling or driving through flood water.\n\nNo flooding to properties is currently expected.\n\nWe are constantly monitoring river levels and have staff on standby to attend to any blockages in the river.\n\nWe expect river levels to remain high until tomorrow afternoon and then recede. \n\nThis message will be updated in the morning or earlier if the situation changes.",
+      "message": " result of heavy rainfall. River levels are expected to remain high throughout Wednesday 16 February and flooding to roads and low lying land, particularly around Abridge, is possible. \nWe are closely monitoring the situation, checking rivers for blockages and clearing debris from structures.  \nPlease monitor local water levels and weather conditions. You should avoid walking, cycling or driving through flood water and using low lying footpaths near local watercourses.  \nThis message will be updated this evening, 16/2/2022, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-15T20:24:00",
-      "timeRaised": "2022-02-15T20:25:04",
+      "timeMessageChanged": "2022-02-16T08:45:00",
+      "timeRaised": "2022-02-16T08:45:13",
       "timeSeverityChanged": "2022-02-15T20:24:00"
     },
     {
@@ -559,132 +706,6 @@
       "timeMessageChanged": "2022-02-16T08:27:00",
       "timeRaised": "2022-02-16T08:28:15",
       "timeSeverityChanged": "2022-02-16T08:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
-      "description": "River Churnet and River Tean",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
-        "county": "Staffordshire",
-        "notation": "033WAF317",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
-        "riverOrSea": "River Churnet, River Tean"
-      },
-      "floodAreaID": "033WAF317",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-16T07:36:00",
-      "timeRaised": "2022-02-16T07:36:22",
-      "timeSeverityChanged": "2022-02-16T07:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
-      "description": "Tidal River Ouse from Naburn Lock to Selby",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF947",
-        "county": "Leeds, North Yorkshire, York",
-        "notation": "122WAF947",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF947/polygon",
-        "riverOrSea": "River Ouse"
-      },
-      "floodAreaID": "122WAF947",
-      "isTidal": false,
-      "message": "The river has now fallen below levels of concern and this Flood Alert has been removed. Rain is forecast in the next few days. We will continue to monitor the situation and re-issue the alert if required.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-15T09:14:00",
-      "timeRaised": "2022-02-15T09:14:19",
-      "timeSeverityChanged": "2022-02-15T09:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
-      "description": "Upper River Ouse",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
-        "county": "North Yorkshire, York",
-        "notation": "122WAF946",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
-        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
-      },
-      "floodAreaID": "122WAF946",
-      "isTidal": false,
-      "message": "The river has now fallen below levels of concern and this Flood Alert has been removed. The forecast in the next few days is for further unsettled weather. We will continue to monitor the situation and re-issue the alert if required.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-15T20:57:00",
-      "timeRaised": "2022-02-15T20:57:31",
-      "timeSeverityChanged": "2022-02-15T20:57:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
-      "description": "Upper River Wey",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey",
-        "county": "Hampshire, Surrey, West Sussex",
-        "notation": "061WAF30UpperWey",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey/polygon",
-        "riverOrSea": "River Wey"
-      },
-      "floodAreaID": "061WAF30UpperWey",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold. Further light rainfall is forecast for today, but we do not expect the river to react. We will continue to monitor the situation and re-issue this alert if necessary and are clearing debris from weed screens.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-15T09:16:00",
-      "timeRaised": "2022-02-15T09:16:57",
-      "timeSeverityChanged": "2022-02-15T09:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
-      "description": "River Blythe in Warwickshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
-        "county": "Solihull, Warwickshire",
-        "notation": "033WAF302",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
-        "riverOrSea": "River Blythe"
-      },
-      "floodAreaID": "033WAF302",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-16T08:27:00",
-      "timeRaised": "2022-02-16T08:27:56",
-      "timeSeverityChanged": "2022-02-16T08:27:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF205",
-      "description": "River Arrow and River Alne",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205",
-        "county": "Warwickshire, Worcestershire",
-        "notation": "033WAF205",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205/polygon",
-        "riverOrSea": "Arrow, Alne"
-      },
-      "floodAreaID": "033WAF205",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-16T08:28:00",
-      "timeRaised": "2022-02-16T08:28:09",
-      "timeSeverityChanged": "2022-02-16T08:28:00"
     }
   ]
 }
