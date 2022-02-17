@@ -162,27 +162,6 @@
       "timeSeverityChanged": "2022-02-17T14:56:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWCWCD011",
-      "description": "Dorset coast at Chiswell",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWCWCD011",
-        "county": "Dorset Council",
-        "notation": "111FWCWCD011",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWCWCD011/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111FWCWCD011",
-      "isTidal": true,
-      "message": "Storm Eunice is expected to bring severe gale force winds, large waves and spray overtopping on the Dorset coast early Friday and into Saturday, coinciding with low spring tides.  We are expecting this to cause very large and powerful waves along the coast. \n\nAreas most at risk include A354 Chiswell, Brandy Row, Pebble Lane, Victoria Square and the yard along Lerret Road.\n\nThe forecast high water for Chiswell is at 07:51 AM on 18/02/2022 with a level of 1.81 mAODN with south-westerly force 9 winds and waves of 5.3 metres.\n\nStorm Eunice is forecast to produce a large offshore tidal surge which will increase water levels for one to two hours either side of high water.\n\nWe are activating flood signs at Wyke Regis and Portland, and closing flood gates.\nWe are working with emergency services and local authorities and are closely monitoring the situation.\n\n\nPlease stay away from beaches, promenades, coastal footpaths and roads as the expected large waves and sea spray will be dangerous.\n\nThis message will be updated by 01:30 PM on 18/02/2022, or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-17T14:55:00",
-      "timeRaised": "2022-02-17T14:56:04",
-      "timeSeverityChanged": "2022-02-17T14:55:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC1401",
       "description": "Langstone and Emsworth",
       "eaAreaName": "Solent and South Downs",
@@ -519,6 +498,27 @@
       "timeSeverityChanged": "2022-02-17T11:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 9pm and 11pm today, Thursday 17th February.  We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 1.64 mAODN at 10pm, on Thursday 17th February, which is 0.6m above tide tables, wind Force 5, South-Westerly. (mAODN is height above average sea level, for more info refer to local tide tables).  You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation. There are likely to be further flood alerts issued with Storm Eunice pushing in.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-17T15:34:00",
+      "timeRaised": "2022-02-17T15:34:40",
+      "timeSeverityChanged": "2022-02-17T15:34:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
       "description": "The tidal Deben estuary",
       "eaAreaName": "East Anglia",
@@ -637,11 +637,11 @@
       },
       "floodAreaID": "011WACN6",
       "isTidal": true,
-      "message": "Tide levels are not expecting to reach alert level for this (Thursday) lunchtime or midnight’s tide. However, with further unsettled weather and Storm Eunice forecast, we are expecting higher than normal tides over the next 2 to 3 days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, 17/02/2022, or as the situation changes.",
+      "message": "Tide levels are not expected to reach alert level for the next high tide, at just after midnight tonight, Thursday. However, due to Storm Eunice we are expecting the lunchtime tide tomorrow Friday to reach alert and in some cases warning level for some locations. With further unsettled weather we expect higher than normal tides over the next few days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T11:11:00",
-      "timeRaised": "2022-02-17T11:11:46",
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:31",
       "timeSeverityChanged": "2022-02-16T16:45:00"
     },
     {
@@ -658,11 +658,11 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": "This Flood Alert was issued due to the high tide forecast at 11:30PM on Wednesday 16/02/22, with impacts possible two hours before and after this time. Storm Dudley is forecast to bring strong winds, large waves and spray overtopping on the coast.  This tide has now passed.  However, we expect Storm Eunice to affect the coast over the next few days, and with increasing spring tides the effects are predicted to intensify. \n \nThe high tide on Friday 18/02/22 midday is also expected to reach Flood Alert level, and we are likely to issue further alerts and warnings over the next 3-4 days, depending on the path of the next storm.  We will continue to monitor levels closely and our incident response staff will be out checking defences and closing flood gates where necessary.  Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. \n\nWe will update this message tomorrow morning 18/02/22 or as the situation changes.\n",
+      "message": "This Flood Alert was issued due to the high tide forecast at 11:30PM on Wednesday 16/02/22, with impacts possible two hours before and after this time. Storm Dudley was forecast to bring strong winds, large waves and spray overtopping on the coast. This tide has now passed. However, we expect Storm Eunice to affect the coast over the next few days, and with increasing spring tides the effects are predicted to intensify. The high tide on Friday 18/02/22 midday is also expected to reach Flood Alert level, and we are likely to issue further alerts and warnings over the next 2-3 days, depending on the path of the next storm. We will continue to monitor levels closely and our incident response staff will be out checking defences and closing flood gates where necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will update this message tomorrow morning 18/02/22 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T09:32:00",
-      "timeRaised": "2022-02-17T09:32:41",
+      "timeMessageChanged": "2022-02-17T16:01:00",
+      "timeRaised": "2022-02-17T16:02:36",
       "timeSeverityChanged": "2022-02-16T18:26:00"
     },
     {
@@ -679,11 +679,11 @@
       },
       "floodAreaID": "011WACN3",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 12:01 PM (midday) today, 17/02/2022. Waves are forecast to cause flooding to low lying areas along the coast from St Bees Head to Millom including Ravenglass and Annaside. The area near Braystones, Nethertown and Coulderton along the foreshore may be affected. Impacts are possible 2 hours either side of high tide forecast, at 12:01 PM today. Tonight’s high tide is not currently expected to reach alert levels. However, with further unsettled weather and Storm Eunice forecast, we are expecting higher than normal tides over the next 2 to 3 days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warning as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, 17/02/2022,or as the situation changes.",
+      "message": "Tide levels are not expected to reach alert level for the next high tide, at just after midnight tonight, Thursday. However, due to Storm Eunice we are expecting the lunchtime tide tomorrow Friday to reach alert and in some cases warning level for some locations. With further unsettled weather we expect higher than normal tides over the next few days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T10:59:00",
-      "timeRaised": "2022-02-17T10:59:38",
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:32",
       "timeSeverityChanged": "2022-02-16T08:59:00"
     },
     {
@@ -790,6 +790,27 @@
       "timeMessageChanged": "2022-02-17T07:41:00",
       "timeRaised": "2022-02-17T07:41:20",
       "timeSeverityChanged": "2022-02-17T07:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
+      "description": "River Churnet and River Tean",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
+        "county": "Staffordshire",
+        "notation": "033WAF317",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
+        "riverOrSea": "River Churnet, River Tean"
+      },
+      "floodAreaID": "033WAF317",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Upper Tean river gauge as a result of heavy rainfall from Storm Eunice, overnight and into tomorrow morning 18/02/2022. Consequently, flooding of roads and farmland is possible overnight and into tomorrow morning 18/02/2022.  Flooding is affecting low-lying land and roads adjacent to the River Churnet between Leek and Rocester and the River Tean between Adderley and Spath including Cecilly Brook at Cheadle. Rainfall from Storm Eunice is forecast over the next 24 hours. \nWe expect river levels to begin rising overnight and into tomorrow morning 18/02/2022. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded. Avoid using low lying footpaths and bridges near local watercourses. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:37",
+      "timeSeverityChanged": "2022-02-17T15:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
@@ -1162,11 +1183,11 @@
       },
       "floodAreaID": "011WACN1",
       "isTidal": true,
-      "message": "Tide levels are not expecting to reach alert level for this (Thursday) lunchtime or midnight’s tide. However, with further unsettled weather and Storm Eunice forecast, we are expecting higher than normal tides over the next 2 to 3 days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, 17/02/2022, or as the situation changes.",
+      "message": "Tide levels are not expected to reach alert level for the next high tide, at just after midnight tonight, Thursday. However, due to Storm Eunice we are expecting the lunchtime tide tomorrow Friday to reach alert and in some cases warning level for some locations. With further unsettled weather we expect higher than normal tides over the next few days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T11:12:00",
-      "timeRaised": "2022-02-17T11:12:37",
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:35",
       "timeSeverityChanged": "2022-02-16T16:39:00"
     },
     {
@@ -1183,11 +1204,11 @@
       },
       "floodAreaID": "011WACN2",
       "isTidal": true,
-      "message": "Tide levels are not expecting to reach alert level for this (Thursday) lunchtime or midnight’s tide. However, with further unsettled weather and Storm Eunice forecast, we are expecting higher than normal tides over the next 2 to 3 days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, 17/02/2022, or as the situation changes",
+      "message": "Tide levels are not expected to reach alert level for the next high tide, at just after midnight tonight, Thursday. However, due to Storm Eunice we are expecting the lunchtime tide tomorrow Friday to reach alert and in some cases warning level for some locations. With further unsettled weather we expect higher than normal tides over the next few days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T11:12:00",
-      "timeRaised": "2022-02-17T11:12:19",
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:36",
       "timeSeverityChanged": "2022-02-16T16:40:00"
     },
     {
@@ -1204,11 +1225,11 @@
       },
       "floodAreaID": "011WACN5",
       "isTidal": true,
-      "message": "Tide levels are not expecting to reach alert level for this (Thursday) lunchtime or midnight’s tide. However, with further unsettled weather and Storm Eunice forecast, we are expecting higher than normal tides over the next 2 to 3 days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, 17/02/2022, or as the situation changes",
+      "message": "Tide levels are not expected to reach alert level for the next high tide, at just after midnight tonight, Thursday. However, due to Storm Eunice we are expecting the lunchtime tide tomorrow Friday to reach alert and in some cases warning level for some locations. With further unsettled weather we expect higher than normal tides over the next few days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T11:11:00",
-      "timeRaised": "2022-02-17T11:12:03",
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:33",
       "timeSeverityChanged": "2022-02-16T16:43:00"
     },
     {
@@ -1225,11 +1246,11 @@
       },
       "floodAreaID": "011WACN4",
       "isTidal": true,
-      "message": "Tide levels are not expecting to reach alert level for this (Thursday) lunchtime or midnight’s tide. However, with further unsettled weather and Storm Eunice forecast, we are expecting higher than normal tides over the next 2 to 3 days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated this afternoon, 17/02/2022, or as the situation changes",
+      "message": "Tide levels are not expected to reach alert level for the next high tide, at just after midnight tonight, Thursday. However, due to Storm Eunice we are expecting the lunchtime tide tomorrow Friday to reach alert and in some cases warning level for some locations. With further unsettled weather we expect higher than normal tides over the next few days and as a result we are likely to issue further alerts and warnings. Our incident response staff are closing flood gates and checking defences. We will continue to monitor the forecast and re-issue this alert and any warnings as necessary. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning, 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T11:11:00",
-      "timeRaised": "2022-02-17T11:12:14",
+      "timeMessageChanged": "2022-02-17T15:48:00",
+      "timeRaised": "2022-02-17T16:02:31",
       "timeSeverityChanged": "2022-02-16T16:42:00"
     },
     {
@@ -1330,11 +1351,11 @@
       },
       "floodAreaID": "012WACFB",
       "isTidal": true,
-      "message": "This Flood Alert was issued due to the high tide and waves forecast at 11:30 PM on Wednesday, 16/02/2022. \nThis tide has now passed.  However, we expect Storm Eunice to affect the coast over the next few days, and with increasing spring tides, the effects are predicted to intensify.\n\nWe are expecting to reach Flood Alert level again at the midday high tide on Friday, 18/02/2022, and we are likely to issue further alerts and warnings over the next 3-4 days, depending on the path of the next storm.\nWe will continue to monitor levels closely and our incident response staff are closing flood gates and checking defences.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated tomorrow morning on 18/02/2022, or as the situation changes. \n",
+      "message": "This Flood Alert was issued due to the high tide and waves forecast at 11:30 PM on Wednesday, 16/02/2022. This tide has now passed. However, we expect Storm Eunice to affect the coast over the next few days, and with increasing spring tides, the effects are predicted to intensify. We are expecting to reach Flood Alert level again at the midday high tide on Friday, 18/02/2022, and we are likely to issue further alerts and warnings over the next 2-3 days, depending on the path of the next storm. We will continue to monitor levels closely and our incident response staff are closing flood gates and checking defences. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated tomorrow morning on 18/02/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-17T09:55:00",
-      "timeRaised": "2022-02-17T09:55:54",
+      "timeMessageChanged": "2022-02-17T16:01:00",
+      "timeRaised": "2022-02-17T16:02:34",
       "timeSeverityChanged": "2022-02-16T18:27:00"
     },
     {
@@ -2178,27 +2199,6 @@
       "timeSeverityChanged": "2022-02-17T10:25:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF208",
-      "description": "Bow and Piddle Brook",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF208",
-        "county": "Worcestershire",
-        "notation": "031WAF208",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF208/polygon",
-        "riverOrSea": "Piddle, Bow"
-      },
-      "floodAreaID": "031WAF208",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.      \nWe continue to monitor the situation.  \nPlease avoid using low lying footpaths near local watercourses.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-16T15:49:00",
-      "timeRaised": "2022-02-16T15:49:30",
-      "timeSeverityChanged": "2022-02-16T15:49:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWYLITTMILL",
       "description": "River Wye at Litton Mill",
       "eaAreaName": "East Midlands",
@@ -2283,6 +2283,27 @@
       "timeSeverityChanged": "2022-02-17T07:40:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWCWCD011",
+      "description": "Dorset coast at Chiswell",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWCWCD011",
+        "county": "Dorset Council",
+        "notation": "111FWCWCD011",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWCWCD011/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111FWCWCD011",
+      "isTidal": true,
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-17T15:41:00",
+      "timeRaised": "2022-02-17T15:42:08",
+      "timeSeverityChanged": "2022-02-17T15:41:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTSE680",
       "description": "Westbury, Broadoak and Newnham on the Severn Estuary",
       "eaAreaName": "West Midlands",
@@ -2317,11 +2338,11 @@
       },
       "floodAreaID": "031FWTWY0G",
       "isTidal": true,
-      "message": " A severe flood warning is in force for The Wye Estuary at Elmdale, Chepstow. Severe flooding is expected from Friday morning due to strong winds, high waves and a high tide between 07:30 and 11:30, 18/02/2022. There is danger to life. You need to take action immediately to implement your emergency flood plan as severe flooding to homes and main roads is expected. The level at the Avonmouth Portbury gauge will reach up to 8.6mASD and the Newport gauge will reach up to 8.3mASD during the high tide tomorrow morning and levels will remain high for a prolonged period of time due to a tidal surge with very strong winds and large waves.. We are working closely with emergency services. If you feel your life is threatened, please dial 999 for assistance. This message will be updated by midday on 18/02/2022.",
+      "message": " A severe flood warning is in force for The Wye Estuary at Elmdale, Chepstow. Severe flooding is expected from Friday morning due to strong winds, high waves and a high tide between 07:30 and 11:30, 18/02/2022. There is danger to life. You need to take action immediately to implement your emergency flood plan as severe flooding to homes and main roads is expected. The level at the Avonmouth Portbury gauge will reach up to 8.6mAOD and the Newport gauge will reach up to 8.3mAOD during the high tide tomorrow morning and levels will remain high for a prolonged period of time due to a tidal surge with very strong winds and large waves.. We are working closely with emergency services. If you feel your life is threatened, please dial 999 for assistance. This message will be updated by midday on 18/02/2022",
       "severity": "Severe flood warning",
       "severityLevel": 1,
-      "timeMessageChanged": "2022-02-17T14:30:00",
-      "timeRaised": "2022-02-17T14:30:12",
+      "timeMessageChanged": "2022-02-17T15:41:00",
+      "timeRaised": "2022-02-17T15:41:47",
       "timeSeverityChanged": "2022-02-17T13:59:00"
     },
     {
@@ -2380,11 +2401,11 @@
       },
       "floodAreaID": "031FWTWY0F",
       "isTidal": true,
-      "message": " A severe flood warning is in force for The Wye Estuary at Brockweir. Severe flooding is expected from Friday morning due to strong winds, high waves and a high tide between 07:30 and 11:30, 18/02/2022. There is danger to life. You need to take action immediately to implement your emergency flood plan as severe flooding to homes and main roads is expected. The level at the Avonmouth Portbury gauge will reach up to 8.6mASD and the Newport gauge will reach up to 8.3mASD during the high tide tomorrow morning and levels will remain high for a prolonged period of time due to a tidal surge with very strong winds and large waves.. We are working closely with emergency services. If you feel your life is threatened, please dial 999 for assistance. This message will be updated by midday on 18/02/2022.",
+      "message": " A severe flood warning is in force for The Wye Estuary at Brockweir. Severe flooding is expected from Friday morning due to strong winds, high waves and a high tide between 07:30 and 11:30, 18/02/2022. There is danger to life. You need to take action immediately to implement your emergency flood plan as severe flooding to homes and main roads is expected. The level at the Avonmouth Portbury gauge will reach up to 8.6mAOD and the Newport gauge will reach up to 8.3mAOD during the high tide tomorrow morning and levels will remain high for a prolonged period of time due to a tidal surge with very strong winds and large waves.. We are working closely with emergency services. If you feel your life is threatened, please dial 999 for assistance. This message will be updated by midday on 18/02/2022.",
       "severity": "Severe flood warning",
       "severityLevel": 1,
-      "timeMessageChanged": "2022-02-17T14:29:00",
-      "timeRaised": "2022-02-17T14:30:05",
+      "timeMessageChanged": "2022-02-17T15:41:00",
+      "timeRaised": "2022-02-17T15:41:54",
       "timeSeverityChanged": "2022-02-17T13:59:00"
     },
     {
