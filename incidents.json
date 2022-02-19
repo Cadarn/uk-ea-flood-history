@@ -70,12 +70,12 @@
       },
       "floodAreaID": "054WATBT1",
       "isTidal": true,
-      "message": "Storm Eunice has now moved away from our coasts and winds have eased. River levels are now returning to normal. The forecast is for no current flood risk from high tides. Winds have eased for today; however, strength is likely to increase again tomorrow. Rainfall is forecast for later today and through the tomorrow. Flood water is dangerous. Don't put yourself or others at risk. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-19T11:13:00",
-      "timeRaised": "2022-02-19T11:13:51",
-      "timeSeverityChanged": "2022-02-19T11:13:00"
+      "message": "This message has been issued because we have local information that water levels are remaining high and wind is still pushing water levels up on the River Thurne. High water is expected somewhere in the region of 3pm, and water levels are already high, from 2pm this afternoon, Saturday 19th February, and for at least the next 24hrs. High water levels may last for a few days, until the high tides at Great Yarmouth have passed and winds ease. We expect to see high water levels around Potter Heigham, Wroxham boatyards and Ferry Road in Horning. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. However, stormy conditions are pushing in from tomorrow and may delay water levels receding. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 10am tomorrow, Sunday 20th February.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-19T13:35:00",
+      "timeRaised": "2022-02-19T13:35:27",
+      "timeSeverityChanged": "2022-02-19T13:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
@@ -519,6 +519,48 @@
       "timeSeverityChanged": "2022-02-15T14:59:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
+      "description": "North Sea coast from Whitby to Filey",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAC953",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC953",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea Coast from Whitby to Filey has been issued due to forecast overtopping waves and spray expected as a result of high spring tides and strong winds, particularly between 06:30 and 08:00 on Sunday 20/02/2022. Strong winds are likely to produce overtopping waves and spray along the coast. The particular areas of concern is in Scarborough at Foreshore Road. Please be careful along beaches, coastal and estuary footpaths and roads in the area as large waves and sea spray can be dangerous. We will continue to monitor the forecast closely and may issue flood warnings in the coming days. We will update this message by 21:00 on Saturday 19/02/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-19T13:54:00",
+      "timeRaised": "2022-02-19T13:54:42",
+      "timeSeverityChanged": "2022-02-19T13:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC048",
+      "description": "North Sea at Scarborough - Foreshore Road",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048",
+        "county": "North Yorkshire",
+        "notation": "122FWC048",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC048",
+      "isTidal": true,
+      "message": "This flood warning has been issued due to forecast overtopping waves and spray expected as a result of high spring tides and strong winds. Consequently, flooding of property and roads and farmland is expected on the high tide between 06:30 and 08:00 on Sunday 20/02/2022. Areas most at risk are properties on Foreshore Road. Coastal conditions are expected to remain unsettled on subsequent tides and further warnings may be issued.  Please put your flood plan into action and be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Our incident response staff are closely monitoring the forecast and will update this message by 21:00 on Saturday 19/02/2022, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-19T13:58:00",
+      "timeRaised": "2022-02-19T13:58:23",
+      "timeSeverityChanged": "2022-02-19T13:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
       "description": "Upper Avon River Swift and Clay Coton Brook",
       "eaAreaName": "West Midlands",
@@ -742,12 +784,12 @@
       },
       "floodAreaID": "033WAF302",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-19T08:38:00",
-      "timeRaised": "2022-02-19T08:38:16",
-      "timeSeverityChanged": "2022-02-19T08:38:00"
+      "message": "River levels have risen at the Cheswick Green river gauge as a result of recent persistent rainfall. Consequently, flooding to roads and farmland is expected today Saturday, 19/02/22. Flooding is affecting low-lying land and roads adjacent to the River Blythe between Cheswick Green and Blyth End. Further rainfall is forecast over the next 24 hours. \nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, Sunday 20/02/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-19T13:49:00",
+      "timeRaised": "2022-02-19T13:49:51",
+      "timeSeverityChanged": "2022-02-19T13:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF112",
@@ -1506,27 +1548,6 @@
       "timeSeverityChanged": "2022-02-18T16:20:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
-      "description": "Somerset coast at Clevedon",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4",
-        "county": "North Somerset",
-        "notation": "112WATSOM4",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM4",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-18T13:52:00",
-      "timeRaised": "2022-02-18T13:52:11",
-      "timeSeverityChanged": "2022-02-18T13:52:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
       "description": "North Devon coast from Hartland Point to Lynmouth",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -1708,12 +1729,12 @@
       },
       "floodAreaID": "111WATPOOH",
       "isTidal": true,
-      "message": " Storm Eunice is expected to bring severe gale force winds across Dorset from Friday into Saturday, coinciding with spring tides. A tidal surge will increase the water levels around high water and overtopping of sea defences is possible. Forecast high water on 19/02/22 at Wareham is 11:35 with a level of 1.21 mAOD and a Force 8 south-westerly. All times are local and refer to the high water time at Wareham river Frome gauges. Flooding to roads is possible, however conditions may apply one to two hours either side of the high tide. We expect flooding to affect Poole Harbour and the tidal stretches of rivers Frome and Piddle. We are closely monitoring the situation and our incident response staff are checking defences. Please be careful along beaches, promenades, coastal footpaths and roads and stay aware in case further warnings are issued. This message will be updated by 05.00 PM on 19/02/22 or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-18T16:19:00",
-      "timeRaised": "2022-02-18T16:19:56",
-      "timeSeverityChanged": "2022-02-18T16:19:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-19T13:45:00",
+      "timeRaised": "2022-02-19T13:45:42",
+      "timeSeverityChanged": "2022-02-19T13:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
@@ -1729,12 +1750,12 @@
       },
       "floodAreaID": "111WATCHXH",
       "isTidal": true,
-      "message": " Storm Eunice is expected to bring gale force winds across Dorset from Friday into Saturday, coinciding with spring tides. A tidal surge will increase the water levels and overtopping of sea defences is possible. The forecast high water is at 10:57 am on 19/02/22 with a level of 1.40 mAOD and Force 8 south-westerlies. All times are local and refer to the high water time at the Christchurch Harbour gauge. Flooding to roads and low lying areas is possible and can be one or two hours either side of the high tide. We expect flooding to affect Christchurch Harbour and the tidal stretches of the Lower Stour and Avon. We are closely monitoring the situation and our incident response staff are closing flood gates and checking defences. Please be careful along beaches, promenades, coastal footpaths and roads and stay aware in case further warnings are issued. This message will be updated by 05:00 PM on 19/02/22 or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-18T16:23:00",
-      "timeRaised": "2022-02-18T16:23:14",
-      "timeSeverityChanged": "2022-02-18T16:23:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-19T13:47:00",
+      "timeRaised": "2022-02-19T13:47:32",
+      "timeSeverityChanged": "2022-02-19T13:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTWBH010",
@@ -2388,27 +2409,6 @@
       "timeSeverityChanged": "2022-02-17T16:34:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTDUN01",
-      "description": "Somerset coast at Dunster Beaches, seafront and chalet area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTDUN01",
-        "county": "Somerset",
-        "notation": "112FWTDUN01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTDUN01/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112FWTDUN01",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-18T13:46:00",
-      "timeRaised": "2022-02-18T13:46:21",
-      "timeSeverityChanged": "2022-02-18T13:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC407",
       "description": "Coastal areas of Rustington to Shoreham",
       "eaAreaName": "Solent and South Downs",
@@ -2451,27 +2451,6 @@
       "timeSeverityChanged": "2022-02-17T16:54:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTPOR01",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01",
-        "county": "Somerset",
-        "notation": "112FWTPOR01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112FWTPOR01",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-18T13:46:00",
-      "timeRaised": "2022-02-18T13:46:19",
-      "timeSeverityChanged": "2022-02-18T13:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC405",
       "description": "Tidal areas of Littlehampton Rope Walk",
       "eaAreaName": "Solent and South Downs",
@@ -2512,27 +2491,6 @@
       "timeMessageChanged": "2022-02-18T17:03:00",
       "timeRaised": "2022-02-18T17:03:37",
       "timeSeverityChanged": "2022-02-17T16:54:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTBUR01",
-      "description": "Somerset coast at Burnham-on-Sea, seafront properties",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTBUR01",
-        "county": "Somerset",
-        "notation": "112FWTBUR01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTBUR01/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112FWTBUR01",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-18T13:45:00",
-      "timeRaised": "2022-02-18T13:46:06",
-      "timeSeverityChanged": "2022-02-18T13:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC401",
