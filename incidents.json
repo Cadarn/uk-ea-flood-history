@@ -267,27 +267,6 @@
       "timeSeverityChanged": "2022-02-15T14:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
-      "description": "River Dee catchment in England from Whitchurch to Chester",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
-        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
-        "notation": "013WAFDEE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
-        "riverOrSea": "River Dee"
-      },
-      "floodAreaID": "013WAFDEE",
-      "isTidal": false,
-      "message": "River levels on the River Dee are continuing to fall steadily. They are expected to remain above Flood Alert levels today, Friday. Flooding remains possible at low lying land and roads around the River Dee at Shocklach, Farndon, Handley, Lower Kinnerton, Chester and Puddington. Townfield Lane at Farndon may still be affected by standing water which could be deep in places. No significant rainfall is forecast over the weekend. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 12:00 noon on 26/02/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-25T13:25:00",
-      "timeRaised": "2022-02-25T13:26:02",
-      "timeSeverityChanged": "2022-02-14T16:05:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
       "description": "River Lugg south of Leominster",
       "eaAreaName": "West Midlands",
@@ -561,6 +540,27 @@
       "timeSeverityChanged": "2022-02-26T09:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
+      "description": "River Dee catchment in England from Whitchurch to Chester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
+        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
+        "notation": "013WAFDEE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
+        "riverOrSea": "River Dee"
+      },
+      "floodAreaID": "013WAFDEE",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThe forecast is for no further rainfall for today and tomorrow.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor levels closely.\nThere may still be some areas where flood water is present until it can naturally drain away.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-26T12:57:00",
+      "timeRaised": "2022-02-26T12:57:31",
+      "timeSeverityChanged": "2022-02-26T12:57:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
       "description": "Tern and Perry catchments",
       "eaAreaName": "West Midlands",
@@ -643,48 +643,6 @@
       "timeMessageChanged": "2022-02-26T08:59:00",
       "timeRaised": "2022-02-26T08:59:56",
       "timeSeverityChanged": "2022-02-26T08:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF216",
-      "description": "Rivers Frome and Cam",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF216",
-        "county": "Gloucestershire",
-        "notation": "031WAF216",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF216/polygon",
-        "riverOrSea": "River Frome, River Cam"
-      },
-      "floodAreaID": "031WAF216",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have peaked and will remain steady, with no further rise forecasted.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further significant rainfall is forecast.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid using low lying footpaths near local watercourses.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-25T12:26:00",
-      "timeRaised": "2022-02-25T12:26:14",
-      "timeSeverityChanged": "2022-02-25T12:26:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE310",
-      "description": "River Severn at Quatford",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE310",
-        "county": "Shropshire",
-        "notation": "031FWFSE310",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE310/polygon",
-        "riverOrSea": "River Severn"
-      },
-      "floodAreaID": "031FWFSE310",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  \nRiver levels are falling, but still pose a flood risk.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.  No further rainfall is forecast.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-25T12:38:00",
-      "timeRaised": "2022-02-25T12:38:29",
-      "timeSeverityChanged": "2022-02-25T12:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
