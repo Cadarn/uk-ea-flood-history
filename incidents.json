@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE525",
+      "description": "River Severn at Severn Ham, Tewkesbury",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525",
+        "county": "Gloucestershire, Worcestershire",
+        "notation": "031FWFSE525",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE525",
+      "isTidal": false,
+      "message": "River levels remain high but are falling slowly at the Mythe Bridge river gauge as a result of recent heavy rainfall. Consequently, flooding continues. We expect flooding to affect Mill Avon riverside property, minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Also affected are properties and roads in and around Severn Ham, Tewkesbury. Access to Abbey Mill is compromised.\nThe Upper Pound gauge peaked at 4.25m on Thursday afternoon, 24/02/2022 and the Mythe gauge peaked at 4.32m on Thursday afternoon, 24/02/2022.\nWe expect river levels to remain high throughout this week. We are closely monitoring the situation. Our incident response staff are liaising with emergency services.  \nPlease avoid contact with flood water and move possessions and valuables off the ground or to safety.  \nThis message will be updated by 6pm on Monday, 28/02/22, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-28T08:12:00",
+      "timeRaised": "2022-02-28T08:12:44",
+      "timeSeverityChanged": "2022-02-19T12:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE550",
+      "description": "River Severn at Apperley and The Leigh",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE550",
+        "county": "Gloucestershire",
+        "notation": "031FWFSE550",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE550/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE550",
+      "isTidal": false,
+      "message": "River levels remain high but are falling slowly at the Haw Bridge river gauge as a result of recent heavy rainfall.  Consequently, flooding continues. We expect flooding to affect Gabb Lane at Apperley, local caravan parks and road B4213 at Haw Bridge.\nHaw Bridge peaked at 5.12m on Friday morning, 25/02/22.   \nWe expect river levels to remain high throughout this week. We are closely monitoring the situation. Our incident response staff are liaising with emergency services. \nPlease move possessions and valuables off the ground or to safety and avoid contact with flood water. \nThis message will be updated by 6pm on Monday, 28/02/22, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-28T08:12:00",
+      "timeRaised": "2022-02-28T08:12:50",
+      "timeSeverityChanged": "2022-02-20T12:09:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -34,27 +76,6 @@
       "timeMessageChanged": "2022-02-28T09:53:00",
       "timeRaised": "2022-02-28T09:53:12",
       "timeSeverityChanged": "2022-02-13T19:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "The flood alert has now been removed as conditions have eased and tides have fallen below a level of concern. Please see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-02-27T19:00:00",
-      "timeRaised": "2022-02-27T19:00:40",
-      "timeSeverityChanged": "2022-02-27T19:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -183,46 +204,25 @@
       "timeSeverityChanged": "2022-02-19T07:20:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE525",
-      "description": "River Severn at Severn Ham, Tewkesbury",
-      "eaAreaName": "West Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525",
-        "county": "Gloucestershire, Worcestershire",
-        "notation": "031FWFSE525",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525/polygon",
-        "riverOrSea": "River Severn"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
       },
-      "floodAreaID": "031FWFSE525",
-      "isTidal": false,
-      "message": "River levels remain high but are falling slowly at the Mythe Bridge river gauge as a result of recent heavy rainfall. Consequently, flooding continues. We expect flooding to affect Mill Avon riverside property, minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Also affected are properties and roads in and around Severn Ham, Tewkesbury. Access to Abbey Mill is compromised.\nThe Upper Pound gauge peaked at 4.25m on Thursday afternoon, 24/02/2022 and the Mythe gauge peaked at 4.32m on Thursday afternoon, 24/02/2022.\nWe expect river levels to remain high throughout this week. We are closely monitoring the situation. Our incident response staff are liaising with emergency services.  \nPlease avoid contact with flood water and move possessions and valuables off the ground or to safety.  \nThis message will be updated by 6pm on Monday, 28/02/22, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-28T08:12:00",
-      "timeRaised": "2022-02-28T08:12:44",
-      "timeSeverityChanged": "2022-02-19T12:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE550",
-      "description": "River Severn at Apperley and The Leigh",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE550",
-        "county": "Gloucestershire",
-        "notation": "031FWFSE550",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE550/polygon",
-        "riverOrSea": "River Severn"
-      },
-      "floodAreaID": "031FWFSE550",
-      "isTidal": false,
-      "message": "River levels remain high but are falling slowly at the Haw Bridge river gauge as a result of recent heavy rainfall.  Consequently, flooding continues. We expect flooding to affect Gabb Lane at Apperley, local caravan parks and road B4213 at Haw Bridge.\nHaw Bridge peaked at 5.12m on Friday morning, 25/02/22.   \nWe expect river levels to remain high throughout this week. We are closely monitoring the situation. Our incident response staff are liaising with emergency services. \nPlease move possessions and valuables off the ground or to safety and avoid contact with flood water. \nThis message will be updated by 6pm on Monday, 28/02/22, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-28T08:12:00",
-      "timeRaised": "2022-02-28T08:12:50",
-      "timeSeverityChanged": "2022-02-20T12:09:00"
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert has now been removed as conditions have eased and tides have fallen below a level of concern. Please see the GOV.UK website for a 5 day flood forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-02-27T19:00:00",
+      "timeRaised": "2022-02-27T19:00:40",
+      "timeSeverityChanged": "2022-02-27T19:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE530",
