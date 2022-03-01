@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.68 mAOD at 13:45 on 01/03/22 and 4.34 mAOD at 02:15 on 02/03/22.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is normal for this time of year at 65 cubic metres per second and is rising. We anticipate the flows to remain normal for the next 3 days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 10:00 on 02/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-01T08:54:00",
+      "timeRaised": "2022-03-01T08:54:56",
+      "timeSeverityChanged": "2022-03-01T08:54:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -259,11 +280,11 @@
       },
       "floodAreaID": "031WAF214",
       "isTidal": false,
-      "message": "River levels remain high at the Mythe, Upper Pound, Haw Bridge and Sandhurst river gauges as a result of recent rain. Consequently, flooding of roads and farmland is expected to continue. We expect flooding to affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Severn Ham at Tewkesbury, Apperley, Maisemore, and Hempsted.\n\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
+      "message": " River levels remain high at the Mythe, Upper Pound, Haw Bridge and Sandhurst river gauges as a result of recent rain. Consequently, flooding of roads and farmland is expected to continue. We expect flooding to affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Severn Ham at Tewkesbury, Apperley, Maisemore, and Hempsted.\n\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 6pm on Tuesday, 01/03/22, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:49",
+      "timeMessageChanged": "2022-03-01T08:48:00",
+      "timeRaised": "2022-03-01T08:48:41",
       "timeSeverityChanged": "2022-02-16T09:47:00"
     },
     {
@@ -322,12 +343,12 @@
       },
       "floodAreaID": "031WAF108",
       "isTidal": false,
-      "message": "River levels remain high though are slowly falling at the Saxons Lode and Kempsey Yacht Club river gauges. Further rain is forecast today and over the next few days that may result in river levels remaining high for several days. We are closely monitoring the situation.  \nFlooding may still affect low lying land and roads adjacent to the river from Highley to Tewkesbury. Locations that may be affected include Stourport, Holt Fleet, Worcester, Kempsey, Severn Stoke, Upton upon Severn, South Quay, Diglis Parade and Hylton Road towpath. Flooding from drains may also affect Worcester racecourse and County cricket ground. \nPlease avoid using low lying footpaths and roads near local rivers, which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:39",
-      "timeSeverityChanged": "2022-02-17T15:12:00"
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further light rainfall is forecast over the next few days but not expected to be enough to cause further flooding.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:48:00",
+      "timeRaised": "2022-03-01T08:48:43",
+      "timeSeverityChanged": "2022-03-01T08:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF201",
@@ -343,12 +364,12 @@
       },
       "floodAreaID": "031WAF201",
       "isTidal": false,
-      "message": "River levels remain high though are slowly falling at the Kempsey Yacht Club river gauge.  Further rain is forecast that may result in river levels remaining high for the next few days.  \nFlooding may affect low lying land and Squires walk in the area of the Hatfield Brook Kempsey.  The river level is currently below the threshold at which the Kempsey Flood Alleviation becomes operational. We continue to closely monitor the situation. \nPlease avoid using low lying footpaths and roads near local watercourses which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:12",
-      "timeSeverityChanged": "2022-02-17T17:52:00"
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further light rainfall is forecast over the next few days but is not expected to be enough to cause further flooding.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:48:00",
+      "timeRaised": "2022-03-01T08:48:32",
+      "timeSeverityChanged": "2022-03-01T08:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF209",
@@ -385,12 +406,12 @@
       },
       "floodAreaID": "031FWFSE525",
       "isTidal": false,
-      "message": "River levels are high as a result of recent rainfall but are currently falling slowly at the Mythe Bridge and Upper Pound river gauges. The Upper Pound gauge peaked at 4.25m on Thursday afternoon, 24/02/2022 and the Mythe gauge peaked at 4.32m on Thursday afternoon, 24/02/2022.\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \nConsequently, flooding may still affect properties and roads in and around Severn Ham, Tewkesbury. Access to Abbey Mill might be compromised.\nPlease avoid contact with flood water, move possessions and valuables off the ground or to safety and plan routes to avoid using low lying roads and footpaths near watercourses which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:29",
-      "timeSeverityChanged": "2022-02-19T12:45:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further light rainfall is forecast over the next few days but is not expected to be enough to cause further flooding.  \nWe continue to monitor the situation.  Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:48:00",
+      "timeRaised": "2022-03-01T08:49:00",
+      "timeSeverityChanged": "2022-03-01T08:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE550",
