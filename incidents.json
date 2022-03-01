@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE525",
-      "description": "River Severn at Severn Ham, Tewkesbury",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525",
-        "county": "Gloucestershire, Worcestershire",
-        "notation": "031FWFSE525",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525/polygon",
-        "riverOrSea": "River Severn"
-      },
-      "floodAreaID": "031FWFSE525",
-      "isTidal": false,
-      "message": "River levels are high as a result of recent rainfall but are currently falling slowly at the Mythe Bridge and Upper Pound river gauges. The Upper Pound gauge peaked at 4.25m on Thursday afternoon, 24/02/2022 and the Mythe gauge peaked at 4.32m on Thursday afternoon, 24/02/2022.\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \nConsequently, flooding may still affect properties and roads in and around Severn Ham, Tewkesbury. Access to Abbey Mill might be compromised.\nPlease avoid contact with flood water, move possessions and valuables off the ground or to safety and plan routes to avoid using low lying roads and footpaths near watercourses which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:29",
-      "timeSeverityChanged": "2022-02-19T12:45:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -57,6 +36,27 @@
       "timeSeverityChanged": "2022-02-13T19:41:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
+      "description": "River Churnet and River Tean",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
+        "county": "Staffordshire",
+        "notation": "033WAF317",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
+        "riverOrSea": "River Churnet, River Tean"
+      },
+      "floodAreaID": "033WAF317",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:10:00",
+      "timeRaised": "2022-03-01T08:10:26",
+      "timeSeverityChanged": "2022-03-01T08:10:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
       "description": "Upper Avon River Swift and Clay Coton Brook",
       "eaAreaName": "West Midlands",
@@ -70,12 +70,12 @@
       },
       "floodAreaID": "033WAF201",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Lilbourne river gauge as a result of expected heavy rainfall. Consequently, flooding of roads and farmland is possible later this evening and overnight. Flooding is affecting low-lying land and roads adjacent to River Avon between Stanford and Rugby, River Swift between Cosford and Rugby and Clay Coton Brook between Yelvertoft and Lilbourne. Further rainfall is forecast over the next 8 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T14:55:00",
-      "timeRaised": "2022-02-28T14:55:52",
-      "timeSeverityChanged": "2022-02-28T14:55:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:27:00",
+      "timeRaised": "2022-03-01T08:27:10",
+      "timeSeverityChanged": "2022-03-01T08:27:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -118,153 +118,6 @@
       "timeMessageChanged": "2022-03-01T07:28:00",
       "timeRaised": "2022-03-01T07:28:55",
       "timeSeverityChanged": "2022-02-28T13:34:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
-      "description": "River Leam and River Itchen",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203",
-        "county": "Warwickshire, West Northamptonshire",
-        "notation": "033WAF203",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203/polygon",
-        "riverOrSea": "River Leam, River Itchen"
-      },
-      "floodAreaID": "033WAF203",
-      "isTidal": false,
-      "message": "River levels are forecast to rise at the Eathorpe river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is possible later this evening and overnight. Flooding is affecting low-lying land and roads adjacent to the River Leam between Grandborough and Leamington including Kites Hardwick, Birdingbury, Marton, Eathorpe, Hunningham and Offchurch and the River Itchen between Southam and Marton including Long Itchington. Further rainfall is forecast over the next 6 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:06:00",
-      "timeRaised": "2022-02-28T17:06:28",
-      "timeSeverityChanged": "2022-02-28T17:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
-      "description": "River Severn in Gloucestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214",
-        "county": "Gloucestershire, Worcestershire",
-        "notation": "031WAF214",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "031WAF214",
-      "isTidal": false,
-      "message": "River levels remain high at the Mythe, Upper Pound, Haw Bridge and Sandhurst river gauges as a result of recent rain. Consequently, flooding of roads and farmland is expected to continue. We expect flooding to affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Severn Ham at Tewkesbury, Apperley, Maisemore, and Hempsted.\n\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:49",
-      "timeSeverityChanged": "2022-02-16T09:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
-      "description": "River Wye in Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408",
-        "county": "Derbyshire",
-        "notation": "034WAF408",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "034WAF408",
-      "isTidal": false,
-      "message": " River levels are forecast to rise at the Ashford river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible to begin this evening between 22:00 and 00:00 today, 28/02/22.  Areas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas. Further rainfall is forecast over the next 24 hours.  We expect river levels to rise overnight on 28/02/22. We are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:54:00",
-      "timeRaised": "2022-02-28T17:54:47",
-      "timeSeverityChanged": "2022-02-28T17:54:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF108",
-      "description": "River Severn in Worcestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF108",
-        "county": "Gloucestershire, Shropshire, Worcestershire",
-        "notation": "031WAF108",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF108/polygon",
-        "riverOrSea": "River Severn"
-      },
-      "floodAreaID": "031WAF108",
-      "isTidal": false,
-      "message": "River levels remain high though are slowly falling at the Saxons Lode and Kempsey Yacht Club river gauges. Further rain is forecast today and over the next few days that may result in river levels remaining high for several days. We are closely monitoring the situation.  \nFlooding may still affect low lying land and roads adjacent to the river from Highley to Tewkesbury. Locations that may be affected include Stourport, Holt Fleet, Worcester, Kempsey, Severn Stoke, Upton upon Severn, South Quay, Diglis Parade and Hylton Road towpath. Flooding from drains may also affect Worcester racecourse and County cricket ground. \nPlease avoid using low lying footpaths and roads near local rivers, which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:39",
-      "timeSeverityChanged": "2022-02-17T15:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF201",
-      "description": "Kempsey Village",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF201",
-        "county": "Worcestershire",
-        "notation": "031WAF201",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF201/polygon",
-        "riverOrSea": "River Severn, Hatfield Brook"
-      },
-      "floodAreaID": "031WAF201",
-      "isTidal": false,
-      "message": "River levels remain high though are slowly falling at the Kempsey Yacht Club river gauge.  Further rain is forecast that may result in river levels remaining high for the next few days.  \nFlooding may affect low lying land and Squires walk in the area of the Hatfield Brook Kempsey.  The river level is currently below the threshold at which the Kempsey Flood Alleviation becomes operational. We continue to closely monitor the situation. \nPlease avoid using low lying footpaths and roads near local watercourses which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:39:00",
-      "timeRaised": "2022-02-28T17:39:12",
-      "timeSeverityChanged": "2022-02-17T17:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF209",
-      "description": "River Avon in Worcestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF209",
-        "county": "Gloucestershire, Warwickshire, Worcestershire",
-        "notation": "031WAF209",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF209/polygon",
-        "riverOrSea": "Avon"
-      },
-      "floodAreaID": "031WAF209",
-      "isTidal": false,
-      "message": "River levels remain high though are slowly falling at the Bredon river gauge. Consequently, flooding of roads and farmland is expected to continue.\n\nWe expect flooding to affect low lying land and roads adjacent to the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham and Twyning. \n\nBredon river gauge peaked at 2.84m on Tuesday, 22/02/2022.\n\nFurther rain is forecast that may result in river levels remaining high for the next few days.  We are closely monitoring the situation.  \n\nPlease avoid contact with flood water and plan journeys to avoid using low lying footpaths and roads near local watercourses, which may be flooded.  \n\nThis message will be updated by 10am on Tuesday, 01/03/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-02-28T17:40:00",
-      "timeRaised": "2022-02-28T17:40:42",
-      "timeSeverityChanged": "2022-02-19T07:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
-      "description": "River Churnet and River Tean",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
-        "county": "Staffordshire",
-        "notation": "033WAF317",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
-        "riverOrSea": "River Churnet, River Tean"
-      },
-      "floodAreaID": "033WAF317",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-03-01T08:10:00",
-      "timeRaised": "2022-03-01T08:10:26",
-      "timeSeverityChanged": "2022-03-01T08:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF105",
@@ -372,6 +225,69 @@
       "timeSeverityChanged": "2022-03-01T07:56:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
+      "description": "River Leam and River Itchen",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203",
+        "county": "Warwickshire, West Northamptonshire",
+        "notation": "033WAF203",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203/polygon",
+        "riverOrSea": "River Leam, River Itchen"
+      },
+      "floodAreaID": "033WAF203",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:27:00",
+      "timeRaised": "2022-03-01T08:27:09",
+      "timeSeverityChanged": "2022-03-01T08:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
+      "description": "River Severn in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214",
+        "county": "Gloucestershire, Worcestershire",
+        "notation": "031WAF214",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "031WAF214",
+      "isTidal": false,
+      "message": "River levels remain high at the Mythe, Upper Pound, Haw Bridge and Sandhurst river gauges as a result of recent rain. Consequently, flooding of roads and farmland is expected to continue. We expect flooding to affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Severn Ham at Tewkesbury, Apperley, Maisemore, and Hempsted.\n\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-28T17:39:00",
+      "timeRaised": "2022-02-28T17:39:49",
+      "timeSeverityChanged": "2022-02-16T09:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
+      "description": "River Wye in Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408",
+        "county": "Derbyshire",
+        "notation": "034WAF408",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "034WAF408",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  Further light rainfall is forecast over the next 24 hours.  We continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-01T08:32:00",
+      "timeRaised": "2022-03-01T08:32:29",
+      "timeSeverityChanged": "2022-03-01T08:32:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
       "description": "Severn estuary from Gloucester to Sharpness",
       "eaAreaName": "West Midlands",
@@ -391,6 +307,90 @@
       "timeMessageChanged": "2022-02-28T13:35:00",
       "timeRaised": "2022-02-28T13:35:53",
       "timeSeverityChanged": "2022-02-28T13:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF108",
+      "description": "River Severn in Worcestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF108",
+        "county": "Gloucestershire, Shropshire, Worcestershire",
+        "notation": "031WAF108",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF108/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031WAF108",
+      "isTidal": false,
+      "message": "River levels remain high though are slowly falling at the Saxons Lode and Kempsey Yacht Club river gauges. Further rain is forecast today and over the next few days that may result in river levels remaining high for several days. We are closely monitoring the situation.  \nFlooding may still affect low lying land and roads adjacent to the river from Highley to Tewkesbury. Locations that may be affected include Stourport, Holt Fleet, Worcester, Kempsey, Severn Stoke, Upton upon Severn, South Quay, Diglis Parade and Hylton Road towpath. Flooding from drains may also affect Worcester racecourse and County cricket ground. \nPlease avoid using low lying footpaths and roads near local rivers, which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-28T17:39:00",
+      "timeRaised": "2022-02-28T17:39:39",
+      "timeSeverityChanged": "2022-02-17T15:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF201",
+      "description": "Kempsey Village",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF201",
+        "county": "Worcestershire",
+        "notation": "031WAF201",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF201/polygon",
+        "riverOrSea": "River Severn, Hatfield Brook"
+      },
+      "floodAreaID": "031WAF201",
+      "isTidal": false,
+      "message": "River levels remain high though are slowly falling at the Kempsey Yacht Club river gauge.  Further rain is forecast that may result in river levels remaining high for the next few days.  \nFlooding may affect low lying land and Squires walk in the area of the Hatfield Brook Kempsey.  The river level is currently below the threshold at which the Kempsey Flood Alleviation becomes operational. We continue to closely monitor the situation. \nPlease avoid using low lying footpaths and roads near local watercourses which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-28T17:39:00",
+      "timeRaised": "2022-02-28T17:39:12",
+      "timeSeverityChanged": "2022-02-17T17:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF209",
+      "description": "River Avon in Worcestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF209",
+        "county": "Gloucestershire, Warwickshire, Worcestershire",
+        "notation": "031WAF209",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF209/polygon",
+        "riverOrSea": "Avon"
+      },
+      "floodAreaID": "031WAF209",
+      "isTidal": false,
+      "message": "River levels remain high though are slowly falling at the Bredon river gauge. Consequently, flooding of roads and farmland is expected to continue.\n\nWe expect flooding to affect low lying land and roads adjacent to the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham and Twyning. \n\nBredon river gauge peaked at 2.84m on Tuesday, 22/02/2022.\n\nFurther rain is forecast that may result in river levels remaining high for the next few days.  We are closely monitoring the situation.  \n\nPlease avoid contact with flood water and plan journeys to avoid using low lying footpaths and roads near local watercourses, which may be flooded.  \n\nThis message will be updated by 10am on Tuesday, 01/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-02-28T17:40:00",
+      "timeRaised": "2022-02-28T17:40:42",
+      "timeSeverityChanged": "2022-02-19T07:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE525",
+      "description": "River Severn at Severn Ham, Tewkesbury",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525",
+        "county": "Gloucestershire, Worcestershire",
+        "notation": "031FWFSE525",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE525/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE525",
+      "isTidal": false,
+      "message": "River levels are high as a result of recent rainfall but are currently falling slowly at the Mythe Bridge and Upper Pound river gauges. The Upper Pound gauge peaked at 4.25m on Thursday afternoon, 24/02/2022 and the Mythe gauge peaked at 4.32m on Thursday afternoon, 24/02/2022.\nFurther rain is forecast today and over the next few days that may result in river levels remaining high for several days.  We are closely monitoring the situation.  \nConsequently, flooding may still affect properties and roads in and around Severn Ham, Tewkesbury. Access to Abbey Mill might be compromised.\nPlease avoid contact with flood water, move possessions and valuables off the ground or to safety and plan routes to avoid using low lying roads and footpaths near watercourses which may be flooded.  \nThis message will be updated by 9am on Tuesday, 01/03/22, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-02-28T17:39:00",
+      "timeRaised": "2022-02-28T17:39:29",
+      "timeSeverityChanged": "2022-02-19T12:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE550",
