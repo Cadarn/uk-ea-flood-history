@@ -225,6 +225,27 @@
       "timeSeverityChanged": "2022-03-01T14:12:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+        "county": "City of Bristol, North Somerset, South Gloucestershire",
+        "notation": "112WATAVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "112WATAVN1",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 07:45 AM on 03/03/2022.\nAreas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton.\nThe detailed tidal information for those who use it is for a peak level at Avonmouth of 7.35 mAODN at 07:45 AM on 03/03/2022, which is 0.17 m above tide tables, with south-easterly force 3 winds. (mAODN is height above average sea level - for more info refer to local tide tables.)\nFurther rainfall is forecast throughout the morning and into the afternoon.\nWe are expecting a series of high spring tides over the next three mornings and as a result this alert will remain in force until at least Saturday afternoon.\nOur incident response staff are closing flood gates and checking defences.\nThis message will be updated by 11:00 AM on 03/03/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-02T20:20:00",
+      "timeRaised": "2022-03-02T20:20:51",
+      "timeSeverityChanged": "2022-03-02T20:20:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23Trowlock",
       "description": "River Thames at Trowlock Island",
       "eaAreaName": "Thames",
@@ -328,6 +349,48 @@
       "timeMessageChanged": "2022-03-02T19:30:00",
       "timeRaised": "2022-03-02T19:30:34",
       "timeSeverityChanged": "2022-03-02T15:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24LLoddon",
+      "description": "Lower River Loddon",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24LLoddon",
+        "county": "Windsor and Maidenhead, Wokingham",
+        "notation": "061WAF24LLoddon",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24LLoddon/polygon",
+        "riverOrSea": "River Loddon"
+      },
+      "floodAreaID": "061WAF24LLoddon",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected.\nRiver levels have risen on the Lower River Loddon as a result of persistent rainfall over the last few days. Flooding of low lying land and roads is possible overnight tonight and tomorrow 03/03/22, especially in and around Swallowfield, Sindlesham Mill, Winnersh Triangle and Whistley Green.   \nFurther light rain is forecast over the next 24 hours. We expect river levels to remain high and sensitive to further rainfall for the next few days. \nPlease avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated tomorrow morning 03/03/22, or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-02T20:14:00",
+      "timeRaised": "2022-03-02T20:14:30",
+      "timeSeverityChanged": "2022-03-02T20:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24BlkWater",
+      "description": "River Blackwater and The Cove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24BlkWater",
+        "county": "Bracknell Forest, Hampshire, Surrey, Wokingham",
+        "notation": "061WAF24BlkWater",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24BlkWater/polygon",
+        "riverOrSea": "River Blackwater, Cove Brook"
+      },
+      "floodAreaID": "061WAF24BlkWater",
+      "isTidal": false,
+      "message": " Property flooding is not currently expected.\nRiver levels have risen on the River Blackwater and River Loddon as a result of persistent rainfall over the last few days. Flooding of low lying land and roads, especially in and around Swallowfield is possible overnight tonight and tomorrow 03/03/22.   \nFurther light rain is forecast over the next 24 hours. We expect river levels to remain high and sensitive to further rainfall for the next few days. \nPlease avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated tomorrow morning 03/03/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-02T20:22:00",
+      "timeRaised": "2022-03-02T20:23:15",
+      "timeSeverityChanged": "2022-03-02T20:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
