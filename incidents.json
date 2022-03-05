@@ -343,11 +343,11 @@
       },
       "floodAreaID": "052WAFHFW",
       "isTidal": false,
-      "message": " River levels remain high but steady at the Sutton Gault river gauge following recent rainfall. Consequently, flooding of roads and farmland is possible today, Saturday 05/03/2022. We expect flooding to affect the Hundred Foot Washes, also known as the Ouse Washes. Further light rainfall is forecast today, Saturday 05/03/22. We expect river levels to remain high throughout Saturday, 05/03/22. This information is correct as of 15:40 on Saturday 05 March. The causeway at Sutton Gault has approximately 22 centimetres of water on the road. There are currently no issues on the Welney or Earith causeways. Due to uneven surface of the road, water may be deeper in places. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 08:00 tomorrow morning, 06/03/22, or as the situation changes.",
+      "message": " River levels remain high but steady at the Sutton Gault river gauge, and river levels are rising at the Welney Causeway river gauge following recent rainfall. Consequently, flooding of roads and farmland is possible today, Saturday 05/03/2022, and tomorrow, Sunday 06/03/2022. We expect flooding to affect the Hundred Foot Washes, also known as the Ouse Washes. No further rainfall is forecast. We expect river levels to remain high throughout Sunday, 06/03/2022. This information is correct as of 23:10 on Saturday 05 March. The causeway at Sutton Gault has approximately 20 centimetres of water on the road. The causeway at Welney has approximately 1 centimetre of water on the road There are currently no issues on the Earith causeway. Due to uneven surface of the road, water may be deeper in places. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 08:00 tomorrow morning, 06/03/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-03-05T15:49:00",
-      "timeRaised": "2022-03-05T15:49:19",
+      "timeMessageChanged": "2022-03-05T23:26:00",
+      "timeRaised": "2022-03-05T23:26:44",
       "timeSeverityChanged": "2022-03-03T12:50:00"
     },
     {
@@ -391,6 +391,27 @@
       "timeMessageChanged": "2022-03-05T18:41:00",
       "timeRaised": "2022-03-05T18:41:21",
       "timeSeverityChanged": "2022-03-02T08:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFWELNEY",
+      "description": "Welney Causeway in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFWELNEY",
+        "county": "Norfolk",
+        "notation": "052WAFWELNEY",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFWELNEY/polygon",
+        "riverOrSea": "Hundred Foot Washes"
+      },
+      "floodAreaID": "052WAFWELNEY",
+      "isTidal": false,
+      "message": " River levels are rising at the Welney Causeway river gauge following recent rainfall.  Consequently, flooding of roads and farmland is possible today, Saturday 05/03/2022, and tomorrow, Sunday 06/03/2022.  We expect flooding to affect The A1101 Wash Road at Welney.   No further rainfall is forecast.  We expect river levels to remain high throughout tomorrow, Sunday 06/03/22. This information is correct as of 23:10 on Saturday 05 March. The causeway at Welney has approximately 1 centimetre of water on the road. Due to uneven surface of the roads, water may be deeper in places. The Environment Agency are liaising with Norfolk Highways, who will decide whether to close the road. This alert applies to WELNEY CAUSEWAY ONLY. \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated by 08:00 tomorrow morning, 06/03/2022, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-05T23:26:00",
+      "timeRaised": "2022-03-05T23:26:35",
+      "timeSeverityChanged": "2022-03-05T23:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOCAM",
