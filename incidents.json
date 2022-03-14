@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
+      "description": "River Lugg south of Leominster",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116",
+        "county": "Herefordshire",
+        "notation": "031WAF116",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116/polygon",
+        "riverOrSea": "River Lugg"
+      },
+      "floodAreaID": "031WAF116",
+      "isTidal": false,
+      "message": " River levels are high but steady at the Lugwardine river gauge as a result of persistent heavy rainfall over the weekend. Consequently, the risk of flooding remains. We expect flooding to affect Low lying land and roads adjacent to the River Lugg south of Leominster from Stoke Prior to Mordiford. Other locations that may be affected include Bodenham, Lugwardine and Hampton Bishop. No further rainfall is forecast. We expect river levels to remain high until Tuesday 15/03/22. We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses. This message will be updated tomorrow morning, 15/03/22 by 10:00, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-14T17:42:00",
+      "timeRaised": "2022-03-14T17:42:45",
+      "timeSeverityChanged": "2022-03-13T19:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
       "description": "Rivers Clyst and Culm and their tributaries",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -34,27 +55,6 @@
       "timeMessageChanged": "2022-03-14T13:12:00",
       "timeRaised": "2022-03-14T13:12:56",
       "timeSeverityChanged": "2022-03-14T13:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
-      "description": "River Lugg south of Leominster",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116",
-        "county": "Herefordshire",
-        "notation": "031WAF116",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF116/polygon",
-        "riverOrSea": "River Lugg"
-      },
-      "floodAreaID": "031WAF116",
-      "isTidal": false,
-      "message": " River levels have risen at the Lugwardine river gauge as a result of persistent heavy rainfall over the weekend.  Consequently, the risk of flooding remains.  We expect flooding to affect Low lying land and roads adjacent to the River Lugg south of Leominster from Stoke Prior to Mordiford. Other locations that may be affected include Bodenham, Lugwardine and Hampton Bishop.   \nNo further rainfall is forecast.  We expect river levels to remain high until Tuesday 15/03/22.\nWe are closely monitoring the situation.  Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated this afternoon, 14/03/22 by 18:00, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-03-14T07:45:00",
-      "timeRaised": "2022-03-14T07:45:29",
-      "timeSeverityChanged": "2022-03-13T19:13:00"
     }
   ]
 }
