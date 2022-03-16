@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
+      "description": "Upper Avon River Swift and Clay Coton Brook",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201",
+        "county": "Leicestershire, Warwickshire, West Northamptonshire",
+        "notation": "033WAF201",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201/polygon",
+        "riverOrSea": "Avon, Swift, Claycoton"
+      },
+      "floodAreaID": "033WAF201",
+      "isTidal": false,
+      "message": "River levels have risen at the Clay Coton river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 16/03/22.    \nFurther rainfall is forecast over the next 12 hours.  We expect river levels to rise until later this evening.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, 17/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-16T18:01:00",
+      "timeRaised": "2022-03-16T18:01:53",
+      "timeSeverityChanged": "2022-03-16T18:01:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
       "description": "West Dorset Rivers and Streams",
       "eaAreaName": "Wessex",
@@ -78,25 +99,46 @@
       "timeSeverityChanged": "2022-03-16T17:17:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
-      "description": "Upper Avon River Swift and Clay Coton Brook",
-      "eaAreaName": "West Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF134TWV",
+      "description": "Welland Valley",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201",
-        "county": "Leicestershire, Warwickshire, West Northamptonshire",
-        "notation": "033WAF201",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF201/polygon",
-        "riverOrSea": "Avon, Swift, Claycoton"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF134TWV",
+        "county": "Leicestershire, Lincolnshire, North Northamptonshire, Peterborough, Rutland, West Northamptonshire",
+        "notation": "055WAF134TWV",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF134TWV/polygon",
+        "riverOrSea": "River Welland, River Jordan"
       },
-      "floodAreaID": "033WAF201",
+      "floodAreaID": "055WAF134TWV",
       "isTidal": false,
-      "message": "River levels have risen at the Clay Coton river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 16/03/22.    \nFurther rainfall is forecast over the next 12 hours.  We expect river levels to rise until later this evening.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, 17/03/22, or as the situation changes.",
+      "message": "Over the last 24 hours we have seen heavy rainfall in the River Welland catchment area. This means that the River Welland and River Jordan are now rising, which will lead to flooding of low lying land and roads close to these rivers from this evening, Wednesday, 16th March onwards. We expect these rivers to remain high throughout the next 24 hours. Our forecasts indicate that flooding to properties is not likely and therefore flood warnings are not expected to be issued. We are constantly monitoring river levels, and have staff in the field checking for  blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated on Thursday, 17th March, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-03-16T18:01:00",
-      "timeRaised": "2022-03-16T18:01:53",
-      "timeSeverityChanged": "2022-03-16T18:01:00"
+      "timeMessageChanged": "2022-03-16T18:19:00",
+      "timeRaised": "2022-03-16T18:20:13",
+      "timeSeverityChanged": "2022-03-16T18:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTRBC",
+      "description": "River Biss catchment",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTRBC",
+        "county": "Somerset, Wiltshire",
+        "notation": "112WAFTRBC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTRBC/polygon",
+        "riverOrSea": "River Biss"
+      },
+      "floodAreaID": "112WAFTRBC",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Trowbridge river gauge as a result of the ground being saturated and reacting to further rainfall.  Consequently, flooding of roads and farmland is possible between 19:00 and overnight tonight and into tomorrow, 17/03/22.  We expect flooding to affect the Westbury Road (A363) at Yarnbrook, Hawkeridge Road at Horse Bridge, Shallow Wagon Lane at Heywood and West Ashton Road at Trowbridge.   \nWe expect river levels to continue to rise throughout the night from Wednesday 16/03/22 and into Thursday 17/03/22.\nWe are closely monitoring the situation. Our incident response staff are clearing weed screens and in contact with community flood wardens and volunteers.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures.  \nThis message will be updated 09:30, 17/03/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-16T18:29:00",
+      "timeRaised": "2022-03-16T18:29:30",
+      "timeSeverityChanged": "2022-03-16T18:29:00"
     }
   ]
 }
