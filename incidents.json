@@ -49,12 +49,12 @@
       },
       "floodAreaID": "112WAFTMBA",
       "isTidal": false,
-      "message": " River levels have risen at the Bradford on Avon gauge at Bradford on Avon  as a result of heavy rainfall, with over 15 mm of rain fallen in the last 24 hours. River levels on the River Avon at Great Somerford, River Avon at Bradford on Avon, River Avon at Bathford and Semington Brook at Semington are rising through this evening (the 16th March 2022). Currently we are not forecasting flood warning thresholds to be met. \n\nThis message will be updated on Friday the 18th March 2022, or as the situation changes.\n\nWe expect flooding to effect low lying land and roads between Melksham and Bathford. The flood gates at Holt Road may be closed.\n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. We are closely monitoring the situation.   \n\n ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-03-17T19:32:00",
-      "timeRaised": "2022-03-17T19:32:45",
-      "timeSeverityChanged": "2022-03-16T21:30:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-03-18T14:26:00",
+      "timeRaised": "2022-03-18T14:26:45",
+      "timeSeverityChanged": "2022-03-18T14:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
@@ -330,6 +330,27 @@
       "timeSeverityChanged": "2022-03-17T16:19:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
+      "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01",
+        "county": "Cambridgeshire, Peterborough",
+        "notation": "055FWFPNBR01",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01/polygon",
+        "riverOrSea": "River Nene"
+      },
+      "floodAreaID": "055FWFPNBR01",
+      "isTidal": false,
+      "message": "Heavy rain on Wednesday, 16th March has caused river levels to rise on the River Nene. During periods of high tide the river will be unable to discharge into the sea, resulting in tide lock conditions. This is likely to lead to localised flooding at North Bank Road. Whilst the Flood Warning is in force, the Local Authority will close North Bank Road. Diversionary routes will be put in place and further updates will be available through local media.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-03-18T15:09:00",
+      "timeRaised": "2022-03-18T15:09:29",
+      "timeSeverityChanged": "2022-03-18T15:09:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
       "description": "Upper Stour and tributaries",
       "eaAreaName": "Wessex",
@@ -559,6 +580,27 @@
       "timeMessageChanged": "2022-03-18T14:06:00",
       "timeRaised": "2022-03-18T14:06:19",
       "timeSeverityChanged": "2022-03-18T14:06:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF131TLN",
+      "description": "Lower Nene",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF131TLN",
+        "county": "Cambridgeshire, Peterborough",
+        "notation": "055WAF131TLN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF131TLN/polygon",
+        "riverOrSea": "River Nene"
+      },
+      "floodAreaID": "055WAF131TLN",
+      "isTidal": false,
+      "message": "There has been heavy rainfall in the river Nene catchment area on Wednesday, 16th March. This means that the peak water level is now travelling through the river and the levels are gradually rising on the Lower Nene, which will lead to flooding of low lying land and roads close to these rivers from the evening of Friday, 18th March onwards. We expect the rivers to remain high throughout the next few days. Our forecasts indicate that flooding to properties is not likely, however flood warning for the North Bank Road is expected, as the high levels in the river will coincide with the high tides tonight, on Friday 18 March and over the course of the weekend. We are constantly monitoring river levels, and have staff in the field checking for blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated on Saturday, 19th March, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-18T14:59:00",
+      "timeRaised": "2022-03-18T14:59:20",
+      "timeSeverityChanged": "2022-03-18T14:59:00"
     }
   ]
 }
