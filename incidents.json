@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.80mAOD at 15:45 on 31/03/22 and 4.70mAOD at 03:45 on 01/04/22.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is normal for this time of year at 45 cubic metres per second and is steady. We anticipate the flows to remain normal for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 09:00 on 01/04/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-03-31T09:12:00",
+      "timeRaised": "2022-03-31T09:13:00",
+      "timeSeverityChanged": "2022-03-31T09:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWCDV5B3EASTA",
+      "description": "The Essex coast at Coalhouse Fort and surrounding marshland",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA",
+        "county": "Thurrock",
+        "notation": "051FWCDV5B3EASTA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWCDV5B3EASTA/polygon",
+        "riverOrSea": "Thames Estuary"
+      },
+      "floodAreaID": "051FWCDV5B3EASTA",
+      "isTidal": true,
+      "message": "This message has been issued because flooding is possible between 10.15am and 2.15pm today, Thursday 31st March. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the Fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.41 mAODN at 12:15pm, on Thursday 31st March, which is 0.52m above tide tables, wind Force 6, northerly. (mAODN is height above average sea level, for more information refer to local tide tables). You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting it to escalate. We will update this message by 4pm today, Thursday 31st March.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-03-31T09:10:00",
+      "timeRaised": "2022-03-31T09:10:44",
+      "timeSeverityChanged": "2022-03-31T09:10:00"
+    }
+  ]
 }
