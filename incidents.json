@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "Overtopping waves and spray are expected as a result of high tides and strong winds. Consequently, flooding of property/roads and farmland is expected between 20:15 and 22:45 local time this evening, 04/04/2022. Areas most at risk are low lying land and roads particularly around Kilnsea Village. Coastal conditions should ease for subsequent tides as the high tides recede however we will continue to closely monitor the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous and do not walk or drive through flood water. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-04-04T16:06:00",
+      "timeRaised": "2022-04-04T16:06:49",
+      "timeSeverityChanged": "2022-04-04T16:06:00"
+    }
+  ]
 }
