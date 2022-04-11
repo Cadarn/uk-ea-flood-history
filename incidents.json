@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "The flood alert for the North Sea Coast at Bridlington has been issued for Tuesday morning 11th April between 4 am and 6 am. This is due to onshore winds and wind blown spray. The particular area of concern is Bridlington Lifeboat Station. Please take care around exposed promenades and roads where spray may create hazardous conditions. This message will be updated by 9am on Tuesday 11th April.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-04-11T14:52:00",
+      "timeRaised": "2022-04-11T14:53:12",
+      "timeSeverityChanged": "2022-04-11T14:52:00"
+    }
+  ]
 }
