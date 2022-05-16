@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
-      "description": "Lower River Soar in Leicestershire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
-        "county": "Derbyshire, Leicestershire, Nottinghamshire",
-        "notation": "034WAF428",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
-        "riverOrSea": "River Soar"
-      },
-      "floodAreaID": "034WAF428",
-      "isTidal": false,
-      "message": "River levels are forecast to rise at the Pillings Lock river gauge as a result of localised thunderstorms. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. \n\nThunderstorms are forecast overnight tonight, 15/05/2022, and into tomorrow morning, 16/05/2022, with low confidence over exact timing and locations. We expect river levels to begin rising at around midnight tonight, with areas beginning to be affected from approximately 06:00 tomorrow morning. Levels are likely to remain high until tomorrow evening.\n\nWe are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 on 16/05/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-05-15T18:23:00",
-      "timeRaised": "2022-05-15T18:23:51",
-      "timeSeverityChanged": "2022-05-15T18:23:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSWAN910",
       "description": "Swan Brook at Swanage",
       "eaAreaName": "Wessex",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2022-05-16T02:53:00",
       "timeRaised": "2022-05-16T02:54:18",
       "timeSeverityChanged": "2022-05-16T02:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "River levels at the Pillings Lock river gauge no longer pose a risk of flooding.\n\nThe risk of heavy showers remains throughout this morning and afternoon, before clearing into the evening and overnight tonight. We are not expecting to see any flooding impacts, but will continue to monitor the situation and re-issue this Flood Alert is necessary.\n\nPlease see the GOV.UK website for a 5 day flood forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-05-16T07:23:00",
+      "timeRaised": "2022-05-16T07:23:25",
+      "timeSeverityChanged": "2022-05-16T07:23:00"
     }
   ]
 }
