@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSWAN910",
-      "description": "Swan Brook at Swanage",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSWAN910",
-        "county": "Dorset Council",
-        "notation": "111FWFSWAN910",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSWAN910/polygon",
-        "riverOrSea": "Swan Brook"
-      },
-      "floodAreaID": "111FWFSWAN910",
-      "isTidal": false,
-      "message": "River levels have risen rapidly as a result of intense heavy rainfall due to thunderstorm activity. Consequently, flooding of property is imminent. We believe there is a possibility of flooding for Victoria Ave, Kings Rd, Chestnut Mew, Church Hill, Springfield Rd, Cornwall Rd, Commerical Rd, Station Rd, Institute Rd, The Square, Shore Rd, High St and Parade in Swanage. River levels can rise very quickly in response to heavy rainfall. We are closely monitoring the situation. Our incident response staff are checking defences. Please can owners with property flood resilience equipment install it now. There is no further heavy rainfall forecast at this point. This message will be updated on Monday morning, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-05-16T02:53:00",
-      "timeRaised": "2022-05-16T02:54:18",
-      "timeSeverityChanged": "2022-05-16T02:53:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
       "description": "Lower River Soar in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2022-05-16T07:23:00",
       "timeRaised": "2022-05-16T07:23:25",
       "timeSeverityChanged": "2022-05-16T07:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFSWAN910",
+      "description": "Swan Brook at Swanage",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSWAN910",
+        "county": "Dorset Council",
+        "notation": "111FWFSWAN910",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFSWAN910/polygon",
+        "riverOrSea": "Swan Brook"
+      },
+      "floodAreaID": "111FWFSWAN910",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-05-16T09:52:00",
+      "timeRaised": "2022-05-16T09:52:39",
+      "timeSeverityChanged": "2022-05-16T09:52:00"
     }
   ]
 }
