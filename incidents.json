@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Cumbria, Lancashire",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": "As a result of high spring tides and strong winds, tides will be at their highest overnight at midnight on 17/05/2022.\nAreas most at risk include Coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale.\nAfter this tide‚ the weather is settled and the spring tides start to recede and no further impacts are expected.\nPlease be careful along beaches, promenades, coastal footpaths and roads during the high tide.\nWe will remove this message by 12:00 noon on 18/05/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-05-17T16:17:00",
+      "timeRaised": "2022-05-17T16:17:49",
+      "timeSeverityChanged": "2022-05-17T16:17:00"
+    }
+  ]
 }
