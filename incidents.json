@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
-      "description": "Bourne Brook (Tamworth)",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF305",
-        "county": "Staffordshire, Walsall",
-        "notation": "033WAF305",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF305/polygon",
-        "riverOrSea": "Bourne Brook"
-      },
-      "floodAreaID": "033WAF305",
-      "isTidal": false,
-      "message": "River levels are slowly falling at the Hints river gauge after heavy rainfall. Consequently, flooding of roads and farmland is still possible throughout this evening and overnight. Further rainfall is forecast over the next few hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 06/06/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-06-05T19:40:00",
-      "timeRaised": "2022-06-05T19:41:09",
-      "timeSeverityChanged": "2022-06-05T14:07:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
       "description": "Upper Tame",
       "eaAreaName": "West Midlands",
@@ -160,6 +139,27 @@
       "timeMessageChanged": "2022-06-05T16:54:00",
       "timeRaised": "2022-06-05T16:54:57",
       "timeSeverityChanged": "2022-06-05T16:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF305",
+      "description": "Bourne Brook (Tamworth)",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF305",
+        "county": "Staffordshire, Walsall",
+        "notation": "033WAF305",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF305/polygon",
+        "riverOrSea": "Bourne Brook"
+      },
+      "floodAreaID": "033WAF305",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-06-06T09:13:00",
+      "timeRaised": "2022-06-06T09:13:17",
+      "timeSeverityChanged": "2022-06-06T09:13:00"
     }
   ]
 }
