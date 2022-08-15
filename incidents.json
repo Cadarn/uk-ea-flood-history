@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2022-08-13T10:45:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
-      "description": "West Bay Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
-        "county": "Dorset Council",
-        "notation": "111WATWBYH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATWBYH",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T08:12:00",
-      "timeRaised": "2022-08-15T08:13:00",
-      "timeSeverityChanged": "2022-08-15T08:12:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -162,48 +141,6 @@
       "timeSeverityChanged": "2022-08-14T16:35:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
-      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
-        "county": "Lancashire",
-        "notation": "012WATWE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
-        "riverOrSea": "Wyre Estuary"
-      },
-      "floodAreaID": "012WATWE",
-      "isTidal": true,
-      "message": "The weather is more settled and no further impacts are expected. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T08:12:00",
-      "timeRaised": "2022-08-15T08:12:41",
-      "timeSeverityChanged": "2022-08-15T08:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
-      "description": "Christchurch Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
-        "county": "Bournemouth, Christchurch and Poole",
-        "notation": "111WATCHXH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATCHXH",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T08:12:00",
-      "timeRaised": "2022-08-15T08:12:55",
-      "timeSeverityChanged": "2022-08-15T08:12:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -265,6 +202,69 @@
       "timeMessageChanged": "2022-08-14T16:53:00",
       "timeRaised": "2022-08-14T16:53:30",
       "timeSeverityChanged": "2022-08-14T16:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
+        "county": "Dorset Council",
+        "notation": "111WATWBYH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATWBYH",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T08:12:00",
+      "timeRaised": "2022-08-15T08:13:00",
+      "timeSeverityChanged": "2022-08-15T08:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "The weather is more settled and no further impacts are expected. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T08:12:00",
+      "timeRaised": "2022-08-15T08:12:41",
+      "timeSeverityChanged": "2022-08-15T08:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATCHXH",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T08:12:00",
+      "timeRaised": "2022-08-15T08:12:55",
+      "timeSeverityChanged": "2022-08-15T08:12:00"
     }
   ]
 }
