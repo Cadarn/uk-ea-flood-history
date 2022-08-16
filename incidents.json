@@ -183,27 +183,6 @@
       "timeSeverityChanged": "2022-08-16T12:27:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T18:36:00",
-      "timeRaised": "2022-08-15T18:36:11",
-      "timeSeverityChanged": "2022-08-15T18:36:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
       "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -622,6 +601,27 @@
       "timeMessageChanged": "2022-08-16T18:27:00",
       "timeRaised": "2022-08-16T18:27:44",
       "timeSeverityChanged": "2022-08-16T18:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAF119MNK",
+      "description": "Minor Watercourses from Heighington to Dunston",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAF119MNK",
+        "county": "Lincolnshire",
+        "notation": "053WAF119MNK",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAF119MNK/polygon",
+        "riverOrSea": "Heighington Beck, Dunston Beck"
+      },
+      "floodAreaID": "053WAF119MNK",
+      "isTidal": false,
+      "message": "Over the last few hours we have seen heavy rainfall in the North Kesteven area. This means that the minor watercourses from Heighington to Dunston are now rising, which will lead to flooding of low lying land and roads close to the river from the evening  on Tuesday, August 16 onwards. We expect the river to remain high throughout the next few days, especially as there is more rain forecast. Our forecasts indicate that flooding to properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring river levels, and have staff in the field checking for  blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-08-16T18:39:00",
+      "timeRaised": "2022-08-16T18:39:54",
+      "timeSeverityChanged": "2022-08-16T18:39:00"
     }
   ]
 }
