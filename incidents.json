@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
+      "description": "North Devon coast from Hartland Point to Lynmouth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
+        "county": "Devon",
+        "notation": "113WACT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "113WACT2A",
+      "isTidal": true,
+      "message": " The risk of flooding from the sea has now reduced and tidal water levels for upcoming tides have fallen below levels of concern.\n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T13:00:00",
+      "timeRaised": "2022-08-15T13:00:16",
+      "timeSeverityChanged": "2022-08-15T13:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+        "county": "City of Bristol, North Somerset, South Gloucestershire",
+        "notation": "112WATAVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "112WATAVN1",
+      "isTidal": true,
+      "message": " This flood alert has been removed as tides have peaked and are now receding. There is no longer a threat of flooding, though standing water and debris may still remain. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-16T09:03:00",
+      "timeRaised": "2022-08-16T09:03:12",
+      "timeSeverityChanged": "2022-08-16T09:03:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
       "description": "The north Norfolk coast from Old Hunstanton, to and including Cley",
       "eaAreaName": "East Anglia",
@@ -55,6 +97,69 @@
       "timeMessageChanged": "2022-08-15T18:30:00",
       "timeRaised": "2022-08-15T18:30:47",
       "timeSeverityChanged": "2022-08-15T18:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T18:36:00",
+      "timeRaised": "2022-08-15T18:36:11",
+      "timeSeverityChanged": "2022-08-15T18:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": " This Flood Alert has been removed. We will continue to monitor the situation and reissue the alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T12:17:00",
+      "timeRaised": "2022-08-15T12:17:08",
+      "timeSeverityChanged": "2022-08-15T12:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": " Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. \n Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger.  We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-08-15T17:16:00",
+      "timeRaised": "2022-08-15T17:16:55",
+      "timeSeverityChanged": "2022-08-15T17:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
@@ -349,111 +454,6 @@
       "timeMessageChanged": "2022-08-16T10:22:00",
       "timeRaised": "2022-08-16T10:22:54",
       "timeSeverityChanged": "2022-08-16T10:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
-      "description": "North Devon coast from Hartland Point to Lynmouth",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
-        "county": "Devon",
-        "notation": "113WACT2A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "113WACT2A",
-      "isTidal": true,
-      "message": " The risk of flooding from the sea has now reduced and tidal water levels for upcoming tides have fallen below levels of concern.\n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T13:00:00",
-      "timeRaised": "2022-08-15T13:00:16",
-      "timeSeverityChanged": "2022-08-15T13:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
-      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
-        "county": "City of Bristol, North Somerset, South Gloucestershire",
-        "notation": "112WATAVN1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "112WATAVN1",
-      "isTidal": true,
-      "message": " This flood alert has been removed as tides have peaked and are now receding. There is no longer a threat of flooding, though standing water and debris may still remain. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-16T09:03:00",
-      "timeRaised": "2022-08-16T09:03:12",
-      "timeSeverityChanged": "2022-08-16T09:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T18:36:00",
-      "timeRaised": "2022-08-15T18:36:11",
-      "timeSeverityChanged": "2022-08-15T18:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": " This Flood Alert has been removed. We will continue to monitor the situation and reissue the alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T12:17:00",
-      "timeRaised": "2022-08-15T12:17:08",
-      "timeSeverityChanged": "2022-08-15T12:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
-      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
-        "county": "Essex",
-        "notation": "051WACDV4C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "051WACDV4C",
-      "isTidal": true,
-      "message": " Levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. \n Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger.  We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-08-15T17:16:00",
-      "timeRaised": "2022-08-15T17:16:55",
-      "timeSeverityChanged": "2022-08-15T17:16:00"
     }
   ]
 }
