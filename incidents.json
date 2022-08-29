@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACECD",
+      "description": "East coast of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACECD",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
+        "notation": "111WACECD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACECD/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WACECD",
+      "isTidal": true,
+      "message": "Strong Easterly winds and spring tides may cause large waves and spray overtopping on the coast at Swanage Bay this evening. All other coastal areas are not expected to see impacts.\nAreas most at risk include Swanage - Mowlem slipway, The Square and High St slipway areas.\nFlooding is possible between 09:45 PM on 29/08/2022 and 01:00 AM on 30/08/2022.\nIt is expected that larger waves may cause water to spray over the top of sea walls in these specific areas of Swanage bay.\nAfter this tide‚ the weather is more settled and no further impacts are expected.\nWe will continue to monitor levels closely.\nConsider activating any property flood protection products.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-08-29T11:09:00",
+      "timeRaised": "2022-08-29T11:09:24",
+      "timeSeverityChanged": "2022-08-29T11:09:00"
+    }
+  ]
 }
