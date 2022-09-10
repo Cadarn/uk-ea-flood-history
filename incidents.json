@@ -57,6 +57,27 @@
       "timeSeverityChanged": "2022-09-10T14:21:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
+      "description": "Mersey Estuary at Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
+        "county": "Halton, Warrington",
+        "notation": "013WATMEW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEW",
+      "isTidal": true,
+      "message": "River levels are expected to be higher than usual at Fiddlers Ferry, Eastford Road, and Arpley Bridge as a result of a high tide tomorrow morning (11/09/22). Consequently, flooding of low lying land, roads and farmland is expected between 1:00 am and 2:15am on 11/09/22 in the following places: Fiddlers Ferry, between 1:00 and 1:30, Eastford Road, between 1:30 and 2:00 am, Arpley Bridge, between 1:45 and 2:15 am. It is possible that river levels may affect Arpley Road under the railway bridge. Flood alerts may also be required for subsequent high tides. Our incident response staff are closely monitoring weather forecasts and river levels and will issue flood warnings if necessary. Please avoid using low lying footpaths near local watercourses. This message will be updated tomorrow.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-10T15:58:00",
+      "timeRaised": "2022-09-10T15:59:07",
+      "timeSeverityChanged": "2022-09-10T15:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
       "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
       "eaAreaName": "Cumbria and Lancashire",
@@ -349,27 +370,6 @@
       "timeMessageChanged": "2022-09-10T09:04:00",
       "timeRaised": "2022-09-10T09:04:32",
       "timeSeverityChanged": "2022-09-10T09:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
-      "description": "Upper River Wey",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey",
-        "county": "Hampshire, Surrey, West Sussex",
-        "notation": "061WAF30UpperWey",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey/polygon",
-        "riverOrSea": "River Wey"
-      },
-      "floodAreaID": "061WAF30UpperWey",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold. There is no longer a threat of flooding, though standing water and debris may still remain.  \nWe will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-09T15:59:00",
-      "timeRaised": "2022-09-09T16:00:03",
-      "timeSeverityChanged": "2022-09-09T15:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
