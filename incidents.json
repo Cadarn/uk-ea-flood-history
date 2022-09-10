@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
-      "description": "Upper Tame",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
-        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
-        "notation": "033WAF303",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
-        "riverOrSea": "River Tame, Ford Brook"
-      },
-      "floodAreaID": "033WAF303",
-      "isTidal": false,
-      "message": "This flood alert has been issued from the Birmingham Perry Beeches river gauge following a  heavy rain and thunderstorms this afternoon (9 September 2022). Surface water flooding may affect these areas. We urge you to remain vigilant and avoid walking and driving through flood water. We are continuing to actively monitor the situation closely and will issue updates, and further flood alerts and warnings if necessary. You can monitor your local weather conditions and river levels on the GOV.UK website",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-09T16:40:00",
-      "timeRaised": "2022-09-09T16:41:11",
-      "timeSeverityChanged": "2022-09-09T16:40:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
       "description": "Tyne and Wear coast",
       "eaAreaName": "North East",
@@ -76,27 +55,6 @@
       "timeMessageChanged": "2022-09-09T18:52:00",
       "timeRaised": "2022-09-09T18:52:38",
       "timeSeverityChanged": "2022-09-09T12:11:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF6LowStour",
-      "description": "Lower River Stour",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF6LowStour",
-        "county": "Kent",
-        "notation": "064WAF6LowStour",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF6LowStour/polygon",
-        "riverOrSea": "Great Stour, Stour"
-      },
-      "floodAreaID": "064WAF6LowStour",
-      "isTidal": false,
-      "message": "River levels have risen as a result of localised thunderstorms. Flooding of roads and low lying land is expected between 7:30pm this evening until 7am tomorrow morning, 10/09/2022. We expect flooding to affect low lying land and roads close to the rivers, particularly on and around the River Great Stour, particularly in and around Thanington, Fordwich and around Canterbury. Flooding of properties is not forecast at this point. Showers are expected to clear later this evening with a dry spell over the weekend forecast. We are closely monitoring the situation. Our incident response staff are liaising with emergency services and our partners and actively monitoring the situation and are prepared to respond if required. This message will be updated tomorrow morning, 10/09/2022, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-09T18:58:00",
-      "timeRaised": "2022-09-09T18:58:30",
-      "timeSeverityChanged": "2022-09-09T18:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
@@ -393,6 +351,27 @@
       "timeSeverityChanged": "2022-09-09T12:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
+      "description": "Upper Tame",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
+        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
+        "notation": "033WAF303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
+        "riverOrSea": "River Tame, Ford Brook"
+      },
+      "floodAreaID": "033WAF303",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-10T09:04:00",
+      "timeRaised": "2022-09-10T09:04:32",
+      "timeSeverityChanged": "2022-09-10T09:04:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
       "description": "Upper River Wey",
       "eaAreaName": "Thames",
@@ -412,6 +391,27 @@
       "timeMessageChanged": "2022-09-09T15:59:00",
       "timeRaised": "2022-09-09T16:00:03",
       "timeSeverityChanged": "2022-09-09T15:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF6LowStour",
+      "description": "Lower River Stour",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF6LowStour",
+        "county": "Kent",
+        "notation": "064WAF6LowStour",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF6LowStour/polygon",
+        "riverOrSea": "Great Stour, Stour"
+      },
+      "floodAreaID": "064WAF6LowStour",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed. The risk of the heaviest rainfall has now passed, and we do not expect there to be any further risk of flooding from rivers in the area at this time.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-10T08:38:00",
+      "timeRaised": "2022-09-10T08:38:28",
+      "timeSeverityChanged": "2022-09-10T08:38:00"
     }
   ]
 }
