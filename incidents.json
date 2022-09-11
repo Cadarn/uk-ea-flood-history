@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
+        "county": "Dorset Council",
+        "notation": "111WATWBYH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATWBYH",
+      "isTidal": true,
+      "message": "Tides are expected to be higher than usual due to forecast conditions with the highest spring tides of 2022.\nAreas most at risk include West Bay Harbour and the tidal stretch of the River Brit.\nNo property flooding is expected.\nFlooding is possible at West Bay Harbour and the tidal stretch of the River Brit from 06:45 PM on 11/09/2022.\nThe detailed tidal information for those who use it is for a peak level at West Bay Harbour of 2.53 mAODN at 07:30 PM on 11/09/2022, with south-easterly force 4 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) No rainfall is forecast.\nThe tide at 07:30 PM on 12/09/2022 is also forecast to be a Flood Alert, we will send an update once this current tide has passed.\nOur incident response staff are closing flood gates and checking defences.\nWe will continue to monitor the forecast.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 01:00 PM on 12/09/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-11T12:32:00",
+      "timeRaised": "2022-09-11T12:33:01",
+      "timeSeverityChanged": "2022-09-11T12:32:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
