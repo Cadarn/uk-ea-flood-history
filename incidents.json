@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
+      "description": "North Devon coast from Hartland Point to Lynmouth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
+        "county": "Devon",
+        "notation": "113WACT2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "113WACT2A",
+      "isTidal": true,
+      "message": " Flooding is possible over the high tide on Sunday evening. High water at Ilfracombe is at 7.45pm, times of high water will vary along the coast.\nForce 4 southerly winds and offshore wave heights of 0.9m are forecast. Expect tides to be around 70mm higher than predicted.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\nDetailed tidal information for those who use it; The forecast high tide level  is 5.15 mAOD, this is 0.07 metres above astronomical tide level.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-11T13:54:00",
+      "timeRaised": "2022-09-11T13:54:42",
+      "timeSeverityChanged": "2022-09-11T13:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
+        "county": "Dorset Council",
+        "notation": "111WATWBYH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATWBYH",
+      "isTidal": true,
+      "message": "Tides are expected to be higher than usual due to forecast conditions with the highest spring tides of 2022.\nAreas most at risk include West Bay Harbour and the tidal stretch of the River Brit.\nNo property flooding is expected.\nFlooding is possible at West Bay Harbour and the tidal stretch of the River Brit from 06:45 PM on 11/09/2022.\nThe detailed tidal information for those who use it is for a peak level at West Bay Harbour of 2.53 mAODN at 07:30 PM on 11/09/2022, with south-easterly force 4 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) No rainfall is forecast.\nThe tide at 07:30 PM on 12/09/2022 is also forecast to be a Flood Alert, we will send an update once this current tide has passed.\nOur incident response staff are closing flood gates and checking defences.\nWe will continue to monitor the forecast.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 01:00 PM on 12/09/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-11T12:32:00",
+      "timeRaised": "2022-09-11T12:33:01",
+      "timeSeverityChanged": "2022-09-11T12:32:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
       "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
       "eaAreaName": "Wessex",
@@ -34,27 +76,6 @@
       "timeMessageChanged": "2022-09-12T11:30:00",
       "timeRaised": "2022-09-12T11:30:44",
       "timeSeverityChanged": "2022-09-10T11:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
-      "description": "Coast at North Morecambe Bay",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
-        "county": "Cumbria, Lancashire",
-        "notation": "011WACN6",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN6",
-      "isTidal": true,
-      "message": " As a result of high spring tides, tides will be high overnight on 11/09/2022. The tides will peak around 01:00 on 12/09/2022 but will be high for a couple of hours either side. Areas most at risk include Coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale. No property flooding is expected. We are closing locks and flood gates in the area. Please be careful along beaches, promenades, coastal footpaths and roads. This message will be updated by Monday afternoon, 12/09/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-11T14:27:00",
-      "timeRaised": "2022-09-11T14:27:36",
-      "timeSeverityChanged": "2022-09-10T14:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
@@ -99,130 +120,25 @@
       "timeSeverityChanged": "2022-09-10T14:52:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
-      "description": "Mersey Estuary at Warrington",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
-        "county": "Halton, Warrington",
-        "notation": "013WATMEW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
-        "riverOrSea": "Mersey Estuary"
-      },
-      "floodAreaID": "013WATMEW",
-      "isTidal": true,
-      "message": "We are expecting higher than normal tides over the next 24 hours and as a result we may issue further alerts/warnings.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T09:05:00",
-      "timeRaised": "2022-09-12T09:05:22",
-      "timeSeverityChanged": "2022-09-12T09:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
-      "description": "West Bay Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
-        "county": "Dorset Council",
-        "notation": "111WATWBYH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATWBYH",
-      "isTidal": true,
-      "message": "Tides are expected to be higher than usual due to forecast conditions with the highest spring tides of 2022.\nAreas most at risk include West Bay Harbour and the tidal stretch of the River Brit.\nNo property flooding is expected.\nFlooding is possible at West Bay Harbour and the tidal stretch of the River Brit from 06:45 PM on 11/09/2022.\nThe detailed tidal information for those who use it is for a peak level at West Bay Harbour of 2.53 mAODN at 07:30 PM on 11/09/2022, with south-easterly force 4 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) No rainfall is forecast.\nThe tide at 07:30 PM on 12/09/2022 is also forecast to be a Flood Alert, we will send an update once this current tide has passed.\nOur incident response staff are closing flood gates and checking defences.\nWe will continue to monitor the forecast.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 01:00 PM on 12/09/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-11T12:32:00",
-      "timeRaised": "2022-09-11T12:33:01",
-      "timeSeverityChanged": "2022-09-11T12:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
-      "description": "North Devon coast from Hartland Point to Lynmouth",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
-        "county": "Devon",
-        "notation": "113WACT2A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "113WACT2A",
-      "isTidal": true,
-      "message": " Flooding is possible over the high tide on Sunday evening. High water at Ilfracombe is at 7.45pm, times of high water will vary along the coast.\nForce 4 southerly winds and offshore wave heights of 0.9m are forecast. Expect tides to be around 70mm higher than predicted.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\nDetailed tidal information for those who use it; The forecast high tide level  is 5.15 mAOD, this is 0.07 metres above astronomical tide level.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-11T13:54:00",
-      "timeRaised": "2022-09-11T13:54:42",
-      "timeSeverityChanged": "2022-09-11T13:54:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTWY0F",
-      "description": "Wye Estuary at Brockweir",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWTWY0F",
-        "county": "Gloucestershire, Monmouthshire",
-        "notation": "031FWTWY0F",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWTWY0F/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "031FWTWY0F",
-      "isTidal": true,
-      "message": "This Flood Warning has been removed.  \nThe risk of flooding from high spring tides is now reducing. A Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.  \nWe continue to monitor the situation closely.  \nPlease remain careful along promenades, coastal footpaths and low lying roads.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T07:15:00",
-      "timeRaised": "2022-09-12T07:15:46",
-      "timeSeverityChanged": "2022-09-12T07:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACHC",
-      "description": "Coast from Heysham to Cockerham",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
       "eaAreaName": "Cumbria and Lancashire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC",
-        "county": "Lancashire",
-        "notation": "012WACHC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC/polygon",
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Cumbria, Lancashire",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
         "riverOrSea": "Irish Sea"
       },
-      "floodAreaID": "012WACHC",
+      "floodAreaID": "011WACN6",
       "isTidal": true,
-      "message": "Although still in a high spring tide phase, further high tides are not expected to reach flood alert level at this location.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T08:00:00",
-      "timeRaised": "2022-09-12T08:00:12",
-      "timeSeverityChanged": "2022-09-12T08:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
-      "description": "Lune estuary south west of Lancaster",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
-        "county": "Lancashire",
-        "notation": "012WATLE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
-        "riverOrSea": "Lune estuary"
-      },
-      "floodAreaID": "012WATLE",
-      "isTidal": true,
-      "message": " Although still in a high spring tide phase, further high tides are not expected to reach flood alert level at this location.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T07:59:00",
-      "timeRaised": "2022-09-12T08:00:08",
-      "timeSeverityChanged": "2022-09-12T07:59:00"
+      "message": " As a result of high spring tides, tides will be high overnight on 11/09/2022. The tides will peak around 01:00 on 12/09/2022 but will be high for a couple of hours either side. Areas most at risk include Coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale. No property flooding is expected. We are closing locks and flood gates in the area. Please be careful along beaches, promenades, coastal footpaths and roads. This message will be updated by Monday afternoon, 12/09/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-11T14:27:00",
+      "timeRaised": "2022-09-11T14:27:36",
+      "timeSeverityChanged": "2022-09-10T14:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
@@ -288,69 +204,6 @@
       "timeSeverityChanged": "2022-09-11T14:26:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "This flood alert has now been removed. The tide has passed and conditions are normal. We will continue to monitor the situation. Please see the 5 day forecasts at .gov.uk for further information.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T10:17:00",
-      "timeRaised": "2022-09-12T10:17:50",
-      "timeSeverityChanged": "2022-09-12T10:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This flood alert has now been removed. The tide has passed and conditions are normal. We will continue to monitor the situation. Please see the 5 day forecasts at .gov.uk for further information.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T10:17:00",
-      "timeRaised": "2022-09-12T10:18:51",
-      "timeSeverityChanged": "2022-09-12T10:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
-      "description": "Upper River Calder catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963",
-        "county": "Bradford, Calderdale, Kirklees, Rochdale",
-        "notation": "123WAF963",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963/polygon",
-        "riverOrSea": "River Calder, Walsden Water, Hebden Water"
-      },
-      "floodAreaID": "123WAF963",
-      "isTidal": false,
-      "message": "This flood alert has now been removed.\n\nLess rain than was forecast resulted in a small response in river levels.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-12T07:06:00",
-      "timeRaised": "2022-09-12T07:07:04",
-      "timeSeverityChanged": "2022-09-12T07:06:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
       "description": "Hunstanton coast in Norfolk",
       "eaAreaName": "East Anglia",
@@ -412,6 +265,153 @@
       "timeMessageChanged": "2022-09-12T10:26:00",
       "timeRaised": "2022-09-12T10:27:08",
       "timeSeverityChanged": "2022-09-12T10:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
+      "description": "Mersey Estuary at Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
+        "county": "Halton, Warrington",
+        "notation": "013WATMEW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEW",
+      "isTidal": true,
+      "message": "We are expecting higher than normal tides over the next 24 hours and as a result we may issue further alerts/warnings.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T09:05:00",
+      "timeRaised": "2022-09-12T09:05:22",
+      "timeSeverityChanged": "2022-09-12T09:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTWY0F",
+      "description": "Wye Estuary at Brockweir",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWTWY0F",
+        "county": "Gloucestershire, Monmouthshire",
+        "notation": "031FWTWY0F",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWTWY0F/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "031FWTWY0F",
+      "isTidal": true,
+      "message": "This Flood Warning has been removed.  \nThe risk of flooding from high spring tides is now reducing. A Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.  \nWe continue to monitor the situation closely.  \nPlease remain careful along promenades, coastal footpaths and low lying roads.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T07:15:00",
+      "timeRaised": "2022-09-12T07:15:46",
+      "timeSeverityChanged": "2022-09-12T07:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACHC",
+      "description": "Coast from Heysham to Cockerham",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC",
+        "county": "Lancashire",
+        "notation": "012WACHC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACHC/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "012WACHC",
+      "isTidal": true,
+      "message": "Although still in a high spring tide phase, further high tides are not expected to reach flood alert level at this location.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T08:00:00",
+      "timeRaised": "2022-09-12T08:00:12",
+      "timeSeverityChanged": "2022-09-12T08:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": " Although still in a high spring tide phase, further high tides are not expected to reach flood alert level at this location.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T07:59:00",
+      "timeRaised": "2022-09-12T08:00:08",
+      "timeSeverityChanged": "2022-09-12T07:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "This flood alert has now been removed. The tide has passed and conditions are normal. We will continue to monitor the situation. Please see the 5 day forecasts at .gov.uk for further information.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T10:17:00",
+      "timeRaised": "2022-09-12T10:17:50",
+      "timeSeverityChanged": "2022-09-12T10:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert has now been removed. The tide has passed and conditions are normal. We will continue to monitor the situation. Please see the 5 day forecasts at .gov.uk for further information.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T10:17:00",
+      "timeRaised": "2022-09-12T10:18:51",
+      "timeSeverityChanged": "2022-09-12T10:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
+      "description": "Upper River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963",
+        "county": "Bradford, Calderdale, Kirklees, Rochdale",
+        "notation": "123WAF963",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963/polygon",
+        "riverOrSea": "River Calder, Walsden Water, Hebden Water"
+      },
+      "floodAreaID": "123WAF963",
+      "isTidal": false,
+      "message": "This flood alert has now been removed.\n\nLess rain than was forecast resulted in a small response in river levels.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-12T07:06:00",
+      "timeRaised": "2022-09-12T07:07:04",
+      "timeSeverityChanged": "2022-09-12T07:06:00"
     }
   ]
 }
