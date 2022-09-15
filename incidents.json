@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "Large and powerful waves are expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 07:00 and 11:00 tomorrow morning, 16/09/22, however conditions may apply two to four hours either side of the high tide.\nWe expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Seaham Harbour and docks. Flooding of properties is not forecast at this point.\nWe are closely monitoring the situation. This Alert may stay in force for the evening high tide, 16/09/22.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated at 12:00 tomorrow afternoon, 16/09/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-15T14:44:00",
+      "timeRaised": "2022-09-15T14:45:02",
+      "timeSeverityChanged": "2022-09-15T14:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
       "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
       "eaAreaName": "East Anglia",
@@ -36,25 +57,25 @@
       "timeSeverityChanged": "2022-09-12T14:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
       },
-      "floodAreaID": "121WAC922",
+      "floodAreaID": "063WAT23West",
       "isTidal": true,
-      "message": "Large and powerful waves are expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 07:00 and 11:00 tomorrow morning, 16/09/22, however conditions may apply two to four hours either side of the high tide.\nWe expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Seaham Harbour and docks. Flooding of properties is not forecast at this point.\nWe are closely monitoring the situation. This Alert may stay in force for the evening high tide, 16/09/22.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated at 12:00 tomorrow afternoon, 16/09/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-15T14:44:00",
-      "timeRaised": "2022-09-15T14:45:02",
-      "timeSeverityChanged": "2022-09-15T14:44:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-14T19:18:00",
+      "timeRaised": "2022-09-14T19:18:34",
+      "timeSeverityChanged": "2022-09-14T19:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
@@ -97,27 +118,6 @@
       "timeMessageChanged": "2022-09-15T14:32:00",
       "timeRaised": "2022-09-15T14:33:09",
       "timeSeverityChanged": "2022-09-15T14:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-14T19:18:00",
-      "timeRaised": "2022-09-14T19:18:34",
-      "timeSeverityChanged": "2022-09-14T19:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
