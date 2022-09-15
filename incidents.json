@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "121WAC922",
-      "isTidal": true,
-      "message": "Large and powerful waves are expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 07:00 and 11:00 tomorrow morning, 16/09/22, however conditions may apply two to four hours either side of the high tide.\nWe expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Seaham Harbour and docks. Flooding of properties is not forecast at this point.\nWe are closely monitoring the situation. This Alert may stay in force for the evening high tide, 16/09/22.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated at 12:00 tomorrow afternoon, 16/09/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-15T14:44:00",
-      "timeRaised": "2022-09-15T14:45:02",
-      "timeSeverityChanged": "2022-09-15T14:44:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
       "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
       "eaAreaName": "East Anglia",
@@ -57,27 +36,6 @@
       "timeSeverityChanged": "2022-09-15T17:31:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from 12pm this afternoon, Thursday 15th September and over the next 24hrs. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Friday 16th September. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-15T10:35:00",
-      "timeRaised": "2022-09-15T10:35:47",
-      "timeSeverityChanged": "2022-09-15T10:35:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
       "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
       "eaAreaName": "Yorkshire",
@@ -97,6 +55,48 @@
       "timeMessageChanged": "2022-09-15T20:05:00",
       "timeRaised": "2022-09-15T20:05:54",
       "timeSeverityChanged": "2022-09-15T14:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "Large and powerful waves are expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 07:00 and 11:00 tomorrow morning, 16/09/22, however conditions may apply two to four hours either side of the high tide.\nWe expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Seaham Harbour and docks. Flooding of properties is not forecast at this point.\nWe are closely monitoring the situation. This Alert may stay in force for the evening high tide, 16/09/22.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated at 12:00 tomorrow afternoon, 16/09/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-15T14:44:00",
+      "timeRaised": "2022-09-15T14:45:02",
+      "timeSeverityChanged": "2022-09-15T14:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from 12pm this afternoon, Thursday 15th September and over the next 24hrs. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Friday 16th September. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-15T10:35:00",
+      "timeRaised": "2022-09-15T10:35:47",
+      "timeSeverityChanged": "2022-09-15T10:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
