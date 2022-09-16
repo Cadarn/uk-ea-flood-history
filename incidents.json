@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "Large and powerful waves are expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 19:00 and 00:30 this evening, 16/09/22, and during the morning high tide between 09:00 and 11:00, 17/09/2022, however conditions may apply two to four hours either side of the high tide.\nWe expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Seaham Harbour and Docks. Flooding of properties is not forecast at this point.\nWe are closely monitoring the situation.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated at 12:00 tomorrow afternoon, 17/09/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-16T11:53:00",
+      "timeRaised": "2022-09-16T11:53:50",
+      "timeSeverityChanged": "2022-09-15T14:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
       "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
       "eaAreaName": "East Anglia",
@@ -34,90 +55,6 @@
       "timeMessageChanged": "2022-09-15T17:31:00",
       "timeRaised": "2022-09-15T17:31:54",
       "timeSeverityChanged": "2022-09-15T17:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
-      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
-        "county": "North Yorkshire, Redcar and Cleveland",
-        "notation": "122WAC952",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC952",
-      "isTidal": true,
-      "message": "This flood alert for the North Sea coast from Staithes to Whitby including the tidal River Esk has been issued for today's tides. The area of particular concern is Sandsend, with wind driven wave overtopping expected from 08:00 until 12:15 on the morning tide, and from 20:30 until 00:15 on the evening tide, on Friday 16 September. Strong northerly winds are likely to produce overtopping waves and spray along the coast, especially around Sandsend. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast closely. This message will be updated by 21:00 today, Friday 16 September, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-16T08:22:00",
-      "timeRaised": "2022-09-16T08:22:36",
-      "timeSeverityChanged": "2022-09-15T14:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "121WAC922",
-      "isTidal": true,
-      "message": "Large and powerful waves are expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 07:00 and 11:00 tomorrow morning, 16/09/22, however conditions may apply two to four hours either side of the high tide.\nWe expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Seaham Harbour and docks. Flooding of properties is not forecast at this point.\nWe are closely monitoring the situation. This Alert may stay in force for the evening high tide, 16/09/22.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated at 12:00 tomorrow afternoon, 16/09/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-15T14:44:00",
-      "timeRaised": "2022-09-15T14:45:02",
-      "timeSeverityChanged": "2022-09-15T14:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from 1pm this afternoon, Friday 16th September and over the next 24hrs. This is due to a natural tide locking effect. There is a heightened risk from overtopping at Haddiscoe New Cut as the embankment level has been reduced. We have reduced our Flood Alert threshold to reflect this. We expect to see high water levels at Beccles Quay. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Saturday 17th September. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-16T08:49:00",
-      "timeRaised": "2022-09-16T08:50:01",
-      "timeSeverityChanged": "2022-09-15T10:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from 1pm this afternoon, Friday 16th September and over the next 24hrs. This is due to a natural tide locking effect. There is a heightened risk from overtopping at Haddiscoe New Cut as the embankment level has been reduced. We have reduced our Flood Alert threshold to reflect this. We expect to see high water levels in Brundall and Reedham riverside areas. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Saturday 17th September. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-16T08:59:00",
-      "timeRaised": "2022-09-16T08:59:57",
-      "timeSeverityChanged": "2022-09-16T08:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
@@ -141,6 +78,27 @@
       "timeSeverityChanged": "2022-09-16T09:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from 1pm this afternoon, Friday 16th September and over the next 24hrs. This is due to a natural tide locking effect. There is a heightened risk from overtopping at Haddiscoe New Cut as the embankment level has been reduced. We have reduced our Flood Alert threshold to reflect this. We expect to see high water levels at Beccles Quay. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Saturday 17th September. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-16T08:49:00",
+      "timeRaised": "2022-09-16T08:50:01",
+      "timeSeverityChanged": "2022-09-15T10:35:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
       "description": "The Suffolk coast at Southwold",
       "eaAreaName": "East Anglia",
@@ -160,6 +118,69 @@
       "timeMessageChanged": "2022-09-16T09:09:00",
       "timeRaised": "2022-09-16T09:10:00",
       "timeSeverityChanged": "2022-09-16T09:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "This flood alert for the North Sea coast from Staithes to Whitby including the tidal River Esk has been issued for today's tides. The area of particular concern is Sandsend, with wind driven wave overtopping expected from 08:00 until 12:15 on the morning tide, and from 20:30 until 00:15 on the evening tide, on Friday 16 September. Strong northerly winds are likely to produce overtopping waves and spray along the coast, especially around Sandsend. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast closely. This message will be updated by 21:00 today, Friday 16 September, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-16T08:22:00",
+      "timeRaised": "2022-09-16T08:22:36",
+      "timeSeverityChanged": "2022-09-15T14:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from 1pm this afternoon, Friday 16th September and over the next 24hrs. This is due to a natural tide locking effect. There is a heightened risk from overtopping at Haddiscoe New Cut as the embankment level has been reduced. We have reduced our Flood Alert threshold to reflect this. We expect to see high water levels in Brundall and Reedham riverside areas. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Saturday 17th September. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-16T08:59:00",
+      "timeRaised": "2022-09-16T08:59:57",
+      "timeSeverityChanged": "2022-09-16T08:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
+      "description": "North Sea coast from Whitby to Filey",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAC953",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC953",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued because some minor flooding to coastal roads and footpaths is likely Friday evening on 16/09/2022 between 08:30 PM and 11:30 PM.\n\nAreas most at risk include Marine Royal Albert Drive in Scarborough, and exposed coastal roads and promenades where the combination of wave action and spray is expected to cause hazardous conditions. Please be careful along beaches and exposed coastal areas as waves and spray may be unpredictable.\n\nWe continue to monitor the forecast closely. This message will be updated by 09:00 PM on 16/09/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-16T11:35:00",
+      "timeRaised": "2022-09-16T11:35:49",
+      "timeSeverityChanged": "2022-09-16T11:35:00"
     }
   ]
 }
