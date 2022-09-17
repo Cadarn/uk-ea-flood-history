@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "This alert is no longer in force due to improving weather conditions",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-17T08:46:00",
+      "timeRaised": "2022-09-17T08:46:50",
+      "timeSeverityChanged": "2022-09-17T08:46:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
       "description": "Tyne and Wear coast",
       "eaAreaName": "North East",
@@ -34,27 +55,6 @@
       "timeMessageChanged": "2022-09-17T08:25:00",
       "timeRaised": "2022-09-17T08:26:02",
       "timeSeverityChanged": "2022-09-17T08:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
-      "description": "Hunstanton coast in Norfolk",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
-        "county": "Norfolk",
-        "notation": "052WATCSTHUN",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "052WATCSTHUN",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \nCoastal conditions should ease for Saturday 17/09/2022.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  \nWe continue to monitor the situation. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-17T07:17:00",
-      "timeRaised": "2022-09-17T07:17:46",
-      "timeSeverityChanged": "2022-09-17T07:17:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
@@ -78,48 +78,6 @@
       "timeSeverityChanged": "2022-09-17T08:28:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
-      "description": "The Suffolk coast at Southwold",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
-        "county": "Suffolk",
-        "notation": "054WACDV3C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV3C",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-16T15:35:00",
-      "timeRaised": "2022-09-16T15:36:06",
-      "timeSeverityChanged": "2022-09-16T15:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
-      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
-        "county": "North Yorkshire, Redcar and Cleveland",
-        "notation": "122WAC952",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC952",
-      "isTidal": true,
-      "message": "This alert is no longer in force due to improving weather conditions",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-17T08:46:00",
-      "timeRaised": "2022-09-17T08:46:50",
-      "timeSeverityChanged": "2022-09-17T08:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
       "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -139,6 +97,48 @@
       "timeMessageChanged": "2022-09-17T08:21:00",
       "timeRaised": "2022-09-17T08:21:34",
       "timeSeverityChanged": "2022-09-16T08:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed.  \nCoastal conditions should ease for Saturday 17/09/2022.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  \nWe continue to monitor the situation. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-17T07:17:00",
+      "timeRaised": "2022-09-17T07:17:46",
+      "timeSeverityChanged": "2022-09-17T07:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-16T15:35:00",
+      "timeRaised": "2022-09-16T15:36:06",
+      "timeSeverityChanged": "2022-09-16T15:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
