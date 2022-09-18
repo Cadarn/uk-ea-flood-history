@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
-      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
-        "county": "North Yorkshire, Redcar and Cleveland",
-        "notation": "122WAC952",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC952",
-      "isTidal": true,
-      "message": "This alert is no longer in force due to improving weather conditions",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-17T08:46:00",
-      "timeRaised": "2022-09-17T08:46:50",
-      "timeSeverityChanged": "2022-09-17T08:46:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
       "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -49,12 +28,12 @@
       },
       "floodAreaID": "054WATBT2",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is possible from now, 8am Saturday 17th September, until tomorrow morning. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. The current series of high spring tides has now reached its peak, and will fall away over the next few days, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 8:30am tomorrow, Sunday 18th September. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-17T08:21:00",
-      "timeRaised": "2022-09-17T08:21:34",
-      "timeSeverityChanged": "2022-09-16T08:59:00"
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-18T08:47:00",
+      "timeRaised": "2022-09-18T08:47:21",
+      "timeSeverityChanged": "2022-09-18T08:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
@@ -76,27 +55,6 @@
       "timeMessageChanged": "2022-09-17T10:32:00",
       "timeRaised": "2022-09-17T10:33:07",
       "timeSeverityChanged": "2022-09-17T10:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC036",
-      "description": "North Sea at Sandsend",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036",
-        "county": "North Yorkshire",
-        "notation": "122FWC036",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122FWC036",
-      "isTidal": true,
-      "message": "This warning is no longer in force due to improving weather conditions",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-17T08:51:00",
-      "timeRaised": "2022-09-17T08:51:23",
-      "timeSeverityChanged": "2022-09-17T08:51:00"
     }
   ]
 }
