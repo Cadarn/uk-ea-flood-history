@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "This alert is no longer in force due to improving weather conditions",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-17T08:46:00",
+      "timeRaised": "2022-09-17T08:46:50",
+      "timeSeverityChanged": "2022-09-17T08:46:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
       "description": "Tyne and Wear coast",
       "eaAreaName": "North East",
@@ -36,27 +57,6 @@
       "timeSeverityChanged": "2022-09-17T08:25:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
-      "description": "Hunstanton coast in Norfolk",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
-        "county": "Norfolk",
-        "notation": "052WATCSTHUN",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "052WATCSTHUN",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \nCoastal conditions should ease for Saturday 17/09/2022.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  \nWe continue to monitor the situation. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-17T07:17:00",
-      "timeRaised": "2022-09-17T07:17:46",
-      "timeSeverityChanged": "2022-09-17T07:17:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
       "description": "The tidal River Waveney from Ellingham to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -76,27 +76,6 @@
       "timeMessageChanged": "2022-09-17T08:28:00",
       "timeRaised": "2022-09-17T08:28:36",
       "timeSeverityChanged": "2022-09-17T08:28:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
-      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
-        "county": "North Yorkshire, Redcar and Cleveland",
-        "notation": "122WAC952",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC952",
-      "isTidal": true,
-      "message": "This alert is no longer in force due to improving weather conditions",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-09-17T08:46:00",
-      "timeRaised": "2022-09-17T08:46:50",
-      "timeSeverityChanged": "2022-09-17T08:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
