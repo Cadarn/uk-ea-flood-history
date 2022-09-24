@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23East",
+      "description": "Tidal Thames riverside from Dartford Creek and The Mardyke to the Thames Barrier",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East",
+        "county": "Barking and Dagenham, Bexley, Greater London, Greenwich, Havering, Kent, Newham, Thurrock",
+        "notation": "063WAT23East",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23East",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result the Annual Test Closure of the Thames Barrier.\n\nWater will be maintained within the downstream network of flood defences, which include river walls, embankments and flood gates, however flooding of low lying footpaths and open spaces is possible for 1-2 hours around high tide.\n\nThe forecast high tide at the Thames Barrier is at 13:45 on 24/09/22.\n\nWe are closely monitoring the situation. Our incident response staff are out on the ground ensuring all flood gates are closed.\n\nMembers of the public are advised to avoid floodwater and also to keep abreast of updates to the forecast as further Thames Barrier closures are possible.\n\nThis message will be updated by 00:45 on 25/09/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-24T08:57:00",
+      "timeRaised": "2022-09-24T08:58:08",
+      "timeSeverityChanged": "2022-09-24T08:57:00"
+    }
+  ]
 }
