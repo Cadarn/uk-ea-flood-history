@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": " Strong winds and spring tides may cause large waves and spray overtopping on the coast and Humber Estuary tonight and tomorrow morning. Tides are expected to be higher than usual due to the forecast weather conditions during coming tides. Areas most at risk include low lying coastal frontages, in particular around Kilnsea and Spurn Road . Flooding is possible between 07:45 and 10:45, Tuesday 27/09/2022. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 17:00 PM on 27/09/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-27T09:02:00",
-      "timeRaised": "2022-09-27T09:03:55",
-      "timeSeverityChanged": "2022-09-25T16:50:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
       "description": "Humber estuary from Spurn Point to Winestead Outfall",
       "eaAreaName": "Yorkshire",
@@ -118,6 +97,27 @@
       "timeMessageChanged": "2022-09-27T09:09:00",
       "timeRaised": "2022-09-27T09:09:40",
       "timeSeverityChanged": "2022-09-27T09:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": " This alert is no longer in force, due to falling astronomical tide levels, and improving weather conditions.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-27T13:13:00",
+      "timeRaised": "2022-09-27T13:14:30",
+      "timeSeverityChanged": "2022-09-27T13:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
