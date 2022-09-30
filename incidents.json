@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2022-09-30T14:57:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
-      "description": "Upper River Calder catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963",
-        "county": "Bradford, Calderdale, Kirklees, Rochdale",
-        "notation": "123WAF963",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963/polygon",
-        "riverOrSea": "River Calder, Walsden Water, Hebden Water"
-      },
-      "floodAreaID": "123WAF963",
-      "isTidal": false,
-      "message": "River levels are forecast to rise as a result of heavy rainfall this afternoon.  Consequently, flooding of roads and farmland is possible between 14:00 and 22:00 today, 30/09/2022.  Areas most at risk are low lying land and roads.  We expect the river response to be largely in the upper end of the catchment where river levels will begin rising from around 13:00, peaking this afternoon from around 17:00 as the heaviest rain passes through. We are closely monitoring the situation and our incident response staff are clearing weed screens. Please avoid using low lying footpaths near local watercourses and stay aware in case further warnings are issued.  This message will be updated by 20:00 on 30/09/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-30T12:39:00",
-      "timeRaised": "2022-09-30T12:39:50",
-      "timeSeverityChanged": "2022-09-30T12:39:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
       "description": "Upper Dove",
       "eaAreaName": "West Midlands",
@@ -246,6 +225,90 @@
       "timeSeverityChanged": "2022-09-30T17:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLO",
+      "description": "Rivers Lowther and Eamont",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLO",
+        "county": "Cumbria",
+        "notation": "011WAFLO",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLO/polygon",
+        "riverOrSea": "River Lowther, River Eamont"
+      },
+      "floodAreaID": "011WAFLO",
+      "isTidal": false,
+      "message": "River levels have risen on the Rivers Lowther and Eamont due to recent rainfall.\nAreas most at risk include Rivers Eamont and Lowther to their confluence with the River Eden at Langwathby.\nWe are clearing debris from weed screens in the area.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-30T18:19:00",
+      "timeRaised": "2022-09-30T18:19:51",
+      "timeSeverityChanged": "2022-09-30T18:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
+      "description": "River Alt, Formby to Huyton",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
+        "county": "Knowsley, Lancashire, Liverpool, Sefton",
+        "notation": "012WAFAC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
+        "riverOrSea": "River Alt"
+      },
+      "floodAreaID": "012WAFAC",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Alt due to heavy rainfall.\nAreas most at risk include River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt.\nFlooding is possible at River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt from 18:30 PM on 30/09/2022.\nFurther rainfall is forecast this evening.\nRiver levels are expected to remain high at the Dovers Bridge; Kirkby gauge.\nWe are clearing debris from weed screens in the area.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 08:00 AM on 01/10/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-30T18:29:00",
+      "timeRaised": "2022-09-30T18:29:20",
+      "timeSeverityChanged": "2022-09-30T18:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
+      "description": "Upper River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963",
+        "county": "Bradford, Calderdale, Kirklees, Rochdale",
+        "notation": "123WAF963",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963/polygon",
+        "riverOrSea": "River Calder, Walsden Water, Hebden Water"
+      },
+      "floodAreaID": "123WAF963",
+      "isTidal": false,
+      "message": "The flood forecast has changed significantly and though levels in the Upper Calder have risen slightly this afternoon, they remain much lower than initially predicted. The heaviest rain has now passed so although there may be a further slight rise tonight with the remaining rainfall, we don't expect this to cause the river to rise to levels of concern. As levels are now below the flood risk threshold this flood alert is no longer in force.\n\nThere may be further rain overnight and through tomorrow, 1/10/22, however this will be localised and much lighter and is not expected to cause a significant rise in river levels. \n\nWe will continue to monitor levels closely. Please continue to take care on waterside roads and footpaths.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-30T18:11:00",
+      "timeRaised": "2022-09-30T18:11:43",
+      "timeSeverityChanged": "2022-09-30T18:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC48A",
+      "description": "River Rothay at Grasmere, White Bridge and Stock Lane",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC48A",
+        "county": "Cumbria",
+        "notation": "011FWFNC48A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC48A/polygon",
+        "riverOrSea": "River Rothay"
+      },
+      "floodAreaID": "011FWFNC48A",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-09-30T18:02:00",
+      "timeRaised": "2022-09-30T18:03:00",
+      "timeSeverityChanged": "2022-09-30T18:02:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC8A",
       "description": "River Ehen at Egremont, Bleach Green, Ennerdale Mill, Bridge End, Vale View, Wood Bank, Rugby Club",
       "eaAreaName": "Cumbria and Lancashire",
@@ -267,25 +330,25 @@
       "timeSeverityChanged": "2022-09-30T15:44:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC48A",
-      "description": "River Rothay at Grasmere, White Bridge and Stock Lane",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012FWFM21A",
+      "description": "Whinney Brook and Dovers Brook at Maghull, around Sefton Lane and the Waste Transfer Station",
       "eaAreaName": "Cumbria and Lancashire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC48A",
-        "county": "Cumbria",
-        "notation": "011FWFNC48A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011FWFNC48A/polygon",
-        "riverOrSea": "River Rothay"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFM21A",
+        "county": "Sefton",
+        "notation": "012FWFM21A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFM21A/polygon",
+        "riverOrSea": "Whinney Brook, Dovers Brook"
       },
-      "floodAreaID": "011FWFNC48A",
+      "floodAreaID": "012FWFM21A",
       "isTidal": false,
-      "message": "River levels are rising rapidly on the River Rothay due to heavy rainfall.\nThis Flood Warning has been issued because flooding is expected this evening on 30/09/2022 from 04:15 PM.\nAreas most at risk include River Rothay at Grasmere, White Bridge, Church Stile, Stock Lane and Lake View Drive areas.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
+      "message": "River levels are forecast to rise on the Whinney Brook and Dovers Brook due to heavy rainfall.\nFlooding is forecast to affect locations near the Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Sefton Lane near to Dovers Bridge including the Waste Transfer Station, Garden Centre and adjacent properties.\nFlooding is affecting properties on Sefton Lane near to Dovers Bridge including the Waste Transfer Station, Garden Centre and adjacent properties from 18:30 PM on 30/09/2022.\nFurther rainfall is forecast this evening.\nRiver levels are forecast to rise at the Dovers Bridge gauge.\nWe are clearing debris from weed screens in the area.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 08:00 AM on 01/10/2022, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2022-09-30T16:08:00",
-      "timeRaised": "2022-09-30T16:09:03",
-      "timeSeverityChanged": "2022-09-30T16:08:00"
+      "timeMessageChanged": "2022-09-30T18:24:00",
+      "timeRaised": "2022-09-30T18:25:11",
+      "timeSeverityChanged": "2022-09-30T18:24:00"
     }
   ]
 }
