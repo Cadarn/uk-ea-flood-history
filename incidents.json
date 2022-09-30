@@ -13,5 +13,69 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
+      "description": "Upper River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963",
+        "county": "Bradford, Calderdale, Kirklees, Rochdale",
+        "notation": "123WAF963",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963/polygon",
+        "riverOrSea": "River Calder, Walsden Water, Hebden Water"
+      },
+      "floodAreaID": "123WAF963",
+      "isTidal": false,
+      "message": "River levels are forecast to rise as a result of heavy rainfall this afternoon.  Consequently, flooding of roads and farmland is possible between 14:00 and 22:00 today, 30/09/2022.  Areas most at risk are low lying land and roads.  We expect the river response to be largely in the upper end of the catchment where river levels will begin rising from around 13:00, peaking this afternoon from around 17:00 as the heaviest rain passes through. We are closely monitoring the situation and our incident response staff are clearing weed screens. Please avoid using low lying footpaths near local watercourses and stay aware in case further warnings are issued.  This message will be updated by 20:00 on 30/09/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-30T12:39:00",
+      "timeRaised": "2022-09-30T12:39:50",
+      "timeSeverityChanged": "2022-09-30T12:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
+      "description": "Upper Dove",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315",
+        "county": "Derbyshire, Staffordshire",
+        "notation": "033WAF315",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315/polygon",
+        "riverOrSea": "River Dove"
+      },
+      "floodAreaID": "033WAF315",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Agnes Meadow Bridge river gauge as a result of heavy rainfall today.  Consequently, flooding of property, roads and farmland is possible between 15:00 today, Friday 30/09/22 and 03:00 tomorrow Saturday 01/10/22.  Flooding is affecting low-lying land and roads adjacent to the River Dove between Izaak Walton and Rocester and the Henmore Brook between Carsington Dam and Mayfield.   \n  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, Saturday 01/10/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-30T13:28:00",
+      "timeRaised": "2022-09-30T13:28:32",
+      "timeSeverityChanged": "2022-09-30T13:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF320",
+      "description": "Lower Dove Brooks in Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF320",
+        "county": "Derbyshire, Staffordshire",
+        "notation": "033WAF320",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF320/polygon",
+        "riverOrSea": "Marchington Brook, Picknall Brook, Rolleston Brook"
+      },
+      "floodAreaID": "033WAF320",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Uttoxeter river gauge as a result of heavy rainfall today.  Consequently, flooding of property, roads and farmland is possible between 15:00 and midnight today, Friday 30/09/22.  Flooding is affecting low-lying land and roads adjacent to the Picknall Brook, Marchington Brook and Rolleston Brook.   \n  \nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, Saturday 01/10/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-09-30T13:40:00",
+      "timeRaised": "2022-09-30T13:40:52",
+      "timeSeverityChanged": "2022-09-30T13:40:00"
+    }
+  ]
 }
