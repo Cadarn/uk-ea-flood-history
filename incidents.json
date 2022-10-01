@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
-      "description": "Rivers Duddon, Crake and Mill Beck",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
-        "county": "Cumbria",
-        "notation": "011WAFDU",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
-        "riverOrSea": "River Duddon, River Crake, Mill Beck"
-      },
-      "floodAreaID": "011WAFDU",
-      "isTidal": false,
-      "message": "River levels are rising rapidly on the Rivers Duddon, Crake and Mill Beck due to recent heavy rainfall. \nRiver levels are expected to begin falling overnight as rainfall eases.\nAreas most at risk include Rivers Duddon, Crake and Mill Beck and other watercourses, from Coniston to Barrow-in-Furness including low lying areas around Ulpha, Duddon Bridge, Broughton in Furness, Kirkby-in-Furness, Dalton in Furness and Ulverston.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-30T14:57:00",
-      "timeRaised": "2022-09-30T14:57:50",
-      "timeSeverityChanged": "2022-09-30T14:57:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
       "description": "North Sea coast at Withernsea, Easington and Kilnsea",
       "eaAreaName": "Yorkshire",
@@ -78,6 +57,27 @@
       "timeSeverityChanged": "2022-09-30T19:54:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 13:30pm and 17:30pm today, Saturday 1st October. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.74mAODN at 15:30pm, on Saturday 1st October, which is 0.53m above tide tables, wind Force 6, westerly. mAODN is height above average sea level, for more information refer to local tide tables. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 18:45pm on Saturday 1st October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-01T09:27:00",
+      "timeRaised": "2022-10-01T09:27:52",
+      "timeSeverityChanged": "2022-10-01T09:27:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
       "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -99,69 +99,6 @@
       "timeSeverityChanged": "2022-10-01T08:52:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
-      "description": "Rivers Brathay, Rothay and Winster",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
-        "county": "Cumbria",
-        "notation": "011WAFBR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
-        "riverOrSea": "River Brathay, River Rothay, River Winster"
-      },
-      "floodAreaID": "011WAFBR",
-      "isTidal": false,
-      "message": "River levels are rising rapidly on the Rivers Brathay, Rothay and Winster due to recent heavy rainfall.\nAreas most at risk include Rivers Brathay, Rothay and Winster and other watercourses, from Grasmere to Grange-over-Sands including low lying areas around Ambleside, Skelwith Bridge, Windermere, Hawkshead, Newby Bridge, Backbarrow, Cark and Cartmel.\nRiver levels will start to fall as the rain eases later today, 30/09/2022.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-30T14:35:00",
-      "timeRaised": "2022-09-30T14:35:21",
-      "timeSeverityChanged": "2022-09-30T14:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
-      "description": "Rivers Ehen, Calder, Irt and Esk",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
-        "county": "Cumbria",
-        "notation": "011WAFED",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
-        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
-      },
-      "floodAreaID": "011WAFED",
-      "isTidal": false,
-      "message": "River levels are rising rapidly on the Rivers Ehen, Calder, Irt and Esk due to recent heavy rainfall.\nRiver levels are forecast to begin falling this evening as rainfall eases.\nAreas most at risk include Rivers Ehen, Calder, Irt and Esk and other watercourses, from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-30T14:46:00",
-      "timeRaised": "2022-09-30T14:46:49",
-      "timeSeverityChanged": "2022-09-30T14:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFCD",
-      "description": "Rivers Cocker, Marron and Derwent",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD",
-        "county": "Cumbria",
-        "notation": "011WAFCD",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD/polygon",
-        "riverOrSea": "River Cocker, River Marron, River Derwent"
-      },
-      "floodAreaID": "011WAFCD",
-      "isTidal": false,
-      "message": "River levels are high on the Rivers Cocker, Marron and Derwent due to recent heavy rainfall.\nAreas most at risk include Lower Derwent from Bassenthwaite Lake to the coast at Workington. The Cocker from Crummock Water to Cockermouth. The River Marron from Ullock to its confluence with the Derwent near Bridgefoot.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-09-30T17:10:00",
-      "timeRaised": "2022-09-30T17:11:10",
-      "timeSeverityChanged": "2022-09-30T17:10:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -175,11 +112,11 @@
       },
       "floodAreaID": "011WAFDW",
       "isTidal": false,
-      "message": "River and Lake levels are high on the Upper River Derwent, Stonethwaite Beck and Derwent Water are steadily rising due to recent heavy rainfall.\nRiver and lake levels are forecast to begin falling tomorrow morning as rainfall eases.\nFlooding is forecast to affect locations near the Upper River Derwent, Stonethwaite Beck and Derwent Water, with low lying land expected to be most affected, particularly around The Upper Derwent from Seathwaite to Derwent Water.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/10/2022, or as the situation changes.",
+      "message": "River and lake levels are remaining high on the Upper River Derwent, Stonethwaite Beck and Derwent Water due to yesterday's heavy rainfall. The lake level is forecast to remain above the Flood Alert threshold until midday Sunday 02/10/2022. \nFlooding could affect locations near the Upper River Derwent, Stonethwaite Beck and Derwent Water, with low lying land expected to be most affected, particularly around The Upper Derwent from Seathwaite to Derwent Water.\nRiver and lake levels are forecast to begin falling, but the risk of flooding to low-lying land remains. \nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 02/10/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-09-30T20:07:00",
-      "timeRaised": "2022-09-30T20:07:26",
+      "timeMessageChanged": "2022-10-01T09:34:00",
+      "timeRaised": "2022-10-01T09:34:54",
       "timeSeverityChanged": "2022-09-30T20:07:00"
     },
     {
@@ -223,6 +160,69 @@
       "timeMessageChanged": "2022-10-01T09:03:00",
       "timeRaised": "2022-10-01T09:03:47",
       "timeSeverityChanged": "2022-10-01T09:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:15am and 15:15pm today, Saturday 1st October. Tides are expected to be higher than usual, due to the forecast weather conditions. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast for those that use it is for a peak level at Lowestoft of 1.74mAODN at 13:15pm, Saturday 1st October, which is 0.68m above tide tables, wind Force 5, westerly. mAODN is height above average sea level, for more information refer to local tide tables. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 18:00pm today, Saturday 1st October.\t",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-01T09:19:00",
+      "timeRaised": "2022-10-01T09:19:56",
+      "timeSeverityChanged": "2022-10-01T09:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:15am and 15:15pm today, Saturday 1st October. Tides are expected to be higher than usual, due to the forecast weather conditions. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 1.74mAODN at 13:15pm, Saturday 1st October, which is 0.68m above tide tables, wind Force 5, westerly. mAODN is height above average sea level, for more information refer to local tide tables. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 18:00pm today, Saturday 1st October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-01T09:19:00",
+      "timeRaised": "2022-10-01T09:19:41",
+      "timeSeverityChanged": "2022-10-01T09:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
+      "description": "Rivers Duddon, Crake and Mill Beck",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU",
+        "county": "Cumbria",
+        "notation": "011WAFDU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDU/polygon",
+        "riverOrSea": "River Duddon, River Crake, Mill Beck"
+      },
+      "floodAreaID": "011WAFDU",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-01T09:21:00",
+      "timeRaised": "2022-10-01T09:21:50",
+      "timeSeverityChanged": "2022-10-01T09:21:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
@@ -330,6 +330,48 @@
       "timeSeverityChanged": "2022-10-01T08:03:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
+      "description": "Rivers Brathay, Rothay and Winster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
+        "county": "Cumbria",
+        "notation": "011WAFBR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
+        "riverOrSea": "River Brathay, River Rothay, River Winster"
+      },
+      "floodAreaID": "011WAFBR",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-01T09:19:00",
+      "timeRaised": "2022-10-01T09:19:26",
+      "timeSeverityChanged": "2022-10-01T09:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumbria",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-01T09:24:00",
+      "timeRaised": "2022-10-01T09:24:16",
+      "timeSeverityChanged": "2022-10-01T09:24:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF939",
       "description": "Upper River Ure",
       "eaAreaName": "Yorkshire",
@@ -414,6 +456,27 @@
       "timeSeverityChanged": "2022-09-30T20:26:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFCD",
+      "description": "Rivers Cocker, Marron and Derwent",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD",
+        "county": "Cumbria",
+        "notation": "011WAFCD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFCD/polygon",
+        "riverOrSea": "River Cocker, River Marron, River Derwent"
+      },
+      "floodAreaID": "011WAFCD",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-01T09:26:00",
+      "timeRaised": "2022-10-01T09:26:36",
+      "timeSeverityChanged": "2022-10-01T09:26:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLO",
       "description": "Rivers Lowther and Eamont",
       "eaAreaName": "Cumbria and Lancashire",
@@ -496,6 +559,27 @@
       "timeMessageChanged": "2022-10-01T08:17:00",
       "timeRaised": "2022-10-01T08:17:55",
       "timeSeverityChanged": "2022-10-01T08:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT3B",
+      "description": "Isolated low lying properties along the tidal River Waveney",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT3B",
+        "county": "Norfolk, Suffolk",
+        "notation": "054FWTBT3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT3B/polygon",
+        "riverOrSea": "River Waveney"
+      },
+      "floodAreaID": "054FWTBT3B",
+      "isTidal": true,
+      "message": "This message has been issued because flooding of homes and businesses is possible from 11:45am today, Saturday 1st October. Water levels are expected to continue to rise gradually over the next few hours. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. Areas most at risk are in St Olaves, Somerleyton, Burgh St Peter, Oulton Broad and Beccles. Roads likely to be affected include Beccles Road at St Olaves, Geldeston Lock Lane, Gillingham Dam and Fen Lane in Beccles. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 9:00am tomorrow, Sunday 2nd October.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-10-01T10:01:00",
+      "timeRaised": "2022-10-01T10:01:49",
+      "timeSeverityChanged": "2022-10-01T10:01:00"
     }
   ]
 }
