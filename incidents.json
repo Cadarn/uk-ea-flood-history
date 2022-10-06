@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
-      "description": "Rivers Ehen, Calder, Irt and Esk",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
-        "county": "Cumbria",
-        "notation": "011WAFED",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
-        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
-      },
-      "floodAreaID": "011WAFED",
-      "isTidal": false,
-      "message": "River levels have risen on the Rivers Ehen, Calder, Irt and Esk due to recent rainfall. Further rainfall is forecast today Wednesday 5/10/22. We expect river levels to rise further but then peak in the early afternoon, falling slowly overnight into Thursday. Areas most at risk include Rivers Ehen, Calder, Irt and Esk and other watercourses, from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle. We are clearing debris from weed screens in the area and will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 11:00 AM on 06/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-05T09:41:00",
-      "timeRaised": "2022-10-05T09:41:21",
-      "timeSeverityChanged": "2022-10-04T20:44:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFCD",
       "description": "Rivers Cocker, Marron and Derwent",
       "eaAreaName": "Cumbria and Lancashire",
@@ -49,11 +28,11 @@
       },
       "floodAreaID": "011WAFCD",
       "isTidal": false,
-      "message": "River levels have risen on the Rivers Cocker, Marron and Derwent due to recent rainfall. We expect levels to continue to rise until early afternoon today Wednesday 5/10/22, with rainfall forecast to ease through the day. Areas most at risk include Lower Derwent from Bassenthwaite Lake to the coast at Workington, the Cocker from Crummock Water to Cockermouth,  and the River Marron from Ullock to its confluence with the Derwent near Bridgefoot. We are clearing debris from weed screens in the area and will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 11:00 AM on 06/10/2022, or as the situation changes.",
+      "message": "River and lake levels have peaked and are starting to recede following recent rainfall. The forecast is improving from yesterday with the possibility of only a few showers. Rivers and Lakes levels will continue to recede during today.  Areas most at risk include Lower Derwent from Bassenthwaite Lake to the coast at Workington, the Cocker from Crummock Water to Cockermouth, and the River Marron from Ullock to its confluence with the Derwent near Bridgefoot. We continue to monitor levels closely and are clearing debris from weed screens in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated tomorrow morning 07/10/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-10-05T09:25:00",
-      "timeRaised": "2022-10-05T09:25:41",
+      "timeMessageChanged": "2022-10-06T09:10:00",
+      "timeRaised": "2022-10-06T09:10:44",
       "timeSeverityChanged": "2022-10-04T20:44:00"
     },
     {
@@ -70,12 +49,33 @@
       },
       "floodAreaID": "011WAFDW",
       "isTidal": false,
-      "message": "River and lake levels have risen steadily on the River Greta, River Derwent, Derwent Water. Further rainfall is expected during today Wednesday 5/10/22 but this is forecast to become less intense through the day. We expect river and lake levels to start to fall overnight tonight. Levels are forecast to continue to fall tomorrow Thursday, with a drier day in prospect. Areas most at risk are the Upper Derwent from Seathwaite to Derwent Water. We are clearing debris from weed screens in the area and will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 11:00 AM on 06/10/2022, or as the situation changes.",
+      "message": "River and lake levels are starting to recede following recent rainfall. The forecast is improving from yesterday with the possibility of only a few showers. Rivers and Lakes levels will continue to recede during today, however Derwent Water will remain high affecting low lying areas bordering the shores of Derwent Water.  Areas most at risk are the Upper Derwent from Seathwaite to Derwent Water. We continue to monitor levels closely and are clearing debris from weed screens in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated tomorrow morning 07/10/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-10-05T09:46:00",
-      "timeRaised": "2022-10-05T09:46:48",
+      "timeMessageChanged": "2022-10-06T09:10:00",
+      "timeRaised": "2022-10-06T09:10:52",
       "timeSeverityChanged": "2022-10-04T11:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumbria",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-06T09:04:00",
+      "timeRaised": "2022-10-06T09:04:29",
+      "timeSeverityChanged": "2022-10-06T09:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
@@ -91,12 +91,12 @@
       },
       "floodAreaID": "011WAFEI",
       "isTidal": false,
-      "message": "River levels are high on the Rivers Esk and Irthing due to recent rainfall.\nFurther rainfall is forecast this morning which may cause river levels to remain high throughout the day.\nAreas most at risk include Rivers Esk and Irthing and other watercourses, including low lying areas around Longtown and Brampton.\nWe are clearing debris from weed screens in the area and will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 06/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-05T09:11:00",
-      "timeRaised": "2022-10-05T09:11:23",
-      "timeSeverityChanged": "2022-10-05T09:11:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-06T09:04:00",
+      "timeRaised": "2022-10-06T09:04:25",
+      "timeSeverityChanged": "2022-10-06T09:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
@@ -112,12 +112,12 @@
       },
       "floodAreaID": "011WAFLE",
       "isTidal": false,
-      "message": "River levels are steadily rising on the Lower River Eden due to rainfall.\nFlooding is forecast to affect locations near the Lower River Eden, with low lying land expected to be most affected, particularly around River Eden and its tributaries from its confluence with the River Irthing through Crosby-on-Eden and Carlisle to the Solway Firth at Rockcliffe.\nFlooding is possible at River Eden and its tributaries from its confluence with the River Irthing through Crosby-on-Eden and Carlisle to the Solway Firth at Rockcliffe.\nShowers, heavy at times will continue with the River Eden forecast to peak at 9pm this evening, 05/10/2022.\nWe are monitoring the situation and actively checking rivers for blockages.\nAvoid using low lying footpaths or roads that may be affected.  Do not attempt to walk or drive through flood water.\nThis message will be updated tomorrow 06/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-05T15:57:00",
-      "timeRaised": "2022-10-05T15:57:43",
-      "timeSeverityChanged": "2022-10-05T15:57:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-06T09:04:00",
+      "timeRaised": "2022-10-06T09:04:23",
+      "timeSeverityChanged": "2022-10-06T09:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
@@ -133,11 +133,11 @@
       },
       "floodAreaID": "011FWFNC6KC",
       "isTidal": false,
-      "message": "River and lake levels continue to rise steadily on the River Greta, River Derwent and Derwent Water due to rainfall. The forecast is for rainfall to ease during the remainder of today which will steady any rise into this evening.  River and Lake levels are due to start receding overnight.   Areas most at risk include low lying areas bordering the shores of Derwent Water and the frontage of the Keswick Camping and Caravan Club Site. We are clearing debris from weed screens in the area and will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated tomorrow, 06/10/2022 or as the situation changes.",
+      "message": "River and lake levels have now peaked and are starting to recede on the River Greta, River Derwent and Derwent Water. The forecast is improving from yesterday with the possibility of only a few showers. Rivers and Lakes levels will continue to recede during today, however Derwent Water will remain high affecting low lying areas bordering the shores of Derwent Water and the Keswick Camping and Caravan Club Site. We continue to monitor levels closely and are clearing debris from weed screens in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated later today 06/10/2022 or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2022-10-05T16:09:00",
-      "timeRaised": "2022-10-05T16:09:23",
+      "timeMessageChanged": "2022-10-06T09:15:00",
+      "timeRaised": "2022-10-06T09:15:19",
       "timeSeverityChanged": "2022-10-04T21:00:00"
     }
   ]
