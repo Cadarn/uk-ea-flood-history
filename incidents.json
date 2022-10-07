@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF909",
-      "description": "River South Tyne",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF909",
-        "county": "Cumbria, Northumberland",
-        "notation": "121WAF909",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF909/polygon",
-        "riverOrSea": "River Tyne, River Allen"
-      },
-      "floodAreaID": "121WAF909",
-      "isTidal": false,
-      "message": "Levels on the River South Tyne at Alston and Featherstone have risen as a result of heavy rainfall overnight. Rainfall in the area is easing and river levels are currently expected to peak this afternoon. Consequently, flooding of low lying roads, riverside footpaths and farmland is possible between 11:00 and 16:00 today, 07/10/2022.  \n\nWe are closely monitoring the situation and we do not currently expect to issue any flood warnings. Please avoid using low lying footpaths near local watercourses.  \n\nThis message will be updated by 17:00 on 07/10/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-07T11:03:00",
-      "timeRaised": "2022-10-07T11:03:34",
-      "timeSeverityChanged": "2022-10-07T11:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -76,6 +55,27 @@
       "timeMessageChanged": "2022-10-07T12:30:00",
       "timeRaised": "2022-10-07T12:31:15",
       "timeSeverityChanged": "2022-10-07T12:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF909",
+      "description": "River South Tyne",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF909",
+        "county": "Cumbria, Northumberland",
+        "notation": "121WAF909",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF909/polygon",
+        "riverOrSea": "River Tyne, River Allen"
+      },
+      "floodAreaID": "121WAF909",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \n\nThe risk of flooding from the River South Tyne has now reduced. We expect river levels to continue to fall throughout this afternoon (Friday, 07/10/2022). \n\nNo further flooding to low lying roads, riverside footpaths and farmland is expected, however there may be standing water. \n\nWe will continue to monitor river levels closely. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-07T14:36:00",
+      "timeRaised": "2022-10-07T14:36:57",
+      "timeSeverityChanged": "2022-10-07T14:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFCD",
