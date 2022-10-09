@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2022-10-09T13:42:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to strong winds and spring tides which may cause large waves and spray overtopping on the coast tomorrow morning. Tides are expected to be higher than usual due to the forecast weather conditions during coming tides. Highest tide level is expected to be at Kilnsea Village, between 05:00 AM and 05:30 AM on 10/10/2022. We are expecting higher than normal tides over the next few days and as a result we may issue further alerts. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated following the tide tomorrow morning, 10/10/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-09T19:11:00",
+      "timeRaised": "2022-10-09T19:12:14",
+      "timeSeverityChanged": "2022-10-09T19:11:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
       "description": "Humber estuary from Spurn Point to Winestead Outfall",
       "eaAreaName": "Yorkshire",
@@ -475,6 +496,27 @@
       "timeMessageChanged": "2022-10-09T10:42:00",
       "timeRaised": "2022-10-09T10:42:20",
       "timeSeverityChanged": "2022-10-04T21:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
+      "description": "North Sea coast at Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC007",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC007",
+      "isTidal": true,
+      "message": "This flood warning has been issued due to the high tide forecast between 05:00 AM and 05:30 AM on 10/10/2022. We are expecting further unsettled weather which will may mean similar impacts for the next high tide tomorrow morning. The area most at risk is Southfield Farm. We are expecting higher than normal tides over the next few days and as a result we may issue further warnings. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated following the tide tomorrow morning, 10/10/2022, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-10-09T19:10:00",
+      "timeRaised": "2022-10-09T19:11:04",
+      "timeSeverityChanged": "2022-10-09T19:10:00"
     }
   ]
 }
