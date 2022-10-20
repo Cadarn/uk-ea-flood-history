@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": " No further flood impacts are expected in this area, and the flood alert has been removed for the North Sea Coast at Bridlington this morning (Thursday). We will continue to monitor the situation and issue alerts and warnings as necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-10-20T09:56:00",
-      "timeRaised": "2022-10-20T09:56:27",
-      "timeSeverityChanged": "2022-10-20T09:56:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
       "description": "River Maun in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -118,6 +97,48 @@
       "timeMessageChanged": "2022-10-20T12:33:00",
       "timeRaised": "2022-10-20T12:34:14",
       "timeSeverityChanged": "2022-10-20T12:33:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATCHXH",
+      "isTidal": true,
+      "message": "Friday morning's tide at 09:30 AM is higher than normal due to unsettled weather with southerly force 7 winds and large waves.\nAreas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon.\n\nFlooding is possible at Christchurch Harbour and tidal stretches of the Lower Stour and Avon between 09:00 AM and 10:30 AM on 21/10/2022.\n\nThe tide at 08:15 PM on 21/10/2022 is also currently forecast to be a Flood Alert, we will send an update once this current tide has passed.\n\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nConsider activating any property flood protection products in the Christchurch Harbour area.\nThis message will be updated by 11:00 AM on 21/10/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-20T14:43:00",
+      "timeRaised": "2022-10-20T14:43:58",
+      "timeSeverityChanged": "2022-10-20T14:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": " No further flood impacts are expected in this area, and the flood alert has been removed for the North Sea Coast at Bridlington this morning (Thursday). We will continue to monitor the situation and issue alerts and warnings as necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-20T09:56:00",
+      "timeRaised": "2022-10-20T09:56:27",
+      "timeSeverityChanged": "2022-10-20T09:56:00"
     }
   ]
 }
