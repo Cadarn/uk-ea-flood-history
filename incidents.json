@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
+      "description": "River Foulness and Market Weighton catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAF974",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
+        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
+      },
+      "floodAreaID": "122WAF974",
+      "isTidal": false,
+      "message": " \nThe Flood Alert for the River Foulness and Market Weighton remains in force due to recent rainfall causing river levels to rise. The area of particular concern is around South Cave, and flooding of low lying roads, farmlands and paths in this area may still be possible. We are monitoring the situation closely, and will update this message by 5 PM on Friday 21/10/2022, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-21T09:00:00",
+      "timeRaised": "2022-10-21T09:00:19",
+      "timeSeverityChanged": "2022-10-20T12:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
       "description": "River Maun in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -78,27 +99,6 @@
       "timeSeverityChanged": "2022-10-20T17:04:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
-      "description": "River Foulness and Market Weighton catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAF974",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
-        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
-      },
-      "floodAreaID": "122WAF974",
-      "isTidal": false,
-      "message": " \nThe Flood Alert for the River Foulness and Market Weighton remains in force due to recent rainfall causing river levels to rise. The area of particular concern is around South Cave, and flooding of low lying roads, farmlands and paths in this area may still be possible. We are monitoring the situation closely, and will update this message by 5 PM on Friday 21/10/2022, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-21T09:00:00",
-      "timeRaised": "2022-10-21T09:00:19",
-      "timeSeverityChanged": "2022-10-20T12:33:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
       "description": "Christchurch Harbour",
       "eaAreaName": "Wessex",
@@ -133,12 +133,12 @@
       },
       "floodAreaID": "111WACECD",
       "isTidal": true,
-      "message": "Friday morning's tide at 11:00 AM is higher than normal due to unsettled weather with southerly force 6 winds and large waves.\n\nHighest tide level is expected to be at Swanage Bay at 11:00 AM on 21/10/2022. Flooding is possible 1 hour either side of this time.\nAfter this tide‚ the weather is more settled and no further impacts are expected.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nWe will update this message by 01:00 PM on 21/10/2022.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-21T10:17:00",
-      "timeRaised": "2022-10-21T10:18:11",
-      "timeSeverityChanged": "2022-10-21T10:17:00"
+      "message": "The next high tide is expected to be higher than normal and may result in us issuing a further alert for the East Coast of Dorset at Preston Beach.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-21T13:14:00",
+      "timeRaised": "2022-10-21T13:14:49",
+      "timeSeverityChanged": "2022-10-21T13:14:00"
     }
   ]
 }
