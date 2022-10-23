@@ -175,12 +175,12 @@
       },
       "floodAreaID": "061WAF07Cole",
       "isTidal": false,
-      "message": "\"Property flooding is not currently expected.\nRiver levels have risen on the River Cole and Dorcan Brook following rainfall overnight and this morning, 23/10/22. Therefore, flooding of low-lying land, footpaths and roads is imminent, especially in the Covingham area of Swindon. \nFurther rainfall is forecast this morning, clearing by early afternoon, before further scattered showers this evening. We expect river levels to remain high for most of today.\nWe are closely monitoring the situation. Our incident response staff will be in the area clearing weed/trash screens. \nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated this evening, 23/10/22, or as the situation changes.\"\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-23T09:33:00",
-      "timeRaised": "2022-10-23T09:33:19",
-      "timeSeverityChanged": "2022-10-23T09:33:00"
+      "message": "\"This Flood Alert has been removed. \nRiver levels are below the flood risk threshold and are forecast to remain below the threshold despite further rain this evening, 23/10/22. We will continue to monitor the forecast and re-issue this alert if necessary. Further thunderstorms are forecast until the early hours of tomorrow morning, with low confidence over exact timing and locations. \nWe continue to monitor the situation.\nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-23T19:03:00",
+      "timeRaised": "2022-10-23T19:03:48",
+      "timeSeverityChanged": "2022-10-23T19:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWEYR",
@@ -217,11 +217,11 @@
       },
       "floodAreaID": "061WAF30UpperWey",
       "isTidal": false,
-      "message": "Property flooding is not currently expected.\nRiver levels are rising on the upper River Wey as a result of heavy rainfall overnight and this morning. Flooding of low lying footpaths roads and farmland is possible later today, 23/10/22, especially in the Bordon area.  \nFurther thunderstorms are forecast during Sunday afternoon and evening, and showers may become organised into bands of rain. However there is low confidence over exact timing and locations. Once the risk of thunderstorms has passed by Monday morning, 24/10/22, we expect river levels to begin falling, but levels do remain sensitive to further rainfall. \nPlease avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated later today, 23/10/22, by 19:00, or earlier if the situation changes.",
+      "message": "Property flooding is not currently expected.\nRiver levels remain high on the upper River Wey as a result of heavy rainfall overnight, and earlier this afternoon. Flooding of low lying footpaths roads and farmland is possible this evening, 23/10/22, and overnight, especially in the Bordon area.  \nFurther thunderstorms are forecast during Sunday evening, however there is low confidence over exact timing and locations. Once the risk of thunderstorms has passed by Monday morning, 24/10/22, we expect river levels to begin falling, but levels do remain sensitive to further rainfall. \nPlease avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \nThis message will be updated tomorrow morning.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-10-23T10:47:00",
-      "timeRaised": "2022-10-23T10:47:49",
+      "timeMessageChanged": "2022-10-23T18:59:00",
+      "timeRaised": "2022-10-23T18:59:15",
       "timeSeverityChanged": "2022-10-22T18:43:00"
     },
     {
@@ -827,6 +827,48 @@
       "timeMessageChanged": "2022-10-23T17:21:00",
       "timeRaised": "2022-10-23T17:21:37",
       "timeSeverityChanged": "2022-10-23T17:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3SMES03",
+      "description": "Smestow Brook at Hinksford",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3SMES03",
+        "county": "Staffordshire",
+        "notation": "033FWF3SMES03",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3SMES03/polygon",
+        "riverOrSea": "Smestow Brook"
+      },
+      "floodAreaID": "033FWF3SMES03",
+      "isTidal": false,
+      "message": "River levels have risen at the Swindon river gauge as a result of heavy rainfall throughout today 23/10/2022. Consequently, flooding to property is possible overnight and into tomorrow morning (24/10/22). Further heavy rainfall is forecast over the next 24 hours. We expect river levels to remain high until Monday 24/10/22.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast and clearing weed screens. \nPlease activate any property flood protection products you may have, such as flood barriers and air brick covers. Avoid contact with flood water and call 999 if in immediate danger. This message will be updated tomorrow morning, 24/10/2022, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-10-23T18:23:00",
+      "timeRaised": "2022-10-23T18:23:43",
+      "timeSeverityChanged": "2022-10-23T18:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF29Chertsey",
+      "description": "Chertsey Bourne",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey",
+        "county": "Bracknell Forest, Surrey, Windsor and Maidenhead",
+        "notation": "061WAF29Chertsey",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey/polygon",
+        "riverOrSea": "Chertsey Bourne, The Moat, Moat"
+      },
+      "floodAreaID": "061WAF29Chertsey",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising on the Chertsey Bourne as a result of heavy rainfall earlier this afternoon. Flooding of low lying footpaths roads and farmland is possible this evening, 23/10/22, and overnight. Further thunderstorms are forecast during Sunday evening, however there is low confidence over exact timing and locations. Once the risk of thunderstorms has passed by Monday morning, 24/10/22, we expect river levels to begin falling, but levels do remain sensitive to further rainfall. \nPlease avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. This message will be updated tomorrow morning.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-23T19:16:00",
+      "timeRaised": "2022-10-23T19:16:41",
+      "timeSeverityChanged": "2022-10-23T19:16:00"
     }
   ]
 }
