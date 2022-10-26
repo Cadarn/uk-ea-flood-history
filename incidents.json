@@ -133,12 +133,12 @@
       },
       "floodAreaID": "122WAT957",
       "isTidal": true,
-      "message": " The flood alert for the Humber estuary from Spurn Point to Winestead Outfall has been as strong winds and unsettled weather may cause large waves and spray overtopping on the coast tomorrow morning, Wednesday 26/10/2022. The particular area at risk is around Kilnsea village. Flooding of low lying land and coastal roads is possible between 6 AM and 9 AM on Wednesday 26/10/2022. Please be careful along beaches, coastal and estuary footpaths and roads in the area, as large waves and sea spray can be dangerous. We will continue to monitor the forecast closely. This alert may also need to be in force for high tides on Thursday 27/10/2022 and Friday 28/10/2022. This message will be updated by 1 PM on Wednesday, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-25T14:30:00",
-      "timeRaised": "2022-10-25T14:30:16",
-      "timeSeverityChanged": "2022-10-25T14:30:00"
+      "message": "This flood alert has now been removed as the high tide has passed. We will continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-26T10:03:00",
+      "timeRaised": "2022-10-26T10:04:00",
+      "timeSeverityChanged": "2022-10-26T10:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
@@ -154,12 +154,12 @@
       },
       "floodAreaID": "122WAC956",
       "isTidal": true,
-      "message": " This flood alert for the North Sea coast at Withernsea, Easington and Kilnsea has been issued as strong winds and unsettled weather may cause large waves and spray overtopping on the coast tomorrow morning, Wednesday 26/10/2022. Areas most at risk include low lying coastal frontages, in particular around Kilnsea Caravan Park, Southfield Farm coastal side and Spurn Road. Flooding of low lying land and coastal roads is possible between 5:30 AM and 8:30 AM on Wednesday 26/10/2022. We will continue to monitor the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This alert may also need to be in force for high tides on Thursday 27/10/2022 and Friday 28/10/2022. This message will be updated by 1 PM on Wednesday, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-25T14:27:00",
-      "timeRaised": "2022-10-25T14:28:28",
-      "timeSeverityChanged": "2022-10-25T14:27:00"
+      "message": "This flood alert has now been removed as the high tide has passed. We will continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-26T10:00:00",
+      "timeRaised": "2022-10-26T10:01:08",
+      "timeSeverityChanged": "2022-10-26T10:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -244,27 +244,6 @@
       "timeMessageChanged": "2022-10-25T11:30:00",
       "timeRaised": "2022-10-25T11:30:39",
       "timeSeverityChanged": "2022-10-25T11:30:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF29Chertsey",
-      "description": "Chertsey Bourne",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey",
-        "county": "Bracknell Forest, Surrey, Windsor and Maidenhead",
-        "notation": "061WAF29Chertsey",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF29Chertsey/polygon",
-        "riverOrSea": "Chertsey Bourne, The Moat, Moat"
-      },
-      "floodAreaID": "061WAF29Chertsey",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. River levels have now fallen below the flood risk threshold. There is no longer a threat of flooding, though standing water and debris may still remain. The forecast for today is mostly dry with some lighter rain showers possible this afternoon and overnight.\nWe will continue to monitor the forecast and re-issue this alert if necessary. Please remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-10-25T09:49:00",
-      "timeRaised": "2022-10-25T09:49:26",
-      "timeSeverityChanged": "2022-10-25T09:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
@@ -664,6 +643,27 @@
       "timeMessageChanged": "2022-10-26T08:36:00",
       "timeRaised": "2022-10-26T08:36:48",
       "timeSeverityChanged": "2022-10-26T08:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN5",
+      "description": "Coast at Barrow in Furness",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN5",
+        "county": "Cumbria",
+        "notation": "011WACN5",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN5/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN5",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:15 PM on 26/10/2022.\nFlooding is possible at Vickerstown between 10:15 AM and 02:15 PM on 26/10/2022.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-26T09:51:00",
+      "timeRaised": "2022-10-26T09:51:18",
+      "timeSeverityChanged": "2022-10-26T09:51:00"
     }
   ]
 }
