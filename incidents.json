@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 12:45 and 14:45 this afternoon, Thursday 27th October. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may experience some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.74 mAODN at 13:45, on Thursday 27th October, which is 0.11m above tide tables, wind Force 4, southerly. (mAODN is height above average sea level, for more info refer to local tide tables). The current series of high spring tides has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 5pm today, 27th October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-27T09:19:00",
+      "timeRaised": "2022-10-27T09:20:00",
+      "timeSeverityChanged": "2022-10-27T09:19:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
       "description": "North Sea coast at Hornsea",
       "eaAreaName": "Yorkshire",
@@ -28,12 +49,12 @@
       },
       "floodAreaID": "122FWC003",
       "isTidal": true,
-      "message": "The flood warning for the North Sea Coast at Hornsea has been issued as strong winds and unsettled weather may cause large waves and spray overtopping on the coast tomorrow, Thursday 27/10/2022, particularly from 6:30pm to 8:00am and from 6:45 to 8:15pm. The area most at risk is Hornsea North Promenade. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated following the tide tomorrow morning, 27/10/2022, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-10-26T15:17:00",
-      "timeRaised": "2022-10-26T15:17:39",
-      "timeSeverityChanged": "2022-10-26T15:17:00"
+      "message": "This flood warning has now been removed as the morning high tide has passed. However we will closely monitor the situation and reissue if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-27T10:14:00",
+      "timeRaised": "2022-10-27T10:14:37",
+      "timeSeverityChanged": "2022-10-27T10:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -49,12 +70,12 @@
       },
       "floodAreaID": "122WAC955",
       "isTidal": true,
-      "message": "This flood alert has been issued as strong winds and unsettled weather may cause large waves and spray overtopping on the coast tomorrow, Thursday 27/10/2022, particularly from 6:30 to 8:00am and from 6:45 to 8:15pm. The area most at risk is Hornsea North Promenade.  Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  This message will be updated after the morning tide on Thursday 27/10/2022, or as the situation changes. We will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-26T15:13:00",
-      "timeRaised": "2022-10-26T15:14:09",
-      "timeSeverityChanged": "2022-10-26T15:13:00"
+      "message": "This flood alert has been removed as the morning high tide has now passed, however we will closely monitor the situation and reissue if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-27T10:10:00",
+      "timeRaised": "2022-10-27T10:10:15",
+      "timeSeverityChanged": "2022-10-27T10:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
@@ -183,6 +204,27 @@
       "timeSeverityChanged": "2022-10-26T15:24:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": " River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.65mAOD at 16:45 on 27/10/22 and 4.70mAOD at 05:00 on 28/10/22.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are at their peak. The river flow at Teddington Weir is low for this time of year at 22 cubic metres per second and is steady. We anticipate the flows to remain low for the next 2 days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 10:00 on 28/10/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-27T09:33:00",
+      "timeRaised": "2022-10-27T09:34:21",
+      "timeSeverityChanged": "2022-10-27T09:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
       "description": "Christchurch Harbour",
       "eaAreaName": "Wessex",
@@ -238,12 +280,12 @@
       },
       "floodAreaID": "031WAT122",
       "isTidal": true,
-      "message": "A tidal surge is expected to affect the foreshore as a result of high spring tides and strong winds. Tides will be at their highest between 8 and 9.30pm tonight. Flooding to roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tides. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks;- Avonmouth Portbury 7.2 to 7.4m at 8.45pm tonight, 26/10/22 and 7.0 to 7.2m at 9am tomorrow, 27/10/22, Newport 6.9 to 7.1m at 8.45pm on, 26/10/22 and 6.7 to 7.0m at 9am on 27/10/22. Please note there is uncertainty in ranges as a result of predicted gale force winds giving the possibility of large waves and some surge. As a precaution this alert remains in force for this evening and Thursday morning tides. A peak at Avonmouth of 7.73m and at Newport of 7.17m occurred this morning, Wednesday, 26/10/22. We are closely monitoring the situation. Please call 999 if in immediate danger. This message will be updated tomorrow morning, 27/10/22 by 11am, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-26T10:59:00",
-      "timeRaised": "2022-10-26T10:59:30",
-      "timeSeverityChanged": "2022-10-25T13:09:00"
+      "message": "This Flood Alert has been removed.  \nFurther high tides are expected to continue until up to and including Friday 28/10/22.    \nWe continue to monitor the situation.\n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-10-27T10:00:00",
+      "timeRaised": "2022-10-27T10:01:06",
+      "timeSeverityChanged": "2022-10-27T10:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATPOOH",
