@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
-      "description": "River Maun in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430",
-        "county": "Nottinghamshire",
-        "notation": "034WAF430",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430/polygon",
-        "riverOrSea": "River Maun"
-      },
-      "floodAreaID": "034WAF430",
-      "isTidal": false,
-      "message": "River levels are forecast to rise at the Whitewater Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible to begin between 04:00 and 06:00 tomorrow, 01/11/22.  Areas most at risk are low-lying agricultural land and roads around Mansfield, the Sherwood Forest Caravan Park at Clipstone, Edwinstowe, Ollerton, Whitewater Lane at Whitewater Bridge and West Drayton.   \nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high until 04:00 on 02/10/22.\nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, 31/10/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-10-31T12:17:00",
-      "timeRaised": "2022-10-31T12:18:13",
-      "timeSeverityChanged": "2022-10-31T12:17:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
       "description": "Lower River Soar in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -55,6 +34,27 @@
       "timeMessageChanged": "2022-10-31T12:50:00",
       "timeRaised": "2022-10-31T12:50:47",
       "timeSeverityChanged": "2022-10-31T12:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
+      "description": "River Maun in Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430",
+        "county": "Nottinghamshire",
+        "notation": "034WAF430",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430/polygon",
+        "riverOrSea": "River Maun"
+      },
+      "floodAreaID": "034WAF430",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Whitewater Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible to begin between 04:00 and 06:00 tomorrow, 01/11/22.  Areas most at risk are low-lying agricultural land and roads around Mansfield, the Sherwood Forest Caravan Park at Clipstone, Edwinstowe, Ollerton, Whitewater Lane at Whitewater Bridge and West Drayton.   \nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high until 04:00 on 02/10/22.\nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, 31/10/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-10-31T12:17:00",
+      "timeRaised": "2022-10-31T12:18:13",
+      "timeSeverityChanged": "2022-10-31T12:17:00"
     }
   ]
 }
