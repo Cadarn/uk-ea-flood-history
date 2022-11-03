@@ -238,12 +238,12 @@
       },
       "floodAreaID": "112WAFRTC",
       "isTidal": false,
-      "message": "River levels are forecast to rise overnight on the River Tone, Hillfarrance Brook, Halsewater Stream due to heavy rainfall.\nFlooding is possible at roads around Hillfarrance, Bradford on Tone, Lane End Road at Ham and the Creech St Michael to Henlade road.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nWe will continue to monitor levels closely.\nThis message will be updated by 12:00 noon on 03/11/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-02T18:39:00",
-      "timeRaised": "2022-11-02T18:39:29",
-      "timeSeverityChanged": "2022-11-02T18:39:00"
+      "message": "River levels are falling this morning on 03/03/2022.\nWe will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-03T09:55:00",
+      "timeRaised": "2022-11-03T09:55:17",
+      "timeSeverityChanged": "2022-11-03T09:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -643,6 +643,27 @@
       "timeMessageChanged": "2022-11-03T09:26:00",
       "timeRaised": "2022-11-03T09:26:37",
       "timeSeverityChanged": "2022-11-03T09:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWFEF1A",
+      "description": "Bumpstead Brook through Steeple Bumpstead to New England",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWFEF1A",
+        "county": "Essex",
+        "notation": "051FWFEF1A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051FWFEF1A/polygon",
+        "riverOrSea": "Bumpstead Brook"
+      },
+      "floodAreaID": "051FWFEF1A",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low-lying land, roads and riverside areas is likely from now until late afternoon today, Thursday 3rd November. River levels are currently high, but are expected to start to drop back down to more normal levels later today. Areas most at risk are Smiths Green, Helions Road, Water Lane, the bottom of Church Street, North Street, Blois Road, the Endway and the Blois Meadows Business Centre in Steeple Bumpstead, and waterside properties in Broad Green. The weather forecast is improving, and we expect levels to start returning to normal soon. The forecast is for continued unsettled weather over the next couple of days. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 4pm today.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-11-03T09:40:00",
+      "timeRaised": "2022-11-03T09:40:39",
+      "timeSeverityChanged": "2022-11-03T09:40:00"
     }
   ]
 }
