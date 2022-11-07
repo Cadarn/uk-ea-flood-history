@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 10:00 PM on 07/11/2022.\nFlooding is possible at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stannah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods between 09:30 PM and 11:30 PM on 07/11/2022.\nThe next high tide is expected to be higher than normal on 08/11/2022 at 10:45 AM and may result in us issuing a further alert.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nPlease be careful along low lying land, promenades, coastal footpaths and roads.\nThis message will be updated by 08:00 AM on 08/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-07T14:12:00",
+      "timeRaised": "2022-11-07T14:12:35",
+      "timeSeverityChanged": "2022-11-07T14:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -202,6 +223,27 @@
       "timeMessageChanged": "2022-11-07T12:15:00",
       "timeRaised": "2022-11-07T12:15:30",
       "timeSeverityChanged": "2022-11-07T12:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
+      "description": "Northumberland coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921",
+        "county": "Northumberland",
+        "notation": "121WAC921",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC921",
+      "isTidal": true,
+      "message": "As a result of a high tide and strong winds, wave overtopping and spray is expected for Beadnell Harbour Road (north) and Newbiggin Bay Promenade (north) between 02:00 and 04:30 (BST) tomorrow morning, 08/11/22.\n\nWe are not expecting property flooding or to issue Flood Warnings.\n\nAreas most at risk are beaches, promenades, coastal footpaths and roads. Take care and avoid these areas. \n\nThe flood gates at Warkworth are currently open and do not need to be closed for the expected tidal levels. We are closely monitoring the situation.\n\nThis message will be updated by 10:00 on 08/11/22, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-07T14:16:00",
+      "timeRaised": "2022-11-07T14:16:27",
+      "timeSeverityChanged": "2022-11-07T14:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
