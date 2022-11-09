@@ -246,6 +246,27 @@
       "timeSeverityChanged": "2022-11-08T15:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
+      "description": "Rivers Brathay, Rothay and Winster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
+        "county": "Cumbria",
+        "notation": "011WAFBR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
+        "riverOrSea": "River Brathay, River Rothay, River Winster"
+      },
+      "floodAreaID": "011WAFBR",
+      "isTidal": false,
+      "message": "Whilst the river levels in the area are starting to fall, the lake is rising and will remain high for at least the next few days and there will be flooding to low lying land. \nNo further significant rainfall is forecast over the next few days and we are not expecting to issue any warning. \nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 10.11.2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-09T10:26:00",
+      "timeRaised": "2022-11-09T10:26:39",
+      "timeSeverityChanged": "2022-11-09T10:26:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23Central",
       "description": "Tidal Thames riverside from the Thames Barrier to Putney Bridge",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -322,12 +343,12 @@
       },
       "floodAreaID": "122WAC954",
       "isTidal": true,
-      "message": "Tuesday evening’s tide from 18:00 to 21:00 on 08/11/2022 is higher than normal due to winds and large waves. Areas most at risk include The North Sea coast from Bridlington to Barmston. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 10:00am on 09/11/2022, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-08T15:00:00",
-      "timeRaised": "2022-11-08T15:00:54",
-      "timeSeverityChanged": "2022-11-08T15:00:00"
+      "message": "The situation is improving and no further flooding is expected in this area. \n\nThis flood alert has been removed. High tides on Wednesday 9th November are below levels of concern. Please take care on promenades and coastal roads. We will continue to monitor the forecast and re-issue this alert if necessary. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-09T10:18:00",
+      "timeRaised": "2022-11-09T10:19:07",
+      "timeSeverityChanged": "2022-11-09T10:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
@@ -1042,27 +1063,6 @@
       "timeMessageChanged": "2022-11-09T08:45:00",
       "timeRaised": "2022-11-09T08:45:36",
       "timeSeverityChanged": "2022-11-09T08:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF7101",
-      "description": "Whitwell, Wroxall, Langbridge, Alverstone on the Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF7101",
-        "county": "Isle of Wight",
-        "notation": "065FWF7101",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF7101/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065FWF7101",
-      "isTidal": false,
-      "message": "The water level in the Eastern Yar at Alverstone is higher than normal but it continues to slowly fall. Overnight only 4mm of rain was recorded at Wroxall. Showers, some heavy, are forecast later on today and tomorrow (Wednesday 9/11/22). Whilst these showers are likely to cause an increase in water level, it is currently unlikely that the totals forecast (10-20mm) will flood property. As we expect a continuation of minor impact flooding to road, land and possibly gardens, a Flood Alert will remain in force for the Eastern Yar over the next 24 hours. From Thursday (10/11/22) onwards, the weather is forecast to be dry and so the situation will finally improve towards the end of the week. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-08T10:24:00",
-      "timeRaised": "2022-11-08T10:25:02",
-      "timeSeverityChanged": "2022-11-08T10:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF4",
