@@ -393,27 +393,6 @@
       "timeSeverityChanged": "2022-11-07T16:23:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACWCD",
-      "description": "West coast of Dorset",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACWCD",
-        "county": "Dorset Council",
-        "notation": "111WACWCD",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WACWCD/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WACWCD",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-08T11:40:00",
-      "timeRaised": "2022-11-08T11:40:57",
-      "timeSeverityChanged": "2022-11-08T11:40:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
       "description": "Upper River Wey",
       "eaAreaName": "Thames",
@@ -456,27 +435,6 @@
       "timeSeverityChanged": "2022-11-09T08:51:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATPOOH",
-      "description": "Dorset coast at Poole Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
-        "notation": "111WATPOOH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATPOOH",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-08T11:40:00",
-      "timeRaised": "2022-11-08T11:40:43",
-      "timeSeverityChanged": "2022-11-08T11:40:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
       "description": "South Devon coast from Start Point to Dawlish Warren",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -490,12 +448,12 @@
       },
       "floodAreaID": "113WACT1B",
       "isTidal": true,
-      "message": " Flooding is possible over the high tide on Tuesday evening. High water at Exmouth is at 18:45 hours, times of high water will vary along the coast.\nForce 6 South Westerly winds and offshore wave heights of up to 1.7m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations.  Expect tides to be up to 330mm higher than predicted due to weather conditions.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\nDetailed tidal information for those who use it; The forecast high tide level on Tuesday evening at Exmouth is 2.38 mAOD, this is 0.33 metres above the astronomical tide level.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-08T10:21:00",
-      "timeRaised": "2022-11-08T10:21:22",
-      "timeSeverityChanged": "2022-11-07T12:15:00"
+      "message": "The risk of flooding from the sea has now reduced, and tide levels are falling below levels of concern. No further flooding is expected, however, please take care near coastal paths and promenades.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-09T12:15:00",
+      "timeRaised": "2022-11-09T12:15:26",
+      "timeSeverityChanged": "2022-11-09T12:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
@@ -622,6 +580,27 @@
       "timeMessageChanged": "2022-11-09T11:30:00",
       "timeRaised": "2022-11-09T11:30:28",
       "timeSeverityChanged": "2022-11-08T09:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
+      "description": "Severn Vyrnwy confluence",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
+        "county": "Powys, Shropshire",
+        "notation": "031WAF114",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
+        "riverOrSea": "River Severn, River Vyrnwy"
+      },
+      "floodAreaID": "031WAF114",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Llanymynech river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible this afternoon, 09/11/2022 and overnight.  We expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Predicted peaks:-  Llanymynech 3.1m to 3.3m this evening 09/11/2022.   \nWe expect river levels to begin rising this afternoon, 09/11/2022. \nPlease avoid using low lying footpaths near local watercourses.  \nThis message will be updated this evening, 09/11/2022 by 19:00, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-09T12:02:00",
+      "timeRaised": "2022-11-09T12:02:51",
+      "timeSeverityChanged": "2022-11-09T12:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -1120,12 +1099,12 @@
       },
       "floodAreaID": "113WACT1C",
       "isTidal": true,
-      "message": " Flooding is possible over the high tide on Tuesday evening. High water at Exmouth is at 18:45 hours, times of high water will vary along the coast.\nForce 6 South Westerly winds and offshore wave heights of up to 1.7m are forecast to cause wave overtopping of sea defences and sea spray in exposed coastal locations.  Expect tides to be up to 330mm higher than predicted due to weather conditions.\nPeople are advised to stay away from risk areas and take care next to the coast.\nKeep up to date with weather and tide conditions on local radio. We will continue to monitor the situation and issue updates as required.\nDetailed tidal information for those who use it; The forecast high tide level on Tuesday evening at Exmouth is 2.38 mAOD, this is 0.33 metres above the astronomical tide level.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-08T10:21:00",
-      "timeRaised": "2022-11-08T10:21:13",
-      "timeSeverityChanged": "2022-11-07T12:19:00"
+      "message": "The risk of flooding from the sea has now reduced, and tide levels are falling below levels of concern. No further flooding is expected, however, please take care near coastal paths and promenades.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-09T12:15:00",
+      "timeRaised": "2022-11-09T12:15:31",
+      "timeSeverityChanged": "2022-11-09T12:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
