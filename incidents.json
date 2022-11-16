@@ -603,6 +603,27 @@
       "timeSeverityChanged": "2022-11-16T16:13:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMM",
+      "description": "Middle River Mersey catchment including areas near Bramhall, Stockport, Sale, Altrincham and Urmston",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM",
+        "county": "Cheshire East, Manchester, Salford, Stockport, Tameside, Trafford, Warrington",
+        "notation": "013WAFMM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM/polygon",
+        "riverOrSea": "River Mersey"
+      },
+      "floodAreaID": "013WAFMM",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Mersey due to rainfall on Thursday 17/11/2022.\nFlooding is forecast to affect locations near the River Mersey, with low lying land expected to be most affected, particularly around low lying land and roads around Micker, Cringle, Sinderland and Poynton Brooks and their tributaries from 9AM on 17/11/2022.\nFurther rainfall is forecast throughout the day tomorrow (17/11/2022) and as a result river levels are forecast to rise.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 04:00 PM on 17/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T17:05:00",
+      "timeRaised": "2022-11-16T17:05:27",
+      "timeSeverityChanged": "2022-11-16T17:05:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF401",
       "description": "River Sence in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -874,6 +895,27 @@
       "timeMessageChanged": "2022-11-16T11:05:00",
       "timeRaised": "2022-11-16T11:05:58",
       "timeSeverityChanged": "2022-11-16T11:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFRTC",
+      "description": "River Tone catchment",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFRTC",
+        "county": "Devon, Somerset",
+        "notation": "112WAFRTC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFRTC/polygon",
+        "riverOrSea": "Hillfarrance Brook, Halsewater Stream, River Tone"
+      },
+      "floodAreaID": "112WAFRTC",
+      "isTidal": false,
+      "message": " River levels are forecast to rise overnight on the River Tone, Hillfarrance Brook, Halsewater Stream due to heavy rainfall.\nFlooding is possible at roads around Hillfarrance, Bradford on Tone, Lane End Road at Ham and the Creech St Michael to Henlade road.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nWe will continue to monitor levels closely.\nThis message will be updated by 12:00 noon on 17/11/2022, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T17:24:00",
+      "timeRaised": "2022-11-16T17:25:17",
+      "timeSeverityChanged": "2022-11-16T17:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -1294,6 +1336,27 @@
       "timeMessageChanged": "2022-11-16T08:59:00",
       "timeRaised": "2022-11-16T08:59:16",
       "timeSeverityChanged": "2022-11-15T12:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF7Darent",
+      "description": "River Darent from Westerham to Dartford",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7Darent",
+        "county": "Bexley, Greater London, Kent",
+        "notation": "064WAF7Darent",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF7Darent/polygon",
+        "riverOrSea": "River Darent"
+      },
+      "floodAreaID": "064WAF7Darent",
+      "isTidal": false,
+      "message": " River levels have risen as a result of heavy and persistent rainfall overnight and during the morning of Wednesday. Further rainfall is forecast over the next 24 hours, and we expect river levels to rise again overnight and throughout Thursday 17/11/2022. Flooding of roads and low-lying land is possible today, 16/11/2022 and through until Thursday and Friday. Property flooding is not currently expected, though we are prepared to issue Flood Warnings if required. We are closely monitoring the situation and our incident response staff are clearing trash screens across the catchment. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00 on 17/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T17:04:00",
+      "timeRaised": "2022-11-16T17:04:46",
+      "timeSeverityChanged": "2022-11-16T17:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
@@ -1729,11 +1792,11 @@
       },
       "floodAreaID": "112WAFYPM",
       "isTidal": false,
-      "message": "The River Yeo level at Huish Episcopi pumping station is 6.9 m and is rising by approximately 4 mm per hour. \n\nWet weather is forecast for Wednesday afternoon.\n\nThe River Yeo at Muchelney is forecast to remain stable but is forecast to rise overnight as a result. \n",
+      "message": "The River Yeo level at Huish Episcopi pumping station is 6.99 m and is rising by approximately 4 mm per hour. Wet weather is forecast for Wednesday evening, 16/11/2022 and into the early hours of Thursday. The River Yeo at Muchelney is stable. This message will be updated by 12:00 on Thursday 17/11/2022 or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-16T07:59:00",
-      "timeRaised": "2022-11-16T08:00:05",
+      "timeMessageChanged": "2022-11-16T17:12:00",
+      "timeRaised": "2022-11-16T17:12:46",
       "timeSeverityChanged": "2022-11-16T07:59:00"
     },
     {
