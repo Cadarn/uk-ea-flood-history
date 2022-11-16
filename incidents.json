@@ -973,12 +973,12 @@
       },
       "floodAreaID": "111WAFFROU",
       "isTidal": false,
-      "message": "The Flood Alert has now been removed as river levels on the Upper Dorset Frome and River Hooke are slowly dropping. Be aware that standing water and debris may still remain. There are showers forecast for this evening (15/11/22) and tomorrow morning (16/11/22) but these are not expected to increase river levels We will continue to monitor the forecast and issue an alert if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-15T18:36:00",
-      "timeRaised": "2022-11-15T18:36:43",
-      "timeSeverityChanged": "2022-11-15T18:36:00"
+      "message": "River levels will rise on the Upper Dorset Frome, Hooke River due to heavy rainfall.\nFlooding is forecast to affect locations near the Upper Dorset Frome, Hooke River, with low lying land expected to be most affected, particularly around tributaries between Toller Whelme and Dorchester.\nFlooding is possible at tributaries between Toller Whelme and Dorchester from 05:00 PM on 16/11/2022.\nFurther rainfall is forecast this evening.\nRiver levels will rise at the Hooke, Maiden Newton gauge.\nPeople in the areas should consider taking action now. We urge all people to take care and not drive through flood water.\nThis message will be updated by 12:00 noon on 17/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T15:09:00",
+      "timeRaised": "2022-11-16T15:09:57",
+      "timeSeverityChanged": "2022-11-16T15:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROU211",
@@ -1294,6 +1294,27 @@
       "timeMessageChanged": "2022-11-16T13:57:00",
       "timeRaised": "2022-11-16T13:57:55",
       "timeSeverityChanged": "2022-11-16T13:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF5104",
+      "description": "Fittleworth on the Western Rother",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF5104",
+        "county": "West Sussex",
+        "notation": "065FWF5104",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF5104/polygon",
+        "riverOrSea": "Western Rother"
+      },
+      "floodAreaID": "065FWF5104",
+      "isTidal": false,
+      "message": "The Western Rother is high and rising. In the last 36 hours, nearly half a month's rain (47mm) has been recorded at Iping. From 18:00 Wednesday (16/11/2022) flooding will be extensive in fields. Flood water will affect Fittleworth Mill, and nearby properties in Fittleworth. The B2138 Lower Street road over the river at Fittleworth could be impassable. The river rise should slow down this evening, however a further 20-30mm of rain is expected between 15:00 Wednesday and 04:00 Thursday (17/11/2022). The Western Rother will rise again Thursday morning. Thursday and Friday are forecast to be dry. The river might not begin to fall until the early hours of Friday, and will be higher than normal until next week. River levels could end up higher than the peaks of last week. Some roads, including the B2138 through Fittleworth, may become impassable, please plan to avoid driving through routes vulnerable to flooding. We continue to monitor the levels and forecast. We will update this message by 12:00 17/11/2022.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-11-16T14:39:00",
+      "timeRaised": "2022-11-16T14:39:25",
+      "timeSeverityChanged": "2022-11-16T14:39:00"
     }
   ]
 }
