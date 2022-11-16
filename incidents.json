@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to strong winds and spring tides which may cause large waves and spray overtopping on the coast tomorrow morning. Tides are expected to be higher than usual due to the forecast weather conditions during coming tides. The area of concern is expected to be at Sandsend between 10:00am and 1:30pm on 17/11/2022. We are expecting higher than normal tides over the next few days and as a result we may issue further alerts or warnings. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 11:00am, 17/11/2022, or earlier as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T13:47:00",
+      "timeRaised": "2022-11-16T13:48:16",
+      "timeSeverityChanged": "2022-11-16T13:47:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -76,6 +97,27 @@
       "timeMessageChanged": "2022-11-15T16:33:00",
       "timeRaised": "2022-11-15T16:33:06",
       "timeSeverityChanged": "2022-11-15T16:33:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Thursday's tide from 12:00am to 2:30am and 12:00pm to 3:30pm on 17/11/2022 is higher than normal due to winds and large waves. Areas most at risk include the lifeboat station, north pier and south pier at Bridlington. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 11:00am on 17/11/2022, or earlier as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T13:45:00",
+      "timeRaised": "2022-11-16T13:45:31",
+      "timeSeverityChanged": "2022-11-16T13:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
@@ -603,6 +645,48 @@
       "timeSeverityChanged": "2022-11-15T17:00:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF5404",
+      "description": "Mock Bridge, near Shermanbury on the River Adur",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF5404",
+        "county": "West Sussex",
+        "notation": "065FWF5404",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF5404/polygon",
+        "riverOrSea": "River Adur"
+      },
+      "floodAreaID": "065FWF5404",
+      "isTidal": false,
+      "message": "The River Adur is high and rising. Over the last day and a half, 30mm of rain has been recorded at Cowfold. From 16:00 Wednesday (16/11/2022) flooding will affect the A281 at Mock Bridge, near Shermanbury. As well as extensive water in fields, flooding will also affect properties near Mock Bridge and their gardens. A further 20-30mm of rain is expected from Wednesday afternoon into the early hours of Thursday morning. The river should begin to fall by late Thursday (17/11/2022), and should return to normal from Friday (18/11/2022). Flood impacts should begin to slowly ease when river levels start to fall. Some roads may become impassable, please plan to avoid driving through routes vulnerable to flooding. We continue to monitor the levels and forecast. We will update this message by 12:00 17/11/2022.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-11-16T13:37:00",
+      "timeRaised": "2022-11-16T13:37:45",
+      "timeSeverityChanged": "2022-11-16T13:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
+      "description": "Upper River Tamar",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
+        "county": "Cornwall, Devon",
+        "notation": "114WAFT1W10A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
+        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
+      },
+      "floodAreaID": "114WAFT1W10A00",
+      "isTidal": false,
+      "message": "Flooding is possible overnight tonight from 6pm Wednesday 16 November and into Thursday morning. \n\nHeavy rain is forecast this afternoon and evening, especially over high ground where large totals are possible. \n\nThis may result in flooding to low lying land and roads close to the river from late afternoon Wednesday 16 November and into Thursday morning. We expect river levels to remain high throughout this period, though no flooding to properties is currently expected. \n\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated if the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T13:52:00",
+      "timeRaised": "2022-11-16T13:52:33",
+      "timeSeverityChanged": "2022-11-16T13:52:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
       "description": "Middle Stour and tributaries",
       "eaAreaName": "Wessex",
@@ -742,11 +826,11 @@
       },
       "floodAreaID": "113WAFTW07",
       "isTidal": false,
-      "message": " Flooding is possible on the afternoon of Tuesday 15th November.\nOver the last 24 hours we have seen heavy rainfall in the River Clyst and Culm area. This has caused the levels in the Rivers Clyst and Culm to rise. Further heavy showers are forecast this evening which will cause river levels to remain high.\nThe main areas of concern are low lying land and roads close to the river.\nFlood warnings are not expected to be issued and no flooding to properties is currently forecast.\nTake care near the areas of concern and monitor your local weather conditions. \nWe are closely monitoring river levels. This message will be updated on Wednesday afternoon (16/11/22) or earlier if the situation changes.",
+      "message": "Flooding is possible during the afternoon of Wednesday 16th November into Thursday Morning. \n \nFollowing heavy rainfall over the last 24 hours catchments in this area remain wet and sensitive to any further rainfall.\n \nDuring Wednesday afternoon, a further low-pressure system will affect this area, bringing heavy rain and strong winds.  Up to 35mm of rainfall is forecast for some locations. \n \nRiver levels are forecast to rise in response. The highest levels are forecast during Wednesday night into Thursday morning.  The main areas of concern are low lying land and roads close to the river.\n \nTake care near the areas of concern and monitor your local weather conditions. We will continue to monitor river levels and issue Flood Warnings if required.  Trash screens and blockages have been cleared in this area. This message will be updated on Thursday morning (17/11/22) or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-15T15:40:00",
-      "timeRaised": "2022-11-15T15:40:49",
+      "timeMessageChanged": "2022-11-16T13:39:00",
+      "timeRaised": "2022-11-16T13:39:35",
       "timeSeverityChanged": "2022-11-15T15:40:00"
     },
     {
@@ -805,11 +889,11 @@
       },
       "floodAreaID": "113WABTW09",
       "isTidal": false,
-      "message": "Flooding is possible on the afternoon of Tuesday 15th November.\nOver the last 24 hours we have seen heavy rainfall in the East Devon area which has caused water levels to rise. Further heavy showers are forecast this evening which will cause river levels to remain high and we may issue Flood Warnings as necessary.\nThe main areas of concern are low lying land and roads close to the river.\nTake care near the areas of concern and monitor your local weather conditions. \nWe are closely monitoring river levels. This message will be updated on Wednesday afternoon (16/11/22) or earlier if the situation changes.",
+      "message": "Flooding is possible during the afternoon of Wednesday 16th November into Thursday Morning. \n \nFollowing heavy rainfall over the last 24 hours catchments in this area remain wet and sensitive to any further rainfall.\n \nDuring Wednesday afternoon, a further low-pressure system will affect this area, bringing heavy rain and strong winds.  Up to 35mm of rainfall is forecast for some locations. \n \nRiver levels are forecast to rise in response. The highest levels are forecast during Wednesday night into Thursday morning.  The main areas of concern are low lying land and roads close to the river.\n \nTake care near the areas of concern and monitor your local weather conditions. We will continue to monitor river levels and issue Flood Warnings if required.  Trash screens and blockages have been cleared in this area. This message will be updated on Thursday morning (17/11/22) or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-15T15:49:00",
-      "timeRaised": "2022-11-15T15:49:37",
+      "timeMessageChanged": "2022-11-16T13:39:00",
+      "timeRaised": "2022-11-16T13:39:33",
       "timeSeverityChanged": "2022-11-14T15:35:00"
     },
     {
@@ -1147,6 +1231,69 @@
       "timeMessageChanged": "2022-11-16T13:30:00",
       "timeRaised": "2022-11-16T13:30:38",
       "timeSeverityChanged": "2022-11-16T13:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW10",
+      "description": "Lower Exe area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW10",
+        "county": "Devon",
+        "notation": "113WABTW10",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW10/polygon",
+        "riverOrSea": "River Exe"
+      },
+      "floodAreaID": "113WABTW10",
+      "isTidal": false,
+      "message": " Flooding is possible during the afternoon of Wednesday 16th November into Thursday Morning. \n \nFollowing heavy rainfall over the last 24 hours catchments in this area remain wet and sensitive to any further rainfall.\n\nDuring Wednesday afternoon, a further low-pressure system will affect this area, bringing heavy rain and strong winds.  Up to 35mm of rainfall forecast for some locations. \n \nRiver levels are forecast to rise in response. The highest levels are forecast during Wednesday night into Thursday morning.  The main areas of concern are low lying land and roads close to the river.\n\nTake care near the areas of concern and monitor your local weather conditions. We will continue to monitor river levels and issue Flood Warnings if required.  Trash screens and blockages have been cleared in this area. This message will be updated on Thursday morning (17/11/22) or earlier if the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T13:36:00",
+      "timeRaised": "2022-11-16T13:36:35",
+      "timeSeverityChanged": "2022-11-16T13:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
+      "description": "North Sea coast from Whitby to Filey",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAC953",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC953",
+      "isTidal": true,
+      "message": "This flood alert has been issued because some minor flooding to coastal roads and footpaths is likely on Thursday 17/11/2022 between 12:00pm and throughout the afternoon and evening. Areas most at risk include Marine Royal Albert Drive and Sandside in Scarborough, and exposed coastal roads and promenades where the combination of wave action and spray is expected to cause hazardous conditions. Please be careful along beaches and exposed coastal areas as waves and spray may be unpredictable. We continue to monitor the forecast closely. This message will be updated by 11:00am on 17/11/2022, or earlier as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T13:51:00",
+      "timeRaised": "2022-11-16T13:51:44",
+      "timeSeverityChanged": "2022-11-16T13:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
+      "description": "River Yealm",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00",
+        "county": "Devon, Plymouth",
+        "notation": "114WAFT1W13A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00/polygon",
+        "riverOrSea": "River Yealm"
+      },
+      "floodAreaID": "114WAFT1W13A00",
+      "isTidal": false,
+      "message": " Flooding is possible this evening Wednesday 16 November and into the early hours of Thursday morning. \n\nPersistent rain is forecast this afternoon and evening Wednesday 16 November, followed by heavy showers overnight. Some of this rain could be heavy, especially over high ground. \n\nThis may result in flooding to low lying land and roads close to the river from around 5pm this evening and into the early hours of Thursday morning.  \n\nWe expect river levels to remain high throughout this period, though no flooding to properties is currently expected. Further heavy showers are forecast over the next few days.  \n\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated by 10am Thursday morning, or earlier if the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T13:57:00",
+      "timeRaised": "2022-11-16T13:57:55",
+      "timeSeverityChanged": "2022-11-16T13:57:00"
     }
   ]
 }
