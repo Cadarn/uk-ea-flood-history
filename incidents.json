@@ -364,12 +364,12 @@
       },
       "floodAreaID": "111WAFWDRS",
       "isTidal": false,
-      "message": "The Flood Alert has now been removed as river levels on the Rivers Lim, Char, Winniford, Simene, Brit, Asker, Mangerton and Bride are slowly dropping. Be aware that standing water and debris may still remain. There are showers forecast for this evening (15/11/22) and tomorrow morning (16/11/22) but these are not expected to increase river levels We will continue to monitor the forecast and issue an alert if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-15T18:47:00",
-      "timeRaised": "2022-11-15T18:48:03",
-      "timeSeverityChanged": "2022-11-15T18:47:00"
+      "message": "River levels are forecast to rise on the River Lim, River Char, River Winniford, Simene River, River Brit, River Asker, River Mangerton, River Bride due to rainfall.\nAreas most at risk include the Rivers Lim, Char, Winniford, Simene, Brit, Asker, Mangerton and Bride.\nFlooding is possible at the Rivers Lim, Char, Winniford, Simene, Brit, Asker, Mangerton and Bride from 03:00 PM on 16/11/2022.\nWe will continue to monitor levels closely.\nFurther rainfall is forecast throughout the afternoon.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 12:00 noon on 17/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T11:05:00",
+      "timeRaised": "2022-11-16T11:05:58",
+      "timeSeverityChanged": "2022-11-16T11:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
@@ -580,6 +580,27 @@
       "timeMessageChanged": "2022-11-16T08:03:00",
       "timeRaised": "2022-11-16T08:03:40",
       "timeSeverityChanged": "2022-11-15T17:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels are remaining high on the Middle Dorset Stour.\nAreas most at risk include tributaries between Sturminster Newton and Wimborne.\nFlooding is possible at tributaries between Sturminster Newton and Wimborne from 09:00 AM on 16/11/2022.\nFurther rainfall is forecast throughout the afternoon.\nRiver levels are high and forecast to rise further.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 12:00 noon on 17/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T11:24:00",
+      "timeRaised": "2022-11-16T11:24:42",
+      "timeSeverityChanged": "2022-11-16T11:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF324",
@@ -889,11 +910,11 @@
       },
       "floodAreaID": "111WAFSTOU",
       "isTidal": false,
-      "message": "River levels are rising steadily on the Upper Dorset Stour, Shreen Water.\nFlooding is forecast to affect locations near the Upper Dorset Stour, Shreen Water, with low lying land expected to be most affected, particularly around tributaries between Gillingham and Sturminster Newton.\nFlooding is possible at tributaries between Gillingham and Sturminster Newton from 06:00 PM on 15/11/2022.\nFurther rainfall is forecast overnight.\nRiver levels are rising at the Colesbrook, Gillingham Le Neubourg Way, Hammoon, Lodden Bridge, Milton on Stour  gauge.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 16/11/2022, or as the situation changes.",
+      "message": " River levels are rising steadily on the Upper Dorset Stour, Shreen Water. Flooding is forecast to affect locations near the Upper Dorset Stour, Shreen Water, with low lying land expected to be most affected, particularly around tributaries between Gillingham and Sturminster Newton. Flooding is possible at tributaries between Gillingham and Sturminster Newton from 06:00 PM on 15/11/2022. Further rainfall is forecast this afternoon. River levels are forecast to rise further at the Colesbrook, Gillingham Le Neubourg Way, Hammoon, Lodden Bridge, Milton on Stour gauge. We will continue to monitor the forecast and re-issue this alert if necessary. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 12 noon on 17/11/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-15T17:37:00",
-      "timeRaised": "2022-11-15T17:37:50",
+      "timeMessageChanged": "2022-11-16T11:28:00",
+      "timeRaised": "2022-11-16T11:28:31",
       "timeSeverityChanged": "2022-11-15T17:37:00"
     },
     {
@@ -1000,6 +1021,27 @@
       "timeMessageChanged": "2022-11-16T10:51:00",
       "timeRaised": "2022-11-16T10:51:41",
       "timeSeverityChanged": "2022-11-16T10:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": "River levels are rising on the Lower Dorset Frome due to heavy rainfall.\nFlooding is forecast to affect locations near the Lower Dorset Frome, with low lying land expected to be most affected, particularly around tributaries between Dorchester and Wareham.\nNo property flooding is expected.\nFlooding is possible at tributaries between Dorchester and Wareham from 12:00 PM on 16/11/2022.\nFurther heavy rainfall is forecast this evening.\nWe will continue to monitor levels closely.\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 12:00 PM on 17/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-16T11:21:00",
+      "timeRaised": "2022-11-16T11:22:15",
+      "timeSeverityChanged": "2022-11-16T11:21:00"
     }
   ]
 }
