@@ -112,12 +112,12 @@
       },
       "floodAreaID": "034WAF429",
       "isTidal": false,
-      "message": " River levels remain high but are beginning to fall at the Lowdham river gauge as a result of persistent heavy rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around the tributaries of the River Trent in Nottinghamshire, the River Greet, Potwell Dyke, Dover Beck, Cocker Beck, Woodborough Brook, Ouse Dyke, Thurgarton Beck and others.   \nFurther rainfall is forecast over the next 24 hours.  River levels have peaked and will remain steady, with no further rise forecasted.\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses.  \nThis message will be updated by 18:00 this afternoon, 22/11/2022, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-22T08:42:00",
-      "timeRaised": "2022-11-22T08:42:36",
-      "timeSeverityChanged": "2022-11-21T17:33:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast tomorrow morning, 23/11/2022.    \nWe continue to monitor the situation.  \nPlease see the GOV.UK website for a 5 day flood forecast.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-22T16:47:00",
+      "timeRaised": "2022-11-22T16:48:02",
+      "timeSeverityChanged": "2022-11-22T16:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
@@ -791,6 +791,111 @@
       "timeSeverityChanged": "2022-11-22T07:29:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
+      "description": "Beaulieu estuary",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152",
+        "county": "Hampshire",
+        "notation": "065WAC152",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065WAC152",
+      "isTidal": true,
+      "message": "Wednesday morning's tide at 09:59 on 23/11/2022 and 12:14 on 23/11/2022 is higher than normal due to unsettled weather with light Westerly Force 4 winds. The weather increases tide table values by 0.42 m. The total forecast tide is 4.26 metres Chart Datum (2.26 mAOD) at Beaulieu. For 30 minutes either side of high water, the tide will flood into the garden of the Mill House on the downstream side of the Mill Pond. Minor road flooding at Palace Lane is also expected, making access to the village temporarily more difficult. At 22:18 on Wednesday (23/11/2022)‚ the tide and flood impacts will be similar to Wednesday morning. We will issue further advice. We continue to monitor the forecast. For safety, please take care if walking or driving through Beaulieu. The incoming tide will flood the main road quickly. We will update this message by 15:30 on 23/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-22T16:35:00",
+      "timeRaised": "2022-11-22T16:35:52",
+      "timeSeverityChanged": "2022-11-22T16:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC162",
+      "description": "Langstone to Emsworth Harbour",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC162",
+        "county": "Hampshire, West Sussex",
+        "notation": "065WAC162",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC162/polygon",
+        "riverOrSea": "Langstone Harbour, Emsworth Harbour"
+      },
+      "floodAreaID": "065WAC162",
+      "isTidal": true,
+      "message": "Wednesday morning's tide at 10:30 on 23/11/2022 is higher than normal due to unsettled weather with strong Westerly Force 5 winds. The weather increases tide table values by 0.4 m. The total forecast tide is 5.20 metres Chart Datum (2.47 mAOD) at Portsmouth. Impacts will be relatively minor and confined to the immediate sea front. For 30 minutes either side of high tide, water will be high at South Street and Queen Street, Emsworth. The Ship Inn car park, Langstone will flood. Water will flow into the road at Langstone High Street, but flood depths will be relatively shallow. At 22:48 on Wednesday (23/11/2022)‚ the tide and flood impacts will be similar to Wednesday morning. We will issue further advice. In Emsworth, we will lower levels in the Mill Pond. If you have it, and live directly on the harbour front, please install flood protection 1 hour before high tide. We will update this message by 15:30 on 23/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-22T16:35:00",
+      "timeRaised": "2022-11-22T16:35:29",
+      "timeSeverityChanged": "2022-11-22T16:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC220",
+      "description": "Isle of Wight coast",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC220",
+        "county": "Isle of Wight",
+        "notation": "065WAC220",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC220/polygon",
+        "riverOrSea": "The Solent, English Channel"
+      },
+      "floodAreaID": "065WAC220",
+      "isTidal": true,
+      "message": "Wednesday morning's tide at 09:45 on 23/11/2022 is higher than normal due to unsettled weather with light Westerly Force 4 winds. The weather increases tide table values by 0.42 m. The total forecast tide is 4.75 metres Chart Datum (2.16 mAOD) at Cowes. For 1 hour either side of high water, very minor impact flooding will affect some sea front roads, esplanades and car parks across the island. Water will be high up slipways in Cowes, affecting Medina Road and the Floating Bridge. In East Cowes, sea water forced up through drains may cause very minor impacts to the road at Albany Road. At 22:15 on Wednesday (23/11/2022)‚ the tide and flood impacts will be similar to Wednesday morning. We will issue further advice. We continue to monitor the forecast. At Medina Road, near the Floating Bridge, the tide may rise to be only 0.1m below the top of front door steps. As a precautionary measure, and if you have it, we recommend that flood protection is installed at Medina Road 1 hour before high tide. We will update this message by 15:30 on 23/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-22T16:35:00",
+      "timeRaised": "2022-11-22T16:35:23",
+      "timeSeverityChanged": "2022-11-22T16:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC151",
+      "description": "Southampton Water and Hamble",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151",
+        "county": "Hampshire, Southampton",
+        "notation": "065WAC151",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151/polygon",
+        "riverOrSea": "Southampton Water"
+      },
+      "floodAreaID": "065WAC151",
+      "isTidal": true,
+      "message": "Wednesday morning's tide at 09:59 on 23/11/2022 and 12:14 on 23/11/2022 is higher than normal due to unsettled weather with light Westerly Force 4 winds. The weather increases tide table values by 0.42 m. The total forecast tide is 5.19 metres Chart Datum (2.45 mAOD) at Southampton. For 1 hour either side of high water, very minor impact flooding will affect the lower floor level of Eling Tide Mill and boat yards at Bursledon. Road and car park flooding may occur at The Quay in Hamble, Magazine Lane at Marchwood and Shore Road in Hythe. At 22:18 on Wednesday (23/11/2022), the tide and flood impacts will be similar to Wednesday morning. We will issue further advice. We continue to monitor the forecast. Avoid parking in low lying coastal car parks and plan driving routes to avoid the roads listed above. We will update this message by 15:30 on 23/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-22T16:35:00",
+      "timeRaised": "2022-11-22T16:36:01",
+      "timeSeverityChanged": "2022-11-22T16:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
+      "description": "Mansbridge and Riverside Park",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124",
+        "county": "Hampshire, Southampton",
+        "notation": "065WAF124",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124/polygon",
+        "riverOrSea": "River Itchen"
+      },
+      "floodAreaID": "065WAF124",
+      "isTidal": false,
+      "message": "Wednesday morning's tide at 09:59 on 23/11/2022 and 12:14 on 23/11/2022 is higher than normal due to unsettled weather with light Westerly Force 4 winds. The weather increases tide table values by 0.42 m. The total forecast tide is 5.19 metres Chart Datum (2.45 mAOD) at Southampton. For 1.5 hours either side of high water, levels in the lower River Itchen will increase as the incoming tide prevents water from flowing out to sea. Footpath flooding will affect some areas of Riverside Park. The pub car park at Mansbridge may see minor impact flooding for a short period of time. Any flood depth would be relatively shallow. The tide will not flood property or the A27. At 22:18 on Wednesday (23/11/2022)‚ the tide and flood impacts will be similar to Wednesday morning. We will issue further advice. We continue to monitor the forecast. As a precautionary measure, please consider closing the defence gates around the pub. We will update this message by 15:30 on 23/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-22T16:34:00",
+      "timeRaised": "2022-11-22T16:35:06",
+      "timeSeverityChanged": "2022-11-22T16:34:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF936",
       "description": "Upper River Swale",
       "eaAreaName": "Yorkshire",
@@ -1035,11 +1140,11 @@
       },
       "floodAreaID": "034WAF416",
       "isTidal": false,
-      "message": "River levels have risen at Shipley Gate river gauges as a result of persistent rainfall. Consequently, flooding of roads and farmland is expected to continue today, 22/11/22. Areas most at risk are low-lying agricultural land and roads around Pinxton, including the Pinxton Wharf access road, Langley Mill, Ilkeston, Stapleford, and the recreation area at Sandiacre. No further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 17:00 today, 22/11/22, or as the situation changes.",
+      "message": "River levels have risen at Shipley Gate river gauge as a result of persistent rainfall. Consequently, flooding of roads and farmland is expected to continue today, 22/11/22 and overnight. Areas most at risk are low-lying agricultural land and roads around Pinxton, including the Pinxton Wharf access road, Langley Mill, Ilkeston, Stapleford, and the recreation area at Sandiacre. Further rainfall is forecast tomorrow morning. We are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 09:00 tomorrow, 23/11/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-22T09:03:00",
-      "timeRaised": "2022-11-22T09:03:31",
+      "timeMessageChanged": "2022-11-22T16:25:00",
+      "timeRaised": "2022-11-22T16:25:51",
       "timeSeverityChanged": "2022-11-21T17:15:00"
     },
     {
@@ -1959,11 +2064,11 @@
       },
       "floodAreaID": "122WAF947",
       "isTidal": false,
-      "message": "This flood alert remains in force as levels are rising again on the River Ouse in York on Tuesday, 22/11/2022 in response to heavy rainfall yesterday, Monday 21/11/2022, so flooding of low-lying land is expected. Levels at Naburn remain high and are expected to rise slowly during Tuesday. Areas most at risk include the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. Forecasts currently indicate that flood warnings will not be required today, Tuesday 22/11/2022. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We continue to monitor levels and forecasts. This message will be updated by 9 PM on 22/11/2022, or as the situation changes.",
+      "message": "This flood alert has been re-issued as levels are rising slightly again on the River Ouse overnight on Tuesday, 22/11/2022 in response to heavy rainfall on Monday 21/11/2022. Flooding of low-lying land is expected. Levels at Naburn remain high and are expected to rise slowly overnight on Tuesday and fall back again during Wednesday, 23/11/2022. Areas most at risk include the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. Forecasts currently indicate that flood warnings will not be required overnight, Tuesday 22/11/2022. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We continue to monitor levels and forecasts. This message will be updated by 10am on 23/11/2022, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-22T13:17:00",
-      "timeRaised": "2022-11-22T13:17:21",
+      "timeMessageChanged": "2022-11-22T16:39:00",
+      "timeRaised": "2022-11-22T16:39:43",
       "timeSeverityChanged": "2022-11-17T15:42:00"
     },
     {
@@ -2064,12 +2169,12 @@
       },
       "floodAreaID": "122WAF933",
       "isTidal": false,
-      "message": "The flood alert for the Lower River Nidd remains in force as it is rising. Flooding is forecast to affect locations near the River Nidd, with low lying land expected to be most affected, in particular land around the lower River Nidd and its tributaries including Sand Beck, Sike Beck, Pool Beck and Great Gutter from 10 am Tuesday morning, 22/11/2022. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We are monitoring rainfall and river levels and this message will be updated by 10:00 PM on Tuesday, 22/11/2022, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-22T08:52:00",
-      "timeRaised": "2022-11-22T08:52:35",
-      "timeSeverityChanged": "2022-11-21T18:07:00"
+      "message": "River levels on the River Nidd remain high but are beginning to fall at Hunsingore, Skip Bridge gauge. There may still be some areas where flood water is present until it can naturally drain away. We will continue to monitor the forecast and re-issue this alert if necessary.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-22T16:24:00",
+      "timeRaised": "2022-11-22T16:24:26",
+      "timeSeverityChanged": "2022-11-22T16:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF419",
@@ -2106,12 +2211,12 @@
       },
       "floodAreaID": "034FWFMAHAMILWD",
       "isTidal": false,
-      "message": "River levels are rising at the Whitewater Bridge river gauge as a result of persistent heavy rainfall.  Consequently, flooding of property is expected to begin between 05:00 and 07:00 today, 22/11/2022.  Areas most at risk are Haughton, Milton and West Drayton.   \n  We expect river levels to remain high until Tuesday afternoon.\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \nPlease move possessions and valuables off the ground or to safety and avoid contact with flood water.  \nThis message will be updated by midday on 22/11/2022, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-11-22T02:39:00",
-      "timeRaised": "2022-11-22T02:39:30",
-      "timeSeverityChanged": "2022-11-22T02:39:00"
+      "message": "This Flood Warning has been removed.  \nRiver levels have now fallen below the flood risk threshold.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low-lying land.  Further rainfall is forecast tomorrow morning, 23/11/2022.  \nWe continue to monitor the situation.  \nPlease avoid using low-lying footpaths near local watercourses and see the GOV.UK website for a 5 day flood forecast. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-22T16:36:00",
+      "timeRaised": "2022-11-22T16:37:12",
+      "timeSeverityChanged": "2022-11-22T16:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFALCONBURY",
