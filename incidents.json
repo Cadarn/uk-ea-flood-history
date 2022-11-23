@@ -99,27 +99,6 @@
       "timeSeverityChanged": "2022-11-23T08:07:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF429",
-      "description": "River Trent Tributaries in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF429",
-        "county": "Nottingham, Nottinghamshire",
-        "notation": "034WAF429",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF429/polygon",
-        "riverOrSea": "River Trent, River Greet, Potwell Dyke, Carr Dyke, Dover Beck, Cocker Beck, Thurgarton Beck, Fairham Brook"
-      },
-      "floodAreaID": "034WAF429",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast tomorrow morning, 23/11/2022.    \nWe continue to monitor the situation.  \nPlease see the GOV.UK website for a 5 day flood forecast.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-22T16:47:00",
-      "timeRaised": "2022-11-22T16:48:02",
-      "timeSeverityChanged": "2022-11-22T16:47:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
       "description": "River Foulness and Market Weighton catchment",
       "eaAreaName": "Yorkshire",
@@ -280,12 +259,12 @@
       },
       "floodAreaID": "031WAF109",
       "isTidal": false,
-      "message": " River levels have risen at the Puxton river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible today, 23/11/22.  We expect flooding to affect low lying land and roads adjacent to the river from Caunsall to Stourport. Other locations that may be affected include Wolverley and Cookley, Blakedown and Kidderminster.   Flooding of properties is not forecast at this point.\nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high in the coming days. \nWe are closely monitoring the situation.  Our incident response staff are checking defences and liaising with emergency services.  \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and call 999 if in immediate danger.  \nThis message will be updated  by 10am on 24/11/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T15:37:00",
-      "timeRaised": "2022-11-23T15:37:46",
-      "timeSeverityChanged": "2022-11-22T11:36:00"
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Further rainfall is forecast over the next 30 hours.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T16:37:00",
+      "timeRaised": "2022-11-23T16:37:54",
+      "timeSeverityChanged": "2022-11-23T16:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF304",
@@ -994,11 +973,11 @@
       },
       "floodAreaID": "114WAFT1W10A00",
       "isTidal": false,
-      "message": "Following heavy rain this morning, river levels are rising again on the River Tamar. Further blustery showers are forecast over today, Wednesday 23 November. As catchments are saturated, rivers will respond to this further rainfall and levels are expected to remain high throughout today, though no flooding to properties is currently forecast. Flooding is possible to low lying land and roads close to the river and around the Crowford Bridge and Tamarstone Bridge.\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated by 5pm on Wednesday 23rd November or earlier if the situation changes.",
+      "message": "This Flood Alert remains in force. Showers during the daytime of Wednesday 23 November have kept river levels high in the River Tamar. Levels are expected to remain high as further showers have been forecast overnight and into tomorrow morning.    \n\nFlooding is possible to low lying land and roads close to the river. However, flooding to properties is not currently expected. \n\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated by 11am on Thursday 24th November or earlier if the situation changes. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T11:03:00",
-      "timeRaised": "2022-11-23T11:04:15",
+      "timeMessageChanged": "2022-11-23T16:40:00",
+      "timeRaised": "2022-11-23T16:40:20",
       "timeSeverityChanged": "2022-11-21T11:50:00"
     },
     {
@@ -1210,6 +1189,27 @@
       "timeMessageChanged": "2022-11-23T16:12:00",
       "timeRaised": "2022-11-23T16:12:08",
       "timeSeverityChanged": "2022-11-21T12:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTWBH010",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTWBH010",
+        "county": "Dorset Council",
+        "notation": "111FWTWBH010",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTWBH010/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111FWTWBH010",
+      "isTidal": true,
+      "message": "A flood warning has been issued. The Wednesday evening's tide is now forecast to be higher than usual and could reach a total water level of 5.5m due to large waves.  Areas most at risk include West Bay Harbour and the tidal stretch of the River Brit. Flooding is possible at West Bay Harbour and the tidal stretch of the River Brit between 06:00 PM and 07:00 PM on 23/11/2022. Weather conditions are expected to produce large offshore waves.  We will continue to monitor the forecast and re-issue this alert/warning if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 12:00 noon on 24/11/2022, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-11-23T16:40:00",
+      "timeRaised": "2022-11-23T16:41:00",
+      "timeSeverityChanged": "2022-11-23T16:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
@@ -1653,27 +1653,6 @@
       "timeSeverityChanged": "2022-11-22T06:38:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
-      "description": "Lower River Nidd catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
-        "county": "Leeds, North Yorkshire",
-        "notation": "122WAF933",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
-        "riverOrSea": "River Nidd"
-      },
-      "floodAreaID": "122WAF933",
-      "isTidal": false,
-      "message": "River levels on the River Nidd remain high but are beginning to fall at Hunsingore, Skip Bridge gauge. There may still be some areas where flood water is present until it can naturally drain away. We will continue to monitor the forecast and re-issue this alert if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-22T16:24:00",
-      "timeRaised": "2022-11-22T16:24:26",
-      "timeSeverityChanged": "2022-11-22T16:24:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF419",
       "description": "River Devon and Smite in Leicestershire and Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -1693,27 +1672,6 @@
       "timeMessageChanged": "2022-11-23T08:10:00",
       "timeRaised": "2022-11-23T08:10:50",
       "timeSeverityChanged": "2022-11-23T08:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFMAHAMILWD",
-      "description": "River Maun at Haughton, Milton and West Drayton",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFMAHAMILWD",
-        "county": "Nottinghamshire",
-        "notation": "034FWFMAHAMILWD",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFMAHAMILWD/polygon",
-        "riverOrSea": "River Maun"
-      },
-      "floodAreaID": "034FWFMAHAMILWD",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  \nRiver levels have now fallen below the flood risk threshold.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low-lying land.  Further rainfall is forecast tomorrow morning, 23/11/2022.  \nWe continue to monitor the situation.  \nPlease avoid using low-lying footpaths near local watercourses and see the GOV.UK website for a 5 day flood forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-22T16:36:00",
-      "timeRaised": "2022-11-22T16:37:12",
-      "timeSeverityChanged": "2022-11-22T16:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFALCONBURY",
