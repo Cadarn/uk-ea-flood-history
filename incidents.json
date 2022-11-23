@@ -15,69 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
-      "description": "Lower River Soar in Leicestershire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
-        "county": "Derbyshire, Leicestershire, Nottinghamshire",
-        "notation": "034WAF428",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
-        "riverOrSea": "River Soar"
-      },
-      "floodAreaID": "034WAF428",
-      "isTidal": false,
-      "message": "River levels are high but steady at the Pillings Lock river gauge as a result of recent rainfall. Consequently, the risk of flooding remains. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby, the Mountsorrel to Sileby road, the B5328 Cossington Road and the access road to Sileby Mill, and farmlands at Cossington, Sileby, Barrow, Quorndon and Cotes. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 08:00 tomorrow, 24/11/22, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T15:14:00",
-      "timeRaised": "2022-11-23T15:14:38",
-      "timeSeverityChanged": "2022-11-16T16:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
-      "description": "Severn Vyrnwy confluence",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
-        "county": "Powys, Shropshire",
-        "notation": "031WAF114",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
-        "riverOrSea": "River Severn, River Vyrnwy"
-      },
-      "floodAreaID": "031WAF114",
-      "isTidal": false,
-      "message": " River levels are falling slowly at the Llanymynech river gauge but may rise again as a result of heavy rainfall forecast for the next few days.   Consequently, the risk of flooding remains.  We expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Predicted peaks:-  Llanymynech peaked at 3.8m early 22/11/22.   Flooding of properties is not forecast at this point.\nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high in the coming days. \nWe are closely monitoring the situation.  Our incident response staff are checking defences and liaising with emergency services.  \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and call 999 if in immediate danger.  \nThis message will be updated  by 10am on 24/11/22, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T15:37:00",
-      "timeRaised": "2022-11-23T15:37:34",
-      "timeSeverityChanged": "2022-11-21T17:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
-      "description": "West Bay Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
-        "county": "Dorset Council",
-        "notation": "111WATWBYH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATWBYH",
-      "isTidal": true,
-      "message": " A flood alert has been issued. Wednesday evening's tide is higher than normal predicted to reach 2.45m due to unsettled weather. Areas most at risk include West Bay Harbour and the tidal stretch of the River Brit. Flooding is possible at West Bay Harbour and the tidal stretch of the River Brit between 17:00 PM and 19:00 PM on 23/11/2022. Weather conditions are expected to produce large offshore waves.. We will continue to monitor the forecast and re-issue this alert/warning if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 12:00 noon on 24/11/2022, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T11:48:00",
-      "timeRaised": "2022-11-23T11:48:43",
-      "timeSeverityChanged": "2022-11-23T11:48:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
       "description": "Coast at North Morecambe Bay",
       "eaAreaName": "Cumbria and Lancashire",
@@ -97,6 +34,27 @@
       "timeMessageChanged": "2022-11-23T14:23:00",
       "timeRaised": "2022-11-23T14:23:54",
       "timeSeverityChanged": "2022-11-23T14:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:15:00",
+      "timeRaised": "2022-11-23T15:15:44",
+      "timeSeverityChanged": "2022-11-23T15:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
@@ -139,6 +97,27 @@
       "timeMessageChanged": "2022-11-23T10:42:00",
       "timeRaised": "2022-11-23T10:42:28",
       "timeSeverityChanged": "2022-11-23T10:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
+      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417",
+        "county": "Nottingham, Nottinghamshire",
+        "notation": "034WAF417",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
+        "riverOrSea": "River Leen, Day Brook, Tottle Brook"
+      },
+      "floodAreaID": "034WAF417",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.\n  Further rainfall is forecast over the next 24 hours.  \n\nWe will continue to monitor the forecast and re-issue this alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T08:07:00",
+      "timeRaised": "2022-11-23T08:07:39",
+      "timeSeverityChanged": "2022-11-23T08:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
@@ -246,6 +225,27 @@
       "timeSeverityChanged": "2022-11-15T10:28:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:55:00",
+      "timeRaised": "2022-11-23T15:55:26",
+      "timeSeverityChanged": "2022-11-23T15:55:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
       "description": "River Sow and River Penk",
       "eaAreaName": "West Midlands",
@@ -267,6 +267,27 @@
       "timeSeverityChanged": "2022-11-21T17:01:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF109",
+      "description": "River Stour in Worcestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF109",
+        "county": "Staffordshire, Worcestershire",
+        "notation": "031WAF109",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF109/polygon",
+        "riverOrSea": "River Stour"
+      },
+      "floodAreaID": "031WAF109",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Further rainfall is forecast over the next 30 hours.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T16:37:00",
+      "timeRaised": "2022-11-23T16:37:54",
+      "timeSeverityChanged": "2022-11-23T16:37:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF304",
       "description": "Middle Tame",
       "eaAreaName": "West Midlands",
@@ -286,6 +307,48 @@
       "timeMessageChanged": "2022-11-23T11:18:00",
       "timeRaised": "2022-11-23T11:18:48",
       "timeSeverityChanged": "2022-11-21T19:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "River levels are high but steady at the Pillings Lock river gauge as a result of recent rainfall. Consequently, the risk of flooding remains. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby, the Mountsorrel to Sileby road, the B5328 Cossington Road and the access road to Sileby Mill, and farmlands at Cossington, Sileby, Barrow, Quorndon and Cotes. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and see the GOV.UK website for a 5 day flood forecast. This message will be updated by 08:00 tomorrow, 24/11/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T15:14:00",
+      "timeRaised": "2022-11-23T15:14:38",
+      "timeSeverityChanged": "2022-11-16T16:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF410",
+      "description": "Tributaries in North Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF410",
+        "county": "Derbyshire",
+        "notation": "034WAF410",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF410/polygon",
+        "riverOrSea": "Bradwell Brook, Dale Brook, Tideswell Brook, Warney Brook and Bentley Brook"
+      },
+      "floodAreaID": "034WAF410",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further rainfall is forecast.  \nWe continue to monitor the situation.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T17:22:00",
+      "timeRaised": "2022-11-23T17:22:36",
+      "timeSeverityChanged": "2022-11-23T17:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF201",
@@ -435,6 +498,48 @@
       "timeSeverityChanged": "2022-11-23T11:53:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH",
+        "county": "Dorset Council",
+        "notation": "111WATWBYH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATWBYH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATWBYH",
+      "isTidal": true,
+      "message": " A flood alert has been issued. Wednesday evening's tide is higher than normal predicted to reach 2.45m due to unsettled weather. Areas most at risk include West Bay Harbour and the tidal stretch of the River Brit. Flooding is possible at West Bay Harbour and the tidal stretch of the River Brit between 17:00 PM and 19:00 PM on 23/11/2022. Weather conditions are expected to produce large offshore waves.. We will continue to monitor the forecast and re-issue this alert/warning if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 12:00 noon on 24/11/2022, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T11:48:00",
+      "timeRaised": "2022-11-23T11:48:43",
+      "timeSeverityChanged": "2022-11-23T11:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
+      "description": "South Devon coast from Start Point to Dawlish Warren",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B",
+        "county": "Devon, Torbay",
+        "notation": "113WACT1B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B/polygon",
+        "riverOrSea": "South Devon Coast"
+      },
+      "floodAreaID": "113WACT1B",
+      "isTidal": true,
+      "message": " The risk of flooding from the sea has now reduced, however, large waves and strong winds are forecast, so take care near coastal paths and promenades. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T12:26:00",
+      "timeRaised": "2022-11-23T12:27:02",
+      "timeSeverityChanged": "2022-11-23T12:26:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
       "description": "North Devon coast from Hartland Point to Lynmouth",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -477,6 +582,27 @@
       "timeSeverityChanged": "2022-11-22T07:29:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
+      "description": "Beaulieu estuary",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152",
+        "county": "Hampshire",
+        "notation": "065WAC152",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065WAC152",
+      "isTidal": true,
+      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. This morning's tide at Beaulieu (10:00 on the 23/11/2022) came in 0.2m below forecast. Tide levels will remain high over the remainder of the week. Until then, at each high water, very minor impacts may be experienced, but we do not expect the tide to affect major roads or property. We continue to monitor the forecast and may issue further advice if flooding is expected to occur.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T14:03:00",
+      "timeRaised": "2022-11-23T14:03:23",
+      "timeSeverityChanged": "2022-11-23T14:03:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC162",
       "description": "Langstone to Emsworth Harbour",
       "eaAreaName": "Solent and South Downs",
@@ -490,11 +616,11 @@
       },
       "floodAreaID": "065WAC162",
       "isTidal": true,
-      "message": "Wednesday evening's tide at 22:48 on 23/11/2022 is higher than normal due to unsettled weather with strong Westerly Force 5 winds. The weather increases tide table values by 0.24 m. The total forecast tide is 5.01 metres Chart Datum (2.28 mAOD) at Portsmouth. Impacts will be relatively minor and confined to the immediate sea front. For 30 minutes either side of high tide, water could be high at South Street and Queen Street, Emsworth. The Ship Inn car park, Langstone may experience very shallow water flooding. Water may flow into the road at Langstone High Street, but flood depths will be relatively shallow. At 11:09 on Thursday (24/11/2022)‚ the tide and flood impacts will be similar to Wednesday morning's tide. We'll issue further advice in a few hours. In Emsworth, we are monitoring levels in the Mill Pond. As a precautionary measure, if you have it, and live directly on the harbour front, please install flood protection 1 hour before high tide. We will update this message by 20:00 on 23/11/2022.",
+      "message": "Thursday morning's tide at 11:09 on 24/11/2022 is higher than normal due to unsettled weather with strong Southerly Force 6 winds and large waves. The weather increases tide table values by 0.22 m. The total forecast tide is 5.20 metres Chart Datum (2.47 mAOD) at Portsmouth. Impacts will be relatively minor and confined to the immediate sea front. For 30 minutes either side of high tide, water will be high at South Street and Queen Street, Emsworth. The Ship Inn car park, Langstone will flood. Water will flow into the road at Langstone High Street, but flood depths will be relatively shallow. The tide level will remain elevated until Saturday (26/11/2022). This may cause further impacts at each high water. In Emsworth, we will lower levels in the Mill Pond. If you have it, and live directly on the harbour front, please install flood protection 1 hour before high tide. We will update this message by 15:00 on 24/11/2022.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T14:02:00",
-      "timeRaised": "2022-11-23T14:02:59",
+      "timeMessageChanged": "2022-11-23T18:07:00",
+      "timeRaised": "2022-11-23T18:07:28",
       "timeSeverityChanged": "2022-11-22T16:35:00"
     },
     {
@@ -511,12 +637,117 @@
       },
       "floodAreaID": "065WAC220",
       "isTidal": true,
-      "message": "Wednesday evening's tide at 22:18 on 23/11/2022 is higher than normal due to unsettled weather with light Westerly Force 4 winds. The weather increases tide table values by 0.29 m. The total forecast tide is 4.53 metres Chart Datum (1.94 mAOD) at Cowes. For 1 hour either side of high water, some spray overtopping of sea defences across the exposed coast at Freshwater Bay, Sandown, Shanklin, Gurnard and Ryde is expected. This may cause very minor impact flooding to esplanades, sea front car parks and affect some roads. As Cowes is sheltered from waves, impacts, if any, will be minimal, we do not expect property flooding. At 10:45 on Thursday (24/11/2022)‚ the tide and flood impacts will be similar to the tide on Wednesday morning (23/11/2022). We'll issue further advice in a few hours. We continue to monitor the forecast and recommend that any flood protection remains in place for tomorrow morning's high tide. We will update this message by 20:00 on 23/11/2022.",
+      "message": "Thursday morning's tide at 10:45 on 24/11/2022 is higher than normal due to unsettled weather with strong Southerly Force 5 winds and large waves. The weather increases tide table values by 0.19 m. The total forecast tide is 4.64 metres Chart Datum (2.05 mAOD) at Cowes. For 1 hour either side of high water, very minor impact flooding will affect some sea front roads, esplanades and car parks across the island. Water will be high up slipways in Cowes, affecting Medina Road and the floating bridge. In East Cowes, sea water forced up through drains may cause very minor impacts to the road at Albany Road. The tide level will remain elevated until Saturday (26/11/2022). This may cause further impacts at each high water. We continue to monitor the forecast. At Medina Road, near the Floating Bridge, the tide may rise to be only 0.1m below the top of front doorsteps. As a precautionary measure, and if you have it, we recommend that flood protection is installed at Medina Road 1 hour before high tide. We will update this message by 15:00 on 24/11/2022.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T14:02:00",
-      "timeRaised": "2022-11-23T14:02:49",
+      "timeMessageChanged": "2022-11-23T18:06:00",
+      "timeRaised": "2022-11-23T18:07:17",
       "timeSeverityChanged": "2022-11-22T16:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC151",
+      "description": "Southampton Water and Hamble",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151",
+        "county": "Hampshire, Southampton",
+        "notation": "065WAC151",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151/polygon",
+        "riverOrSea": "Southampton Water"
+      },
+      "floodAreaID": "065WAC151",
+      "isTidal": true,
+      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. This morning's tide at Southampton (10:00 on the 23/11/2022) came in 0.2m below forecast. Tide levels will remain high over the remainder of the week. Until then, at each high water, very minor impacts may be experienced, but we do not expect the tide to affect major roads or property. We continue to monitor the forecast, and may issue further advice if flooding is expected to occur.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T14:02:00",
+      "timeRaised": "2022-11-23T14:02:41",
+      "timeSeverityChanged": "2022-11-23T14:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
+      "description": "Mansbridge and Riverside Park",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124",
+        "county": "Hampshire, Southampton",
+        "notation": "065WAF124",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124/polygon",
+        "riverOrSea": "River Itchen"
+      },
+      "floodAreaID": "065WAF124",
+      "isTidal": false,
+      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. This morning's tide at Southampton (10:00 on the 23/11/2022) came in 0.2m below forecast. Tide levels will remain high over the remainder of the week. Until then, at each high water, very minor impacts may be experienced, but we do not expect the tide to affect major roads or property. We continue to monitor the forecast, and may issue further advice if flooding is expected to occur.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T14:03:00",
+      "timeRaised": "2022-11-23T14:03:16",
+      "timeSeverityChanged": "2022-11-23T14:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF403",
+      "description": "Rothley Brook and Quorn Brook in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF403",
+        "county": "Leicester, Leicestershire",
+        "notation": "034WAF403",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF403/polygon",
+        "riverOrSea": "Rothley Brook, Quorn Brook"
+      },
+      "floodAreaID": "034WAF403",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:03:00",
+      "timeRaised": "2022-11-23T15:03:52",
+      "timeSeverityChanged": "2022-11-23T15:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF318",
+      "description": "Lower Dove",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF318",
+        "county": "Derbyshire, Staffordshire",
+        "notation": "033WAF318",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF318/polygon",
+        "riverOrSea": "River Dove"
+      },
+      "floodAreaID": "033WAF318",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:55:00",
+      "timeRaised": "2022-11-23T15:55:34",
+      "timeSeverityChanged": "2022-11-23T15:55:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF409",
+      "description": "Lower Derwent in Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF409",
+        "county": "Derby, Derbyshire, Leicestershire",
+        "notation": "034WAF409",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF409/polygon",
+        "riverOrSea": "River Derwent"
+      },
+      "floodAreaID": "034WAF409",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary.  No further significant rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T12:34:00",
+      "timeRaised": "2022-11-23T12:34:11",
+      "timeSeverityChanged": "2022-11-23T12:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF416",
@@ -532,12 +763,33 @@
       },
       "floodAreaID": "034WAF416",
       "isTidal": false,
-      "message": "River levels have fallen overnight but forecast to rise at the Pinxton river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible this morning, 23/11/2022.  Areas most at risk are low-lying agricultural land and roads around Pinxton, including the Pinxton Wharf access road, Langley Mill, Ilkeston, Stapleford, and the recreation area at Sandiacre.   \nFurther heavy rainfall is forecast over the next few hours.  We expect river levels to rise until around 15:00 on 23/11/2022.\nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 17:00 on 23/11/2022, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T07:36:00",
-      "timeRaised": "2022-11-23T07:36:23",
-      "timeSeverityChanged": "2022-11-21T17:15:00"
+      "message": "\"This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  \nWe continue to monitor the situation.\"\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T17:48:00",
+      "timeRaised": "2022-11-23T17:48:43",
+      "timeSeverityChanged": "2022-11-23T17:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
+      "description": "River Wye in Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408",
+        "county": "Derbyshire",
+        "notation": "034WAF408",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "034WAF408",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further rainfall is forecast.  \nWe continue to monitor the situation.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T17:29:00",
+      "timeRaised": "2022-11-23T17:29:35",
+      "timeSeverityChanged": "2022-11-23T17:29:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
@@ -624,6 +876,27 @@
       "timeSeverityChanged": "2022-11-21T13:58:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
+      "description": "Severn Vyrnwy confluence",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114",
+        "county": "Powys, Shropshire",
+        "notation": "031WAF114",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF114/polygon",
+        "riverOrSea": "River Severn, River Vyrnwy"
+      },
+      "floodAreaID": "031WAF114",
+      "isTidal": false,
+      "message": " River levels are falling slowly at the Llanymynech river gauge but may rise again as a result of heavy rainfall forecast for the next few days.   Consequently, the risk of flooding remains.  We expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Predicted peaks:-  Llanymynech peaked at 3.8m early 22/11/22.   Flooding of properties is not forecast at this point.\nFurther rainfall is forecast over the next 48 hours.  We expect river levels to remain high in the coming days. \nWe are closely monitoring the situation.  Our incident response staff are checking defences and liaising with emergency services.  \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and call 999 if in immediate danger.  \nThis message will be updated  by 10am on 24/11/22, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T15:37:00",
+      "timeRaised": "2022-11-23T15:37:34",
+      "timeSeverityChanged": "2022-11-21T17:43:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
       "description": "West Dorset Rivers and Streams",
       "eaAreaName": "Wessex",
@@ -658,11 +931,11 @@
       },
       "floodAreaID": "065WAF433",
       "isTidal": false,
-      "message": "The River Adur will rise again Wednesday. Rain is predicted to clear by 10:00 Wednesday morning, leaving a mostly dry day. It is currently thought river levels will not rise any higher than they were Monday and Tuesday this week, but minor flooding could still possibly affect fields, rural roads and the gardens of properties near Mock Bridge. River levels should begin to fall by 23:00 23/11/2022. However, there is unlikely to be enough time for the River Adur to return to normal before more rain Thursday afternoon. Another small river rise should be expected Thursday afternoon into Friday, with minor flood impacts again possible. More rain Saturday evening could cause property flooding. Some roads, including the A281 at Mock Bridge, may be affected by flood water, please plan to avoid driving through routes vulnerable to flooding. We continue to monitor the levels and forecast. We will update this message by 21:00 23/11/2022.",
+      "message": "The River Adur is high and slowly rising. Minor flood impacts will affect fields, rural roads and the gardens of properties near Mock Bridge. Showers could pass over the Sussex coast Wednesday evening, but river levels should not rise higher than they were on Monday and Tuesday this week. River levels should begin to fall by 03:00 on 24/11/2022. However, there is unlikely to be enough time for the River Adur to return to normal before more rain Thursday afternoon. Thursday afternoon's rain could cause flood water to approach properties at Mock Bridge, near Shermanbury from 05:00 Friday (25/11/2022). More rain Saturday evening could cause property flooding. Some roads, including the A281 at Mock Bridge, may be affected by flood water, please plan to avoid driving through routes vulnerable to flooding. We continue to monitor the levels and forecast. We will update this message by 11:00 on the 24/11/2022.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T08:00:00",
-      "timeRaised": "2022-11-23T08:00:58",
+      "timeMessageChanged": "2022-11-23T18:06:00",
+      "timeRaised": "2022-11-23T18:06:45",
       "timeSeverityChanged": "2022-11-21T19:09:00"
     },
     {
@@ -763,11 +1036,11 @@
       },
       "floodAreaID": "065WAF421",
       "isTidal": false,
-      "message": "The Western Rother is high but slowly falling at FIttleworth. Minor flood impacts will continue to affect fields, rural roads and gardens near Fittleworth. Rain should clear by 09:00, leaving Wednesday mostly dry. River levels all along the Western Rother will rise a small amount, before beginning to fall around 15:00 23/11/2022 in Liss, 21:00 23/11/2022 in Midhurst, and Thursday morning downstream. Probably not rising as high as they have been this week. More rain Thursday could see a repeat of Wednesday's river response. In Fittleworth, river levels will remain high and could rise close to properties by Friday. More rain Saturday evening could cause property flooding along the length of the Western Rother. River levels might not return nearer to normal until next week. Early actions to reduce potential impacts at Lodsbridge and Fittleworth are encouraged. We continue to monitor the levels and forecast. We will update this message by 21:00 23/11/2022.",
+      "message": "The Western Rother is higher than normal between Midhurst and FIttleworth. Minor flood impacts will continue to affect fields, rural roads and gardens. In Fittleworth, we believe the Western Rother will continue to fall overnight, but that fall will likely slow. In Midhurst, river levels should begin to fall by 21:00 on 23/11/2022. At Lodsbridge near Selham river levels should begin to fall by 04:00 on 24/11/2022. More rain Thursday could see a repeat of Wednesday's river response all along the Western Rother. With river levels already elevated between Midhurst and Fittleworth, Thursday's flood water could potentially approach properties. Rain Saturday evening could cause property flooding along the length of the Western Rother. River levels might not return nearer to normal until next week. Early actions to reduce potential impacts at Lodsbridge and Fittleworth are encouraged. We continue to monitor the levels and forecast. We will update this message by 11:00 on the 24/11/2022.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T07:56:00",
-      "timeRaised": "2022-11-23T07:56:59",
+      "timeMessageChanged": "2022-11-23T18:06:00",
+      "timeRaised": "2022-11-23T18:06:47",
       "timeSeverityChanged": "2022-11-21T19:09:00"
     },
     {
@@ -826,12 +1099,75 @@
       },
       "floodAreaID": "065WAF415",
       "isTidal": false,
-      "message": "The Aldingbourne Rife remains high, following twice the monthly average rainfall in November. Flooding will continue to affect fields near Shripney Lane and the A259, parts of the car park at Tesco and land around caravans at Riverside Caravan Centre and Rowan Park Caravan Park. Some roads, including Shripney Lane may be impassable, please plan to avoid driving through routes vulnerable to flooding. Rain should clear by 09:00 Wednesday morning, leaving a mostly dry day. The Aldingbourne and Barnham Rifes will rise a small amount Wednesday, before beginning to fall by 03:00 Thursday 24/11/2022. In Barnham, only minor impacts are currently expected, with river levels comparatively lower. More rain Thursday afternoon could take the Aldingbourne Rife higher than observed last Thursday. More rain Saturday evening might cause all river levels to rise even higher on Sunday. We continue to monitor the situation and routinely clear grilles through Barnham, including at the Trading Post and our pumps at Felpham are running to reduce flood risk. We will update this message by 21:00 23/11/2022.",
+      "message": "The Aldingbourne Rife remains high, following twice the monthly average rainfall in November. Flooding will continue to affect fields near Shripney Lane and the A259, parts of the car park at Tesco and land around caravans at Riverside Caravan Centre and Rowan Park Caravan Park. Some roads, including Shripney Lane may be impassable, please plan to avoid driving through routes vulnerable to flooding. Showers could pass over the Sussex coast Wednesday evening, but river levels should not rise much and might fall by a centimetre or two by Thursday morning. In Barnham, only minimal impacts are currently expected, with river levels comparatively lower. More rain Thursday afternoon, will cause river levels to rise again. Rain Saturday evening could cause river levels to rise even higher than their recent peak. We continue to monitor the situation and routinely clear grilles through Barnham, including at the Trading Post and our pumps at Felpham are running to reduce flood risk. We will update this message by 11:00 on the 24/11/2022.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T08:17:00",
-      "timeRaised": "2022-11-23T08:18:02",
+      "timeMessageChanged": "2022-11-23T18:06:00",
+      "timeRaised": "2022-11-23T18:06:58",
       "timeSeverityChanged": "2022-11-15T17:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
+      "description": "Fareham to Portchester",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160",
+        "county": "Hampshire, Portsmouth",
+        "notation": "065WAC160",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160/polygon",
+        "riverOrSea": "Portsmouth Harbour"
+      },
+      "floodAreaID": "065WAC160",
+      "isTidal": true,
+      "message": "Thursday morning's tide at 11:09 on 24/11/2022 is higher than normal due to unsettled weather with strong Southerly Force 6 winds and large waves. The weather increases tide table values by 0.22 m. The total forecast tide is 5.20 metres Chart Datum (2.47 mAOD) at Portsmouth. For 30 minutes either side of high water, the tide could exceed the top of the main slipway and flood the road at Lower Quay, Fareham. Minor flooding at Eastern Parade is also expected. The lower end of Wallington Shore Road will also flood to a depth of up to 5cm. No property flooding is expected. The tide level will remain elevated until Saturday (26/11/2022). This may cause further impacts at each high water. We continue to monitor the forecast. We recommend that cars do not park at the lower end of Wallington Shore Road. We will update this message by 15:00 on 24/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T18:07:00",
+      "timeRaised": "2022-11-23T18:07:41",
+      "timeSeverityChanged": "2022-11-23T18:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC156",
+      "description": "Hillhead to Gosport",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC156",
+        "county": "Hampshire, Portsmouth",
+        "notation": "065WAC156",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC156/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065WAC156",
+      "isTidal": true,
+      "message": "Thursday morning's tide at 11:09 on 24/11/2022 is higher than normal due to unsettled weather with strong Southerly Force 6 winds and large waves. The weather increases tide table values by 0.22 m. The total forecast tide is 5.20 metres Chart Datum (2.47 mAOD) at Portsmouth. For 30 minutes either side of high water, spray overtopping of sea defence walls into low lying coastal roads between Hillhead and Gosport, namely Cliff Road and Stokes Bay Road is expected. At Hillhead, low lying Sea front car parks may flood for a very short period of time. Property flooding is not expected. The tide level will remain elevated until Saturday (26/11/2022). This may cause further impacts at each high water. We continue to monitor the forecast. Be careful if driving, parking or walking at Gosport sea front at high tide. Large waves can carry and throw shingle and debris, which will affect the main road at Stokes Bay. We will update this message by 15:00 on 24/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T18:07:00",
+      "timeRaised": "2022-11-23T18:07:56",
+      "timeSeverityChanged": "2022-11-23T18:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC158",
+      "description": "Portsmouth",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC158",
+        "county": "Portsmouth",
+        "notation": "065WAC158",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC158/polygon",
+        "riverOrSea": "The Solent, Portsmouth Harbour, Langstone Harbour"
+      },
+      "floodAreaID": "065WAC158",
+      "isTidal": true,
+      "message": "Thursday morning's tide at 11:09 on 24/11/2022 is higher than normal due to unsettled weather with strong Southerly Force 6 winds and large waves. The weather increases tide table values by 0.22 m. The total forecast tide is 5.20 metres Chart Datum (2.47 mAOD) at Portsmouth. For 1 hour either side of high water, in Old Portsmouth, the tide may just exceed the top of the main slipway which will cause minor road flooding in East Street. It could also cause minor disruption to the boat yards at The Camber. Spray overtopping of defence walls at Southsea promenade and Eastern Road is also expected. To protect property in Old Portsmouth, tidal defence gates will be closed. The tide level will remain elevated until Saturday (26/11/2022). This may cause further impacts at each high water. We continue to monitor the forecast. We are liaising with the local authority over flood defence gate closures. Avoid walking along the exposed sea front, especially Southsea, at high tide. Spray and large waves can carry and throw shingle and debris. We will update this message by 15:00 on 24/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T18:07:00",
+      "timeRaised": "2022-11-23T18:07:56",
+      "timeSeverityChanged": "2022-11-23T18:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
@@ -939,6 +1275,27 @@
       "timeSeverityChanged": "2022-11-21T12:11:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTWBH010",
+      "description": "West Bay Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTWBH010",
+        "county": "Dorset Council",
+        "notation": "111FWTWBH010",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTWBH010/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111FWTWBH010",
+      "isTidal": true,
+      "message": "A flood warning has been issued. The Wednesday evening's tide is now forecast to be higher than usual and could reach a total water level of 5.5m due to large waves.  Areas most at risk include West Bay Harbour and the tidal stretch of the River Brit. Flooding is possible at West Bay Harbour and the tidal stretch of the River Brit between 06:00 PM and 07:00 PM on 23/11/2022. Weather conditions are expected to produce large offshore waves.  We will continue to monitor the forecast and re-issue this alert/warning if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 12:00 noon on 24/11/2022, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-11-23T16:40:00",
+      "timeRaised": "2022-11-23T16:41:00",
+      "timeSeverityChanged": "2022-11-23T16:40:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -1002,6 +1359,48 @@
       "timeSeverityChanged": "2022-11-21T13:04:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROU",
+      "description": "Upper Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROU",
+        "county": "Dorset Council",
+        "notation": "111WAFFROU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROU/polygon",
+        "riverOrSea": "Frome, Hooke, Sydling Water, Cerne"
+      },
+      "floodAreaID": "111WAFFROU",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T12:02:00",
+      "timeRaised": "2022-11-23T12:02:41",
+      "timeSeverityChanged": "2022-11-23T12:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
+      "description": "Upper Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU",
+        "county": "Dorset Council, Somerset, Wiltshire",
+        "notation": "111WAFSTOU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU/polygon",
+        "riverOrSea": "River Stour, River Lodden, River Shreen"
+      },
+      "floodAreaID": "111WAFSTOU",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T12:02:00",
+      "timeRaised": "2022-11-23T12:02:55",
+      "timeSeverityChanged": "2022-11-23T12:02:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
       "description": "Upper Bristol Avon area",
       "eaAreaName": "Wessex",
@@ -1042,6 +1441,27 @@
       "timeMessageChanged": "2022-11-23T14:54:00",
       "timeRaised": "2022-11-23T14:54:40",
       "timeSeverityChanged": "2022-11-16T07:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T12:02:00",
+      "timeRaised": "2022-11-23T12:02:48",
+      "timeSeverityChanged": "2022-11-23T12:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW08",
@@ -1120,11 +1540,11 @@
       },
       "floodAreaID": "052WAFKYM",
       "isTidal": false,
-      "message": "River levels continue to fall at the Covington Brook river gauge this morning but remain high downstream following recent rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting the River Kym and River Til from Yelden and Upper Dean to Hail Weston. \nFurther heavy rainfall is forecast this morning and river levels may begin to rise again in response to this. \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be update this evening, 23/11/22, or as the situation changes.\n",
+      "message": "River levels have risen at the Covington Brook river gauge this afternoon following this morning’s rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting the River Kym and River Til from Yelden and Upper Dean to Hail Weston. Further heavy rainfall is forecast later this week and river levels may begin to rise again in response to this. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 24/11/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T09:32:00",
-      "timeRaised": "2022-11-23T09:33:01",
+      "timeMessageChanged": "2022-11-23T18:14:00",
+      "timeRaised": "2022-11-23T18:14:43",
       "timeSeverityChanged": "2022-11-21T20:00:00"
     },
     {
@@ -1141,11 +1561,11 @@
       },
       "floodAreaID": "052WAFRISELEYB",
       "isTidal": false,
-      "message": " River levels continue to fall at the Riseley river gauge this morning but remain high downstream following recent rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting Riseley Brook from Riseley to Pertenhall. \nFurther heavy rainfall is forecast this morning and river levels may begin to rise again in response to this. \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be update this evening, 23/11/22, or as the situation changes.\n",
+      "message": "River levels have risen at the Riseley river gauge this afternoon following this morning’s rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting Riseley Brook from Riseley to Pertenhall. Further heavy rainfall is forecast this morning and river levels may begin to rise again in response to this. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 24/11/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T09:33:00",
-      "timeRaised": "2022-11-23T09:33:33",
+      "timeMessageChanged": "2022-11-23T18:14:00",
+      "timeRaised": "2022-11-23T18:14:36",
       "timeSeverityChanged": "2022-11-21T19:28:00"
     },
     {
@@ -1233,6 +1653,27 @@
       "timeSeverityChanged": "2022-11-21T17:56:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF136TWT",
+      "description": "Welland tributaries",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF136TWT",
+        "county": "Leicestershire, Lincolnshire, North Northamptonshire, Rutland",
+        "notation": "055WAF136TWT",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF136TWT/polygon",
+        "riverOrSea": "River Welland, Medbourne Brook, Great Easton Brook, Eye Brook, River Chater, River Gwash"
+      },
+      "floodAreaID": "055WAF136TWT",
+      "isTidal": false,
+      "message": " The risk of flooding from the Welland Tributaries has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:57:00",
+      "timeRaised": "2022-11-23T15:57:15",
+      "timeSeverityChanged": "2022-11-23T15:57:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
       "description": "Tidal River Ouse from Naburn Lock to Selby",
       "eaAreaName": "Yorkshire",
@@ -1252,6 +1693,27 @@
       "timeMessageChanged": "2022-11-23T15:00:00",
       "timeRaised": "2022-11-23T15:00:26",
       "timeSeverityChanged": "2022-11-17T15:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF132HWB",
+      "description": "Harpers Brook and Willow Brook",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF132HWB",
+        "county": "North Northamptonshire",
+        "notation": "055WAF132HWB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF132HWB/polygon",
+        "riverOrSea": "Harpers Brook, Willow Brook"
+      },
+      "floodAreaID": "055WAF132HWB",
+      "isTidal": false,
+      "message": " The risk of flooding from Harpers Brook and Willow Brook has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:48:00",
+      "timeRaised": "2022-11-23T15:48:51",
+      "timeSeverityChanged": "2022-11-23T15:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
@@ -1296,6 +1758,27 @@
       "timeSeverityChanged": "2022-11-22T06:38:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF419",
+      "description": "River Devon and Smite in Leicestershire and Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF419",
+        "county": "Leicestershire, Lincolnshire, Nottinghamshire",
+        "notation": "034WAF419",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF419/polygon",
+        "riverOrSea": "River Devon"
+      },
+      "floodAreaID": "034WAF419",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.\nFurther rainfall is forecast over the next 24 hours.  \n\nWe will continue to monitor the forecast and re-issue this alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T08:10:00",
+      "timeRaised": "2022-11-23T08:10:50",
+      "timeSeverityChanged": "2022-11-23T08:10:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFALCONBURY",
       "description": "Alconbury Brook in Cambridgeshire",
       "eaAreaName": "East Anglia",
@@ -1309,12 +1792,54 @@
       },
       "floodAreaID": "052WAFALCONBURY",
       "isTidal": false,
-      "message": " River levels continue to fall at the Alconbury Brook river gauge this morning but remain high downstream following recent rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting Alconbury Brook at Hamerton, The Alconbury’s, Little Stukley and Brampton. \nFurther heavy rainfall is forecast this morning and river levels may begin to rise again in response to this. \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be update this evening, 23/11/22, or as the situation changes.\n",
+      "message": "River levels are rising at the Alconbury Brook river gauge this afternoon following this morning’s recent rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting Alconbury Brook at Hamerton, The Alconbury’s, Little Stukley and Brampton. Further heavy rainfall is forecast later this week and river levels may begin to rise again in response to this. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 24/11/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T09:32:00",
-      "timeRaised": "2022-11-23T09:33:05",
+      "timeMessageChanged": "2022-11-23T18:14:00",
+      "timeRaised": "2022-11-23T18:14:46",
       "timeSeverityChanged": "2022-11-21T21:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWRMILLS",
+      "description": "River Wreake for mills at Hoby, Thrussington and Ratcliffe",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRMILLS",
+        "county": "Leicestershire",
+        "notation": "034FWFWRMILLS",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRMILLS/polygon",
+        "riverOrSea": "River Wreake"
+      },
+      "floodAreaID": "034FWFWRMILLS",
+      "isTidal": false,
+      "message": "This Flood Warning has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.  Please see the GOV.UK website for a 5 day flood forecast.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:28:00",
+      "timeRaised": "2022-11-23T15:28:37",
+      "timeSeverityChanged": "2022-11-23T15:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWRFRISWRKE",
+      "description": "River Wreake at Frisby-on-the-Wreake",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRFRISWRKE",
+        "county": "Leicestershire",
+        "notation": "034FWFWRFRISWRKE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRFRISWRKE/polygon",
+        "riverOrSea": "River Wreake"
+      },
+      "floodAreaID": "034FWFWRFRISWRKE",
+      "isTidal": false,
+      "message": "This Flood Warning has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.  Please see the GOV.UK website for a 5 day flood forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:31:00",
+      "timeRaised": "2022-11-23T15:31:51",
+      "timeSeverityChanged": "2022-11-23T15:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
@@ -1357,6 +1882,27 @@
       "timeMessageChanged": "2022-11-23T14:25:00",
       "timeRaised": "2022-11-23T14:25:23",
       "timeSeverityChanged": "2022-11-18T07:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF308",
+      "description": "River Mease",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308",
+        "county": "Derbyshire, Leicestershire, Staffordshire",
+        "notation": "033WAF308",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308/polygon",
+        "riverOrSea": "Gilwiskaw Brook, River Mease"
+      },
+      "floodAreaID": "033WAF308",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T14:53:00",
+      "timeRaised": "2022-11-23T14:53:58",
+      "timeSeverityChanged": "2022-11-23T14:53:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
@@ -1422,6 +1968,48 @@
       "timeSeverityChanged": "2022-11-21T17:25:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOL",
+      "description": "Lower Avon and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFAVOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL/polygon",
+        "riverOrSea": "Avon"
+      },
+      "floodAreaID": "111WAFAVOL",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T08:59:00",
+      "timeRaised": "2022-11-23T09:00:04",
+      "timeSeverityChanged": "2022-11-23T08:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF134TWV",
+      "description": "Welland Valley",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF134TWV",
+        "county": "Leicestershire, Lincolnshire, North Northamptonshire, Peterborough, Rutland, West Northamptonshire",
+        "notation": "055WAF134TWV",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF134TWV/polygon",
+        "riverOrSea": "River Welland, River Jordan"
+      },
+      "floodAreaID": "055WAF134TWV",
+      "isTidal": false,
+      "message": " The risk of flooding from the River Welland has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T15:53:00",
+      "timeRaised": "2022-11-23T15:53:52",
+      "timeSeverityChanged": "2022-11-23T15:53:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFELLINGTON",
       "description": "Ellington Brook in Cambridgeshire",
       "eaAreaName": "East Anglia",
@@ -1435,11 +2023,11 @@
       },
       "floodAreaID": "052WAFELLINGTON",
       "isTidal": false,
-      "message": " River levels continue to fall at the Ellington Brook river gauge this morning but remain high downstream following recent rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting Ellington Brook at Spaldwick, Ellington and Brampton. \nFurther heavy rainfall is forecast this morning and river levels may begin to rise again in response to this. \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be update this evening, 23/11/22, or as the situation changes.\n",
+      "message": "River levels have risen at the Ellington Brook river gauge this afternoon following this morning’s rainfall. Consequently, flooding of roads and farmland is possible today, 23/11/22. Flooding is affecting Ellington Brook at Spaldwick, Ellington and Brampton. Further heavy rainfall is forecast later this week and river levels may begin to rise again in response to this. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated tomorrow morning, 24/11/22, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-23T09:33:00",
-      "timeRaised": "2022-11-23T09:33:20",
+      "timeMessageChanged": "2022-11-23T18:14:00",
+      "timeRaised": "2022-11-23T18:14:50",
       "timeSeverityChanged": "2022-11-21T20:59:00"
     },
     {
@@ -1569,6 +2157,48 @@
       "timeSeverityChanged": "2022-11-22T14:59:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF415",
+      "description": "River Trent in Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF415",
+        "county": "Derbyshire, Leicestershire, Nottingham, Nottinghamshire",
+        "notation": "034WAF415",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF415/polygon",
+        "riverOrSea": "River Trent"
+      },
+      "floodAreaID": "034WAF415",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nFurther rainfall is forecast over the next few hours, but we expect river levels to remain generally steady over next 24 hours. \nWe continue to monitor the situation.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-11-23T08:18:00",
+      "timeRaised": "2022-11-23T08:18:27",
+      "timeSeverityChanged": "2022-11-23T08:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
+      "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01",
+        "county": "Cambridgeshire, Peterborough",
+        "notation": "055FWFPNBR01",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01/polygon",
+        "riverOrSea": "River Nene"
+      },
+      "floodAreaID": "055FWFPNBR01",
+      "isTidal": false,
+      "message": "Heavy rain on Monday 21 November has caused river levels to rise on the River Nene. During periods of high tide the river will be unable to discharge into the sea, resulting in tide lock conditions. This is likely to lead to localised flooding at North Bank Road. Whilst the Flood Warning is in force, the Local Authority will close North Bank Road. Diversionary routes will be put in place and further updates will be available through local media.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-11-22T22:36:00",
+      "timeRaised": "2022-11-22T22:36:36",
+      "timeSeverityChanged": "2022-11-22T22:36:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
       "description": "River Severn in Gloucestershire",
       "eaAreaName": "West Midlands",
@@ -1674,613 +2304,46 @@
       "timeSeverityChanged": "2022-11-23T17:31:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:15:00",
-      "timeRaised": "2022-11-23T15:15:44",
-      "timeSeverityChanged": "2022-11-23T15:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
-      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417",
-        "county": "Nottingham, Nottinghamshire",
-        "notation": "034WAF417",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
-        "riverOrSea": "River Leen, Day Brook, Tottle Brook"
-      },
-      "floodAreaID": "034WAF417",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.\n  Further rainfall is forecast over the next 24 hours.  \n\nWe will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T08:07:00",
-      "timeRaised": "2022-11-23T08:07:39",
-      "timeSeverityChanged": "2022-11-23T08:07:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
-      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF201",
+      "description": "Kempsey Village",
       "eaAreaName": "West Midlands",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
-        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
-        "notation": "033WAF330",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
-        "riverOrSea": "River Stour, Smestow Brook"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF201",
+        "county": "Worcestershire",
+        "notation": "031WAF201",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF201/polygon",
+        "riverOrSea": "River Severn, Hatfield Brook"
       },
-      "floodAreaID": "033WAF330",
+      "floodAreaID": "031WAF201",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:55:00",
-      "timeRaised": "2022-11-23T15:55:26",
-      "timeSeverityChanged": "2022-11-23T15:55:00"
+      "message": "River levels are forecast to rise at the Kempsey Yacht Club river gauge as a result of persistent heavy rainfall.  Consequently, flooding of roads and farmland is possible tomorrow morning, 24/11/22.  We expect flooding to affect low lying land and Squires walk in the area of the Hatfield Brook Kempsey. Kempsey Flood Alleviation scheme may become operational from 7am tomorrow, 24/11/22. Predicted peak:- Kempsey Yacht Club 4.8m to 5.1m on Thursday morning 24/11/22.   \nFurther rainfall is forecast tomorrow Thursday 24/11/22. We expect river levels to remain high over the next few days. \nWe are closely monitoring the situation. \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 10am on 24/10/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T17:37:00",
+      "timeRaised": "2022-11-23T17:38:12",
+      "timeSeverityChanged": "2022-11-23T17:37:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF109",
-      "description": "River Stour in Worcestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF109",
-        "county": "Staffordshire, Worcestershire",
-        "notation": "031WAF109",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF109/polygon",
-        "riverOrSea": "River Stour"
-      },
-      "floodAreaID": "031WAF109",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Further rainfall is forecast over the next 30 hours.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T16:37:00",
-      "timeRaised": "2022-11-23T16:37:54",
-      "timeSeverityChanged": "2022-11-23T16:37:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF410",
-      "description": "Tributaries in North Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF410",
-        "county": "Derbyshire",
-        "notation": "034WAF410",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF410/polygon",
-        "riverOrSea": "Bradwell Brook, Dale Brook, Tideswell Brook, Warney Brook and Bentley Brook"
-      },
-      "floodAreaID": "034WAF410",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further rainfall is forecast.  \nWe continue to monitor the situation.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T17:22:00",
-      "timeRaised": "2022-11-23T17:22:36",
-      "timeSeverityChanged": "2022-11-23T17:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
-      "description": "South Devon coast from Start Point to Dawlish Warren",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B",
-        "county": "Devon, Torbay",
-        "notation": "113WACT1B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B/polygon",
-        "riverOrSea": "South Devon Coast"
-      },
-      "floodAreaID": "113WACT1B",
-      "isTidal": true,
-      "message": " The risk of flooding from the sea has now reduced, however, large waves and strong winds are forecast, so take care near coastal paths and promenades. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T12:26:00",
-      "timeRaised": "2022-11-23T12:27:02",
-      "timeSeverityChanged": "2022-11-23T12:26:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
-      "description": "Beaulieu estuary",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC155",
+      "description": "Hayling Island",
       "eaAreaName": "Solent and South Downs",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152",
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC155",
         "county": "Hampshire",
-        "notation": "065WAC152",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152/polygon",
-        "riverOrSea": "The Solent"
+        "notation": "065WAC155",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC155/polygon",
+        "riverOrSea": "Langstone Harbour"
       },
-      "floodAreaID": "065WAC152",
+      "floodAreaID": "065WAC155",
       "isTidal": true,
-      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. This morning's tide at Beaulieu (10:00 on the 23/11/2022) came in 0.2m below forecast. Tide levels will remain high over the remainder of the week. Until then, at each high water, very minor impacts may be experienced, but we do not expect the tide to affect major roads or property. We continue to monitor the forecast and may issue further advice if flooding is expected to occur.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T14:03:00",
-      "timeRaised": "2022-11-23T14:03:23",
-      "timeSeverityChanged": "2022-11-23T14:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC151",
-      "description": "Southampton Water and Hamble",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151",
-        "county": "Hampshire, Southampton",
-        "notation": "065WAC151",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151/polygon",
-        "riverOrSea": "Southampton Water"
-      },
-      "floodAreaID": "065WAC151",
-      "isTidal": true,
-      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. This morning's tide at Southampton (10:00 on the 23/11/2022) came in 0.2m below forecast. Tide levels will remain high over the remainder of the week. Until then, at each high water, very minor impacts may be experienced, but we do not expect the tide to affect major roads or property. We continue to monitor the forecast, and may issue further advice if flooding is expected to occur.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T14:02:00",
-      "timeRaised": "2022-11-23T14:02:41",
-      "timeSeverityChanged": "2022-11-23T14:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
-      "description": "Mansbridge and Riverside Park",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124",
-        "county": "Hampshire, Southampton",
-        "notation": "065WAF124",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124/polygon",
-        "riverOrSea": "River Itchen"
-      },
-      "floodAreaID": "065WAF124",
-      "isTidal": false,
-      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. This morning's tide at Southampton (10:00 on the 23/11/2022) came in 0.2m below forecast. Tide levels will remain high over the remainder of the week. Until then, at each high water, very minor impacts may be experienced, but we do not expect the tide to affect major roads or property. We continue to monitor the forecast, and may issue further advice if flooding is expected to occur.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T14:03:00",
-      "timeRaised": "2022-11-23T14:03:16",
-      "timeSeverityChanged": "2022-11-23T14:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF403",
-      "description": "Rothley Brook and Quorn Brook in Leicestershire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF403",
-        "county": "Leicester, Leicestershire",
-        "notation": "034WAF403",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF403/polygon",
-        "riverOrSea": "Rothley Brook, Quorn Brook"
-      },
-      "floodAreaID": "034WAF403",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation. \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:03:00",
-      "timeRaised": "2022-11-23T15:03:52",
-      "timeSeverityChanged": "2022-11-23T15:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF318",
-      "description": "Lower Dove",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF318",
-        "county": "Derbyshire, Staffordshire",
-        "notation": "033WAF318",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF318/polygon",
-        "riverOrSea": "River Dove"
-      },
-      "floodAreaID": "033WAF318",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:55:00",
-      "timeRaised": "2022-11-23T15:55:34",
-      "timeSeverityChanged": "2022-11-23T15:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF409",
-      "description": "Lower Derwent in Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF409",
-        "county": "Derby, Derbyshire, Leicestershire",
-        "notation": "034WAF409",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF409/polygon",
-        "riverOrSea": "River Derwent"
-      },
-      "floodAreaID": "034WAF409",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary.  No further significant rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation. \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T12:34:00",
-      "timeRaised": "2022-11-23T12:34:11",
-      "timeSeverityChanged": "2022-11-23T12:34:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
-      "description": "River Wye in Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408",
-        "county": "Derbyshire",
-        "notation": "034WAF408",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF408/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "034WAF408",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  No further rainfall is forecast.  \nWe continue to monitor the situation.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T17:29:00",
-      "timeRaised": "2022-11-23T17:29:35",
-      "timeSeverityChanged": "2022-11-23T17:29:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROU",
-      "description": "Upper Frome and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROU",
-        "county": "Dorset Council",
-        "notation": "111WAFFROU",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROU/polygon",
-        "riverOrSea": "Frome, Hooke, Sydling Water, Cerne"
-      },
-      "floodAreaID": "111WAFFROU",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T12:02:00",
-      "timeRaised": "2022-11-23T12:02:41",
-      "timeSeverityChanged": "2022-11-23T12:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
-      "description": "Upper Stour and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU",
-        "county": "Dorset Council, Somerset, Wiltshire",
-        "notation": "111WAFSTOU",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU/polygon",
-        "riverOrSea": "River Stour, River Lodden, River Shreen"
-      },
-      "floodAreaID": "111WAFSTOU",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T12:02:00",
-      "timeRaised": "2022-11-23T12:02:55",
-      "timeSeverityChanged": "2022-11-23T12:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
-      "description": "Lower Frome and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
-        "county": "Dorset Council",
-        "notation": "111WAFFROL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
-        "riverOrSea": "River Frome"
-      },
-      "floodAreaID": "111WAFFROL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T12:02:00",
-      "timeRaised": "2022-11-23T12:02:48",
-      "timeSeverityChanged": "2022-11-23T12:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF136TWT",
-      "description": "Welland tributaries",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF136TWT",
-        "county": "Leicestershire, Lincolnshire, North Northamptonshire, Rutland",
-        "notation": "055WAF136TWT",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF136TWT/polygon",
-        "riverOrSea": "River Welland, Medbourne Brook, Great Easton Brook, Eye Brook, River Chater, River Gwash"
-      },
-      "floodAreaID": "055WAF136TWT",
-      "isTidal": false,
-      "message": " The risk of flooding from the Welland Tributaries has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:57:00",
-      "timeRaised": "2022-11-23T15:57:15",
-      "timeSeverityChanged": "2022-11-23T15:57:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF132HWB",
-      "description": "Harpers Brook and Willow Brook",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF132HWB",
-        "county": "North Northamptonshire",
-        "notation": "055WAF132HWB",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF132HWB/polygon",
-        "riverOrSea": "Harpers Brook, Willow Brook"
-      },
-      "floodAreaID": "055WAF132HWB",
-      "isTidal": false,
-      "message": " The risk of flooding from Harpers Brook and Willow Brook has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:48:00",
-      "timeRaised": "2022-11-23T15:48:51",
-      "timeSeverityChanged": "2022-11-23T15:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF419",
-      "description": "River Devon and Smite in Leicestershire and Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF419",
-        "county": "Leicestershire, Lincolnshire, Nottinghamshire",
-        "notation": "034WAF419",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF419/polygon",
-        "riverOrSea": "River Devon"
-      },
-      "floodAreaID": "034WAF419",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.\nFurther rainfall is forecast over the next 24 hours.  \n\nWe will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T08:10:00",
-      "timeRaised": "2022-11-23T08:10:50",
-      "timeSeverityChanged": "2022-11-23T08:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWRMILLS",
-      "description": "River Wreake for mills at Hoby, Thrussington and Ratcliffe",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRMILLS",
-        "county": "Leicestershire",
-        "notation": "034FWFWRMILLS",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRMILLS/polygon",
-        "riverOrSea": "River Wreake"
-      },
-      "floodAreaID": "034FWFWRMILLS",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.  Please see the GOV.UK website for a 5 day flood forecast.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:28:00",
-      "timeRaised": "2022-11-23T15:28:37",
-      "timeSeverityChanged": "2022-11-23T15:28:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWRFRISWRKE",
-      "description": "River Wreake at Frisby-on-the-Wreake",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRFRISWRKE",
-        "county": "Leicestershire",
-        "notation": "034FWFWRFRISWRKE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRFRISWRKE/polygon",
-        "riverOrSea": "River Wreake"
-      },
-      "floodAreaID": "034FWFWRFRISWRKE",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.  Please see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:31:00",
-      "timeRaised": "2022-11-23T15:31:51",
-      "timeSeverityChanged": "2022-11-23T15:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF308",
-      "description": "River Mease",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308",
-        "county": "Derbyshire, Leicestershire, Staffordshire",
-        "notation": "033WAF308",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308/polygon",
-        "riverOrSea": "Gilwiskaw Brook, River Mease"
-      },
-      "floodAreaID": "033WAF308",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T14:53:00",
-      "timeRaised": "2022-11-23T14:53:58",
-      "timeSeverityChanged": "2022-11-23T14:53:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOL",
-      "description": "Lower Avon and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
-        "notation": "111WAFAVOL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL/polygon",
-        "riverOrSea": "Avon"
-      },
-      "floodAreaID": "111WAFAVOL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T08:59:00",
-      "timeRaised": "2022-11-23T09:00:04",
-      "timeSeverityChanged": "2022-11-23T08:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFTOVE",
-      "description": "River Tove in Northamptonshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFTOVE",
-        "county": "Milton Keynes, West Northamptonshire",
-        "notation": "052WAFTOVE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFTOVE/polygon",
-        "riverOrSea": "River Tove"
-      },
-      "floodAreaID": "052WAFTOVE",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. Further light rainfall is forecast over the next 12 hours.\nWe continue to monitor the situation.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-22T18:04:00",
-      "timeRaised": "2022-11-22T18:04:16",
-      "timeSeverityChanged": "2022-11-22T18:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF134TWV",
-      "description": "Welland Valley",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF134TWV",
-        "county": "Leicestershire, Lincolnshire, North Northamptonshire, Peterborough, Rutland, West Northamptonshire",
-        "notation": "055WAF134TWV",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF134TWV/polygon",
-        "riverOrSea": "River Welland, River Jordan"
-      },
-      "floodAreaID": "055WAF134TWV",
-      "isTidal": false,
-      "message": " The risk of flooding from the River Welland has now reduced and levels have fallen below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:53:00",
-      "timeRaised": "2022-11-23T15:53:52",
-      "timeSeverityChanged": "2022-11-23T15:53:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFUPOUSE",
-      "description": "Upper River Great Ouse in Northamptonshire, Oxfordshire and Buckinghamshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUPOUSE",
-        "county": "Buckinghamshire, Milton Keynes, Oxfordshire, West Northamptonshire",
-        "notation": "052WAFUPOUSE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUPOUSE/polygon",
-        "riverOrSea": "River Great Ouse"
-      },
-      "floodAreaID": "052WAFUPOUSE",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. Further light rainfall is forecast over the next 12 hours.\nWe continue to monitor the situation.\n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-22T18:04:00",
-      "timeRaised": "2022-11-22T18:04:21",
-      "timeSeverityChanged": "2022-11-22T18:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF415",
-      "description": "River Trent in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF415",
-        "county": "Derbyshire, Leicestershire, Nottingham, Nottinghamshire",
-        "notation": "034WAF415",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF415/polygon",
-        "riverOrSea": "River Trent"
-      },
-      "floodAreaID": "034WAF415",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nFurther rainfall is forecast over the next few hours, but we expect river levels to remain generally steady over next 24 hours. \nWe continue to monitor the situation.  \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T08:18:00",
-      "timeRaised": "2022-11-23T08:18:27",
-      "timeSeverityChanged": "2022-11-23T08:18:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWTWBH010",
-      "description": "West Bay Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTWBH010",
-        "county": "Dorset Council",
-        "notation": "111FWTWBH010",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWTWBH010/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111FWTWBH010",
-      "isTidal": true,
-      "message": "A flood warning has been issued. The Wednesday evening's tide is now forecast to be higher than usual and could reach a total water level of 5.5m due to large waves.  Areas most at risk include West Bay Harbour and the tidal stretch of the River Brit. Flooding is possible at West Bay Harbour and the tidal stretch of the River Brit between 06:00 PM and 07:00 PM on 23/11/2022. Weather conditions are expected to produce large offshore waves.  We will continue to monitor the forecast and re-issue this alert/warning if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 12:00 noon on 24/11/2022, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-11-23T16:40:00",
-      "timeRaised": "2022-11-23T16:41:00",
-      "timeSeverityChanged": "2022-11-23T16:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
-      "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01",
-        "county": "Cambridgeshire, Peterborough",
-        "notation": "055FWFPNBR01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01/polygon",
-        "riverOrSea": "River Nene"
-      },
-      "floodAreaID": "055FWFPNBR01",
-      "isTidal": false,
-      "message": "Heavy rain on Monday 21 November has caused river levels to rise on the River Nene. During periods of high tide the river will be unable to discharge into the sea, resulting in tide lock conditions. This is likely to lead to localised flooding at North Bank Road. Whilst the Flood Warning is in force, the Local Authority will close North Bank Road. Diversionary routes will be put in place and further updates will be available through local media.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2022-11-22T22:36:00",
-      "timeRaised": "2022-11-22T22:36:36",
-      "timeSeverityChanged": "2022-11-22T22:36:00"
+      "message": "Thursday morning's tide at 11:09 on 24/11/2022 is higher than normal due to unsettled weather with strong Southerly Force 6 winds and large waves. The weather increases tide table values by 0.22 m. The total forecast tide is 5.20 metres Chart Datum (2.47 mAOD) at Portsmouth. For 1 hour either side of high water, the main road at Northney will flood. Property flooding is not expected. At South Hayling, large waves will move or could remove shingle. This could cause overtopping into beach front gardens at Southwood Road, Bembridge Drive, Meath Close and The Strand. The tide level will remain elevated until Saturday (26/11/2022). This may cause further impacts at each high water. We continue to monitor the forecast. We are liaising with the local authority and their response teams, over the condition of the beach at South Hayling. The beach condition is currently good. Avoid South Hayling seafront at high tide. Shingle and debris can be thrown by strong winds and large waves. We will update this message by 15:00 on 24/11/2022.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-23T18:07:00",
+      "timeRaised": "2022-11-23T18:08:19",
+      "timeSeverityChanged": "2022-11-23T18:07:00"
     }
   ]
 }
