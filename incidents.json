@@ -99,27 +99,6 @@
       "timeSeverityChanged": "2022-11-24T13:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:15:00",
-      "timeRaised": "2022-11-23T15:15:44",
-      "timeSeverityChanged": "2022-11-23T15:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -238,12 +217,12 @@
       },
       "floodAreaID": "111WATCHXH",
       "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-24T14:26:00",
-      "timeRaised": "2022-11-24T14:26:50",
-      "timeSeverityChanged": "2022-11-24T14:26:00"
+      "message": "The Thursday evening high tide at 09:42 PM is forecast to be higher than normal due to the unsettled weather.  Areas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon. Flooding is possible at Christchurch Harbour and tidal stretches of the Lower Stour and Avon between 09:30 PM and 10:30 PM on 24/11/2022.  The next high tide is expected to be higher than normal and may result in us issuing a further alert.  Our incident response staff are closing flood gates and checking defences.  We will continue to monitor the forecast and re-issue this alert if necessary.  Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  This message will be updated by 12:00 noon on 25/11/2022, or as the situation changes.  ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-24T15:28:00",
+      "timeRaised": "2022-11-24T15:28:41",
+      "timeSeverityChanged": "2022-11-24T15:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACECD",
@@ -259,12 +238,12 @@
       },
       "floodAreaID": "111WACECD",
       "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-24T07:24:00",
-      "timeRaised": "2022-11-24T07:24:42",
-      "timeSeverityChanged": "2022-11-24T07:24:00"
+      "message": "The Thursday evening tide at 09:45 PM is forecast to be higher than normal due to the unsettled weather and may cause spray overtopping of the defences.  Flooding is possible at Castletown, Weymouth, Preston Beach, Swanage Bay, Studland Bay, Sandbanks, Poole Harbour, Bournemouth Beach, Hengistbury Head and Christchurch Harbour between 09:30 PM and 10:30 PM on 24/11/2022.  The next high tide is expected to be higher than normal and may result in us issuing a further alert.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  This message will be updated by 12:00 noon on 25/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-24T15:04:00",
+      "timeRaised": "2022-11-24T15:04:58",
+      "timeSeverityChanged": "2022-11-24T15:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACWCD",
@@ -371,6 +350,27 @@
       "timeSeverityChanged": "2022-11-24T13:55:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
+      "description": "River Rea",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300",
+        "county": "Birmingham",
+        "notation": "033WAF300",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300/polygon",
+        "riverOrSea": "River Rea"
+      },
+      "floodAreaID": "033WAF300",
+      "isTidal": false,
+      "message": " River levels have risen at the Lodge Hill Elford Road river gauge as a result of heavy rainfall this afternoon. Consequently, flooding of roads and low lying land is possible later today, 15/11/2022.  Flooding is affecting low-lying land and roads adjacent to the River Rea between Longbridge and Nechells including Northfield, Kings Norton, Lifford, Stirchley, Selly Park and Digbeth\nShowers are forecast after this band of rain. We expect river levels to remain high.\nWe are closely monitoring the situation.\nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and avoid using low lying footpaths and bridges near local watercourses.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-24T15:07:00",
+      "timeRaised": "2022-11-24T15:07:49",
+      "timeSeverityChanged": "2022-11-24T15:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
       "description": "Upper Tame",
       "eaAreaName": "West Midlands",
@@ -425,12 +425,12 @@
       },
       "floodAreaID": "031WAF109",
       "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Further rainfall is forecast over the next 30 hours.  \nWe continue to monitor the situation.  Our incident response staff are clearing debris from weed screens.  \nPlease avoid using low lying footpaths near local watercourses. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T16:37:00",
-      "timeRaised": "2022-11-23T16:37:54",
-      "timeSeverityChanged": "2022-11-23T16:37:00"
+      "message": " River levels have risen at the Stourton river gauge as a result of heavy rainfall.  Consequently, flooding of farmland is possible form 17:00 today, 24/11/22.  We expect flooding to affect low lying land and roads adjacent to the river from Caunsall to Stourport. Other locations that may be affected include Wolverley and Cookley, Blakedown and Kidderminster.   \n  \nWe are closely monitoring the situation.  Our incident response staff are clearing weed screens.  \nPlease call 999 if in immediate danger.  \nThis message will be updated by 10 am on 25/11/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-24T15:15:00",
+      "timeRaised": "2022-11-24T15:16:15",
+      "timeSeverityChanged": "2022-11-24T15:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF309",
@@ -697,12 +697,12 @@
       },
       "floodAreaID": "111WATPOOH",
       "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-24T07:18:00",
-      "timeRaised": "2022-11-24T07:19:03",
-      "timeSeverityChanged": "2022-11-24T07:18:00"
+      "message": "The Thursday evening high tide at 09:56 PM is forecast to be higher than normal due to the unsettled weather creating additional tidal surge.  Areas most at risk include Poole Harbour, Wareham and tidal stretches of the Lower Frome and River Piddle.  Flooding is possible at Poole Harbour, Wareham and tidal stretches of the Lower Frome and River Piddle between 09:30 PM and 10:30 PM on 24/11/2022.  Models forecasts the level at Wareham to reach 1.23m and at Poole Quay to reach 1.36m.  We will continue to monitor the forecast and re-issue this alert if necessary.  Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Consider activating any property flood protection products. This message will be updated by 12:00 noon on 25/11/2022, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-24T15:17:00",
+      "timeRaised": "2022-11-24T15:17:32",
+      "timeSeverityChanged": "2022-11-24T15:17:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWBYH",
@@ -1942,27 +1942,6 @@
       "timeMessageChanged": "2022-11-24T13:43:00",
       "timeRaised": "2022-11-24T13:43:19",
       "timeSeverityChanged": "2022-11-24T13:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFWRFRISWRKE",
-      "description": "River Wreake at Frisby-on-the-Wreake",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRFRISWRKE",
-        "county": "Leicestershire",
-        "notation": "034FWFWRFRISWRKE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFWRFRISWRKE/polygon",
-        "riverOrSea": "River Wreake"
-      },
-      "floodAreaID": "034FWFWRFRISWRKE",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 24 hours.  We continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.  Please see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-23T15:31:00",
-      "timeRaised": "2022-11-23T15:31:51",
-      "timeSeverityChanged": "2022-11-23T15:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
