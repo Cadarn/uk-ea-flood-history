@@ -57,6 +57,27 @@
       "timeSeverityChanged": "2022-11-28T09:52:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 13:30pm and 15:30pm today Monday 28th November.  Tides are expected to be slightly higher than usual, due to the forecast weather conditions but only just at the Alert threshold.  The flood gates at Felixstowe seafront will be closed.  The waterfront at Pin Mill, and The Strand at Wherstead under the Orwell Bridge may be flooded.  Water may be on the quay at Mistley.  The detailed forecast for those that use it is for a peak level at Harwich of 2.53 mAODN at 14:30pm, on Monday 28th November, which is 0.52m above tide tables, wind Force 2, south westerly.  (mAODN is height above average sea level, for more info refer to local tide tables).  We don't expect any escalation of further alerts to be required over the next few tides.  Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger.  We are operating our flood defences as required and working with emergency services.  We will update this message by 4pm today.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-28T10:10:00",
+      "timeRaised": "2022-11-28T10:11:10",
+      "timeSeverityChanged": "2022-11-28T10:10:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -70,11 +91,11 @@
       },
       "floodAreaID": "063WAT23West",
       "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.60mAOD at 17:15 on Sunday 27th November and 4.72mAOD at 04:45 on Monday 28th November.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is normal for this time of year at 96 cubic metres per second and is steady, but is expected to rise in response to recent rainfall over the next couple of days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 12:00 on Monday 28th November, or as the situation changes.\n",
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.76mAOD at 17:30 on 28/11/22.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels peak today. The river flow at Teddington Weir is normal for this time of year at 105 cubic metres per second and is rising slowly. We anticipate the flows to remain normal for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 12:00 on 29/11/22, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-27T14:38:00",
-      "timeRaised": "2022-11-27T14:38:47",
+      "timeMessageChanged": "2022-11-28T10:08:00",
+      "timeRaised": "2022-11-28T10:08:54",
       "timeSeverityChanged": "2022-11-24T07:44:00"
     },
     {
@@ -519,27 +540,6 @@
       "timeSeverityChanged": "2022-11-27T19:04:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
-      "description": "Upper River Tamar",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00",
-        "county": "Cornwall, Devon",
-        "notation": "114WAFT1W10A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W10A00/polygon",
-        "riverOrSea": "River Tamar, River Strat, River Neet, River Ottery, River Kensey"
-      },
-      "floodAreaID": "114WAFT1W10A00",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:11:00",
-      "timeRaised": "2022-11-27T10:11:28",
-      "timeSeverityChanged": "2022-11-27T10:11:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF324",
       "description": "Rivers Eden and Eden Brook",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -826,12 +826,12 @@
       },
       "floodAreaID": "061WAB23Trowlock",
       "isTidal": false,
-      "message": "This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold. There is no longer a threat of flooding, though standing water and debris may still remain. Further rainfall is forecast over the next 24 hours. \nWe will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:17:00",
-      "timeRaised": "2022-11-27T10:17:55",
-      "timeSeverityChanged": "2022-11-27T10:17:00"
+      "message": "Property flooding is not currently expected.\nRiver levels are forecast to rise on the River Thames as a result of high tides coinciding with high river levels. The next high tide is expected at Trowlock Island at 18:00 and is forecast to reach 5.0 mAOD. We are closely monitoring the situation. Please remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England's webpage for current river levels. This message will be updated this evening, 28/11/22, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-11-28T10:07:00",
+      "timeRaised": "2022-11-28T10:07:36",
+      "timeSeverityChanged": "2022-11-28T10:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSSR",
@@ -853,27 +853,6 @@
       "timeMessageChanged": "2022-11-27T17:09:00",
       "timeRaised": "2022-11-27T17:09:29",
       "timeSeverityChanged": "2022-11-27T17:09:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
-      "description": "River Plym and Tory Brook",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00",
-        "county": "Devon, Plymouth",
-        "notation": "114WAFT1W12A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00/polygon",
-        "riverOrSea": "River Plym, Tory Brook, Long Brook"
-      },
-      "floodAreaID": "114WAFT1W12A00",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:11:00",
-      "timeRaised": "2022-11-27T10:11:17",
-      "timeSeverityChanged": "2022-11-27T10:11:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROU",
@@ -952,11 +931,11 @@
       },
       "floodAreaID": "112WAFYPM",
       "isTidal": false,
-      "message": " The River Yeo level at Huish Episcopi pumping station is 8.88 m and is currently rising at 15 mm an hour. The drain level at Huish Episcopi pumping station is 7.28 m and currently stable. Flooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m and the road from Muchelney to Long load above 7.86 m. Pumping will take place at Huish Episcopi Pumping Station when river levels allow.\nThe rainfall has now passed out of the area and drier weather is forecast for the next few days. The risk of flooding of low-lying land and road continues but is not forecast to increase and property flooding is not expected.\nThis message will be updated by 12:00 on Monday, 28/11/2022, or as the situation changes. We will continue to monitor the situation and our incident response staff will be checking flood defences and clearing weed screens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded.",
+      "message": " The River Yeo level at Huish Episcopi pumping station is 8.49 m and is currently falling by 40 mm an hour. The drain level at Huish Episcopi pumping station is 7.30 m and very slowly rising. Flooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m and the road from Muchelney to Long load above 7.86 m. Pumping will take place at Huish Episcopi Pumping Station when river levels allow.\nA largely dry day is forecast for today, Monday 28/11/22 although there is possibility of some short showers. Dry weather is then set to continue through the week. This flood alert remains in force due to water on the moors in the area and the risk of road flooding.  \nThis message will be updated by 12:00 on Tuesday, 29/11/2022, or as the situation changes. We will continue to monitor the situation and our incident response staff will be checking flood defences and clearing weed screens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-27T17:14:00",
-      "timeRaised": "2022-11-27T17:15:04",
+      "timeMessageChanged": "2022-11-28T10:06:00",
+      "timeRaised": "2022-11-28T10:06:22",
       "timeSeverityChanged": "2022-11-16T07:59:00"
     },
     {
@@ -1023,27 +1002,6 @@
       "timeSeverityChanged": "2022-11-27T14:30:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
-      "description": "River Yealm",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00",
-        "county": "Devon, Plymouth",
-        "notation": "114WAFT1W13A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00/polygon",
-        "riverOrSea": "River Yealm"
-      },
-      "floodAreaID": "114WAFT1W13A00",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:11:00",
-      "timeRaised": "2022-11-27T10:11:13",
-      "timeSeverityChanged": "2022-11-27T10:11:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF113",
       "description": "River Blackwater",
       "eaAreaName": "Solent and South Downs",
@@ -1099,11 +1057,11 @@
       },
       "floodAreaID": "112WAFTPM",
       "isTidal": false,
-      "message": "The River Tone level at Currymoor pumping station is 7.48 m and has just started to slowly fall. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45m.\nThe drain level at Currymoor pumping station is 5.93m and is slowly rising at approximately 5 mm an hour. Pumping will take place at Currymoor when the river levels allow. \nThe rainfall has now passed out of the area and drier weather is forecast for the next few days. The risk of flooding of low-lying land and roads continues but is not forecast to increase and property flooding is not expected.\nThis message will be updated by 12:00 on Monday, 28/11/2022, or as the situation changes. We will continue to monitor the situation and our incident response staff will be checking flood defences and clearing weed screens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded.",
+      "message": "The River Tone level at Currymoor pumping station is 7.43 m and has just started to slowly rise. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45 m.\nThe drain level at Currymoor pumping station is 5.98 m and is very slowly rising. Pumping will take place at Currymoor when the river levels allow. \nA largely dry day is forecast for today, Monday 28/11/22 although there is the possibility of some short showers. Dry weather is then set to continue through the week. This flood alert remains in force due to water on the moors but with the dry weather, the situation will improve.  \nThis message will be updated by 12:00 on Tuesday, 29/11/2022, or as the situation changes. We will continue to monitor the situation and our incident response staff will be checking flood defences and clearing weed screens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2022-11-27T12:20:00",
-      "timeRaised": "2022-11-27T12:20:49",
+      "timeMessageChanged": "2022-11-28T10:14:00",
+      "timeRaised": "2022-11-28T10:15:01",
       "timeSeverityChanged": "2022-11-21T20:49:00"
     },
     {
@@ -1210,27 +1168,6 @@
       "timeMessageChanged": "2022-11-28T09:33:00",
       "timeRaised": "2022-11-28T09:33:21",
       "timeSeverityChanged": "2022-11-21T16:26:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFGL",
-      "description": "River Glaze catchment including Leigh and East Wigan",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFGL",
-        "county": "Bolton, Salford, Trafford, Warrington, Wigan",
-        "notation": "013WAFGL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFGL/polygon",
-        "riverOrSea": "Glaze Brook"
-      },
-      "floodAreaID": "013WAFGL",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. River levels remain high but have fallen below the flood risk threshold. As a result, there is no longer a risk of flooding in this area today, Sunday 27/11/2022. We will continue to monitor the forecast and may re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:09:00",
-      "timeRaised": "2022-11-27T10:09:33",
-      "timeSeverityChanged": "2022-11-27T10:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOL",
@@ -1422,27 +1359,6 @@
       "timeSeverityChanged": "2022-11-24T17:15:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
-      "description": "River Dee catchment in England from Whitchurch to Chester",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE",
-        "county": "Cheshire West and Chester, Flintshire, Shropshire, Wrexham",
-        "notation": "013WAFDEE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDEE/polygon",
-        "riverOrSea": "River Dee"
-      },
-      "floodAreaID": "013WAFDEE",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. River levels remain high but have fallen below the flood risk threshold. As a result, there is no longer a risk of flooding in this area today, Sunday 27/11/2022. We will continue to monitor the forecast and may re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:10:00",
-      "timeRaised": "2022-11-27T10:10:14",
-      "timeSeverityChanged": "2022-11-27T10:10:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF216",
       "description": "Rivers Frome and Cam",
       "eaAreaName": "West Midlands",
@@ -1462,69 +1378,6 @@
       "timeMessageChanged": "2022-11-28T07:53:00",
       "timeRaised": "2022-11-28T07:53:08",
       "timeSeverityChanged": "2022-11-26T10:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W07A00",
-      "description": "River Lynher",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W07A00",
-        "county": "Cornwall",
-        "notation": "114WAFT1W07A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W07A00/polygon",
-        "riverOrSea": "River Lynher"
-      },
-      "floodAreaID": "114WAFT1W07A00",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:11:00",
-      "timeRaised": "2022-11-27T10:11:21",
-      "timeSeverityChanged": "2022-11-27T10:11:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0A",
-      "description": "River Avon from Didworthy to Aveton Gifford",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A",
-        "county": "Devon",
-        "notation": "113FWF2B0A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0A/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "113FWF2B0A",
-      "isTidal": false,
-      "message": "The risk of flooding from the River Avon has now reduced, and river levels are falling below levels of concern. No further flooding is expected on Sunday.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:06:00",
-      "timeRaised": "2022-11-27T10:07:02",
-      "timeSeverityChanged": "2022-11-27T10:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2B0B",
-      "description": "River Avon at South Brent, Avonwick and Aveton Gifford",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B",
-        "county": "Devon",
-        "notation": "113FWF2B0B",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2B0B/polygon",
-        "riverOrSea": "River Avon"
-      },
-      "floodAreaID": "113FWF2B0B",
-      "isTidal": false,
-      "message": "The risk of flooding from the River Avon has now reduced, and river levels are falling below levels of concern. No further flooding is expected on Sunday.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-11-27T10:06:00",
-      "timeRaised": "2022-11-27T10:06:39",
-      "timeSeverityChanged": "2022-11-27T10:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROU210",
