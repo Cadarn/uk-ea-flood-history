@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC1602",
+      "description": "South Hayling and South Eastoke seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1602",
+        "county": "Hampshire",
+        "notation": "065FWC1602",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1602/polygon",
+        "riverOrSea": "Langstone Harbour, The Solent"
+      },
+      "floodAreaID": "065FWC1602",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-12-12T11:21:00",
+      "timeRaised": "2022-12-12T11:21:53",
+      "timeSeverityChanged": "2022-12-12T11:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC1603",
+      "description": "South Hayling at Sinah Common, Westfield, Sea View and Mengham",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1603",
+        "county": "Hampshire",
+        "notation": "065FWC1603",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1603/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065FWC1603",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2022-12-12T11:22:00",
+      "timeRaised": "2022-12-12T11:23:08",
+      "timeSeverityChanged": "2022-12-12T11:22:00"
+    }
+  ]
 }
