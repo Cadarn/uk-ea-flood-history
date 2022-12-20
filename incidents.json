@@ -204,27 +204,6 @@
       "timeSeverityChanged": "2022-12-20T08:49:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
-      "description": "River Leam and River Itchen",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203",
-        "county": "Warwickshire, West Northamptonshire",
-        "notation": "033WAF203",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203/polygon",
-        "riverOrSea": "River Leam, River Itchen"
-      },
-      "floodAreaID": "033WAF203",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \n\nRiver levels are currently below the flood risk threshold. Further rainfall is forecast over the next 12 hours.  We continue to monitor the situation.  Our incident response staff are actively monitoring river levels and the weather forecast.  Please stay aware in case further alerts are issued.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-12-19T09:26:00",
-      "timeRaised": "2022-12-19T09:26:48",
-      "timeSeverityChanged": "2022-12-19T09:26:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
       "description": "South East Somerset Rivers, Upper Reaches",
       "eaAreaName": "Wessex",
@@ -1609,6 +1588,27 @@
       "timeMessageChanged": "2022-12-20T01:45:00",
       "timeRaised": "2022-12-20T01:45:55",
       "timeSeverityChanged": "2022-12-20T01:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF206",
+      "description": "River Dene in South East Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF206",
+        "county": "Warwickshire",
+        "notation": "033WAF206",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF206/polygon",
+        "riverOrSea": "Dene"
+      },
+      "floodAreaID": "033WAF206",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-20T09:15:00",
+      "timeRaised": "2022-12-20T09:15:38",
+      "timeSeverityChanged": "2022-12-20T09:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF934",
