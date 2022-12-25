@@ -120,6 +120,27 @@
       "timeSeverityChanged": "2022-12-25T05:20:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-25T19:49:00",
+      "timeRaised": "2022-12-25T19:50:13",
+      "timeSeverityChanged": "2022-12-25T19:49:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -280,12 +301,12 @@
       },
       "floodAreaID": "111WATWBYH",
       "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-12-25T10:56:00",
-      "timeRaised": "2022-12-25T10:56:11",
-      "timeSeverityChanged": "2022-12-25T10:56:00"
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-25T19:50:00",
+      "timeRaised": "2022-12-25T19:50:41",
+      "timeSeverityChanged": "2022-12-25T19:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
@@ -979,6 +1000,27 @@
       "timeMessageChanged": "2022-12-23T19:18:00",
       "timeRaised": "2022-12-23T19:18:39",
       "timeSeverityChanged": "2022-12-20T02:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF975",
+      "description": "Lower River Hull",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF975",
+        "county": "East Riding of Yorkshire, Kingston upon Hull",
+        "notation": "122WAF975",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF975/polygon",
+        "riverOrSea": "River Hull, Fleet Drain"
+      },
+      "floodAreaID": "122WAF975",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-25T19:45:00",
+      "timeRaised": "2022-12-25T19:45:45",
+      "timeSeverityChanged": "2022-12-25T19:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF404",
