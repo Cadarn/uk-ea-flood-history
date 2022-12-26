@@ -28,12 +28,54 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": " This Flood Alert has been removed. River levels have now fallen below the flood risk threshold.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-12-25T16:33:00",
-      "timeRaised": "2022-12-25T16:33:09",
-      "timeSeverityChanged": "2022-12-25T16:33:00"
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-26T01:22:00",
+      "timeRaised": "2022-12-26T01:23:06",
+      "timeSeverityChanged": "2022-12-26T01:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
+      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
+        "county": "Kent",
+        "notation": "064WAC1ShepSwale",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
+        "riverOrSea": "English Channel, The Swale"
+      },
+      "floodAreaID": "064WAC1ShepSwale",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-26T01:27:00",
+      "timeRaised": "2022-12-26T01:27:34",
+      "timeSeverityChanged": "2022-12-26T01:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumbria",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-26T01:24:00",
+      "timeRaised": "2022-12-26T01:24:19",
+      "timeSeverityChanged": "2022-12-26T01:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
@@ -1120,12 +1162,12 @@
       },
       "floodAreaID": "111WAFAVOL",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-12-25T11:03:00",
-      "timeRaised": "2022-12-25T11:03:33",
-      "timeSeverityChanged": "2022-12-25T11:03:00"
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-26T01:19:00",
+      "timeRaised": "2022-12-26T01:19:30",
+      "timeSeverityChanged": "2022-12-26T01:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF208",
@@ -1504,6 +1546,27 @@
       "timeMessageChanged": "2022-12-26T01:14:00",
       "timeRaised": "2022-12-26T01:14:37",
       "timeSeverityChanged": "2022-12-26T01:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1MedEst",
+      "description": "Tidal Medway, Medway estuary and Isle of Grain",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst",
+        "county": "Kent, Medway",
+        "notation": "064WAT1MedEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst/polygon",
+        "riverOrSea": "River Medway"
+      },
+      "floodAreaID": "064WAT1MedEst",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-26T01:20:00",
+      "timeRaised": "2022-12-26T01:21:11",
+      "timeSeverityChanged": "2022-12-26T01:20:00"
     }
   ]
 }
