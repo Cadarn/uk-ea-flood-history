@@ -364,12 +364,12 @@
       },
       "floodAreaID": "111WATWBYH",
       "isTidal": true,
-      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-12-25T19:50:00",
-      "timeRaised": "2022-12-25T19:50:41",
-      "timeSeverityChanged": "2022-12-25T19:50:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2022-12-26T09:04:00",
+      "timeRaised": "2022-12-26T09:04:49",
+      "timeSeverityChanged": "2022-12-26T09:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
@@ -519,27 +519,6 @@
       "timeSeverityChanged": "2022-12-25T18:13:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF331",
-      "description": "Rivers on the Isle of Sheppey",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF331",
-        "county": "Kent",
-        "notation": "064WAF331",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF331/polygon",
-        "riverOrSea": "Scrapsgate Drain, Warden Bay Drain"
-      },
-      "floodAreaID": "064WAF331",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. \nThe situation is improving and no further flooding is expected in this area. Further rainfall is forecast today 25/12/2022. We continue to monitor the forecast and we will re-issue this alert if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-12-25T09:11:00",
-      "timeRaised": "2022-12-25T09:11:27",
-      "timeSeverityChanged": "2022-12-25T09:11:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
       "description": "Eastern Yar",
       "eaAreaName": "Solent and South Downs",
@@ -601,27 +580,6 @@
       "timeMessageChanged": "2022-12-24T14:45:00",
       "timeRaised": "2022-12-24T14:46:02",
       "timeSeverityChanged": "2022-12-24T14:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32MdleMole",
-      "description": "River Mole and its tributaries from Kinnersley Manor to South Hersham",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole",
-        "county": "Surrey",
-        "notation": "064WAF32MdleMole",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32MdleMole/polygon",
-        "riverOrSea": "River Mole"
-      },
-      "floodAreaID": "064WAF32MdleMole",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. \nThe situation is improving and no further flooding is expected in this area. Further rainfall is forecast today 25/12/2022. We continue to monitor the forecast and we will re-issue this alert if necessary.\n ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2022-12-25T09:14:00",
-      "timeRaised": "2022-12-25T09:15:04",
-      "timeSeverityChanged": "2022-12-25T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
@@ -1525,6 +1483,27 @@
       "timeMessageChanged": "2022-12-26T08:51:00",
       "timeRaised": "2022-12-26T08:52:07",
       "timeSeverityChanged": "2022-12-26T08:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23East",
+      "description": "Tidal Thames riverside from Dartford Creek and The Mardyke to the Thames Barrier",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East",
+        "county": "Barking and Dagenham, Bexley, Greater London, Greenwich, Havering, Kent, Newham, Thurrock",
+        "notation": "063WAT23East",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23East",
+      "isTidal": true,
+      "message": "Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding.  Start acting on your flood plan if you have one. The Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.  \n\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2022-12-26T09:05:00",
+      "timeRaised": "2022-12-26T09:05:22",
+      "timeSeverityChanged": "2022-12-26T09:05:00"
     }
   ]
 }
