@@ -225,6 +225,27 @@
       "timeSeverityChanged": "2022-12-23T09:49:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
+      "description": "River Churnet and River Tean",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
+        "county": "Staffordshire",
+        "notation": "033WAF317",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
+        "riverOrSea": "River Churnet, River Tean"
+      },
+      "floodAreaID": "033WAF317",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-04T11:01:00",
+      "timeRaised": "2023-01-04T11:02:07",
+      "timeSeverityChanged": "2023-01-04T11:01:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
       "description": "Upper River Aire catchment",
       "eaAreaName": "Yorkshire",
@@ -889,12 +910,12 @@
       },
       "floodAreaID": "122WAF947",
       "isTidal": false,
-      "message": "The flood alert is now in force for the Tidal River Ouse from Naburn Lock to Selby. Flooding is possible for the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. River levels are forecast to rise on the river Ouse due to persistent rain through Wednesday, 28/12/2022. Further bands of rain are forecast over the coming days, which may cause river levels to remain high. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Visit the GOV.UK website to see the current flood warnings, view river and sea levels or check the 5-day flood risk forecast.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-12-28T16:35:00",
-      "timeRaised": "2022-12-28T16:36:10",
-      "timeSeverityChanged": "2022-12-28T16:35:00"
+      "message": "This flood alert has been removed as river levels have fallen back below levels of concern. This alert will be re-issued if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-04T11:01:00",
+      "timeRaised": "2023-01-04T11:01:40",
+      "timeSeverityChanged": "2023-01-04T11:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
@@ -910,33 +931,12 @@
       },
       "floodAreaID": "122WAF946",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2022-12-31T22:19:00",
-      "timeRaised": "2022-12-31T22:19:38",
-      "timeSeverityChanged": "2022-12-28T14:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF710",
-      "description": "River Ouse at York - riverside properties",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF710",
-        "county": "York",
-        "notation": "122FWF710",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF710/polygon",
-        "riverOrSea": "River Ouse"
-      },
-      "floodAreaID": "122FWF710",
-      "isTidal": false,
-      "message": " ",
+      "message": "This flood alert has been removed as river levels have fallen back below levels of concern. This alert will be re-issued if necessary.",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2023-01-03T11:01:00",
-      "timeRaised": "2023-01-03T11:01:41",
-      "timeSeverityChanged": "2023-01-03T11:01:00"
+      "timeMessageChanged": "2023-01-04T11:01:00",
+      "timeRaised": "2023-01-04T11:01:49",
+      "timeSeverityChanged": "2023-01-04T11:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF723",
@@ -2176,6 +2176,48 @@
       "timeMessageChanged": "2023-01-04T08:52:00",
       "timeRaised": "2023-01-04T08:52:46",
       "timeSeverityChanged": "2023-01-04T08:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGNWV2",
+      "description": "Groundwater flooding for the North Winterborne, south of the A354",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGNWV2",
+        "county": "Dorset Council",
+        "notation": "111FWGNWV2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGNWV2/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGNWV2",
+      "isTidal": false,
+      "message": "  We are temporarily automating our messages due to industrial action. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-04T10:43:00",
+      "timeRaised": "2023-01-04T10:43:20",
+      "timeSeverityChanged": "2023-01-04T10:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGCRA2",
+      "description": "Groundwater flooding for the Crane",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGCRA2",
+        "county": "Dorset Council, Hampshire",
+        "notation": "111FWGCRA2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGCRA2/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGCRA2",
+      "isTidal": false,
+      "message": "  We are temporarily automating our messages due to industrial action. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-04T10:37:00",
+      "timeRaised": "2023-01-04T10:37:47",
+      "timeSeverityChanged": "2023-01-04T10:37:00"
     }
   ]
 }
