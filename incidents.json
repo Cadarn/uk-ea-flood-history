@@ -283,8 +283,8 @@
       "message": "River levels are forecast to rise as a result of heavy rainfall overnight tonight, Friday (06/01/23), and into tomorrow, Saturday (07/01/23). Consequently, flooding of roads and farmland is possible between 11:00 and 19:00 tomorrow (07/01/23). Areas most at risk are Skipton Washlands, Snaygill Ings and Cononley Washlands. We expect river levels to remain high until 02:00 on 08/01/23. We are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 20:00 PM on 06/01/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-01-06T13:16:00",
-      "timeRaised": "2023-01-06T13:16:28",
+      "timeMessageChanged": "2023-01-06T13:22:00",
+      "timeRaised": "2023-01-06T13:22:19",
       "timeSeverityChanged": "2023-01-04T07:54:00"
     },
     {
@@ -301,12 +301,33 @@
       },
       "floodAreaID": "031WAF114",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "message": " River levels are high but steady at the Cae Howel river gauge.  Consequently, the risk of flooding remains.  We expect flooding to affect low lying land and roads adjacent to the river from the Welsh border at Llawnt to Shrawardine near Shrewsbury. Other locations that may be affected include Llanymynech, Maesbrook and Melverley. Further rainfall is expected early Saturday morning 07/01/23, this may cause river levels to rise again. We are closely monitoring the situation.\n  \nThis message will be updated as the situation changes. \n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-01-03T20:15:00",
-      "timeRaised": "2023-01-03T20:15:51",
+      "timeMessageChanged": "2023-01-06T13:36:00",
+      "timeRaised": "2023-01-06T13:36:33",
       "timeSeverityChanged": "2022-12-28T07:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely this evening, Friday 6th January, into the early hours of tomorrow morning.  High water levels may last for a few days, until the high tides at Great Yarmouth have passed.  We expect to see high water levels in Brundall and Reedham riverside areas.  We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Saturday 7th January.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-06T13:49:00",
+      "timeRaised": "2023-01-06T13:49:33",
+      "timeSeverityChanged": "2023-01-06T13:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
@@ -937,48 +958,6 @@
       "timeMessageChanged": "2023-01-06T11:31:00",
       "timeRaised": "2023-01-06T11:32:06",
       "timeSeverityChanged": "2022-12-23T17:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF119",
-      "description": "River Wye in Herefordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF119",
-        "county": "Gloucestershire, Herefordshire, Monmouthshire, Powys",
-        "notation": "031WAF119",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF119/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "031WAF119",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-05T13:26:00",
-      "timeRaised": "2023-01-05T13:26:58",
-      "timeSeverityChanged": "2023-01-05T13:26:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
-      "description": "River Wye in Gloucestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF120",
-        "county": "Gloucestershire, Herefordshire, Monmouthshire",
-        "notation": "031WAF120",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF120/polygon",
-        "riverOrSea": "River Wye"
-      },
-      "floodAreaID": "031WAF120",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-05T13:26:00",
-      "timeRaised": "2023-01-05T13:26:51",
-      "timeSeverityChanged": "2023-01-05T13:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
@@ -1813,11 +1792,11 @@
       },
       "floodAreaID": "111FWGNWV2",
       "isTidal": false,
-      "message": "  We are temporarily automating our messages due to industrial action. ",
+      "message": " Following three months of above average rainfall, groundwater levels in the area have risen considerably, and with further rainfall forecast over the next ten days are set to rise yet further. Up to date groundwater levels for the area can be seen at the Delcombe Wood groundwater monitoring site which can be accessed at check-for-flooding.gov.uk\n\nEnvironment agency staff will continue to monitor the situation. Contact the local authority to report issues and for assistance or your flood warden for more local advice. \n\nFlooding of roads some vulnerable properties is possible.\n\nResidents may experience inundation of basements, septic tanks and sewer systems.\n\nIf you have a pump, make sure it is working and switched on. Think about alternative power sources in case of power cuts.\n\nRoad surfaces may become damaged.\n\nPlease do not drive through floodwater as bow waves may affect adjacent properties.\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-01-04T10:43:00",
-      "timeRaised": "2023-01-04T10:43:20",
+      "timeMessageChanged": "2023-01-06T13:44:00",
+      "timeRaised": "2023-01-06T13:45:17",
       "timeSeverityChanged": "2023-01-04T10:43:00"
     },
     {
@@ -2008,6 +1987,48 @@
       "timeMessageChanged": "2023-01-06T11:13:00",
       "timeRaised": "2023-01-06T11:14:06",
       "timeSeverityChanged": "2023-01-06T11:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGSWDENE1",
+      "description": "Groundwater flooding in the South Wiltshire Downs - The Dene",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGSWDENE1",
+        "county": "Wiltshire",
+        "notation": "111FWGSWDENE1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGSWDENE1/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGSWDENE1",
+      "isTidal": false,
+      "message": "   Following three months of above average rainfall, groundwater levels in the area have risen considerably, and with further rainfall forecast over the next ten days are set to rise yet further. Up to date groundwater levels for the area can be seen at The Terraces, Fonthill groundwater monitoring site which can be accessed at check-for-flooding.gov.uk\n\nEnvironment agency staff will continue to monitor the situation. Contact the local authority to report issues and for assistance or your flood warden for more local advice. \n\nFlooding of roads some vulnerable properties is possible.\n\nResidents may experience inundation of basements, septic tanks and sewer systems.\n\nIf you have a pump, make sure it is working and switched on. Think about alternative power sources in case of power cuts.\n\nRoad surfaces may become damaged.\n\nPlease do not drive through floodwater as bow waves may affect adjacent properties.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-06T13:56:00",
+      "timeRaised": "2023-01-06T13:57:12",
+      "timeSeverityChanged": "2023-01-06T13:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGCHIT1",
+      "description": "Groundwater flooding in the Chitterne Valley",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGCHIT1",
+        "county": "Wiltshire",
+        "notation": "111FWGCHIT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGCHIT1/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGCHIT1",
+      "isTidal": false,
+      "message": "  Following three months of above average rainfall, groundwater levels in the area have risen considerably, and with further rainfall forecast over the next ten days are set to rise yet further. Up to date groundwater levels for the area can be seen at the Chitterne Down groundwater monitoring site which can be accessed at check-for-flooding.gov.uk\n\nEnvironment agency staff will continue to monitor the situation. Contact the local authority to report issues and for assistance or your flood warden for more local advice. \n\nFlooding of roads some vulnerable properties is possible.\n\nResidents may experience inundation of basements, septic tanks and sewer systems.\n\nIf you have a pump, make sure it is working and switched on. Think about alternative power sources in case of power cuts.\n\nRoad surfaces may become damaged.\n\nPlease do not drive through floodwater as bow waves may affect adjacent properties.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-06T13:50:00",
+      "timeRaised": "2023-01-06T13:51:08",
+      "timeSeverityChanged": "2023-01-06T13:50:00"
     }
   ]
 }
