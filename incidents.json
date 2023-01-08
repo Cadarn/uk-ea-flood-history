@@ -183,6 +183,27 @@
       "timeSeverityChanged": "2022-12-18T19:37:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": "River levels have risen at the Halesowen Manor Way river gauge as a result of recent localised heavy rainfall and showers.  Further potentially heavy showers are forecast this afternoon and evening.  Consequently, the flooding of roads is possible this afternoon and evening (08/01/2023).  We are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  This message will be updated tomorrow morning 09/01/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-08T14:00:00",
+      "timeRaised": "2023-01-08T14:01:07",
+      "timeSeverityChanged": "2023-01-08T14:00:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
       "description": "Lower River Soar in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -329,6 +350,27 @@
       "timeSeverityChanged": "2023-01-07T14:37:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
+      "description": "Northumberland coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921",
+        "county": "Northumberland",
+        "notation": "121WAC921",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC921",
+      "isTidal": true,
+      "message": "Waves are expected to overtop sea defences as a result of high spring tides. Tides will be at their highest between 16:00 and 18:00 today, 08/01/23. We expect flooding to affect beaches, promenades, coastal footpaths and roads. Areas most likely to be affected are Beadnell Harbour Road North and Newbiggin Bay North Promenade.\n\nWe are closely monitoring the situation. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  \nThis message will be updated by 19:00 today, 08/01/23, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-08T13:44:00",
+      "timeRaised": "2023-01-08T13:44:50",
+      "timeSeverityChanged": "2023-01-08T13:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
       "description": "River Leadon catchment",
       "eaAreaName": "West Midlands",
@@ -369,6 +411,27 @@
       "timeMessageChanged": "2023-01-08T08:28:00",
       "timeRaised": "2023-01-08T08:28:36",
       "timeSeverityChanged": "2023-01-07T16:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSES",
+      "description": "South East Somerset Rivers, Upper Reaches",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES",
+        "county": "Dorset Council, Somerset",
+        "notation": "112WAFTSES",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTSES/polygon",
+        "riverOrSea": "River Yeo, River Cam, River Wriggle, Barwick Stream, West Coker Stream"
+      },
+      "floodAreaID": "112WAFTSES",
+      "isTidal": false,
+      "message": "River levels have risen at the Sherborne Lake river gauge as a result of heavy rainfall.   Consequently, flooding of roads and farmland is possible between 13:00 and 10:00 tomorrow,09/01/23.  We expect flooding to affect the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole.   Flooding of properties is not forecast at this point.\nFurther showery rainfall is forecast over the next 24 hours.  We expect river levels to rise until 10:00 on 09/01/23.\nWe are closely monitoring the situation.   Our incident response staff are checking rivers for blockages.  \nPlease plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and stay aware in case further warnings are issued.  \nThis message will be updated Monday, 09/01/23, or as the situation changes.\n\n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-08T13:43:00",
+      "timeRaised": "2023-01-08T13:44:23",
+      "timeSeverityChanged": "2023-01-08T13:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
@@ -741,11 +804,11 @@
       },
       "floodAreaID": "112WAFYPM",
       "isTidal": false,
-      "message": " Systems update for Rivers Yeo Parrett around Muchelney to Thorney\nThe River Yeo level at Huish Episcopi pumping station is 7.940 m and is rising.\nThe drain level at Huish Episcopi pumping station is 7.463 m and is falling by approximately 8 mm per hour. \nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\nPumping is taking place at Huish Episcopi pumping station.\nUnsettled weather is forecast for Saturday evening.\nThe River Yeo at Muchelney is forecast to rise.         \nWe are closely monitoring the situation.     \nThis message will be updated on Sunday 08/01/23.\n",
+      "message": " The River Yeo level at Huish Episcopi pumping station is 8.752 m and is falling by approximately 1mm per hour.\nThe drain level at Huish Episcopi pumping station is 7.463 m and is rising by approximately 9 mm per hour. \nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\nPumping is taking place at Huish Episcopi pumping station.\nUnsettled weather is forecast for Sunday through to Tuesday morning.\nThe River Yeo at Muchelney is forecast to rise.         \nWe are closely monitoring the situation.     \nThis message will be updated on Monday 09/01/23\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-01-07T13:11:00",
-      "timeRaised": "2023-01-07T13:11:25",
+      "timeMessageChanged": "2023-01-08T13:23:00",
+      "timeRaised": "2023-01-08T13:23:35",
       "timeSeverityChanged": "2022-12-19T18:44:00"
     },
     {
@@ -1127,6 +1190,27 @@
       "timeSeverityChanged": "2023-01-08T10:37:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF208",
+      "description": "Bow and Piddle Brook",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF208",
+        "county": "Worcestershire",
+        "notation": "031WAF208",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF208/polygon",
+        "riverOrSea": "Piddle, Bow"
+      },
+      "floodAreaID": "031WAF208",
+      "isTidal": false,
+      "message": " River levels have risen at the Besford Bridge river gauge as a result of heavy rainfall.  Consequently, flooding (of property) is imminent.  We expect flooding to affect low lying land and roads adjacent to the Brooks from Webheath to Defford. Other locations that may be affected include Crowle, Wickenham, Peopleton, Pinvin and Pershore. Local fords may also be flooded.   \nWe expect river levels to remain high over the next few days \nWe are closely monitoring the situation.   \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated  as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-08T13:48:00",
+      "timeRaised": "2023-01-08T13:48:52",
+      "timeSeverityChanged": "2023-01-08T13:48:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
       "description": "River Severn in Gloucestershire",
       "eaAreaName": "West Midlands",
@@ -1497,11 +1581,11 @@
       },
       "floodAreaID": "112WAFRYP",
       "isTidal": false,
-      "message": " River levels are high but steady at the Ilchester river gauge as a result of persistent rainfall.  Consequently, the risk of flooding remains.  We expect flooding to affect the Ilchester to Yeovilton road at the end of the runway, the Mudford to Limington road and the road at the south end of Westover Trading Estate. Properties at Westover Trading Estate at Langport are at risk. Bankfull conditions are forecast at Ilchester and water will reach the bottom of the ringbanks at Ilchester Meads and Ilchester.   \nFurther persistent rainfall is forecast over the next 24 hours.  We expect river levels to remain high until 09:00 on 09/01/23.\nWe are closely monitoring the situation.   Our incident response staff are clearing weed screens.  Pumping of Somerset Moors at Westover Pumping Station is ongoing\nPlease plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and stay aware in case further warnings are issued.  \nThis message will be updated Sunday, 08/01/23, or as the situation changes.\n",
+      "message": " River levels are high but steady at the Westover Drain river gauge as a result of heavy rainfall.  Further rainfall is forecast Sunday evening through to Tuesday. Consequently, the risk of flooding remains.  We expect flooding to affect the Ilchester to Yeovilton road at the end of the runway, the Mudford to Limington road and the road at the south end of Westover Trading Estate. Properties at Westover Trading Estate at Langport are at risk. Bankfull conditions are forecast at Ilchester and water will reach the bottom of the ringbanks at Ilchester Meads and Ilchester.   Flooding of properties is not forecast at this point.  \nWe are closely monitoring the situation.   Our incident response staff are clearing weed screens.  Pumping is in operation at Westover pumping station.\nPlease plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures and stay aware in case further warnings are issued.  \nThis message will be updated Monday, 09/01/23, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-01-07T13:26:00",
-      "timeRaised": "2023-01-07T13:26:51",
+      "timeMessageChanged": "2023-01-08T13:32:00",
+      "timeRaised": "2023-01-08T13:32:30",
       "timeSeverityChanged": "2022-12-31T20:18:00"
     },
     {
