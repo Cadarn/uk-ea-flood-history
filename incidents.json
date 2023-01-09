@@ -154,12 +154,12 @@
       },
       "floodAreaID": "111WATCHXH",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast for tomorrow morning 08/01/23. The forecast high water is at 10:01am with a level of 1.24 mAODN with South Westerly force 7 winds (mAODN is height above average sea level - for more info refer to local tide tables). Areas most at risk are Christchurch Harbour and tidal stretches of the Rivers Avon and Stour. All flood gates have been closed. We will continue to monitor levels closely. This message will be updated by 1:00 PM on 08/01/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-01-07T14:37:00",
-      "timeRaised": "2023-01-07T14:37:49",
-      "timeSeverityChanged": "2023-01-06T17:52:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-09T07:10:00",
+      "timeRaised": "2023-01-09T07:10:08",
+      "timeSeverityChanged": "2023-01-09T07:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
@@ -561,6 +561,27 @@
       "timeSeverityChanged": "2023-01-08T10:37:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOM",
+      "description": "Middle Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM",
+        "county": "Dorset Council",
+        "notation": "111WAFSTOM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOM/polygon",
+        "riverOrSea": "River Stour, River Lodden"
+      },
+      "floodAreaID": "111WAFSTOM",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Middle Dorset Stour. Areas most at risk include locations near the Middle Dorset Stour and particularly tributaries between Sturminster Newton and Wimborne. Further rainfall is forecast for today, overnight and during Tuesday 10th January. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Plan driving routes to avoid low lying roads near rivers, which may be flooded. This flood warning message will be removed once the risk of flooding has reduced. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-09T07:02:00",
+      "timeRaised": "2023-01-09T07:03:15",
+      "timeSeverityChanged": "2023-01-09T07:02:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
       "description": "Western Rother",
       "eaAreaName": "Solent and South Downs",
@@ -769,6 +790,27 @@
       "timeMessageChanged": "2023-01-08T14:49:00",
       "timeRaised": "2023-01-08T14:49:27",
       "timeSeverityChanged": "2023-01-07T12:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
+      "description": "Upper Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU",
+        "county": "Dorset Council, Somerset, Wiltshire",
+        "notation": "111WAFSTOU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU/polygon",
+        "riverOrSea": "River Stour, River Lodden, River Shreen"
+      },
+      "floodAreaID": "111WAFSTOU",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Upper Dorset Stour. Areas most at risk include tributaries between Gillingham and Sturminster Newton. Further rainfall is forecast for today, overnight and during Tuesday 10th January. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Plan driving routes to avoid low lying roads near rivers, which may be flooded. This flood warning message will be removed once the risk of flooding has reduced.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-09T07:03:00",
+      "timeRaised": "2023-01-09T07:03:30",
+      "timeSeverityChanged": "2023-01-09T07:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
