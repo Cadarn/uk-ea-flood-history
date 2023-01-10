@@ -120,6 +120,27 @@
       "timeSeverityChanged": "2023-01-09T16:29:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFPC",
+      "description": "Rivers Caldew and Petteril",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFPC",
+        "county": "Cumbria",
+        "notation": "011WAFPC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFPC/polygon",
+        "riverOrSea": "River Caldew, River Petteril"
+      },
+      "floodAreaID": "011WAFPC",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-10T16:48:00",
+      "timeRaised": "2023-01-10T16:49:05",
+      "timeSeverityChanged": "2023-01-10T16:48:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
       "description": "Rivers Brathay, Rothay and Winster",
       "eaAreaName": "Cumbria and Lancashire",
@@ -343,12 +364,12 @@
       },
       "floodAreaID": "011WACN2",
       "isTidal": true,
-      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-01-10T01:17:00",
-      "timeRaised": "2023-01-10T01:17:50",
-      "timeSeverityChanged": "2023-01-10T01:17:00"
+      "message": "This flood alert has now been removed.  There is no longer a risk of flooding in the area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-10T16:43:00",
+      "timeRaised": "2023-01-10T16:43:52",
+      "timeSeverityChanged": "2023-01-10T16:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
@@ -391,6 +412,27 @@
       "timeMessageChanged": "2023-01-10T14:47:00",
       "timeRaised": "2023-01-10T14:47:52",
       "timeSeverityChanged": "2023-01-10T14:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF964",
+      "description": "Lower River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF964",
+        "county": "Calderdale, Kirklees, Leeds, Wakefield",
+        "notation": "123WAF964",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF964/polygon",
+        "riverOrSea": "River Calder"
+      },
+      "floodAreaID": "123WAF964",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-10T16:19:00",
+      "timeRaised": "2023-01-10T16:19:52",
+      "timeSeverityChanged": "2023-01-10T16:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF408",
