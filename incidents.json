@@ -162,27 +162,6 @@
       "timeSeverityChanged": "2022-12-28T19:14:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-09T17:59:00",
-      "timeRaised": "2023-01-09T17:59:51",
-      "timeSeverityChanged": "2023-01-09T17:59:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
       "description": "River Maun in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -517,6 +496,27 @@
       "timeMessageChanged": "2023-01-09T15:01:00",
       "timeRaised": "2023-01-09T15:01:21",
       "timeSeverityChanged": "2023-01-07T12:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
+      "description": "Eastern Yar",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
+        "county": "Isle of Wight",
+        "notation": "065WAF212",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
+        "riverOrSea": "Eastern Yar"
+      },
+      "floodAreaID": "065WAF212",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-10T18:05:00",
+      "timeRaised": "2023-01-10T18:05:17",
+      "timeSeverityChanged": "2023-01-10T18:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24BlkWater",
@@ -1863,6 +1863,27 @@
       "timeSeverityChanged": "2022-12-31T17:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF21PangSulm",
+      "description": "River Pang from East Ilsley to Pangbourne and Sulham Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF21PangSulm",
+        "county": "Oxfordshire, West Berkshire",
+        "notation": "061WAF21PangSulm",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF21PangSulm/polygon",
+        "riverOrSea": "River Pang, Sulham Brook"
+      },
+      "floodAreaID": "061WAF21PangSulm",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-10T17:44:00",
+      "timeRaised": "2023-01-10T17:44:59",
+      "timeSeverityChanged": "2023-01-10T17:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23UpThTrbs",
       "description": "Tributaries on the Upper River Thames above Cricklade",
       "eaAreaName": "Thames",
@@ -2953,6 +2974,27 @@
       "timeMessageChanged": "2023-01-10T17:15:00",
       "timeRaised": "2023-01-10T17:15:45",
       "timeSeverityChanged": "2023-01-10T17:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FWF21FrSDBrad",
+      "description": "River Pang for Frilsham, Stanford Dingley and Bradfield",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FWF21FrSDBrad",
+        "county": "West Berkshire",
+        "notation": "061FWF21FrSDBrad",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FWF21FrSDBrad/polygon",
+        "riverOrSea": "River Pang"
+      },
+      "floodAreaID": "061FWF21FrSDBrad",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-10T17:51:00",
+      "timeRaised": "2023-01-10T17:51:19",
+      "timeSeverityChanged": "2023-01-10T17:51:00"
     }
   ]
 }
