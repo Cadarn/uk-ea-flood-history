@@ -1254,6 +1254,27 @@
       "timeSeverityChanged": "2023-01-11T02:01:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF940",
+      "description": "Lower River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940",
+        "county": "North Yorkshire",
+        "notation": "122WAF940",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF940/polygon",
+        "riverOrSea": "River Ure, Swinney Beck, Bishop Monkton Beck, River Skell, River Laver, River Tutt, Stainley Beck"
+      },
+      "floodAreaID": "122WAF940",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-11T03:19:00",
+      "timeRaised": "2023-01-11T03:19:27",
+      "timeSeverityChanged": "2023-01-11T03:19:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF723",
       "description": "River Ouse at Naburn Lock",
       "eaAreaName": "Yorkshire",
@@ -3514,12 +3535,12 @@
       },
       "floodAreaID": "122FWF347",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-01-11T03:14:00",
-      "timeRaised": "2023-01-11T03:14:17",
-      "timeSeverityChanged": "2023-01-11T03:14:00"
+      "message": "This flood warning has been removed as an earlier issue with pumping operations has now been resolved. We will continue to monitor river levels.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-11T03:37:00",
+      "timeRaised": "2023-01-11T03:37:59",
+      "timeSeverityChanged": "2023-01-11T03:37:00"
     }
   ]
 }
