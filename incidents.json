@@ -1170,6 +1170,27 @@
       "timeSeverityChanged": "2023-01-11T16:44:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFBO",
+      "description": "River Bollin catchment, including Knutsford, Wilmslow, Macclesfield and Bollington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFBO",
+        "county": "Cheshire East, Manchester, Stockport, Trafford, Warrington",
+        "notation": "013WAFBO",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFBO/polygon",
+        "riverOrSea": "River Bollin"
+      },
+      "floodAreaID": "013WAFBO",
+      "isTidal": false,
+      "message": "Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. The Environment Agency Flood Warning System has issued this message based on rising river or tidal levels. We are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-11T19:45:00",
+      "timeRaised": "2023-01-11T19:45:36",
+      "timeSeverityChanged": "2023-01-11T19:45:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
       "description": "Tidal River Ouse from Naburn Lock to Selby",
       "eaAreaName": "Yorkshire",
@@ -3646,6 +3667,27 @@
       "timeMessageChanged": "2023-01-11T17:16:00",
       "timeRaised": "2023-01-11T17:17:23",
       "timeSeverityChanged": "2023-01-11T17:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE505",
+      "description": "River Severn at New Street and Backfields Lane, Upton upon Severn",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE505",
+        "county": "Worcestershire",
+        "notation": "031FWFSE505",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE505/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE505",
+      "isTidal": false,
+      "message": " ‘Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. As the New Street flood scheme gate in Upton upon Severn has been closed, we are currently not expecting protected properties in this area to be impacted. The Environment Agency Flood Warning System has issued this message based on rising river or tidal levels. We are temporarily automating our messages due to industrial action’",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-11T19:28:00",
+      "timeRaised": "2023-01-11T19:28:58",
+      "timeSeverityChanged": "2023-01-11T19:28:00"
     }
   ]
 }
