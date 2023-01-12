@@ -1414,12 +1414,12 @@
       },
       "floodAreaID": "013WAFMU",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-01-12T06:44:00",
-      "timeRaised": "2023-01-12T06:44:32",
-      "timeSeverityChanged": "2023-01-12T06:44:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-12T15:15:00",
+      "timeRaised": "2023-01-12T15:15:58",
+      "timeSeverityChanged": "2023-01-12T15:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTESR",
@@ -2491,27 +2491,6 @@
       "timeMessageChanged": "2023-01-12T08:19:00",
       "timeRaised": "2023-01-12T08:19:24",
       "timeSeverityChanged": "2023-01-12T08:19:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFGRANTA",
-      "description": "River Granta in Essex and Cambridgeshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFGRANTA",
-        "county": "Cambridgeshire, Essex",
-        "notation": "052WAFGRANTA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFGRANTA/polygon",
-        "riverOrSea": "River Granta"
-      },
-      "floodAreaID": "052WAFGRANTA",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-11T15:11:00",
-      "timeRaised": "2023-01-11T15:11:48",
-      "timeSeverityChanged": "2023-01-11T15:11:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOBE",
@@ -3753,27 +3732,6 @@
       "timeSeverityChanged": "2023-01-08T07:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFUPCAM",
-      "description": "Upper River Cam in Essex and Cambridgeshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUPCAM",
-        "county": "Cambridgeshire, Essex",
-        "notation": "052WAFUPCAM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUPCAM/polygon",
-        "riverOrSea": "River Cam"
-      },
-      "floodAreaID": "052WAFUPCAM",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-11T15:11:00",
-      "timeRaised": "2023-01-11T15:11:49",
-      "timeSeverityChanged": "2023-01-11T15:11:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE550",
       "description": "River Severn at Apperley and The Leigh",
       "eaAreaName": "West Midlands",
@@ -4843,6 +4801,69 @@
       "timeMessageChanged": "2023-01-12T13:26:00",
       "timeRaised": "2023-01-12T13:26:26",
       "timeSeverityChanged": "2023-01-12T13:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF28LowColne",
+      "description": "Lower River Colne and Frays River",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF28LowColne",
+        "county": "Buckinghamshire, Greater London, Hertfordshire, Hillingdon, Slough, Surrey, Windsor and Maidenhead",
+        "notation": "062WAF28LowColne",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF28LowColne/polygon",
+        "riverOrSea": "River Colne"
+      },
+      "floodAreaID": "062WAF28LowColne",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-12T14:34:00",
+      "timeRaised": "2023-01-12T14:35:02",
+      "timeSeverityChanged": "2023-01-12T14:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFLU0D",
+      "description": "River Lugg at Kenwater",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFLU0D",
+        "county": "Herefordshire",
+        "notation": "031FWFLU0D",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFLU0D/polygon",
+        "riverOrSea": "River Lugg"
+      },
+      "floodAreaID": "031FWFLU0D",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-12T14:48:00",
+      "timeRaised": "2023-01-12T14:49:14",
+      "timeSeverityChanged": "2023-01-12T14:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2E1C",
+      "description": "River Taw (Middle) from Taw Bridge to Newnham Bridge",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2E1C",
+        "county": "Devon",
+        "notation": "113FWF2E1C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2E1C/polygon",
+        "riverOrSea": "River Taw"
+      },
+      "floodAreaID": "113FWF2E1C",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-12T15:02:00",
+      "timeRaised": "2023-01-12T15:02:29",
+      "timeSeverityChanged": "2023-01-12T15:02:00"
     }
   ]
 }
