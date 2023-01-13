@@ -435,27 +435,6 @@
       "timeSeverityChanged": "2023-01-12T15:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF938",
-      "description": "River Wiske and other tributaries of the River Swale",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF938",
-        "county": "North Yorkshire",
-        "notation": "122WAF938",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF938/polygon",
-        "riverOrSea": "River Wiske, Brompton Beck, Cod Beck, North Beck, Willow Beck, Sun Beck, Winton Beck"
-      },
-      "floodAreaID": "122WAF938",
-      "isTidal": false,
-      "message": "This Flood Alert has now been removed. No further flooding to fields and roads is expected, however there may be standing water seen for several days. We will continue to monitor the forecast and re-issue this alert if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-12T12:22:00",
-      "timeRaised": "2023-01-12T12:23:00",
-      "timeSeverityChanged": "2023-01-12T12:22:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
       "description": "River Leadon catchment",
       "eaAreaName": "West Midlands",
@@ -4131,27 +4110,6 @@
       "timeSeverityChanged": "2023-01-10T19:49:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF943",
-      "description": "Lower River Wharfe",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF943",
-        "county": "Leeds, North Yorkshire",
-        "notation": "122WAF943",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF943/polygon",
-        "riverOrSea": "River Wharfe, Kel Beck, Town Beck, Collingham Beck, Fir Green Beck, Bramham Beck"
-      },
-      "floodAreaID": "122WAF943",
-      "isTidal": false,
-      "message": "This Flood Alert has now been removed. We will continue to monitor the forecast and re-issue this alert if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-12T12:23:00",
-      "timeRaised": "2023-01-12T12:23:07",
-      "timeSeverityChanged": "2023-01-12T12:23:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE485",
       "description": "River Severn at Waterside, Upton upon Severn",
       "eaAreaName": "West Midlands",
@@ -4879,12 +4837,12 @@
       },
       "floodAreaID": "031FWFAR30",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-01-12T13:26:00",
-      "timeRaised": "2023-01-12T13:26:26",
-      "timeSeverityChanged": "2023-01-12T13:26:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels have now fallen below the flood risk threshold.      \nWe continue to monitor the situation.  Our incident response staff are liaising with emergency services.  \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-13T12:22:00",
+      "timeRaised": "2023-01-13T12:22:55",
+      "timeSeverityChanged": "2023-01-13T12:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF28LowColne",
@@ -5767,6 +5725,27 @@
       "timeMessageChanged": "2023-01-13T10:18:00",
       "timeRaised": "2023-01-13T10:18:48",
       "timeSeverityChanged": "2023-01-13T10:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE230",
+      "description": "River Severn at Coleham Head, Shrewsbury",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE230",
+        "county": "Shropshire",
+        "notation": "031FWFSE230",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE230/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE230",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-13T13:00:00",
+      "timeRaised": "2023-01-13T13:01:00",
+      "timeSeverityChanged": "2023-01-13T13:00:00"
     }
   ]
 }
