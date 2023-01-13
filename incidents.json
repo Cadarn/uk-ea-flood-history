@@ -2716,11 +2716,11 @@
       },
       "floodAreaID": "011WAFLE",
       "isTidal": false,
-      "message": "Periods of heavy rain are expected across the area over the course of the week. With levels in watercourses already high and the ground saturated, flooding is possible. Flood warnings will be issued if required. Please stay tuned to local weather forecasts for further information. ",
+      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-01-09T16:29:00",
-      "timeRaised": "2023-01-09T16:29:54",
+      "timeMessageChanged": "2023-01-13T06:48:00",
+      "timeRaised": "2023-01-13T06:48:40",
       "timeSeverityChanged": "2023-01-09T16:29:00"
     },
     {
@@ -5704,6 +5704,27 @@
       "timeMessageChanged": "2023-01-13T06:14:00",
       "timeRaised": "2023-01-13T06:15:10",
       "timeSeverityChanged": "2023-01-13T06:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFWY120",
+      "description": "River Wye at Blackmarstone, Hereford",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFWY120",
+        "county": "Herefordshire",
+        "notation": "031FWFWY120",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFWY120/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "031FWFWY120",
+      "isTidal": false,
+      "message": " Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. As the Blackmarstone barriers have been deployed and are fully operational, we are currently not expecting protected properties in this area to be impacted. The Environment Agency Flood Warning System has issued this message based on rising river or tidal levels. We are temporarily automating our messages due to industrial action",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-13T07:00:00",
+      "timeRaised": "2023-01-13T07:01:02",
+      "timeSeverityChanged": "2023-01-13T07:00:00"
     }
   ]
 }
