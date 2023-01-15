@@ -469,12 +469,12 @@
       },
       "floodAreaID": "011WACN2",
       "isTidal": true,
-      "message": "Flooding is possible in this area.\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-01-14T15:43:00",
-      "timeRaised": "2023-01-14T15:43:51",
-      "timeSeverityChanged": "2023-01-14T15:43:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-15T08:16:00",
+      "timeRaised": "2023-01-15T08:16:29",
+      "timeSeverityChanged": "2023-01-15T08:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF938",
@@ -5719,12 +5719,12 @@
       },
       "floodAreaID": "031FWFAV70",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-01-12T15:46:00",
-      "timeRaised": "2023-01-12T15:46:32",
-      "timeSeverityChanged": "2023-01-12T15:46:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels are falling, but still pose a flood risk.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.  Further rainfall is forecast in the upper catchment over the next 48 hours.  \nWe continue to monitor the situation, and we will re-issue the flood warning if necessary.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-15T08:22:00",
+      "timeRaised": "2023-01-15T08:22:51",
+      "timeSeverityChanged": "2023-01-15T08:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFAV40",
@@ -7153,6 +7153,27 @@
       "timeMessageChanged": "2023-01-15T01:45:00",
       "timeRaised": "2023-01-15T01:45:38",
       "timeSeverityChanged": "2023-01-15T01:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGBERE202",
+      "description": "Groundwater flooding for the Bere Stream at Bere Regis",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGBERE202",
+        "county": "Dorset Council",
+        "notation": "111FWGBERE202",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGBERE202/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGBERE202",
+      "isTidal": false,
+      "message": " Flooding is expected in this area.    \nMonitor local groundwater levels and weather conditions. Take care in areas prone to flooding. Start acting on your flood plan if you have one. Check pumps and any other flood protection equipment you may have. \nThe Environment Agency Flood Warning System has issued this message based on rising groundwater levels.    \nWe are temporarily automating our messages due to industrial action. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-15T08:26:00",
+      "timeRaised": "2023-01-15T08:26:44",
+      "timeSeverityChanged": "2023-01-15T08:26:00"
     }
   ]
 }
