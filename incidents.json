@@ -4984,12 +4984,12 @@
       },
       "floodAreaID": "111FWFFROU210",
       "isTidal": false,
-      "message": "The Flood Warning has now been removed. \nNo property flooding is expected.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nWe will continue to monitor the forecast and re-issue this warning if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-15T13:25:00",
-      "timeRaised": "2023-01-15T13:26:12",
-      "timeSeverityChanged": "2023-01-15T13:25:00"
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-16T06:31:00",
+      "timeRaised": "2023-01-16T06:32:36",
+      "timeSeverityChanged": "2023-01-16T06:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
@@ -7132,6 +7132,27 @@
       "timeMessageChanged": "2023-01-16T06:15:00",
       "timeRaised": "2023-01-16T06:16:12",
       "timeSeverityChanged": "2023-01-16T06:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFBRD161",
+      "description": "River Bride at Burton Bradstock",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFBRD161",
+        "county": "Dorset Council",
+        "notation": "111FWFBRD161",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFBRD161/polygon",
+        "riverOrSea": "River Bride"
+      },
+      "floodAreaID": "111FWFBRD161",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.\nWe are temporarily automating our messages due to industrial action.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-01-16T06:22:00",
+      "timeRaised": "2023-01-16T06:22:29",
+      "timeSeverityChanged": "2023-01-16T06:22:00"
     }
   ]
 }
