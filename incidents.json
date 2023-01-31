@@ -78,27 +78,6 @@
       "timeSeverityChanged": "2023-01-30T08:44:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-01-31T07:00:00",
-      "timeRaised": "2023-01-31T07:01:07",
-      "timeSeverityChanged": "2023-01-31T07:00:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWYLE",
       "description": "River Wylye and tributaries",
       "eaAreaName": "Wessex",
@@ -519,6 +498,27 @@
       "timeSeverityChanged": "2023-01-04T15:36:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF414",
+      "description": "Upper River Ems Valley",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF414",
+        "county": "West Sussex",
+        "notation": "065WAF414",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF414/polygon",
+        "riverOrSea": "River Ems"
+      },
+      "floodAreaID": "065WAF414",
+      "isTidal": false,
+      "message": "Very little rainfall has been recorded since 17 January 2023. Groundwater has been able to stabilise and fall at our indicator borehole in Compton. However, groundwater is still expected to be very close to the surface in the communities of Stoughton and Walderton and only falling by a few centimetres each day. No rain is currently forecast in the week ahead. The volume of water flowing along roads will continue to reduce, but groundwater flood impacts are expected to continue until at least mid February 2023. With springs and minor flooding affecting fields, the village green Stoughton, and rural roads including Stoughton main road and the road from East Marden. Long term weather forecasting is difficult, but rain could return before the end of February. Depending on rain amounts, timing and intensity, groundwater flood impacts could continue for longer, or return. We will continue to monitor levels and forecasts. If you have pumps to help manage water levels in basements, please ensure they are operational. We will update this message by 17:00 06/02/2023.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-01-30T12:17:00",
+      "timeRaised": "2023-01-30T12:17:21",
+      "timeSeverityChanged": "2023-01-07T11:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGALL102",
       "description": "Groundwater flooding in the Allen Vale at Monkton Up Wimborne and Wimborne St Giles",
       "eaAreaName": "Wessex",
@@ -540,25 +540,25 @@
       "timeSeverityChanged": "2023-01-30T09:27:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF414",
-      "description": "Upper River Ems Valley",
-      "eaAreaName": "Solent and South Downs",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF414",
-        "county": "West Sussex",
-        "notation": "065WAF414",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF414/polygon",
-        "riverOrSea": "River Ems"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
       },
-      "floodAreaID": "065WAF414",
-      "isTidal": false,
-      "message": "Very little rainfall has been recorded since 17 January 2023. Groundwater has been able to stabilise and fall at our indicator borehole in Compton. However, groundwater is still expected to be very close to the surface in the communities of Stoughton and Walderton and only falling by a few centimetres each day. No rain is currently forecast in the week ahead. The volume of water flowing along roads will continue to reduce, but groundwater flood impacts are expected to continue until at least mid February 2023. With springs and minor flooding affecting fields, the village green Stoughton, and rural roads including Stoughton main road and the road from East Marden. Long term weather forecasting is difficult, but rain could return before the end of February. Depending on rain amounts, timing and intensity, groundwater flood impacts could continue for longer, or return. We will continue to monitor levels and forecasts. If you have pumps to help manage water levels in basements, please ensure they are operational. We will update this message by 17:00 06/02/2023.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-01-30T12:17:00",
-      "timeRaised": "2023-01-30T12:17:21",
-      "timeSeverityChanged": "2023-01-07T11:58:00"
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-01-31T07:00:00",
+      "timeRaised": "2023-01-31T07:01:07",
+      "timeSeverityChanged": "2023-01-31T07:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG010",
