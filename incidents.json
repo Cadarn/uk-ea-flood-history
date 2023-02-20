@@ -91,12 +91,12 @@
       },
       "floodAreaID": "065WAF414",
       "isTidal": false,
-      "message": "Very little rainfall has been recorded since 17 January 2023. Groundwater continues to fall at our indicator borehole in Compton. However, groundwater is still expected to be close to the surface in the communities of Stoughton and Walderton, and only falling by a few centimetres each day. Springs and minimal flooding will affect fields, the village green Stoughton, and rural roads including Stoughton main road and the road from East Marden. The week ahead should remain predominantly dry, although 5mm of rain is currently forecast on Thursday 16/02/2023. The volume of water flowing along roads will continue to reduce. Some more periods of unsettled weather are possible through late February and early March. Details are very uncertain, but so long as we do not receive extremely wet weather, groundwater is expected to continue to fall. However, long term weather forecasting is difficult. We will continue to monitor levels and forecasts. If you have pumps to help manage water levels in basements, please ensure they are operational. We will update this message by 17:00 20/02/2023.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-13T09:33:00",
-      "timeRaised": "2023-02-13T09:33:53",
-      "timeSeverityChanged": "2023-01-07T11:58:00"
+      "message": "Very little rainfall has been recorded since 17 January 2023. At our indicator borehole in Compton, groundwater is still falling at 40 centimetres each day. Very few impacts remain visible above ground, with only minimal amounts of water on roads.  Although the week ahead should remain predominantly dry, there is the chance of a small amount of rain around at times, with 5mm of rain currently forecast on Wednesday 22/02/2023 and the chance of some more unsettled weather through mid March. Details are very uncertain, and long term weather forecasting is difficult, but so long as we do not receive extremely wet weather, groundwater is expected to continue to fall through spring and summer. We will continue to monitor levels and forecasts. If you have pumps to help manage water levels in basements, please ensure they are operational. We will re-issue this message if the risk of flooding increases again.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-20T09:37:00",
+      "timeRaised": "2023-02-20T09:37:56",
+      "timeSeverityChanged": "2023-02-20T09:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG006",
@@ -118,6 +118,69 @@
       "timeMessageChanged": "2023-02-14T15:15:00",
       "timeRaised": "2023-02-14T15:15:52",
       "timeSeverityChanged": "2023-01-20T16:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides and forecast weather conditions which may cause waves and spray overtopping on the estuary today, Monday 20/02/2023, between 4:30 PM and 8:00 PM. The areas most at risk is Kilnsea Village. Between these times the combination of high tides and waves is expected to generate hazards for exposed areas. Please be careful along beaches, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 09:00 PM on 20/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T09:43:00",
+      "timeRaised": "2023-02-20T09:43:57",
+      "timeSeverityChanged": "2023-02-20T09:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "This Flood Warning has been issued due to the high tide and surge conditions expected between 4:00 PM and 6:30 PM on Monday 20/02/2023. Areas most at risk include properties in the vicinity of North Promenade and New Road, and in the vicinity of the leisure centre. We will continue to monitor the forecast and will re-issue this warning if necessary over the coming days. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Start acting on your flood plan if you have one, remain safe and be aware of your surroundings. This message will be updated by 09:00 PM on 20/02/2023, or as the situation changes",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T09:44:00",
+      "timeRaised": "2023-02-20T09:44:32",
+      "timeSeverityChanged": "2023-02-20T09:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides and forecasted weather conditions which may cause waves and spray overtopping on the coast today, Monday 20/02/2023, between 4:30 PM and 8:00 PM. Areas most at risk include low lying coastal frontages, in particular around Spurn Road and Southfield Farm coastal side. We will continue to monitor the forecast. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 09:00 PM on 20/02/2023, or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T09:43:00",
+      "timeRaised": "2023-02-20T09:45:06",
+      "timeSeverityChanged": "2023-02-20T09:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -160,6 +223,69 @@
       "timeMessageChanged": "2023-02-20T09:11:00",
       "timeRaised": "2023-02-20T09:11:26",
       "timeSeverityChanged": "2023-02-20T09:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
+      "description": "Tweed estuary",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902",
+        "county": "Northumberland",
+        "notation": "121WAT902",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902/polygon",
+        "riverOrSea": "River Tweed"
+      },
+      "floodAreaID": "121WAT902",
+      "isTidal": true,
+      "message": "Large and powerful waves are expected to overtop sea defences as a result of high spring tides and strong winds.  Tides will be at their highest between 14:30 and 16:30 today, 20/02/23. However, strong waves are anticipated throughout the day with wave overtopping possible throughout this afternoon, 20/02/23. We expect flooding to affect beaches, promenades, coastal footpaths and roads. The area most likely to be affected is Berwick Between Bridges.\n\nWe are closely monitoring the situation. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.  \nThis message will be updated by 17:00 today, 20/02/23, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T09:34:00",
+      "timeRaised": "2023-02-20T09:34:42",
+      "timeSeverityChanged": "2023-02-20T09:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides which may cause  some localise flooding on the coast today, Monday 20/02/2023, between 3:00 PM and 5:00 PM. The area of concern is expected to be New Quay Road at Whitby. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 9:00PM, 20/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T09:43:00",
+      "timeRaised": "2023-02-20T09:43:36",
+      "timeSeverityChanged": "2023-02-20T09:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT962",
+      "description": "Humber estuary from Hessle Haven to Faxfleet",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT962",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT962",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT962/polygon",
+        "riverOrSea": "The Humber"
+      },
+      "floodAreaID": "122WAT962",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides and forecast weather conditions which may cause waves and spray overtopping on the estuary today, Monday 20/02/2023, between 5:30 PM and 8:30 PM. Flooding is possible from the Humber estuary from Hessle Haven to Faxfleet. We will continue to liaise with local authorities and keep closely monitoring the situation. Plan driving routes to avoid low lying roads, which may be flooded. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and spray could be dangerous. This message will be updated by 9:00 PM on 20/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T09:43:00",
+      "timeRaised": "2023-02-20T09:43:53",
+      "timeSeverityChanged": "2023-02-20T09:43:00"
     }
   ]
 }
