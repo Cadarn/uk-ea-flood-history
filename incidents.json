@@ -15,48 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides today. Spring tides are peaking this week and we may continue to see high water levels through the week. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-21T09:52:00",
-      "timeRaised": "2023-02-21T09:52:10",
-      "timeSeverityChanged": "2023-02-21T09:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides today. Spring tides are peaking this week and we may continue to see high water levels through the week. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-21T09:52:00",
-      "timeRaised": "2023-02-21T09:52:19",
-      "timeSeverityChanged": "2023-02-21T09:52:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG015",
       "description": "Groundwater flooding in Finchdean, Dean Lane End and Rowlands Castle",
       "eaAreaName": "Solent and South Downs",
@@ -97,6 +55,48 @@
       "timeMessageChanged": "2023-02-14T15:20:00",
       "timeRaised": "2023-02-14T15:20:18",
       "timeSeverityChanged": "2023-01-04T15:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides today. Spring tides are peaking this week and we may continue to see high water levels through the week. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-21T09:52:00",
+      "timeRaised": "2023-02-21T09:52:19",
+      "timeSeverityChanged": "2023-02-21T09:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides today. Spring tides are peaking this week and we may continue to see high water levels through the week. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-21T09:52:00",
+      "timeRaised": "2023-02-21T09:52:10",
+      "timeSeverityChanged": "2023-02-21T09:52:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -700,12 +700,12 @@
       },
       "floodAreaID": "012WATLE",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 12:00 noon on Tuesday 21/02/2023. Levels are expected to be high 2 hours either side of the peak. Plan driving routes to avoid coastal roads, which may be flooded. This message will be removed or updated by 03:30PM on 21/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-21T09:13:00",
-      "timeRaised": "2023-02-21T09:13:31",
-      "timeSeverityChanged": "2023-02-21T09:13:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-21T15:33:00",
+      "timeRaised": "2023-02-21T15:33:32",
+      "timeSeverityChanged": "2023-02-21T15:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
@@ -721,12 +721,12 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at 12:00 noon on Tuesday 21/02/2023. Levels are expected to be high 2 hours either side of the peak. Plan driving routes to avoid coastal roads, which may be flooded. This message will be removed or updated by 03:30PM on 21/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-21T09:13:00",
-      "timeRaised": "2023-02-21T09:13:47",
-      "timeSeverityChanged": "2023-02-21T09:13:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-21T15:33:00",
+      "timeRaised": "2023-02-21T15:33:25",
+      "timeSeverityChanged": "2023-02-21T15:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
@@ -742,12 +742,12 @@
       },
       "floodAreaID": "013WATMEW",
       "isTidal": true,
-      "message": "River levels are expected to be higher than usual at Fiddlers Ferry, Eastford Road, and Arpley Bridge as a result of the forecast weather conditions during spring tides this afternoon, 21/02/2023. Consequently, flooding of low lying land, roads and farmland, is expected in the following places: Fiddlers Ferry, between 12:30 and 13:30, Eastford Road, between 12:45 and 13:45, and Arpley Bridge, between 13:00 and 14:00. It is possible that river levels may affect Arpley Road under the railway bridge. Our incident response staff are closely monitoring weather forecasts and river levels and will re-issue this alert if necessary. Please avoid using low lying footpaths near local watercourses. This message will be updated in 8 hours, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-21T09:06:00",
-      "timeRaised": "2023-02-21T09:06:41",
-      "timeSeverityChanged": "2023-02-21T09:06:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. The next tide is not expected to reach Flood Alert level, however, we are expecting higher than normal tides over the next 2 days and as a result we may issue further warnings. We will continue to monitor the forecast and re-issue this alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-21T15:28:00",
+      "timeRaised": "2023-02-21T15:29:02",
+      "timeSeverityChanged": "2023-02-21T15:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTWY0F",
