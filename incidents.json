@@ -288,27 +288,6 @@
       "timeSeverityChanged": "2023-02-19T17:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
-      "description": "Tweed estuary",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902",
-        "county": "Northumberland",
-        "notation": "121WAT902",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902/polygon",
-        "riverOrSea": "River Tweed"
-      },
-      "floodAreaID": "121WAT902",
-      "isTidal": true,
-      "message": "The flood alert has now been removed. There is no longer a risk of flooding in the area. Please continue to take care along beaches, promenades, coastal footpaths and roads",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-20T17:06:00",
-      "timeRaised": "2023-02-20T17:06:47",
-      "timeSeverityChanged": "2023-02-20T17:06:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
       "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
       "eaAreaName": "Yorkshire",
@@ -853,6 +832,69 @@
       "timeMessageChanged": "2023-02-21T16:57:00",
       "timeRaised": "2023-02-21T16:57:58",
       "timeSeverityChanged": "2023-02-21T16:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM3",
+      "description": "Somerset coast at Minehead, Bridgwater, Burnham-on-Sea and Uphill to Kingston Seymour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM3",
+        "county": "North Somerset, Somerset",
+        "notation": "112WATSOM3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM3/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM3",
+      "isTidal": true,
+      "message": " This flood alert has been issued as a result of high spring tides, storm surge and strong winds.  \nThe forecast high water is 08:15 on 22/02/2023 and the forecast tide level is 6.88m AOD. The forecast wind is Force 5 North-westerly. \nPlease note all tide times are in local time and refer to the high water time at Hinkley Point. mAOD is height above average sea level; for more detail refer to local tide tables. Flooding to roads, paths and farmland is possible at these times, however conditions may apply one to two hours either side of the high tide.  \nWe expect flooding to affect coastal and tidal areas at Minehead, Combwich, Bridgwater, Burnham-on-Sea, Uphill, Weston-super-Mare, Kewstoke, Sand Bay and Kingston Seymour.\nPlease be careful along beaches, promenades and coastal or tidal river footpaths and roads as large waves and/or high water levels could be dangerous.  \nWe are monitoring the situation and this message will be updated tomorrow, 22/02/2023. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-21T17:11:00",
+      "timeRaised": "2023-02-21T17:12:17",
+      "timeSeverityChanged": "2023-02-21T17:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM5",
+      "description": "Somerset coast at Portishead and Portbury Dock",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM5",
+        "county": "City of Bristol, North Somerset",
+        "notation": "112WATSOM5",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM5/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM5",
+      "isTidal": true,
+      "message": "Wednesday morning's tide at 08:45 AM is forecast to be higher than normal due to unsettled weather with north-westerly force 5 winds and large waves.\nStrong winds and spring tides may cause large waves and spray overtopping on the coast tomorrow morning.\nAreas most at risk include the coastline between Portishead Point and Avonmouth.\nNo property flooding is expected.\nThe detailed tidal information for those who use it is for a peak level at Avonmouth of 8.02m AODN at 08:45 AM on 22/02/2023 (mAODN is height above average sea level - for more info refer to local tide tables.)\nWe are expecting higher than normal tides over the next 3 days and as a result we may issue further alerts/warnings.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 12:00 noon on 22/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-21T17:07:00",
+      "timeRaised": "2023-02-21T17:08:02",
+      "timeSeverityChanged": "2023-02-21T17:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTPRT01",
+      "description": "Somerset coast at Portishead and Portbury Dock, seafront properties and Portbury Dock areas",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPRT01",
+        "county": "City of Bristol, North Somerset",
+        "notation": "112FWTPRT01",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPRT01/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112FWTPRT01",
+      "isTidal": true,
+      "message": "Wednesday morning's high tide at 08:45 AM is forecast to be higher than normal due to unsettled weather with north-westerly force 5 winds and large waves.\nConsequently, waves are forecast to overtop coastal defences at the coastline between Portishead Point and Avonmouth including Portishead Ashlands Nature Reserve and the Royal Portbury Dock.\nFlooding is possible 2 hours either side of this time.\n\nStay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nWe are expecting higher than normal tides over the next 3 days and as a result we may issue further alerts/warnings.\nThis message will be updated by 12:00 noon on 22/02/2023, or as the situation changes.\nPlease note all tide times are in local time and refer to the high water time at Avonmouth.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-02-21T17:21:00",
+      "timeRaised": "2023-02-21T17:21:19",
+      "timeSeverityChanged": "2023-02-21T17:21:00"
     }
   ]
 }
