@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely tonight, Monday 20th February 2023 into Tuesday 21st February 2023. High water is expected between 11pm and 1am. Water levels are expected to gradually rise and peak by 12 midnight on Monday 20th February 2023. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. We are not currently expecting the situation to escalate. However, we are in a period of spring tides which peak after Wednesday and increase the risk of tide locking on the Broads system. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will issue further messages if the situation changes. We will update this message by 12 noon tomorrow, Tuesday 21st February 2023.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-20T16:57:00",
-      "timeRaised": "2023-02-20T16:58:07",
-      "timeSeverityChanged": "2023-02-20T16:57:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG016",
       "description": "Groundwater flooding in West Dean, Singleton, Charlton, East Dean and Chilgrove",
       "eaAreaName": "Solent and South Downs",
@@ -55,27 +34,6 @@
       "timeMessageChanged": "2023-02-20T09:32:00",
       "timeRaised": "2023-02-20T09:33:00",
       "timeSeverityChanged": "2023-02-20T09:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely this evening, Monday 20th February 2023. High water is expected between 8pm and 11pm. Water levels are expected to gradually rise and peak by 10pm. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. We are not currently expecting the situation to escalate. However, we are in a period of spring tides which peak after Wednesday and increase the risk of tide locking on the Broads system. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will issue further messages if the situation changes. We will update this message by 12 noon tomorrow, Tuesday 21st February 2023.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-20T16:57:00",
-      "timeRaised": "2023-02-20T16:57:59",
-      "timeSeverityChanged": "2023-02-20T16:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG015",
@@ -139,6 +97,48 @@
       "timeMessageChanged": "2023-02-20T09:37:00",
       "timeRaised": "2023-02-20T09:37:56",
       "timeSeverityChanged": "2023-02-20T09:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely this evening, Monday 20th February 2023. High water is expected between 8pm and 11pm. Water levels are expected to gradually rise and peak by 10pm. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels at Beccles Quay. We are not currently expecting the situation to escalate. However, we are in a period of spring tides which peak after Wednesday and increase the risk of tide locking on the Broads system. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will issue further messages if the situation changes. We will update this message by 12 noon tomorrow, Tuesday 21st February 2023.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T16:57:00",
+      "timeRaised": "2023-02-20T16:57:59",
+      "timeSeverityChanged": "2023-02-20T16:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely tonight, Monday 20th February 2023 into Tuesday 21st February 2023. High water is expected between 11pm and 1am. Water levels are expected to gradually rise and peak by 12 midnight on Monday 20th February 2023. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels in Brundall and Reedham riverside areas. We are not currently expecting the situation to escalate. However, we are in a period of spring tides which peak after Wednesday and increase the risk of tide locking on the Broads system. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and will issue further messages if the situation changes. We will update this message by 12 noon tomorrow, Tuesday 21st February 2023.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-20T16:57:00",
+      "timeRaised": "2023-02-20T16:58:07",
+      "timeSeverityChanged": "2023-02-20T16:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -706,6 +706,69 @@
       "timeMessageChanged": "2023-02-20T18:31:00",
       "timeRaised": "2023-02-20T18:32:02",
       "timeSeverityChanged": "2023-02-20T18:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:00 noon on Tuesday 21/02/2023. Levels are expected to be high 2 hours either side of the peak. Plan driving routes to avoid coastal roads, which may be flooded. This message will be removed or updated by 03:30PM on 21/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-21T09:13:00",
+      "timeRaised": "2023-02-21T09:13:31",
+      "timeSeverityChanged": "2023-02-21T09:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to the high tide forecast at 12:00 noon on Tuesday 21/02/2023. Levels are expected to be high 2 hours either side of the peak. Plan driving routes to avoid coastal roads, which may be flooded. This message will be removed or updated by 03:30PM on 21/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-21T09:13:00",
+      "timeRaised": "2023-02-21T09:13:47",
+      "timeSeverityChanged": "2023-02-21T09:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
+      "description": "Mersey Estuary at Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW",
+        "county": "Halton, Warrington",
+        "notation": "013WATMEW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEW",
+      "isTidal": true,
+      "message": "River levels are expected to be higher than usual at Fiddlers Ferry, Eastford Road, and Arpley Bridge as a result of the forecast weather conditions during spring tides this afternoon, 21/02/2023. Consequently, flooding of low lying land, roads and farmland, is expected in the following places: Fiddlers Ferry, between 12:30 and 13:30, Eastford Road, between 12:45 and 13:45, and Arpley Bridge, between 13:00 and 14:00. It is possible that river levels may affect Arpley Road under the railway bridge. Our incident response staff are closely monitoring weather forecasts and river levels and will re-issue this alert if necessary. Please avoid using low lying footpaths near local watercourses. This message will be updated in 8 hours, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-21T09:06:00",
+      "timeRaised": "2023-02-21T09:06:41",
+      "timeSeverityChanged": "2023-02-21T09:06:00"
     }
   ]
 }
