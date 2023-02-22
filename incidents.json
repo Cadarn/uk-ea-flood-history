@@ -28,11 +28,11 @@
       },
       "floodAreaID": "112WATSOM1",
       "isTidal": true,
-      "message": "This flood alert has been issued as a result of high spring tides, storm surge and strong winds.  \nThe first forecast high water is 08:15 on 22/02/2023 and the forecast tide level is 6.88m AOD. The forecast wind is Force 5 North-westerly. \nThe second forecast high water is 20:45 on 22/02/2023 and the forecast tide level is 6.42m AOD. The forecast wind is Force 4 Northerly.\nPlease note all tide times are in local time and refer to the high water time at Hinkley Point. mAOD is height above average sea level; for more detail refer to local tide tables. Flooding to roads and farmland is possible at these times, however conditions may apply one to two hours either side of the high tide.  We expect flooding to affect the coastline between Gore Point and Hurlstone Point including Porlock Weir.   \nPlease be careful along beaches, promenades and coastal footpaths and roads as large waves could be dangerous.  \nWe are monitoring the situation and this message will be updated on Wednesday, 22/02/2023. It is expected to be needed for Thursday morning’s tide.\n",
+      "message": "Sea spray overtopping is forecast along the coast as a result of spring tides and strong winds. Areas most at risk include the coastline between Gore Point and Hurlstone Point including Porlock Weir. The detailed tidal information for those who use it is for a peak level at Hinkley Point. The first forecast high water is at 08:45 PM on 22/02/2023 with a level of 6.51 mAODN with north westerly force 4 winds. The second forecast high water is at 09:00 AM on 23/02/2023 with a level of 6.73 mAODN with north easterly force 5 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Plan driving routes to coastal roads, which may be flooded. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 12:00 PM on 23/02/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-02-21T16:47:00",
-      "timeRaised": "2023-02-21T16:47:50",
+      "timeMessageChanged": "2023-02-22T12:39:00",
+      "timeRaised": "2023-02-22T12:39:11",
       "timeSeverityChanged": "2023-02-21T16:47:00"
     },
     {
@@ -160,6 +160,27 @@
       "timeMessageChanged": "2023-02-22T10:23:00",
       "timeRaised": "2023-02-22T10:23:56",
       "timeSeverityChanged": "2023-02-22T10:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "This flood warning has been issued due to high tides and forecasted weather conditions which will cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 8:30 PM. Areas most at risk include the North Sea coast at North Promenade. Please be careful along beaches, promenades, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-02-22T12:43:00",
+      "timeRaised": "2023-02-22T12:44:03",
+      "timeSeverityChanged": "2023-02-22T12:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -895,6 +916,27 @@
       "timeMessageChanged": "2023-02-22T11:11:00",
       "timeRaised": "2023-02-22T11:11:52",
       "timeSeverityChanged": "2023-02-22T11:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
+      "description": "Tidal River Ouse, Don and the Dutch River catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAT979",
+        "county": "Doncaster, East Riding of Yorkshire, North Lincolnshire, North Yorkshire",
+        "notation": "123WAT979",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAT979/polygon",
+        "riverOrSea": "River Ouse, River Don, Dutch River"
+      },
+      "floodAreaID": "123WAT979",
+      "isTidal": true,
+      "message": "High Spring tides are expected at Goole to Airmyn this evening, Wednesday 22/02/23, peaking between approximately 8.45pm and 9.15pm. High tides are expected until Saturday 25/02/23. We are not expecting to issue any flood warnings but will continue to monitor levels closely.\nPlease stay away from coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 21:00, 22/02/23",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T12:55:00",
+      "timeRaised": "2023-02-22T12:55:59",
+      "timeSeverityChanged": "2023-02-22T12:55:00"
     }
   ]
 }
