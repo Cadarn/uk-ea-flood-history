@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "Sea spray overtopping is forecast along the coast as a result of spring tides and strong winds. Areas most at risk include the coastline between Gore Point and Hurlstone Point including Porlock Weir. The detailed tidal information for those who use it is for a peak level at Hinkley Point. The first forecast high water is at 08:45 PM on 22/02/2023 with a level of 6.51 mAODN with north westerly force 4 winds. The second forecast high water is at 09:00 AM on 23/02/2023 with a level of 6.73 mAODN with north easterly force 5 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Plan driving routes to coastal roads, which may be flooded. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 12:00 PM on 23/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T12:39:00",
+      "timeRaised": "2023-02-22T12:39:11",
+      "timeSeverityChanged": "2023-02-21T16:47:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG015",
       "description": "Groundwater flooding in Finchdean, Dean Lane End and Rowlands Castle",
       "eaAreaName": "Solent and South Downs",
@@ -34,6 +55,69 @@
       "timeMessageChanged": "2023-02-14T15:24:00",
       "timeRaised": "2023-02-14T15:24:17",
       "timeSeverityChanged": "2023-01-06T11:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG013",
+      "description": "Groundwater flooding in Hambledon",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013",
+        "county": "Hampshire",
+        "notation": "065FAG013",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "065FAG013",
+      "isTidal": false,
+      "message": "In Hambledon, groundwater levels are high but continue to fall following 4 weeks of dry weather. Since Friday 10/02/2023, the level at Whitedale has fallen by 2.69m. Residual flood water may still be affecting cellars of properties on East Street and West Street. There is a very small amount of water in Fareham Road. Over the next 5 days, only small amounts of rain are forecast, with up to 8mm on Thursday 16/02/2023. Groundwater levels in Hambledon are expected to continue falling throughout this period. Long range forecasting is difficult, but unsettled weather may return at the end of February or into March. If heavy rainfall affects the area, then groundwater levels could rise again, and flooding impacts may return. However, if dry weather continues to be forecast, we may remove this Flood Alert next week. We continue to monitor the forecast. We advise that the community continues to remain prepared for flood impacts this winter. This Flood Alert will be updated or removed by 17:00 on Wednesday 22/02/2023.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-14T15:20:00",
+      "timeRaised": "2023-02-14T15:20:18",
+      "timeSeverityChanged": "2023-01-04T15:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 16:30 on 22/02/2023 and 4.78mAOD at 04:30 on 23/02/2023.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is low for this time of year at 38 cubic metres per second and is steady. We anticipate the flows to remain low for the next five days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 10:00 on 23/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T08:20:00",
+      "timeRaised": "2023-02-22T08:21:15",
+      "timeSeverityChanged": "2023-02-21T08:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
+      "description": "Severn estuary from Gloucester to Sharpness",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217",
+        "county": "Gloucestershire",
+        "notation": "031WAT217",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "031WAT217",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed.  \nSpring high tide levels are now forecast to fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T10:03:00",
+      "timeRaised": "2023-02-22T10:03:43",
+      "timeSeverityChanged": "2023-02-22T10:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG006",
@@ -57,25 +141,88 @@
       "timeSeverityChanged": "2023-01-20T16:48:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG013",
-      "description": "Groundwater flooding in Hambledon",
-      "eaAreaName": "Solent and South Downs",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013",
-        "county": "Hampshire",
-        "notation": "065FAG013",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013/polygon",
-        "riverOrSea": "Groundwater"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
       },
-      "floodAreaID": "065FAG013",
-      "isTidal": false,
-      "message": "In Hambledon, groundwater levels are high but continue to fall following 4 weeks of dry weather. Since Friday 10/02/2023, the level at Whitedale has fallen by 2.69m. Residual flood water may still be affecting cellars of properties on East Street and West Street. There is a very small amount of water in Fareham Road. Over the next 5 days, only small amounts of rain are forecast, with up to 8mm on Thursday 16/02/2023. Groundwater levels in Hambledon are expected to continue falling throughout this period. Long range forecasting is difficult, but unsettled weather may return at the end of February or into March. If heavy rainfall affects the area, then groundwater levels could rise again, and flooding impacts may return. However, if dry weather continues to be forecast, we may remove this Flood Alert next week. We continue to monitor the forecast. We advise that the community continues to remain prepared for flood impacts this winter. This Flood Alert will be updated or removed by 17:00 on Wednesday 22/02/2023.",
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides and forecast weather conditions which may cause waves and spray overtopping on the estuary today, Wednesday 22/02/2023, between 6:00 PM and 9:00 PM. The areas most at risk is Kilnsea Village. Between these times the combination of high tides and waves is expected to generate hazards for exposed areas. Please be careful along beaches, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-02-14T15:20:00",
-      "timeRaised": "2023-02-14T15:20:18",
-      "timeSeverityChanged": "2023-01-04T15:36:00"
+      "timeMessageChanged": "2023-02-22T10:23:00",
+      "timeRaised": "2023-02-22T10:23:56",
+      "timeSeverityChanged": "2023-02-22T10:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "This flood warning has been issued due to high tides and forecasted weather conditions which will cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 8:30 PM. Areas most at risk include the North Sea coast at North Promenade. Please be careful along beaches, promenades, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-02-22T12:43:00",
+      "timeRaised": "2023-02-22T12:44:03",
+      "timeSeverityChanged": "2023-02-22T12:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides and forecasted weather conditions which may cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 8:30 PM. Areas most at risk include the North Sea coast at Hornsea. Please be careful along beaches, promenades, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00PM this evening 22/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T10:24:00",
+      "timeRaised": "2023-02-22T10:24:34",
+      "timeSeverityChanged": "2023-02-22T10:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "This flood alert has been issued due to high tides and forecasted weather conditions which may cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 9:00 PM. Areas most at risk include low lying coastal frontages, in particular around Spurn Road and Southfield Farm coastal side. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T10:23:00",
+      "timeRaised": "2023-02-22T10:24:58",
+      "timeSeverityChanged": "2023-02-22T10:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -112,54 +259,12 @@
       },
       "floodAreaID": "051WACDV5B3a",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 1pm and 3pm today, Wednesday 22nd February. Tides may be higher than usual, but the forecast is for calm conditions, with only small waves at the seafront. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the fort and Coalhouse Point. The detailed forecast for those that use it is for a peak level at Southend of 3.44 mAODN at 2pm today which is 0.12m above tide tables, wind Force 2, South Westerly. (mAODN is height above average sea level, for more info refer to local tide tables).  The tide on Thursday 23rd February at 2:15am is also currently forecast to be a Flood Alert, we will send a new message before that tide. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate.  We will update this message by 6pm today, Wednesday 22nd February.",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 1:15am and 3:15am tonight, Thursday 23rd February. Areas most at risk are Coalhouse Fort and car park, and the low lying land between the fort and Coalhouse Point. The detailed forecast, for those that use it, is for a peak level at Southend of 3.44 mAODN at 2:15am tonight, Thursday 23rd February, which is 0.28m above tide tables, wind Force 4, northerly. (mAODN is height above average sea level, for more information refer to local tide tables). You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting it to escalate. We will update this message by 9am tomorrow, Thursday 23rd February.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T09:38:00",
-      "timeRaised": "2023-02-22T09:38:32",
+      "timeMessageChanged": "2023-02-22T15:25:00",
+      "timeRaised": "2023-02-22T15:25:36",
       "timeSeverityChanged": "2023-02-22T09:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "This flood alert has been issued due to high tides and forecast weather conditions which may cause waves and spray overtopping on the estuary today, Wednesday 22/02/2023, between 6:00 PM and 9:00 PM. The areas most at risk is Kilnsea Village. Between these times the combination of high tides and waves is expected to generate hazards for exposed areas. Please be careful along beaches, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T10:23:00",
-      "timeRaised": "2023-02-22T10:23:56",
-      "timeSeverityChanged": "2023-02-22T10:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
-      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC955",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC955",
-      "isTidal": true,
-      "message": "This flood alert has been issued due to high tides and forecasted weather conditions which may cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 8:30 PM. Areas most at risk include the North Sea coast at Hornsea. Please be careful along beaches, promenades, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00PM this evening 22/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T10:24:00",
-      "timeRaised": "2023-02-22T10:24:34",
-      "timeSeverityChanged": "2023-02-22T10:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
@@ -201,27 +306,6 @@
       "severityLevel": 3,
       "timeMessageChanged": "2023-02-22T10:23:00",
       "timeRaised": "2023-02-22T10:23:40",
-      "timeSeverityChanged": "2023-02-22T10:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "This flood alert has been issued due to high tides and forecasted weather conditions which may cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 9:00 PM. Areas most at risk include low lying coastal frontages, in particular around Spurn Road and Southfield Farm coastal side. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T10:23:00",
-      "timeRaised": "2023-02-22T10:24:58",
       "timeSeverityChanged": "2023-02-22T10:23:00"
     },
     {
@@ -328,27 +412,6 @@
       "timeMessageChanged": "2023-02-22T13:45:00",
       "timeRaised": "2023-02-22T13:45:45",
       "timeSeverityChanged": "2023-02-22T13:45:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
-      "description": "North Sea coast at Hornsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
-        "county": "East Riding of Yorkshire",
-        "notation": "122FWC003",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
-        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
-      },
-      "floodAreaID": "122FWC003",
-      "isTidal": true,
-      "message": "This flood warning has been issued due to high tides and forecasted weather conditions which will cause waves and spray overtopping on the coast today, Wednesday 22/02/2023, between 5:00 PM and 8:30 PM. Areas most at risk include the North Sea coast at North Promenade. Please be careful along beaches, promenades, coastal footpaths and roads as waves and sea spray could be dangerous. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 9:00 PM this evening 22/02/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-02-22T12:43:00",
-      "timeRaised": "2023-02-22T12:44:03",
-      "timeSeverityChanged": "2023-02-22T12:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
@@ -519,6 +582,48 @@
       "timeSeverityChanged": "2023-02-20T15:36:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC304",
+      "description": "Coast from Ramsgate to Kingsdown",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC304",
+        "county": "Kent",
+        "notation": "064WAC304",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC304/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "064WAC304",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to a high tide forecast overnight tonight and early tomorrow morning, Thursday 23/02/2023. High water levels are expected to affect the foreshore from Ramsgate to Kingsdown and low lying land along the tidal River Stour. Tides will be at their highest between 23:00 Wednesday and 03:00 Thursday, with high tide expected at 01:00 at Dover. Flooding to the foreshore and low lying land is possible at these times, however these conditions may apply two to four hours either side of the high tide. Flooding of properties is not forecast at this point. We are closely monitoring the situation and are prepared to respond if required. This message will be updated tomorrow morning, 23/02/2023, or as the situation changes. For those that use it, the astronomical level at Dover will be 3.37m AOD and a total water level 3.66m AOD. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T15:14:00",
+      "timeRaised": "2023-02-22T15:14:35",
+      "timeSeverityChanged": "2023-02-22T15:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC303",
+      "description": "Coast from St Margaret's at Cliffe to Sandgate",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303",
+        "county": "Kent",
+        "notation": "064WAC303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303/polygon",
+        "riverOrSea": "English Channel, North Sea"
+      },
+      "floodAreaID": "064WAC303",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued due to a high tide forecast overnight tonight and early tomorrow morning, Thursday 23/02/2023. High water levels are expected to affect the foreshore from St Margaret's at Cliffe to Sandgate. Tides will be at their highest between 23:00 Wednesday and 03:00 Thursday, with high tide expected at 01:00 at Dover. Flooding to the foreshore and low lying land is possible at these times, however these conditions may apply two to four hours either side of the high tide. Flooding of properties is not forecast at this point. We are closely monitoring the situation and are prepared to respond if required. This message will be updated tomorrow morning, 23/02/2023, or as the situation changes. For those that use it, the astronomical level at Dover will be 3.37m AOD and a total water level 3.66m AOD. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T15:17:00",
+      "timeRaised": "2023-02-22T15:18:04",
+      "timeSeverityChanged": "2023-02-22T15:17:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN5",
       "description": "Coast at Barrow in Furness",
       "eaAreaName": "Cumbria and Lancashire",
@@ -538,27 +643,6 @@
       "timeMessageChanged": "2023-02-21T19:37:00",
       "timeRaised": "2023-02-21T19:37:41",
       "timeSeverityChanged": "2023-02-20T18:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 16:30 on 22/02/2023 and 4.78mAOD at 04:30 on 23/02/2023.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is low for this time of year at 38 cubic metres per second and is steady. We anticipate the flows to remain low for the next five days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 10:00 on 23/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T08:20:00",
-      "timeRaised": "2023-02-22T08:21:15",
-      "timeSeverityChanged": "2023-02-21T08:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
@@ -624,27 +708,6 @@
       "timeSeverityChanged": "2023-02-22T09:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
-      "description": "Severn estuary from Gloucester to Sharpness",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217",
-        "county": "Gloucestershire",
-        "notation": "031WAT217",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "031WAT217",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed.  \nSpring high tide levels are now forecast to fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T10:03:00",
-      "timeRaised": "2023-02-22T10:03:43",
-      "timeSeverityChanged": "2023-02-22T10:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTWY0F",
       "description": "Wye Estuary at Brockweir",
       "eaAreaName": "West Midlands",
@@ -685,27 +748,6 @@
       "timeMessageChanged": "2023-02-22T11:21:00",
       "timeRaised": "2023-02-22T11:22:08",
       "timeSeverityChanged": "2023-02-22T11:21:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "Sea spray overtopping is forecast along the coast as a result of spring tides and strong winds. Areas most at risk include the coastline between Gore Point and Hurlstone Point including Porlock Weir. The detailed tidal information for those who use it is for a peak level at Hinkley Point. The first forecast high water is at 08:45 PM on 22/02/2023 with a level of 6.51 mAODN with north westerly force 4 winds. The second forecast high water is at 09:00 AM on 23/02/2023 with a level of 6.73 mAODN with north easterly force 5 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Plan driving routes to coastal roads, which may be flooded. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 12:00 PM on 23/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T12:39:00",
-      "timeRaised": "2023-02-22T12:39:11",
-      "timeSeverityChanged": "2023-02-21T16:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
@@ -1147,6 +1189,27 @@
       "timeMessageChanged": "2023-02-22T14:43:00",
       "timeRaised": "2023-02-22T14:43:21",
       "timeSeverityChanged": "2023-02-22T14:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 00:30am and 02:30am tonight, Thursday 23rd February. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast, for those that use it, is for a peak level at Clacton of 2.78 mAODN at 01:30am tonight, Thursday 23rd February, which is 0.34m above tide tables, wind Force 3, northerly. (mAODN is height above average sea level, for more information refer to local tide tables). You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting it to escalate. We will update this message by 9am tomorrow, Thursday 23rd February.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T15:25:00",
+      "timeRaised": "2023-02-22T15:25:34",
+      "timeSeverityChanged": "2023-02-22T15:25:00"
     }
   ]
 }
