@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": " Strong winds and high spring tides are expected to cause large waves and spray overtopping on the coast from Seaburn lower promenade, Hendon promenade and Roker seafront. Tides will be at their highest between 16:00 and 19:45 with high water at 16:45 today, 22/02/2023. Waves are forecast to overtop coastal defences at beaches, promenades, coastal footpaths, and roads. \nWe are closely monitoring the situation.\nPlease take care at beaches, promenades, coastal footpaths and roads.\nThis message will be updated by 19:00 on 22/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-22T11:11:00",
+      "timeRaised": "2023-02-22T11:11:52",
+      "timeSeverityChanged": "2023-02-22T11:11:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -895,27 +916,6 @@
       "timeMessageChanged": "2023-02-22T11:09:00",
       "timeRaised": "2023-02-22T11:09:42",
       "timeSeverityChanged": "2023-02-22T11:09:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "121WAC922",
-      "isTidal": true,
-      "message": " Strong winds and high spring tides are expected to cause large waves and spray overtopping on the coast from Seaburn lower promenade, Hendon promenade and Roker seafront. Tides will be at their highest between 16:00 and 19:45 with high water at 16:45 today, 22/02/2023. Waves are forecast to overtop coastal defences at beaches, promenades, coastal footpaths, and roads. \nWe are closely monitoring the situation.\nPlease take care at beaches, promenades, coastal footpaths and roads.\nThis message will be updated by 19:00 on 22/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T11:11:00",
-      "timeRaised": "2023-02-22T11:11:52",
-      "timeSeverityChanged": "2023-02-22T11:11:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
