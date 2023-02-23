@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed. The risk of flooding from the North Sea has now reduced. There may still be standing water and debris on promenades, footpaths and roads. We continue to monitor the situation.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T18:58:00",
+      "timeRaised": "2023-02-22T18:59:06",
+      "timeSeverityChanged": "2023-02-22T18:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-23T11:42:00",
+      "timeRaised": "2023-02-23T11:42:48",
+      "timeSeverityChanged": "2023-02-23T11:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG015",
       "description": "Groundwater flooding in Finchdean, Dean Lane End and Rowlands Castle",
       "eaAreaName": "Solent and South Downs",
@@ -34,6 +76,69 @@
       "timeMessageChanged": "2023-02-22T16:16:00",
       "timeRaised": "2023-02-22T16:17:07",
       "timeSeverityChanged": "2023-02-22T16:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG013",
+      "description": "Groundwater flooding in Hambledon",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013",
+        "county": "Hampshire",
+        "notation": "065FAG013",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "065FAG013",
+      "isTidal": false,
+      "message": "In Hambledon, groundwater levels are high but continue to fall. Since Wednesday 15/02/2023, the level at Whitedale has fallen by 3.87m. We currently do not expect any flood impacts from groundwater to be ongoing. Today (22/02/2023) and tomorrow (23/02/2023), up to 10mm of rain is forecast on each day. The weather from Friday (24/02/2023) to Sunday (26/02/2023) is expected to be mostly dry. Groundwater levels in Hambledon are expected to continue falling throughout this period. We continue to monitor the forecast. If persistent heavy rain returns in March 2023, groundwater levels could rise again and cause further impacts. If this does happen, we will issue further advice.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T16:17:00",
+      "timeRaised": "2023-02-22T16:17:50",
+      "timeSeverityChanged": "2023-02-22T16:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T20:26:00",
+      "timeRaised": "2023-02-22T20:26:19",
+      "timeSeverityChanged": "2023-02-22T20:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.76mAOD at 17:00 on 23/02/2023.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is low for this time of year at 38 cubic metres per second and is steady. We anticipate the flows to remain low for the next five days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 19:00 on 23/02/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-23T07:51:00",
+      "timeRaised": "2023-02-23T07:52:01",
+      "timeSeverityChanged": "2023-02-21T08:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG006",
@@ -57,25 +162,88 @@
       "timeSeverityChanged": "2023-02-22T16:17:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG013",
-      "description": "Groundwater flooding in Hambledon",
-      "eaAreaName": "Solent and South Downs",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013",
-        "county": "Hampshire",
-        "notation": "065FAG013",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG013/polygon",
-        "riverOrSea": "Groundwater"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
       },
-      "floodAreaID": "065FAG013",
-      "isTidal": false,
-      "message": "In Hambledon, groundwater levels are high but continue to fall. Since Wednesday 15/02/2023, the level at Whitedale has fallen by 3.87m. We currently do not expect any flood impacts from groundwater to be ongoing. Today (22/02/2023) and tomorrow (23/02/2023), up to 10mm of rain is forecast on each day. The weather from Friday (24/02/2023) to Sunday (26/02/2023) is expected to be mostly dry. Groundwater levels in Hambledon are expected to continue falling throughout this period. We continue to monitor the forecast. If persistent heavy rain returns in March 2023, groundwater levels could rise again and cause further impacts. If this does happen, we will issue further advice.",
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\n\n",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T16:17:00",
-      "timeRaised": "2023-02-22T16:17:50",
-      "timeSeverityChanged": "2023-02-22T16:17:00"
+      "timeMessageChanged": "2023-02-23T09:24:00",
+      "timeRaised": "2023-02-23T09:24:50",
+      "timeSeverityChanged": "2023-02-23T09:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T20:22:00",
+      "timeRaised": "2023-02-22T20:22:59",
+      "timeSeverityChanged": "2023-02-22T20:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T20:26:00",
+      "timeRaised": "2023-02-22T20:26:11",
+      "timeSeverityChanged": "2023-02-22T20:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-22T20:51:00",
+      "timeRaised": "2023-02-22T20:52:40",
+      "timeSeverityChanged": "2023-02-22T20:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -120,48 +288,6 @@
       "timeSeverityChanged": "2023-02-22T09:38:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-23T09:24:00",
-      "timeRaised": "2023-02-23T09:24:50",
-      "timeSeverityChanged": "2023-02-23T09:24:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
-      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC955",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC955",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T20:26:00",
-      "timeRaised": "2023-02-22T20:26:11",
-      "timeSeverityChanged": "2023-02-22T20:26:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
       "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
       "eaAreaName": "Yorkshire",
@@ -202,27 +328,6 @@
       "timeMessageChanged": "2023-02-22T20:27:00",
       "timeRaised": "2023-02-22T20:27:50",
       "timeSeverityChanged": "2023-02-22T20:27:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T20:51:00",
-      "timeRaised": "2023-02-22T20:52:40",
-      "timeSeverityChanged": "2023-02-22T20:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
@@ -330,27 +435,6 @@
       "timeSeverityChanged": "2023-02-23T08:46:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
-      "description": "North Sea coast at Hornsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
-        "county": "East Riding of Yorkshire",
-        "notation": "122FWC003",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
-        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
-      },
-      "floodAreaID": "122FWC003",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T20:22:00",
-      "timeRaised": "2023-02-22T20:22:59",
-      "timeSeverityChanged": "2023-02-22T20:22:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
       "description": "Wye Estuary in Gloucestershire",
       "eaAreaName": "West Midlands",
@@ -435,27 +519,6 @@
       "timeSeverityChanged": "2023-02-22T18:06:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
-      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
-        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
-        "notation": "063WAT23West",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "063WAT23West",
-      "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.76mAOD at 17:00 on 23/02/2023.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is low for this time of year at 38 cubic metres per second and is steady. We anticipate the flows to remain low for the next five days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 19:00 on 23/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-23T07:51:00",
-      "timeRaised": "2023-02-23T07:52:01",
-      "timeSeverityChanged": "2023-02-21T08:47:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
       "description": "Lune estuary south west of Lancaster",
       "eaAreaName": "Cumbria and Lancashire",
@@ -517,90 +580,6 @@
       "timeMessageChanged": "2023-02-22T15:58:00",
       "timeRaised": "2023-02-22T15:58:32",
       "timeSeverityChanged": "2023-02-22T15:58:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
-        "county": "Somerset",
-        "notation": "112WATSOM1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM1",
-      "isTidal": true,
-      "message": "Sea spray overtopping is forecast along the coast as a result of spring tides and strong winds. Areas most at risk include the coastline between Gore Point and Hurlstone Point including Porlock Weir. The detailed tidal information for those who use it is for a peak level at Hinkley Point. The first forecast high water is at 08:45 PM on 22/02/2023 with a level of 6.51 mAODN with north westerly force 4 winds. The second forecast high water is at 09:00 AM on 23/02/2023 with a level of 6.73 mAODN with north easterly force 5 winds. (mAODN is height above average sea level - for more info refer to local tide tables.) Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Plan driving routes to coastal roads, which may be flooded. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 12:00 PM on 23/02/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-22T12:39:00",
-      "timeRaised": "2023-02-22T12:39:11",
-      "timeSeverityChanged": "2023-02-21T16:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
-      "description": "Somerset coast at Clevedon",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4",
-        "county": "North Somerset",
-        "notation": "112WATSOM4",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM4",
-      "isTidal": true,
-      "message": "Further high tides at this location in this Spring high tide sequence are not forecast to be above the Flood Alert threshold. We will continue to monitor the forecast and re-issue this Flood Alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T11:35:00",
-      "timeRaised": "2023-02-22T11:35:35",
-      "timeSeverityChanged": "2023-02-22T11:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTPOR01",
-      "description": "Somerset coast at Porlock Weir",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01",
-        "county": "Somerset",
-        "notation": "112FWTPOR01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112FWTPOR01",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T12:17:00",
-      "timeRaised": "2023-02-22T12:17:40",
-      "timeSeverityChanged": "2023-02-22T12:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM3",
-      "description": "Somerset coast at Minehead, Bridgwater, Burnham-on-Sea and Uphill to Kingston Seymour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM3",
-        "county": "North Somerset, Somerset",
-        "notation": "112WATSOM3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM3/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "112WATSOM3",
-      "isTidal": true,
-      "message": "Further high tides at this location in this Spring high tide sequence are not forecast to be above the Flood Alert threshold. We will continue to monitor the forecast and re-issue this Flood Alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T12:10:00",
-      "timeRaised": "2023-02-22T12:10:24",
-      "timeSeverityChanged": "2023-02-22T12:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN2",
@@ -729,27 +708,6 @@
       "timeSeverityChanged": "2023-02-22T18:56:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "121WAC922",
-      "isTidal": true,
-      "message": "This Flood Alert has been removed. The risk of flooding from the North Sea has now reduced. There may still be standing water and debris on promenades, footpaths and roads. We continue to monitor the situation.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T18:58:00",
-      "timeRaised": "2023-02-22T18:59:06",
-      "timeSeverityChanged": "2023-02-22T18:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
       "description": "Tidal River Ouse, Don and the Dutch River catchment",
       "eaAreaName": "Yorkshire",
@@ -763,12 +721,12 @@
       },
       "floodAreaID": "123WAT979",
       "isTidal": true,
-      "message": "This flood alert remains in force due to high Spring Tides. High tides are expected until Saturday 25/02/23. We are not expecting to issue any flood warnings but will continue to monitor levels closely.\nPlease stay away from coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 17:30, 23/02/23\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-23T09:34:00",
-      "timeRaised": "2023-02-23T09:34:58",
-      "timeSeverityChanged": "2023-02-22T12:55:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-23T11:57:00",
+      "timeRaised": "2023-02-23T11:57:22",
+      "timeSeverityChanged": "2023-02-23T11:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
@@ -811,27 +769,6 @@
       "timeMessageChanged": "2023-02-23T08:36:00",
       "timeRaised": "2023-02-23T08:36:13",
       "timeSeverityChanged": "2023-02-23T08:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWe do not expect to see similar impacts for tomorrow's high tides.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-22T20:26:00",
-      "timeRaised": "2023-02-22T20:26:19",
-      "timeSeverityChanged": "2023-02-22T20:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC002",
