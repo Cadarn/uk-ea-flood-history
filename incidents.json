@@ -36,25 +36,25 @@
       "timeSeverityChanged": "2023-02-24T13:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
       },
-      "floodAreaID": "121WAC922",
+      "floodAreaID": "054WATBT2",
       "isTidal": true,
-      "message": "This Flood Alert has been removed. The risk of flooding from the North Sea has now reduced. Water levels have started to fall with the tide, but there may still be large waves due to the strong winds. There may also still be standing water and debris on promenades, footpaths and roads. We continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-24T21:12:00",
-      "timeRaised": "2023-02-24T21:12:46",
-      "timeSeverityChanged": "2023-02-24T21:12:00"
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 10pm tonight, Friday 24th February, and for at least the next 24hrs. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. We expect to see high water levels in Brundall and Reedham riverside areas. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 9am tomorrow, Saturday 25th February.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-02-24T15:01:00",
+      "timeRaised": "2023-02-24T15:02:04",
+      "timeSeverityChanged": "2023-02-24T15:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
@@ -71,27 +71,6 @@
       "floodAreaID": "054WATBT3",
       "isTidal": true,
       "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 10pm tonight, Friday 24th February, and for at least the next 24hrs. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. We expect to see high water levels at Beccles Quay. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 9am tomorrow, Saturday 25th February.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-24T15:01:00",
-      "timeRaised": "2023-02-24T15:02:04",
-      "timeSeverityChanged": "2023-02-24T15:01:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 10pm tonight, Friday 24th February, and for at least the next 24hrs. High water levels may last for a few days, until the high tides at Great Yarmouth have passed. We expect to see high water levels in Brundall and Reedham riverside areas. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 9am tomorrow, Saturday 25th February.",
       "severity": "Flood alert",
       "severityLevel": 3,
       "timeMessageChanged": "2023-02-24T15:01:00",
@@ -433,6 +412,27 @@
       "timeMessageChanged": "2023-02-24T21:11:00",
       "timeRaised": "2023-02-24T21:11:29",
       "timeSeverityChanged": "2023-02-24T21:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed. The risk of flooding from the North Sea has now reduced. Water levels have started to fall with the tide, but there may still be large waves due to the strong winds. There may also still be standing water and debris on promenades, footpaths and roads. We continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-24T21:12:00",
+      "timeRaised": "2023-02-24T21:12:46",
+      "timeSeverityChanged": "2023-02-24T21:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
