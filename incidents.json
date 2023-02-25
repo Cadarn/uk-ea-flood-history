@@ -36,25 +36,25 @@
       "timeSeverityChanged": "2023-02-25T09:20:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
       },
-      "floodAreaID": "121WAC922",
+      "floodAreaID": "054WATBT2",
       "isTidal": true,
-      "message": "This Flood Alert has been removed. The risk of flooding from the North Sea has now reduced. Water levels have started to fall with the tide, but there may still be large waves due to the strong winds. There may also still be standing water and debris on promenades, footpaths and roads. We continue to monitor the situation.",
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2023-02-24T21:12:00",
-      "timeRaised": "2023-02-24T21:12:46",
-      "timeSeverityChanged": "2023-02-24T21:12:00"
+      "timeMessageChanged": "2023-02-25T08:31:00",
+      "timeRaised": "2023-02-25T08:31:37",
+      "timeSeverityChanged": "2023-02-25T08:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
@@ -75,27 +75,6 @@
       "severityLevel": 4,
       "timeMessageChanged": "2023-02-25T08:31:00",
       "timeRaised": "2023-02-25T08:31:30",
-      "timeSeverityChanged": "2023-02-25T08:31:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-02-25T08:31:00",
-      "timeRaised": "2023-02-25T08:31:37",
       "timeSeverityChanged": "2023-02-25T08:31:00"
     },
     {
@@ -435,6 +414,27 @@
       "timeSeverityChanged": "2023-02-24T21:11:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "This Flood Alert has been removed. The risk of flooding from the North Sea has now reduced. Water levels have started to fall with the tide, but there may still be large waves due to the strong winds. There may also still be standing water and debris on promenades, footpaths and roads. We continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-24T21:12:00",
+      "timeRaised": "2023-02-24T21:12:46",
+      "timeSeverityChanged": "2023-02-24T21:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
       "description": "Tidal River Ouse, Don and the Dutch River catchment",
       "eaAreaName": "Yorkshire",
@@ -448,12 +448,12 @@
       },
       "floodAreaID": "123WAT979",
       "isTidal": true,
-      "message": "We are expecting high tides at Goole Docks tonight, Friday 24/2/23. The tide will be at its highest between 22:00 and 22:15. High tides are expected until Saturday 25/02/23. We are not expecting to issue any flood warnings but will continue to monitor levels closely. Please stay away from coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 08:40, 25/02/23.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-02-24T20:38:00",
-      "timeRaised": "2023-02-24T20:38:41",
-      "timeSeverityChanged": "2023-02-24T12:13:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-02-25T10:37:00",
+      "timeRaised": "2023-02-25T10:37:34",
+      "timeSeverityChanged": "2023-02-25T10:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
