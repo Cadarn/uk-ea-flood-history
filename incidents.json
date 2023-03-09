@@ -288,6 +288,27 @@
       "timeSeverityChanged": "2023-03-09T12:28:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTMBA",
+      "description": "Mid Bristol Avon area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA",
+        "county": "Bath and North East Somerset, Wiltshire",
+        "notation": "112WAFTMBA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA/polygon",
+        "riverOrSea": "Bristol River Avon"
+      },
+      "floodAreaID": "112WAFTMBA",
+      "isTidal": false,
+      "message": "River levels have risen at the Bradford on Avon gauge at Bradford on Avon  as a result of heavy rainfall and snow melt, with approximately 20mm of rain fallen in the last 48 hours. River levels on the River Avon at Great Somerford, River Avon at Bradford on Avon, River Avon at Bathford and Semington Brook at Semington are rising through this evening (the 09 March 2023). Currently we are not forecasting flood warning thresholds to be met. \n\nThis message will be updated on Friday the 10th March 2023, or as the situation changes.\n\nWe expect flooding to effect low lying land and roads between Melksham and Bathford. The flood gates at Holt Road may be closed.\n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers which may be flooded and refer to local authority website for local road closures. We are closely monitoring the situation.   \n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-09T18:50:00",
+      "timeRaised": "2023-03-09T18:50:24",
+      "timeSeverityChanged": "2023-03-09T18:50:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFRISELEYB",
       "description": "Riseley Brook in Bedford Borough",
       "eaAreaName": "East Anglia",
@@ -496,6 +517,69 @@
       "timeMessageChanged": "2023-03-09T18:32:00",
       "timeRaised": "2023-03-09T18:33:00",
       "timeSeverityChanged": "2023-03-09T18:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1ThamesEst",
+      "description": "Coast from Dartford to Allhallows",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst",
+        "county": "Bexley, Greater London, Kent, Medway",
+        "notation": "064WAT1ThamesEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "064WAT1ThamesEst",
+      "isTidal": true,
+      "message": "A Flood Alert has been issued for the Thames estuary as a result of the high tide expected tomorrow afternoon. The tide will be at its highest between 1:30pm and 3:15pm tomorrow, 10/03/2023. High tide is expected at 2:15pm. The forecast water level at Sheerness is 3.53m AOD. Areas of concern include Royal Pier Road, Gravesend and low lying land nearest the sea such as promenades and coastal footpaths.\nOnce the high tide tomorrow afternoon has passed, conditions are expected to improve from 4pm onwards. \nWe are closely monitoring the situation.  Our incident response staff are operating our defences and structures at Queenborough Barrier and Front Brents and Canal Basin.\nPlease be careful along beaches, promenades, coastal footpaths and roads between, as large waves and sea spray could be dangerous.\nThis message will be updated by 10am tomorrow, 10/02/2023. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-09T18:57:00",
+      "timeRaised": "2023-03-09T18:58:14",
+      "timeSeverityChanged": "2023-03-09T18:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1WhitMar",
+      "description": "Coast from Whitstable to Margate",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar",
+        "county": "Kent",
+        "notation": "064WAC1WhitMar",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "064WAC1WhitMar",
+      "isTidal": true,
+      "message": "A Flood Alert has been issued for the coast from Whitstable to Margate as a result of the high tide expected tomorrow afternoon. The tide will be at its highest between 1:30pm and 3:15pm tomorrow, 10/03/2023. High tide is expected at 2:15pm. The forecast water level at Sheerness is 3.53m AOD. Areas of concern include Seasalter and low lying land nearest the sea such as promenades and coastal footpaths.\nOnce the high tide tomorrow afternoon has passed, conditions are expected to improve from 4pm onwards. \nWe are closely monitoring the situation.  Our incident response staff are operating our defences and structures at Queenborough Barrier and Front Brents and Canal Basin.\nPlease be careful along beaches, promenades, coastal footpaths and roads between, as large waves and sea spray could be dangerous.\nThis message will be updated by 10am tomorrow, 10/02/2023. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-09T18:52:00",
+      "timeRaised": "2023-03-09T18:52:24",
+      "timeSeverityChanged": "2023-03-09T18:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1MedEst",
+      "description": "Tidal Medway, Medway estuary and Isle of Grain",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst",
+        "county": "Kent, Medway",
+        "notation": "064WAT1MedEst",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst/polygon",
+        "riverOrSea": "River Medway"
+      },
+      "floodAreaID": "064WAT1MedEst",
+      "isTidal": true,
+      "message": "A Flood Alert has been issued for the Medway estuary as a result of the high tide expected tomorrow afternoon. The tide will be at its highest between 1:30pm and 3:15pm tomorrow, 10/03/2023. High tide is expected at 2:15pm. The forecast water level at Sheerness is 3.53m AOD. Areas of concern include Upnor and Canal Road, Strood, and low lying land nearest the sea such as promenades and coastal footpaths.\nOnce the high tide tomorrow afternoon has passed, conditions are expected to improve from 4pm onwards. \nWe are closely monitoring the situation.  Our incident response staff are operating our defences and structures at Queenborough Barrier and Front Brents and Canal Basin.\nPlease be careful along beaches, promenades, coastal footpaths and roads between, as large waves and sea spray could be dangerous.\nThis message will be updated by 10am tomorrow, 10/02/2023. \n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-09T18:40:00",
+      "timeRaised": "2023-03-09T18:40:27",
+      "timeSeverityChanged": "2023-03-09T18:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC162",
