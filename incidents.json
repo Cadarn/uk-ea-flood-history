@@ -112,11 +112,11 @@
       },
       "floodAreaID": "034WAF408",
       "isTidal": false,
-      "message": " River levels have risen at the Ashford river gauge as a result of rainfall and snowmelt.  Consequently, flooding of roads and farmland is expected from 17:00 today, 13/03/23.  Areas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas.   \n  We expect river levels to remain high until tomorrow morning, 14/03/23.\nWe are closely monitoring the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water.  \nThis message will be updated by 10:00 tomorrow morning, 14/03/23, or as the situation changes.\n",
+      "message": "A flood alert has been issued. River levels are high but steady at the Ashford river gauge as a result of rainfall and snowmelt. Consequently, flooding of roads and farmland is expected to continue today, 14/03/23. Areas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas. We expect river levels to remain high until later today, 14/03/23. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. This message will be updated by 15:00 today, 14/03/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-03-13T14:07:00",
-      "timeRaised": "2023-03-13T14:07:34",
+      "timeMessageChanged": "2023-03-14T10:12:00",
+      "timeRaised": "2023-03-14T10:12:26",
       "timeSeverityChanged": "2023-03-13T14:07:00"
     },
     {
@@ -175,11 +175,11 @@
       },
       "floodAreaID": "034WAF428",
       "isTidal": false,
-      "message": " River levels remain high but are beginning to fall at the Pillings Lock river gauge as a result of heavy rainfall. Flooding continues. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. River levels are falling, but still pose a flood risk. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 10:00 tomorrow morning, 14/03/2023, or as the situation changes.",
+      "message": " River levels remain high but steady at the Pillings Lock river gauge as a result of heavy rainfall. Flooding continues. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road. Flooding continues. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 17:00 this afternoon, 14/03/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-03-13T17:16:00",
-      "timeRaised": "2023-03-13T17:16:54",
+      "timeMessageChanged": "2023-03-14T10:14:00",
+      "timeRaised": "2023-03-14T10:14:32",
       "timeSeverityChanged": "2023-03-10T08:45:00"
     },
     {
@@ -414,6 +414,27 @@
       "timeSeverityChanged": "2023-03-09T10:26:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 2pm today, Tuesday 14th March, and over the following hours. Water levels are expected to continue to rise gradually over the next few hours, in response to incoming tidal waters. We expect to see high water levels in Brundall and Reedham riverside areas. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths and don't put yourself in unnecessary danger. We are monitoring the situation and  will update this message by 5pm today, Tuesday 14th March.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-14T09:12:00",
+      "timeRaised": "2023-03-14T09:12:36",
+      "timeSeverityChanged": "2023-03-14T09:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
       "description": "Lower River Eden",
       "eaAreaName": "Cumbria and Lancashire",
@@ -433,27 +454,6 @@
       "timeMessageChanged": "2023-03-14T09:03:00",
       "timeRaised": "2023-03-14T09:03:28",
       "timeSeverityChanged": "2023-03-14T09:03:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF941",
-      "description": "Upper River Nidd catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF941",
-        "county": "North Yorkshire",
-        "notation": "122WAF941",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF941/polygon",
-        "riverOrSea": "River Nidd"
-      },
-      "floodAreaID": "122WAF941",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. No further rainfall is forecast until later this week. We will continue to monitor levels. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-14T09:44:00",
-      "timeRaised": "2023-03-14T09:44:51",
-      "timeSeverityChanged": "2023-03-14T09:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
@@ -498,6 +498,27 @@
       "timeSeverityChanged": "2023-03-14T08:31:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
+      "description": "Upper River Derwent",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAF949",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
+        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
+      },
+      "floodAreaID": "122WAF949",
+      "isTidal": false,
+      "message": "River levels have risen on the River Derwent due to snowmelt and rainfall overnight on Monday. Flooding is forecast to affect locations near the River Derwent, with low lying land expected to be most affected, particularly around the Upper Derwent and Scarborough areas, including land around the Sea Cut at Scalby, Throxenby Beck, Old Malton, and Priorpot Beck in Norton.\nNo further rainfall is forecast on Tuesday. We will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 4 PM on 14/03/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-14T10:08:00",
+      "timeRaised": "2023-03-14T10:08:38",
+      "timeSeverityChanged": "2023-03-14T10:08:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
       "description": "Rivers Duddon, Crake and Mill Beck",
       "eaAreaName": "Cumbria and Lancashire",
@@ -538,6 +559,27 @@
       "timeMessageChanged": "2023-03-14T09:57:00",
       "timeRaised": "2023-03-14T09:57:54",
       "timeSeverityChanged": "2023-03-13T20:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "River levels are high on the River Seven due to snowmelt. Areas most at risk include land around the River Seven and it's tributaries including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, including properties in Sinnington and to the east of Normanby. Levels have peaked and are currently forecast to fall today, 14/03/2023. We will continue to monitor the forecast. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 3 PM on 14/03/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-14T08:14:00",
+      "timeRaised": "2023-03-14T08:14:13",
+      "timeSeverityChanged": "2023-03-13T16:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF209",
@@ -685,6 +727,27 @@
       "timeMessageChanged": "2023-03-14T09:02:00",
       "timeRaised": "2023-03-14T09:02:42",
       "timeSeverityChanged": "2023-03-14T09:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
+      "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01",
+        "county": "Cambridgeshire, Peterborough",
+        "notation": "055FWFPNBR01",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01/polygon",
+        "riverOrSea": "River Nene"
+      },
+      "floodAreaID": "055FWFPNBR01",
+      "isTidal": false,
+      "message": "River Nene river levels have remained high since the heavy rain and snow last week. During periods of high tide, the River Nene will be unable to discharge into the sea, resulting in tide lock conditions. This is likely to lead to localised flooding of the North Bank Road, between Peterborough and Rings End. Whilst this Flood Warning is in force, the Local Authority will close North Bank Road. Diversionary routes will be put in place and further updates will be available through local media. We are operating the Whittlesey washlands to help manage the situation. Although some further rainfall is expected over the next 24 hours, river levels are expected to recede slowly. This Flood Warning is expected to remain in place whilst river and tide levels remain high. Please avoid using low lying footpaths and roads near rivers, which may be flooded. We are closely monitoring the situation and this message will be updated by 19:00 on 14/03/23, or before, if the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-03-14T08:11:00",
+      "timeRaised": "2023-03-14T08:12:05",
+      "timeSeverityChanged": "2023-03-10T17:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
@@ -868,54 +931,12 @@
       },
       "floodAreaID": "112WAFTSES",
       "isTidal": false,
-      "message": "River levels are high but steady on the River Yeo, River Cam, River Wriggle due to rainfall.\nAreas most at risk include the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole.. No property flooding is expected.\nFlooding is possible at the Sparkford to Weston Bampfylde road and Deep Ford Lane, Chetnole. from 12:00 noon on 13/03/2023.\nFurther rainfall is forecast throughout the afternoon and the river level may rise in response to the rain, so the risk of flooding to roads remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 11:00 AM on 14/03/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-13T10:31:00",
-      "timeRaised": "2023-03-13T10:32:14",
-      "timeSeverityChanged": "2023-03-09T10:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
-      "description": "River Frome in Herefordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118",
-        "county": "Herefordshire",
-        "notation": "031WAF118",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118/polygon",
-        "riverOrSea": "River Frome"
-      },
-      "floodAreaID": "031WAF118",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed.  \nRiver levels are falling, but still pose a flood risk.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Further rainfall is forecast over the next XX hours.  \nWe continue to monitor the situation.  Our incident response staff are .  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  ",
+      "message": "River levels have fallen and are now stable at the Sherborne Lake river gauge. Light showers are forecast throughout the next 24 hours. We will continue to monitor the situation closely and will re-issue this alert if necessary.  Our incident response staff are checking the condition of defences and clearing debris from weed screens.  Please see the GOV.UK website for a 5 day flood forecast.   ",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2023-03-14T09:36:00",
-      "timeRaised": "2023-03-14T09:37:03",
-      "timeSeverityChanged": "2023-03-14T09:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC048",
-      "description": "North Sea at Scarborough - Foreshore Road",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048",
-        "county": "North Yorkshire",
-        "notation": "122FWC048",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122FWC048",
-      "isTidal": true,
-      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-13T21:05:00",
-      "timeRaised": "2023-03-13T21:06:07",
-      "timeSeverityChanged": "2023-03-13T21:05:00"
+      "timeMessageChanged": "2023-03-14T10:02:00",
+      "timeRaised": "2023-03-14T10:03:15",
+      "timeSeverityChanged": "2023-03-14T10:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFHFW",
@@ -952,33 +973,12 @@
       },
       "floodAreaID": "034WAF414",
       "isTidal": false,
-      "message": " River levels have risen at the Shardlow and Willington river gauges as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected.  Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane, and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane.   \nFurther rainfall is forecast over the next 12 hours.  We expect river levels to remain high until at least Thursday, 16/03/23.\nWe are closely monitoring the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water.  \nThis message will be updated by 10:00 tomorrow, 14/03/23, or as the situation changes.\n",
+      "message": "A flood alert has been issued. River levels have risen at the Shardlow and Willington river gauges as a result of heavy rainfall. Consequently, flooding of roads and farmland is expected to continue, 14/03/23. Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane, and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane. We expect river levels to remain high until at least Thursday, 16/03/23. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. This message will be updated by 22:00 today, 14/03/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-03-13T16:38:00",
-      "timeRaised": "2023-03-13T16:38:55",
+      "timeMessageChanged": "2023-03-14T10:04:00",
+      "timeRaised": "2023-03-14T10:04:20",
       "timeSeverityChanged": "2023-03-12T16:17:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
-      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
-        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
-        "notation": "033WAF330",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
-        "riverOrSea": "River Stour, Smestow Brook"
-      },
-      "floodAreaID": "033WAF330",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-14T07:14:00",
-      "timeRaised": "2023-03-14T07:14:54",
-      "timeSeverityChanged": "2023-03-14T07:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
@@ -1191,27 +1191,6 @@
       "timeSeverityChanged": "2023-03-14T07:37:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF105",
-      "description": "Rea Brook and Cound Brook",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF105",
-        "county": "Shropshire",
-        "notation": "031WAF105",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF105/polygon",
-        "riverOrSea": "Rea Brook, Cound Brook"
-      },
-      "floodAreaID": "031WAF105",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary.  Further rainfall is forecast over the next 48 hours.  \nWe continue to monitor the situation.  \nPlease avoid contact with flood water.  \n ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-13T17:53:00",
-      "timeRaised": "2023-03-13T17:54:01",
-      "timeSeverityChanged": "2023-03-13T17:53:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF723",
       "description": "River Ouse at Naburn Lock",
       "eaAreaName": "Yorkshire",
@@ -1401,69 +1380,6 @@
       "timeSeverityChanged": "2023-03-10T08:05:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
-      },
-      "floodAreaID": "122WAF980",
-      "isTidal": false,
-      "message": "River levels are high on the River Seven due to snowmelt. Areas most at risk include land around the River Seven and it's tributaries including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, including properties in Sinnington and to the east of Normanby. Levels have peaked and are currently forecast to fall today, 14/03/2023. We will continue to monitor the forecast. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 3 PM on 14/03/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-14T08:14:00",
-      "timeRaised": "2023-03-14T08:14:13",
-      "timeSeverityChanged": "2023-03-13T16:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFRISELEYB",
-      "description": "Riseley Brook in Bedford Borough",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFRISELEYB",
-        "county": "Bedford, Cambridgeshire",
-        "notation": "052WAFRISELEYB",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFRISELEYB/polygon",
-        "riverOrSea": "Riseley Brook"
-      },
-      "floodAreaID": "052WAFRISELEYB",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. Further rainfall is forecast over the next 24 hours.\n\nWe continue to monitor the situation. Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-14T09:38:00",
-      "timeRaised": "2023-03-14T09:38:30",
-      "timeSeverityChanged": "2023-03-14T09:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
-      "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01",
-        "county": "Cambridgeshire, Peterborough",
-        "notation": "055FWFPNBR01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01/polygon",
-        "riverOrSea": "River Nene"
-      },
-      "floodAreaID": "055FWFPNBR01",
-      "isTidal": false,
-      "message": "River Nene river levels have remained high since the heavy rain and snow last week. During periods of high tide, the River Nene will be unable to discharge into the sea, resulting in tide lock conditions. This is likely to lead to localised flooding of the North Bank Road, between Peterborough and Rings End. Whilst this Flood Warning is in force, the Local Authority will close North Bank Road. Diversionary routes will be put in place and further updates will be available through local media. We are operating the Whittlesey washlands to help manage the situation. Although some further rainfall is expected over the next 24 hours, river levels are expected to recede slowly. This Flood Warning is expected to remain in place whilst river and tide levels remain high. Please avoid using low lying footpaths and roads near rivers, which may be flooded. We are closely monitoring the situation and this message will be updated by 19:00 on 14/03/23, or before, if the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-03-14T08:11:00",
-      "timeRaised": "2023-03-14T08:12:05",
-      "timeSeverityChanged": "2023-03-10T17:08:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOWB",
       "description": "River Great Ouse in Central Bedfordshire, Beds Borough and Cambridgeshire from Wyboston to Brampton",
       "eaAreaName": "East Anglia",
@@ -1485,25 +1401,25 @@
       "timeSeverityChanged": "2023-03-10T16:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFRISELEYB",
+      "description": "Riseley Brook in Bedford Borough",
       "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFRISELEYB",
+        "county": "Bedford, Cambridgeshire",
+        "notation": "052WAFRISELEYB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFRISELEYB/polygon",
+        "riverOrSea": "Riseley Brook"
       },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 2pm today, Tuesday 14th March, and over the following hours. Water levels are expected to continue to rise gradually over the next few hours, in response to incoming tidal waters. We expect to see high water levels in Brundall and Reedham riverside areas. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths and don't put yourself in unnecessary danger. We are monitoring the situation and  will update this message by 5pm today, Tuesday 14th March.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-14T09:12:00",
-      "timeRaised": "2023-03-14T09:12:36",
-      "timeSeverityChanged": "2023-03-14T09:12:00"
+      "floodAreaID": "052WAFRISELEYB",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. Further rainfall is forecast over the next 24 hours.\n\nWe continue to monitor the situation. Our incident response staff are checking the condition of defences.  \nPlease avoid contact with flood water.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-14T09:38:00",
+      "timeRaised": "2023-03-14T09:38:30",
+      "timeSeverityChanged": "2023-03-14T09:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACECD",
@@ -1716,6 +1632,48 @@
       "timeSeverityChanged": "2023-03-13T18:14:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF105",
+      "description": "Rea Brook and Cound Brook",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF105",
+        "county": "Shropshire",
+        "notation": "031WAF105",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF105/polygon",
+        "riverOrSea": "Rea Brook, Cound Brook"
+      },
+      "floodAreaID": "031WAF105",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary.  Further rainfall is forecast over the next 48 hours.  \nWe continue to monitor the situation.  \nPlease avoid contact with flood water.  \n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-13T17:53:00",
+      "timeRaised": "2023-03-13T17:54:01",
+      "timeSeverityChanged": "2023-03-13T17:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
+      "description": "River Frome in Herefordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118",
+        "county": "Herefordshire",
+        "notation": "031WAF118",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF118/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "031WAF118",
+      "isTidal": false,
+      "message": " This Flood Alert has been removed.  \nRiver levels are falling, but still pose a flood risk.  We will continue to monitor the forecast and re-issue this alert/warning if necessary.  Further rainfall is forecast over the next XX hours.  \nWe continue to monitor the situation.  Our incident response staff are .  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-14T09:36:00",
+      "timeRaised": "2023-03-14T09:37:03",
+      "timeSeverityChanged": "2023-03-14T09:36:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF924",
       "description": "Upper River Tees",
       "eaAreaName": "North East",
@@ -1758,26 +1716,6 @@
       "timeSeverityChanged": "2023-03-13T12:45:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3BOURN",
-      "description": "The Bourn at Bournville",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3BOURN",
-        "county": "Birmingham",
-        "notation": "033FWF3BOURN",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3BOURN/polygon"
-      },
-      "floodAreaID": "033FWF3BOURN",
-      "isTidal": false,
-      "message": " This Flood Warning has been removed.\nRiver levels have peaked and fallen quickly below the flood risk threshold.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.  Further rainfall is forecast over the next 24 hours.  \nWe continue to monitor the situation.  Our incident response staff are actively monitoring river levels and the weather forecast.\nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and avoid using low lying footpaths and bridges near local watercourses.\nStay aware in case further warnings are issued.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-13T10:31:00",
-      "timeRaised": "2023-03-13T10:31:24",
-      "timeSeverityChanged": "2023-03-13T10:31:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
       "description": "River Rea",
       "eaAreaName": "West Midlands",
@@ -1797,6 +1735,27 @@
       "timeMessageChanged": "2023-03-13T12:18:00",
       "timeRaised": "2023-03-13T12:18:37",
       "timeSeverityChanged": "2023-03-13T12:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-14T07:14:00",
+      "timeRaised": "2023-03-14T07:14:54",
+      "timeSeverityChanged": "2023-03-14T07:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3ILLEY",
@@ -1859,6 +1818,48 @@
       "timeMessageChanged": "2023-03-14T09:11:00",
       "timeRaised": "2023-03-14T09:11:29",
       "timeSeverityChanged": "2023-03-14T09:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF941",
+      "description": "Upper River Nidd catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF941",
+        "county": "North Yorkshire",
+        "notation": "122WAF941",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF941/polygon",
+        "riverOrSea": "River Nidd"
+      },
+      "floodAreaID": "122WAF941",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. No further rainfall is forecast until later this week. We will continue to monitor levels. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-14T09:44:00",
+      "timeRaised": "2023-03-14T09:44:51",
+      "timeSeverityChanged": "2023-03-14T09:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC048",
+      "description": "North Sea at Scarborough - Foreshore Road",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048",
+        "county": "North Yorkshire",
+        "notation": "122FWC048",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC048",
+      "isTidal": true,
+      "message": "The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-13T21:05:00",
+      "timeRaised": "2023-03-13T21:06:07",
+      "timeSeverityChanged": "2023-03-13T21:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMM",
