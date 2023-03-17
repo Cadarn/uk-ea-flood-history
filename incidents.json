@@ -225,27 +225,6 @@
       "timeSeverityChanged": "2023-03-12T11:54:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
-      "description": "Upper River Derwent",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
-        "county": "East Riding of Yorkshire, North Yorkshire",
-        "notation": "122WAF949",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
-        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
-      },
-      "floodAreaID": "122WAF949",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-17T11:36:00",
-      "timeRaised": "2023-03-17T11:36:32",
-      "timeSeverityChanged": "2023-03-17T11:36:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDU",
       "description": "Rivers Duddon, Crake and Mill Beck",
       "eaAreaName": "Cumbria and Lancashire",
@@ -540,27 +519,6 @@
       "timeSeverityChanged": "2023-03-16T00:14:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF131TLN",
-      "description": "Lower Nene",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF131TLN",
-        "county": "Cambridgeshire, Peterborough",
-        "notation": "055WAF131TLN",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF131TLN/polygon",
-        "riverOrSea": "River Nene"
-      },
-      "floodAreaID": "055WAF131TLN",
-      "isTidal": false,
-      "message": "We have seen heavy rainfall and snow melt in the River Nene area. This means that the River Nene has risen, which has led to flooding of low-lying land and roads close to the river. We expect the river to remain high over the next few days and flooding to gardens, driveways or out buildings is possible close to the river. We are constantly monitoring river levels. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-16T16:30:00",
-      "timeRaised": "2023-03-16T16:31:07",
-      "timeSeverityChanged": "2023-03-10T16:39:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
       "description": "Rivers Ehen, Calder, Irt and Esk",
       "eaAreaName": "Cumbria and Lancashire",
@@ -580,6 +538,48 @@
       "timeMessageChanged": "2023-03-17T09:07:00",
       "timeRaised": "2023-03-17T09:07:43",
       "timeSeverityChanged": "2023-03-17T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
+      "description": "Upper River Derwent",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAF949",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF949/polygon",
+        "riverOrSea": "River Derwent, Sea Cut, River Hertford, Burniston Beck"
+      },
+      "floodAreaID": "122WAF949",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-03-17T11:36:00",
+      "timeRaised": "2023-03-17T11:36:32",
+      "timeSeverityChanged": "2023-03-17T11:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF131TLN",
+      "description": "Lower Nene",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF131TLN",
+        "county": "Cambridgeshire, Peterborough",
+        "notation": "055WAF131TLN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF131TLN/polygon",
+        "riverOrSea": "River Nene"
+      },
+      "floodAreaID": "055WAF131TLN",
+      "isTidal": false,
+      "message": "We have seen heavy rainfall and snow melt in the River Nene area. This means that the River Nene has risen, which has led to flooding of low-lying land and roads close to the river. We expect the river to remain high over the next few days and flooding to gardens, driveways or out buildings is possible close to the river. We are constantly monitoring river levels. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-16T16:30:00",
+      "timeRaised": "2023-03-16T16:31:07",
+      "timeSeverityChanged": "2023-03-10T16:39:00"
     }
   ]
 }
