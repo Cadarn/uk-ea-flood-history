@@ -267,6 +267,27 @@
       "timeSeverityChanged": "2023-03-20T09:44:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.60 mAOD at 14:45 on 21/03/23.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is normal for this time of year at 85 cubic metres per second and is steady. We anticipate the flows to remain normal for the next 3 days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 20:00 on 21/03/23, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-21T09:15:00",
+      "timeRaised": "2023-03-21T09:15:29",
+      "timeSeverityChanged": "2023-03-21T09:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
       "description": "Humber estuary from Spurn Point to Winestead Outfall",
       "eaAreaName": "Yorkshire",
@@ -475,27 +496,6 @@
       "timeMessageChanged": "2023-03-18T13:33:00",
       "timeRaised": "2023-03-18T13:33:23",
       "timeSeverityChanged": "2023-03-18T13:33:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF4AC",
-      "description": "The Rivers Deben and Lark",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF4AC",
-        "county": "Suffolk",
-        "notation": "054WAFSF4AC",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF4AC/polygon",
-        "riverOrSea": "River Deben, River Lark"
-      },
-      "floodAreaID": "054WAFSF4AC",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-20T09:13:00",
-      "timeRaised": "2023-03-20T09:13:31",
-      "timeSeverityChanged": "2023-03-20T09:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF131TLN",
