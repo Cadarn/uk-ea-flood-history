@@ -343,12 +343,12 @@
       },
       "floodAreaID": "063WAT23West",
       "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-03-21T17:30:00",
-      "timeRaised": "2023-03-21T17:31:05",
-      "timeSeverityChanged": "2023-03-21T17:30:00"
+      "message": "Flooding is possible in this area. \n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\nThe Environment Agency Flood Warning System has issued this message based on rising river or tidal levels. \n\nWe are temporarily automating our messages due to industrial action.  ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T17:41:00",
+      "timeRaised": "2023-03-22T17:41:23",
+      "timeSeverityChanged": "2023-03-22T17:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
@@ -1945,6 +1945,27 @@
       "timeMessageChanged": "2023-03-22T12:12:00",
       "timeRaised": "2023-03-22T12:12:56",
       "timeSeverityChanged": "2023-03-22T12:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WACFB",
+      "description": "Coast from Fleetwood to Blackpool",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACFB",
+        "county": "Blackpool, Lancashire",
+        "notation": "012WACFB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WACFB/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "012WACFB",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T17:20:00",
+      "timeRaised": "2023-03-22T17:20:37",
+      "timeSeverityChanged": "2023-03-22T17:20:00"
     }
   ]
 }
