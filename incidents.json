@@ -78,6 +78,27 @@
       "timeSeverityChanged": "2023-03-20T21:32:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
+      "description": "Climping Seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
+        "county": "West Sussex",
+        "notation": "065WAC404",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC404",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-21T11:19:00",
+      "timeRaised": "2023-03-21T11:19:48",
+      "timeSeverityChanged": "2023-03-21T11:19:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
       "description": "Lower River Soar in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -204,27 +225,6 @@
       "timeSeverityChanged": "2023-03-21T12:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
-      "description": "Coast from Silloth to St Bees",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2",
-        "county": "Cumbria",
-        "notation": "011WACN2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2/polygon",
-        "riverOrSea": "Irish Sea"
-      },
-      "floodAreaID": "011WACN2",
-      "isTidal": true,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-21T17:18:00",
-      "timeRaised": "2023-03-21T17:18:29",
-      "timeSeverityChanged": "2023-03-21T17:18:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFHFW",
       "description": "Hundred Foot Washes in Cambridgeshire and Norfolk",
       "eaAreaName": "East Anglia",
@@ -244,6 +244,27 @@
       "timeMessageChanged": "2023-03-17T08:09:00",
       "timeRaised": "2023-03-17T08:09:19",
       "timeSeverityChanged": "2023-03-11T07:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-21T15:19:00",
+      "timeRaised": "2023-03-21T15:20:13",
+      "timeSeverityChanged": "2023-03-21T15:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
@@ -286,6 +307,69 @@
       "timeMessageChanged": "2023-03-21T18:53:00",
       "timeRaised": "2023-03-21T18:53:26",
       "timeSeverityChanged": "2023-03-21T18:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumbria",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T00:10:00",
+      "timeRaised": "2023-03-22T00:10:32",
+      "timeSeverityChanged": "2023-03-22T00:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
+      "description": "Coast from Silloth to St Bees",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2",
+        "county": "Cumbria",
+        "notation": "011WACN2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN2",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-21T17:18:00",
+      "timeRaised": "2023-03-21T17:18:29",
+      "timeSeverityChanged": "2023-03-21T17:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF424",
+      "description": "Lower Arun",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF424",
+        "county": "West Sussex",
+        "notation": "065WAF424",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF424/polygon",
+        "riverOrSea": "Arun"
+      },
+      "floodAreaID": "065WAF424",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T12:09:00",
+      "timeRaised": "2023-03-22T12:09:57",
+      "timeSeverityChanged": "2023-03-22T12:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -981,25 +1065,25 @@
       "timeSeverityChanged": "2023-03-21T15:22:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
-      "description": "Tyne and Wear coast",
-      "eaAreaName": "North East",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC162",
+      "description": "Langstone to Emsworth Harbour",
+      "eaAreaName": "Solent and South Downs",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
-        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
-        "notation": "121WAC922",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
-        "riverOrSea": "North Sea"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC162",
+        "county": "Hampshire, West Sussex",
+        "notation": "065WAC162",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC162/polygon",
+        "riverOrSea": "Langstone Harbour, Emsworth Harbour"
       },
-      "floodAreaID": "121WAC922",
+      "floodAreaID": "065WAC162",
       "isTidal": true,
       "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-03-21T15:19:00",
-      "timeRaised": "2023-03-21T15:20:13",
-      "timeSeverityChanged": "2023-03-21T15:19:00"
+      "timeMessageChanged": "2023-03-22T12:08:00",
+      "timeRaised": "2023-03-22T12:08:57",
+      "timeSeverityChanged": "2023-03-22T12:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
@@ -1023,25 +1107,25 @@
       "timeSeverityChanged": "2023-03-21T23:38:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
-      "description": "Climping Seafront",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC401",
+      "description": "Thorney Island to Bracklesham",
       "eaAreaName": "Solent and South Downs",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC401",
         "county": "West Sussex",
-        "notation": "065WAC404",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
-        "riverOrSea": "English Channel"
+        "notation": "065WAC401",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC401/polygon",
+        "riverOrSea": "Chichester Harbour"
       },
-      "floodAreaID": "065WAC404",
+      "floodAreaID": "065WAC401",
       "isTidal": true,
       "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-03-21T11:19:00",
-      "timeRaised": "2023-03-21T11:19:48",
-      "timeSeverityChanged": "2023-03-21T11:19:00"
+      "timeMessageChanged": "2023-03-22T12:17:00",
+      "timeRaised": "2023-03-22T12:17:57",
+      "timeSeverityChanged": "2023-03-22T12:17:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATPOOH",
@@ -1084,27 +1168,6 @@
       "timeMessageChanged": "2023-03-21T18:58:00",
       "timeRaised": "2023-03-21T18:59:07",
       "timeSeverityChanged": "2023-03-21T18:58:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
-      "description": "Rivers Ehen, Calder, Irt and Esk",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
-        "county": "Cumbria",
-        "notation": "011WAFED",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
-        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
-      },
-      "floodAreaID": "011WAFED",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-22T00:10:00",
-      "timeRaised": "2023-03-22T00:10:32",
-      "timeSeverityChanged": "2023-03-22T00:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWCN6B",
@@ -1756,6 +1819,174 @@
       "timeMessageChanged": "2023-03-22T06:44:00",
       "timeRaised": "2023-03-22T06:45:04",
       "timeSeverityChanged": "2023-03-22T06:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC1901",
+      "description": "Bosham and West Itchenor",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1901",
+        "county": "West Sussex",
+        "notation": "065FWC1901",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC1901/polygon",
+        "riverOrSea": "Chichester Harbour"
+      },
+      "floodAreaID": "065FWC1901",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-03-22T11:59:00",
+      "timeRaised": "2023-03-22T11:59:30",
+      "timeSeverityChanged": "2023-03-22T11:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC417",
+      "description": "Coastal areas of Pevensey seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC417",
+        "county": "East Sussex",
+        "notation": "065WAC417",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC417/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC417",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T12:01:00",
+      "timeRaised": "2023-03-22T12:01:57",
+      "timeSeverityChanged": "2023-03-22T12:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC3302",
+      "description": "Seaford Town",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC3302",
+        "county": "East Sussex",
+        "notation": "065FWC3302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC3302/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065FWC3302",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-03-22T12:12:00",
+      "timeRaised": "2023-03-22T12:12:29",
+      "timeSeverityChanged": "2023-03-22T12:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
+      "description": "Fareham to Portchester",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160",
+        "county": "Hampshire, Portsmouth",
+        "notation": "065WAC160",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160/polygon",
+        "riverOrSea": "Portsmouth Harbour"
+      },
+      "floodAreaID": "065WAC160",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T12:03:00",
+      "timeRaised": "2023-03-22T12:04:08",
+      "timeSeverityChanged": "2023-03-22T12:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWC3301",
+      "description": "Seaford seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC3301",
+        "county": "East Sussex",
+        "notation": "065FWC3301",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWC3301/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065FWC3301",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-03-22T12:15:00",
+      "timeRaised": "2023-03-22T12:15:29",
+      "timeSeverityChanged": "2023-03-22T12:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC150",
+      "description": "Milford on Sea to Lymington",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC150",
+        "county": "Hampshire",
+        "notation": "065WAC150",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC150/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065WAC150",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T12:05:00",
+      "timeRaised": "2023-03-22T12:05:55",
+      "timeSeverityChanged": "2023-03-22T12:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC158",
+      "description": "Portsmouth",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC158",
+        "county": "Portsmouth",
+        "notation": "065WAC158",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC158/polygon",
+        "riverOrSea": "The Solent, Portsmouth Harbour, Langstone Harbour"
+      },
+      "floodAreaID": "065WAC158",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-22T12:13:00",
+      "timeRaised": "2023-03-22T12:13:39",
+      "timeSeverityChanged": "2023-03-22T12:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWB0102",
+      "description": "Beaulieu",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWB0102",
+        "county": "Hampshire",
+        "notation": "065FWB0102",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWB0102/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065FWB0102",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-03-22T12:12:00",
+      "timeRaised": "2023-03-22T12:12:56",
+      "timeSeverityChanged": "2023-03-22T12:12:00"
     }
   ]
 }
