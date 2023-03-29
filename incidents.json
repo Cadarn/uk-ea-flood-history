@@ -57,48 +57,6 @@
       "timeSeverityChanged": "2023-03-29T14:17:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
-      "description": "River Yealm",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00",
-        "county": "Devon, Plymouth",
-        "notation": "114WAFT1W13A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00/polygon",
-        "riverOrSea": "River Yealm"
-      },
-      "floodAreaID": "114WAFT1W13A00",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-29T18:59:00",
-      "timeRaised": "2023-03-29T18:59:56",
-      "timeSeverityChanged": "2023-03-29T18:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW15",
-      "description": "South Devon Rivers",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15",
-        "county": "Devon",
-        "notation": "113WABTW15",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15/polygon",
-        "riverOrSea": "River Avon, River Erme, River Harbourne"
-      },
-      "floodAreaID": "113WABTW15",
-      "isTidal": false,
-      "message": " Flooding is possible in this area.   \n \nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. \n \nEnvironment Agency Flood Warning Officers have set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-29T19:03:00",
-      "timeRaised": "2023-03-29T19:03:19",
-      "timeSeverityChanged": "2023-03-29T19:03:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -351,27 +309,6 @@
       "timeSeverityChanged": "2023-03-24T15:36:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
-      "description": "River Plym and Tory Brook",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00",
-        "county": "Devon, Plymouth",
-        "notation": "114WAFT1W12A00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00/polygon",
-        "riverOrSea": "River Plym, Tory Brook, Long Brook"
-      },
-      "floodAreaID": "114WAFT1W12A00",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-03-29T19:19:00",
-      "timeRaised": "2023-03-29T19:19:27",
-      "timeSeverityChanged": "2023-03-29T19:19:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFHFW",
       "description": "Hundred Foot Washes in Cambridgeshire and Norfolk",
       "eaAreaName": "East Anglia",
@@ -475,6 +412,69 @@
       "timeMessageChanged": "2023-03-29T10:00:00",
       "timeRaised": "2023-03-29T10:00:10",
       "timeSeverityChanged": "2023-03-29T10:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW15",
+      "description": "South Devon Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15",
+        "county": "Devon",
+        "notation": "113WABTW15",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW15/polygon",
+        "riverOrSea": "River Avon, River Erme, River Harbourne"
+      },
+      "floodAreaID": "113WABTW15",
+      "isTidal": false,
+      "message": " Flooding is possible in this area.   \n \nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. \n \nEnvironment Agency Flood Warning Officers have set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-29T19:03:00",
+      "timeRaised": "2023-03-29T19:03:19",
+      "timeSeverityChanged": "2023-03-29T19:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W12A00",
+      "description": "River Plym and Tory Brook",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00",
+        "county": "Devon, Plymouth",
+        "notation": "114WAFT1W12A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W12A00/polygon",
+        "riverOrSea": "River Plym, Tory Brook, Long Brook"
+      },
+      "floodAreaID": "114WAFT1W12A00",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-29T19:19:00",
+      "timeRaised": "2023-03-29T19:19:27",
+      "timeSeverityChanged": "2023-03-29T19:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W13A00",
+      "description": "River Yealm",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00",
+        "county": "Devon, Plymouth",
+        "notation": "114WAFT1W13A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W13A00/polygon",
+        "riverOrSea": "River Yealm"
+      },
+      "floodAreaID": "114WAFT1W13A00",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-03-29T18:59:00",
+      "timeRaised": "2023-03-29T18:59:56",
+      "timeSeverityChanged": "2023-03-29T18:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAB55BeamRom",
