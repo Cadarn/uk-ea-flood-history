@@ -112,12 +112,12 @@
       },
       "floodAreaID": "061WAF07Cole",
       "isTidal": false,
-      "message": "Property flooding is not currently expected.\nRiver levels have risen rapidly on the River Cole and Dorcan Brook as a result of heavy rainfall. Therefore, flooding of low lying roads, footpaths and land is expected this morning 20/06/23, especially in the Swindon area. \nFurther rainfall is forecast this morning before clearing this afternoon. We expect river levels to rise this morning before starting to drop. \nWe are closely monitoring the situation.\n \nThis message will be updated. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-06-20T06:44:00",
-      "timeRaised": "2023-06-20T06:44:35",
-      "timeSeverityChanged": "2023-06-20T06:44:00"
+      "message": " This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold.  Further rainfall is possible later in the week. \nWe will continue to monitor the forecast and re-issue this alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-06-20T16:59:00",
+      "timeRaised": "2023-06-20T16:59:27",
+      "timeSeverityChanged": "2023-06-20T16:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF429",
@@ -286,6 +286,27 @@
       "timeMessageChanged": "2023-06-20T14:51:00",
       "timeRaised": "2023-06-20T14:51:49",
       "timeSeverityChanged": "2023-06-20T08:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W03A00",
+      "description": "North Cornwall Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W03A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W03A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W03A00/polygon",
+        "riverOrSea": "River Camel, River Allen, Bodmin Town Leat, River Valency"
+      },
+      "floodAreaID": "114WAFT1W03A00",
+      "isTidal": false,
+      "message": " Flooding is possible through this afternoon and evening of Tuesday 20th June, due to heavy rain passing through the region. In particular, intense rainfall in the Bodmin area has caused water levels in the Bodmin Town Leat catchment to rise rapidly, however other watercourses within this warning area may also see rising levels. Levels are expected to peak between 4pm and 10pm. Areas primarily at risk include low lying land and roads.\n\nThe heaviest rainfall is expected to have cleared the area by around 9pm this evening, however isolated heavy showers remain possible into the early hours, with further possible heavy showers during Wednesday 21st June.  Further response from rivers remains possible\n\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area ready to respond as required.\n\nThis message will be updated Wednesday morning or earlier if the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-06-20T16:49:00",
+      "timeRaised": "2023-06-20T16:49:50",
+      "timeSeverityChanged": "2023-06-20T16:49:00"
     }
   ]
 }
