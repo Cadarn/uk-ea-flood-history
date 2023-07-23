@@ -1,0 +1,333 @@
+{
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF930",
+      "description": "Middlesbrough Becks",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF930",
+        "county": "Middlesbrough, Redcar and Cleveland",
+        "notation": "121WAF930",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF930/polygon",
+        "riverOrSea": "Middlesbrough Becks"
+      },
+      "floodAreaID": "121WAF930",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Middlesbrough Becks. Heavy rainfall has fell overnight and further rainfall will continue into the morning. Rainfall is expected to ease in the afternoon. \nFlooding is forecast to affect locations near the Middlesbrough Becks, with low lying land expected to be most affected, particularly around riverside footpaths and low lying land and roads.\nWe do not expect to issue a flood warning and no property flooding is expected. \nWe will continue to monitor levels closely.\nThis message will be updated by 06:00 PM on 23/07/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T10:54:00",
+      "timeRaised": "2023-07-23T10:54:56",
+      "timeSeverityChanged": "2023-07-23T10:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFUI",
+      "description": "Upper River Irwell catchment with Oldham, Bolton, Rochdale, Haslingden, Ramsbottom and Rawtenstall",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFUI",
+        "county": "Blackburn with Darwen, Bolton, Bury, Lancashire, Oldham, Rochdale",
+        "notation": "013WAFUI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFUI/polygon",
+        "riverOrSea": "River Irwell"
+      },
+      "floodAreaID": "013WAFUI",
+      "isTidal": false,
+      "message": "River levels are rising on the River Irwell. Areas most at risk include low lying land and roads around the Rivers Beal, Roch and Croal, Limy Water and their tributaries. No property flooding is expected. Flooding is possible at low lying land and roads around the Rivers Beal, Roch and Croal, Limy Water and their tributaries from 08:00 AM on 23/07/2023. Further rainfall is forecast throughout the morning. We will continue to monitor the forecast and re-issue this alert if necessary. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 17:00 PM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T09:17:00",
+      "timeRaised": "2023-07-23T09:17:54",
+      "timeSeverityChanged": "2023-07-23T08:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFLI",
+      "description": "Lower River Irwell catchment including areas in Greater Manchester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFLI",
+        "county": "Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Tameside, Trafford",
+        "notation": "013WAFLI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFLI/polygon",
+        "riverOrSea": "River Irwell"
+      },
+      "floodAreaID": "013WAFLI",
+      "isTidal": false,
+      "message": "River levels are rising on the River Irwell due to persistent rainfall. No property flooding is expected. Flooding is possible at low lying land and roads around the Rivers Irk and Medlock, Wince and Worsley Brooks and their tributaries from 09:00 AM on 23/07/2023. We will continue to monitor the forecast and re-issue this alert if necessary. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 17:00 PM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T08:50:00",
+      "timeRaised": "2023-07-23T08:51:00",
+      "timeSeverityChanged": "2023-07-22T18:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
+      "description": "Upper River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963",
+        "county": "Bradford, Calderdale, Kirklees, Rochdale",
+        "notation": "123WAF963",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF963/polygon",
+        "riverOrSea": "River Calder, Walsden Water, Hebden Water"
+      },
+      "floodAreaID": "123WAF963",
+      "isTidal": false,
+      "message": "This flood alert remains in force due to elevated river levels in the Upper River Calder Catchment between Todmorden and Brighouse. Despite further persistent rain on Sunday, levels are expected to steadily fall later this morning as most of the heavier rain has passed. River levels are currently forecast to peak in Todmorden around 07:00 today, Sunday 23rd July 2023, and at around 10:00 in Brighouse. This persistent rain could lead to some localised surface water flooding. We are not currently expecting to issue any flood warnings but will be closely monitoring the situation. \nPlease stay aware of your surroundings and do not put yourself at risk. Avoid using low lying footpaths and do not attempt to walk or drive through flood water.\nFor a more detailed weather forecast for your area please see the Met Office website at www.metoffice.gov.uk.\nThis message will be updated by 15:10 hours on Sunday 23rd July 2023, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T07:10:00",
+      "timeRaised": "2023-07-23T07:11:05",
+      "timeSeverityChanged": "2023-07-22T18:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF985",
+      "description": "Ings Beck and Oakenshaw Beck",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF985",
+        "county": "Leeds, Wakefield",
+        "notation": "123WAF985",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF985/polygon",
+        "riverOrSea": "Ings Beck, Alverthorpe Beck, Balne Beck, Oakenshaw Beck"
+      },
+      "floodAreaID": "123WAF985",
+      "isTidal": false,
+      "message": "This flood alert remains in force due to elevated river levels in the Ings Beck Catchment in Wakefield. Despite further persistent rain on Sunday, 23rd July 2023, levels are expected to steadily fall from later this morning as most of the heavier rain has passed. This persistent rain could lead to some localised surface water flooding. We are not currently expecting to issue any flood warnings but will be closely monitoring the situation. \nPlease stay aware of your surroundings and do not put yourself at risk. Avoid using low lying footpaths and do not attempt to walk or drive through flood water.\nFor a more detailed weather forecast for your area please see the Met Office website at www.metoffice.gov.uk.\nThis message will be updated by 15:20, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T07:19:00",
+      "timeRaised": "2023-07-23T07:19:29",
+      "timeSeverityChanged": "2023-07-22T18:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": " \"River levels are forecast to rise at the Pillings Lock river gauge as a result of recent persistent rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.   \n  We expect river levels to remain high for the next 2 or 3 days\nWe are closely monitoring the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses.  \nThis message will be updated by 20:00 this evening, 23/07/23, or as the situation changes.\"\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T07:13:00",
+      "timeRaised": "2023-07-23T07:13:45",
+      "timeSeverityChanged": "2023-07-22T12:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
+      "description": "Upper River Wyre, Brock",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW",
+        "county": "Lancashire",
+        "notation": "012WAFUW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUW/polygon",
+        "riverOrSea": "River Wyre"
+      },
+      "floodAreaID": "012WAFUW",
+      "isTidal": false,
+      "message": "River levels have risen overnight on the River Wyre, River Brock due to heavy rainfall. Areas most at risk include Rivers Wyre, Calder and Brock and other watercourses from Abbeystead to Catterall including Scorton, Garstang, Bilsborrow, Ainspool and Churchtown. Flooding is possible at Rivers Wyre, Calder and Brock and other watercourses from Abbeystead to Catterall including Scorton, Garstang, Bilsborrow, Ainspool and Churchtown. Further rainfall is forecast throughout the morning. River levels are expected to remain high throughout the morning on 23/07/2023. We are operating flood denfeces in the catchment and will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 05:00 PM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T09:13:00",
+      "timeRaised": "2023-07-23T09:13:34",
+      "timeSeverityChanged": "2023-07-22T17:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLW",
+      "description": "Lower River Wyre",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW",
+        "county": "Blackpool, Lancashire",
+        "notation": "012WAFLW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLW/polygon",
+        "riverOrSea": "River Wyre, Main Dyke"
+      },
+      "floodAreaID": "012WAFLW",
+      "isTidal": false,
+      "message": "River levels have risen overnight on the River Wyre due to heavy rainfall. Areas most at risk include River Wyre, River Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall. Flooding is possible at River Wyre, River Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall. Further rainfall is forecast throughout the morning and river levels are expected to remain high. We are operating flood defences in the catchment and will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 05:00 AM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T09:14:00",
+      "timeRaised": "2023-07-23T09:15:04",
+      "timeSeverityChanged": "2023-07-22T17:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF964",
+      "description": "Lower River Calder catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF964",
+        "county": "Calderdale, Kirklees, Leeds, Wakefield",
+        "notation": "123WAF964",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF964/polygon",
+        "riverOrSea": "River Calder"
+      },
+      "floodAreaID": "123WAF964",
+      "isTidal": false,
+      "message": "This flood alert remains in force due to elevated river levels in the Lower River Calder Catchment between Mirfield and Methley. Further persistent rain, heavy at times, is expected through today, Sunday 23rd July 2023. Currently, river levels are forecast to peak in Mirfield around 13:00 hours today, and through Wakefield from 15:00 hours onwards. This persistent rain could lead to some localised surface water flooding. We are not currently expecting to issue any flood warnings but will be closely monitoring the situation. \nPlease stay aware of your surroundings and do not put yourself at risk. Avoid using low lying footpaths and do not attempt to walk or drive through flood water.\nFor a more detailed weather forecast for your area please see the Met Office website at www.metoffice.gov.uk.\nThis message will be updated by 17:10 on 23rd July 2023 or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T09:10:00",
+      "timeRaised": "2023-07-23T09:10:45",
+      "timeSeverityChanged": "2023-07-22T18:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFEL",
+      "description": "River Calder in east Lancashire",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFEL",
+        "county": "Lancashire, North Yorkshire",
+        "notation": "012WAFEL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFEL/polygon",
+        "riverOrSea": "River Calder"
+      },
+      "floodAreaID": "012WAFEL",
+      "isTidal": false,
+      "message": "River levels will rise steadily on the River Calder and River Hyndburn due to heavy rainfall. Areas most at risk include Rivers Calder, Brun, Don and Pendlewater, from Laneshaw Bridge to the river Ribble including Trawden, Burnley, Nelson, Colne, Accrington and Whalley. Flooding is possible at Rivers Calder, Hyndburn, Brun, Don and Pendlewater, from Laneshaw Bridge to the river Ribble including Trawden, Burnley, Nelson, Colne, Accrington and Whalley from 09:30 AM on 23/07/2023. Further rainfall is forecast throughout the morning. River levels are expected to remain high. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 05:00 PM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T09:03:00",
+      "timeRaised": "2023-07-23T09:03:21",
+      "timeSeverityChanged": "2023-07-22T18:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLR",
+      "description": "Lower River Ribble and Darwen",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLR",
+        "county": "Blackburn with Darwen, Lancashire",
+        "notation": "012WAFLR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLR/polygon",
+        "riverOrSea": "River Ribble, River Darwen"
+      },
+      "floodAreaID": "012WAFLR",
+      "isTidal": false,
+      "message": "River levels will rise steadily on the River Ribble and River Darwen due to heavy rainfall.\nAreas most at risk include River Ribble from Samlesbury and the River Darwen from Darwen including Blackburn, Preston, Walton-Le-Dale, Pleasington and Higher Walton.\nFlooding is possible at River Ribble from Samlesbury and the River Darwen from Darwen including Blackburn, Preston, Walton-Le-Dale, Pleasington and Higher Walton from 03:00 AM on 23/07/2023.\nFurther rainfall is forecast throughout the morning.\nRiver levels are expected to remain high.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 08:00 AM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-22T18:30:00",
+      "timeRaised": "2023-07-22T18:31:18",
+      "timeSeverityChanged": "2023-07-22T18:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF957",
+      "description": "Earby Beck Catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF957",
+        "county": "Lancashire, North Yorkshire",
+        "notation": "123WAF957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF957/polygon",
+        "riverOrSea": "Earby Beck, New Cut"
+      },
+      "floodAreaID": "123WAF957",
+      "isTidal": false,
+      "message": "This flood alert remains in force due to elevated river levels in the Earby area following a spell of heavy rain overnight. Despite further persistent rain on Sunday, 23rd July 2023, levels are expected to steadily fall from later this morning as most of the heavier rain has passed. River levels are currently forecast to peak on Earby Beck through Earby around 07:00 and on the New Cut around 10:00. This persistent rain could lead to some localised surface water flooding. We are not currently expecting to issue any flood warnings but will be closely monitoring the situation. \nPlease stay aware of your surroundings and do not put yourself at risk. Avoid using low lying footpaths and do not attempt to walk or drive through flood water.\nFor a more detailed weather forecast for your area please see the Met Office website at www.metoffice.gov.uk.\nThis message will be updated by 15:30, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T07:28:00",
+      "timeRaised": "2023-07-23T07:28:36",
+      "timeSeverityChanged": "2023-07-22T18:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
+      "description": "River Alt, Formby to Huyton",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
+        "county": "Knowsley, Lancashire, Liverpool, Sefton",
+        "notation": "012WAFAC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
+        "riverOrSea": "River Alt"
+      },
+      "floodAreaID": "012WAFAC",
+      "isTidal": false,
+      "message": "River levels will rise steadily on the River Alt due to heavy rainfall.\nAreas most at risk include River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt.\nFlooding is possible at River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt from 03:00 AM on 23/07/2023.\nFurther rainfall is forecast throughout the morning.\nRiver levels are expected to remain high.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 08:00 AM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-22T20:04:00",
+      "timeRaised": "2023-07-22T20:04:51",
+      "timeSeverityChanged": "2023-07-22T20:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW14",
+      "description": "River Dart area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14",
+        "county": "Devon, Torbay",
+        "notation": "113WABTW14",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14/polygon",
+        "riverOrSea": "River Dart"
+      },
+      "floodAreaID": "113WABTW14",
+      "isTidal": false,
+      "message": "The risk of flooding from the River Dart has now reduced, and river levels are falling below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-07-23T10:33:00",
+      "timeRaised": "2023-07-23T10:33:40",
+      "timeSeverityChanged": "2023-07-23T10:33:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLD",
+      "description": "Lower River Douglas",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLD",
+        "county": "Lancashire",
+        "notation": "012WAFLD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLD/polygon",
+        "riverOrSea": "River Douglas"
+      },
+      "floodAreaID": "012WAFLD",
+      "isTidal": false,
+      "message": "River levels have risen on the River Douglas due to heavy rainfall.\nAreas most at risk include River Douglas and other watercourses from Parbold to Tarleton including Rufford, Mawdesley, Croston and Moss Side.\nFlooding is possible at River Douglas and other watercourses from Parbold to Tarleton including Rufford, Mawdesley, Croston and Moss Side from 08:30 AM on 23/07/2023.\nFurther rainfall is forecast this morning.\nRiver levels are forecast to rise.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 05:00 PM on 23/07/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T08:16:00",
+      "timeRaised": "2023-07-23T08:16:27",
+      "timeSeverityChanged": "2023-07-23T08:16:00"
+    }
+  ]
+}
