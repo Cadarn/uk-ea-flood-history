@@ -15,46 +15,25 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF426",
-      "description": "Loughborough urban watercourses and local tributaries to the River Soar",
-      "eaAreaName": "East Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426",
-        "county": "Leicestershire, Nottinghamshire",
-        "notation": "034WAF426",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426/polygon",
-        "riverOrSea": "Black Brook"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
       },
-      "floodAreaID": "034WAF426",
+      "floodAreaID": "033WAF330",
       "isTidal": false,
-      "message": " \"This Flood Alert has been removed.  \nThe risk of flooding from recent thunderstorms and overnight rainfall has now reduced.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next few days.  \nWe continue to monitor the situation.  \n\"\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-07-24T09:28:00",
-      "timeRaised": "2023-07-24T09:28:34",
-      "timeSeverityChanged": "2023-07-24T09:28:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
-      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417",
-        "county": "Nottingham, Nottinghamshire",
-        "notation": "034WAF417",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
-        "riverOrSea": "River Leen, Day Brook, Tottle Brook"
-      },
-      "floodAreaID": "034WAF417",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels are falling, but still pose a flood risk.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and see the GOV.UK website for a 5 day flood forecast.  \n ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-07-24T09:16:00",
-      "timeRaised": "2023-07-24T09:16:08",
-      "timeSeverityChanged": "2023-07-24T09:16:00"
+      "message": "River levels are forecast to rise at the Stourbridge river gauge as a result of heavy rainfall. Consequently, flooding of property, roads and farmland is possible overnight. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 09:00 on 24/07/23, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-23T17:16:00",
+      "timeRaised": "2023-07-23T17:16:44",
+      "timeSeverityChanged": "2023-07-23T17:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
@@ -78,25 +57,67 @@
       "timeSeverityChanged": "2023-07-23T18:16:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
-      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
-      "eaAreaName": "West Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
+      "description": "Tributaries in South Derbyshire",
+      "eaAreaName": "East Midlands",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
-        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
-        "notation": "033WAF330",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
-        "riverOrSea": "River Stour, Smestow Brook"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
+        "county": "Derby, Derbyshire, Leicestershire",
+        "notation": "034WAF411",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
+        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
       },
-      "floodAreaID": "033WAF330",
+      "floodAreaID": "034WAF411",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Stourbridge river gauge as a result of heavy rainfall. Consequently, flooding of property, roads and farmland is possible overnight. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 09:00 on 24/07/23, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-07-23T17:16:00",
-      "timeRaised": "2023-07-23T17:16:44",
-      "timeSeverityChanged": "2023-07-23T17:16:00"
+      "message": "This Flood Alert has been removed. River levels have now fallen below the flood risk threshold. The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. We continue to monitor the situation.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-07-24T09:00:00",
+      "timeRaised": "2023-07-24T09:01:07",
+      "timeSeverityChanged": "2023-07-24T09:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
+      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417",
+        "county": "Nottingham, Nottinghamshire",
+        "notation": "034WAF417",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
+        "riverOrSea": "River Leen, Day Brook, Tottle Brook"
+      },
+      "floodAreaID": "034WAF417",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels are falling, but still pose a flood risk.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next 12 hours.  \nWe continue to monitor the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and see the GOV.UK website for a 5 day flood forecast.  \n ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-07-24T09:16:00",
+      "timeRaised": "2023-07-24T09:16:08",
+      "timeSeverityChanged": "2023-07-24T09:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF426",
+      "description": "Loughborough urban watercourses and local tributaries to the River Soar",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426",
+        "county": "Leicestershire, Nottinghamshire",
+        "notation": "034WAF426",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426/polygon",
+        "riverOrSea": "Black Brook"
+      },
+      "floodAreaID": "034WAF426",
+      "isTidal": false,
+      "message": " \"This Flood Alert has been removed.  \nThe risk of flooding from recent thunderstorms and overnight rainfall has now reduced.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further rainfall is forecast over the next few days.  \nWe continue to monitor the situation.  \n\"\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-07-24T09:28:00",
+      "timeRaised": "2023-07-24T09:28:34",
+      "timeSeverityChanged": "2023-07-24T09:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF410",
@@ -118,27 +139,6 @@
       "timeMessageChanged": "2023-07-24T09:01:00",
       "timeRaised": "2023-07-24T09:01:16",
       "timeSeverityChanged": "2023-07-24T09:01:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
-      "description": "Tributaries in South Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
-        "county": "Derby, Derbyshire, Leicestershire",
-        "notation": "034WAF411",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
-        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
-      },
-      "floodAreaID": "034WAF411",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. River levels have now fallen below the flood risk threshold. The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. We continue to monitor the situation.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-07-24T09:00:00",
-      "timeRaised": "2023-07-24T09:01:07",
-      "timeSeverityChanged": "2023-07-24T09:00:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF930",
@@ -616,33 +616,12 @@
       },
       "floodAreaID": "012WAFAC",
       "isTidal": false,
-      "message": "River levels will continue to rise on the River Alt due to persistent heavy rainfall. Areas most at risk include River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt. Flooding is possible at River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt overnight on 23/07/2023. Further rainfall is forecast throughout the evening. River levels are expected to continue to rise. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 09:00 AM on 24/07/2023, or as the situation changes.",
+      "message": "River levels are remaining high on the River Alt.\nAreas most at risk include River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt.\nFlooding is possible at River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt for the rest of Monday 24/07/23\nThe forecast is dry for throughout the afternoon.\nRiver levels are expected to remain high.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 6:00pm on 24/07/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-07-23T19:47:00",
-      "timeRaised": "2023-07-23T19:47:55",
+      "timeMessageChanged": "2023-07-24T10:57:00",
+      "timeRaised": "2023-07-24T10:57:15",
       "timeSeverityChanged": "2023-07-22T20:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW14",
-      "description": "River Dart area",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14",
-        "county": "Devon, Torbay",
-        "notation": "113WABTW14",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14/polygon",
-        "riverOrSea": "River Dart"
-      },
-      "floodAreaID": "113WABTW14",
-      "isTidal": false,
-      "message": "The risk of flooding from the River Dart has now reduced, and river levels are falling below levels of concern. No further flooding to fields and roads is expected, however there may be standing water seen for several days.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-07-23T10:33:00",
-      "timeRaised": "2023-07-23T10:33:40",
-      "timeSeverityChanged": "2023-07-23T10:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLD",
@@ -931,11 +910,11 @@
       },
       "floodAreaID": "012FWFM20",
       "isTidal": false,
-      "message": "River levels are high and forecast to rise further on the Whinney Brook and Dovers Brook due to heavy rainfall.\nFlooding is forecast to affect locations near the Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Fouracres and The Crescent which are at risk from surface water flooding by 08:30 PM on 23/07/2023.\nFurther rainfall is forecast this evening. River levels are expected to remain high.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 09:00 PM on 23/07/2023, or as the situation changes.",
+      "message": "River levels are high and remain high on the Whinney Brook and Dovers Brook due to heavy rainfall.\nFlooding is forecast to affect locations near the Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Fouracres and The Crescent which are at risk from surface water flooding.\nNo further rainfall is forecast for today Monday 24/07/23. River levels are expected to remain high for the rest of today. \nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 05:30 PM on 24/07/2023, or as the situation changes. \n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-07-23T19:54:00",
-      "timeRaised": "2023-07-23T19:54:29",
+      "timeMessageChanged": "2023-07-24T10:42:00",
+      "timeRaised": "2023-07-24T10:42:21",
       "timeSeverityChanged": "2023-07-23T19:54:00"
     },
     {
@@ -994,11 +973,11 @@
       },
       "floodAreaID": "012FWFM21A",
       "isTidal": false,
-      "message": "River levels are high and forecast to rise further on the Whinney Brook and Dovers Brook due to heavy rainfall.\nFlooding is forecast to affect locations near Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Sefton Lane near to Dovers Bridge including the Waste Transfer Station, Garden Centre and adjacent properties from 08:30 PM on 23/.07/2023.\nFurther rainfall is forecast this evening. River levels are expected to remain high.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 09:00 PM on 23/07/2023, or as the situation changes.",
+      "message": "River levels will remain high on the Whinney Brook and Dovers Brook due to heavy rainfall.\nFlooding is forecast to affect locations near Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Sefton Lane near to Dovers Bridge including the Waste Transfer Station, Garden Centre and adjacent properties from 08:30 PM on 23/.07/2023\nNo further rainfall is forecast for today. River levels are expected to remain high.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 05:30 PM on 24/07/2023, or as the situation changes. \n\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-07-23T19:42:00",
-      "timeRaised": "2023-07-23T21:03:08",
+      "timeMessageChanged": "2023-07-24T10:24:00",
+      "timeRaised": "2023-07-24T10:24:58",
       "timeSeverityChanged": "2023-07-23T19:42:00"
     },
     {
@@ -1015,11 +994,11 @@
       },
       "floodAreaID": "012FWFM21B",
       "isTidal": false,
-      "message": " River levels are high and forecast to rise further on the Whinney Brook and Dovers Brook due to heavy rainfall. Flooding is forecast to affect locations near the Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Hall Lane, Damfield Lane, Fouracres, Old Racecourse Road, Sefton Lane and Sefton Drive from 01:00 on 24/07/2023. Further rainfall is forecast until the early morning. River levels are expected to remain high. We are monitoring rainfall and river levels and are checking rivers for blockages in the area around Dovers Bridge. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 10:00am on 24/07/2023\n",
+      "message": " River levels are high and forecast to rise further on the Whinney Brook and Dovers Brook due to heavy rainfall. Flooding is forecast to affect locations near the Whinney Brook and Dovers Brook, with low lying land expected to be most affected, particularly around properties on Hall Lane, Damfield Lane, Fouracres, Old Racecourse Road, Sefton Lane and Sefton Drive from 01:00 on 24/07/2023. \nNo  further rainfall is forecast for the rest of today Monday 24/07/23. \nRiver levels are expected to remain high. We are monitoring rainfall and river levels and are checking rivers for blockages in the area around Dovers Bridge. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 05:30pm on 24/07/2023",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-07-24T00:14:00",
-      "timeRaised": "2023-07-24T00:14:26",
+      "timeMessageChanged": "2023-07-24T10:49:00",
+      "timeRaised": "2023-07-24T10:49:34",
       "timeSeverityChanged": "2023-07-24T00:14:00"
     },
     {
