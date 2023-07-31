@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFEI",
+      "description": "Rivers Esk and Irthing",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI",
+        "county": "Cumberland, Northumberland, Westmorland and Furness",
+        "notation": "011WAFEI",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFEI/polygon",
+        "riverOrSea": "River Esk, River Irthing"
+      },
+      "floodAreaID": "011WAFEI",
+      "isTidal": false,
+      "message": "River levels are expected to rise on the Rivers Esk and Irthing, due to persistent rainfall.\nFlooding is forecast to affect locations near the Rivers Esk and Irthing, with low lying land expected to be most affected, particularly around Rivers Esk and Irthing and other watercourses, including low lying areas around Longtown and Brampton.\nFurther rainfall is forecast throughout the evening 31/07/2023 and into tomorrow morning 01/08/2023. \nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 01/08/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-07-31T16:50:00",
+      "timeRaised": "2023-07-31T16:50:30",
+      "timeSeverityChanged": "2023-07-31T16:50:00"
+    }
+  ]
 }
