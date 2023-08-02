@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF985",
+      "description": "Ings Beck and Oakenshaw Beck",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF985",
+        "county": "Leeds, Wakefield",
+        "notation": "123WAF985",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF985/polygon",
+        "riverOrSea": "Ings Beck, Alverthorpe Beck, Balne Beck, Oakenshaw Beck"
+      },
+      "floodAreaID": "123WAF985",
+      "isTidal": false,
+      "message": "River levels are rising on the Alverthorpe Beck, Balne Beck, Ings Beck and Oakenshaw Beck due to heavy rainfall. Flooding of low lying land is possible from 11:00 today, 02/08/2023. \nWe are clearing debris from weed screens in the area. We will continue to monitor levels closely. Do not attempt to walk or drive through flood water.\nRainfall is expected to clear from this afternoon.\nThis message will be updated by 06:30 PM on 02/08/2023, or as the situation changes.\nWe are clearing debris from weed screens in the area.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-08-02T10:39:00",
+      "timeRaised": "2023-08-02T10:40:06",
+      "timeSeverityChanged": "2023-08-02T10:39:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC401",
       "description": "Thorney Island to Bracklesham",
       "eaAreaName": "Solent and South Downs",
