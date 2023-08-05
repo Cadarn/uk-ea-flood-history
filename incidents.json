@@ -28,11 +28,11 @@
       },
       "floodAreaID": "062WAF53LLTribs",
       "isTidal": false,
-      "message": "We have issued a Flood Alert. Heavy rain is forecast to affect London throughout Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Waltham Forest, Waltham Abbey, Waltham Cross, Barnet, Nazeing, Enfield, Chingford, Edmonton, Cheshunt or Tottenham areas, there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and gardens is possible from Saturday morning. Flooding from surface water could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\n\nWe expect the band of rain to move out of the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
+      "message": " We have issued a Flood Alert. Storm Antoni is forecast to bring thunderstorms affecting London from midday on Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Waltham Forest, Waltham Abbey, Waltham Cross, Barnet, Nazeing, Enfield, Chingford, Edmonton, Cheshunt or Tottenham areas, there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from midday on Saturday. Flooding from surface water could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action.\n\nWe expect the band of rain to leave the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T16:10:00",
-      "timeRaised": "2023-08-04T16:11:13",
+      "timeMessageChanged": "2023-08-05T10:49:00",
+      "timeRaised": "2023-08-05T10:50:09",
       "timeSeverityChanged": "2023-08-04T16:10:00"
     },
     {
@@ -78,6 +78,27 @@
       "timeSeverityChanged": "2023-08-02T16:53:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF929",
+      "description": "Coastal Streams in Redcar and Cleveland",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF929",
+        "county": "Redcar and Cleveland",
+        "notation": "121WAF929",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF929/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAF929",
+      "isTidal": false,
+      "message": "River levels are rising rapidly on the Coastal Streams in Redcar and Cleveland due to heavy rainfall.\nFlooding is forecast to affect locations near the Coastal Streams in Redcar and Cleveland. We are expecting flooding at East Crescent at Lotus.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 09:00 AM on 06/08/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-08-05T10:43:00",
+      "timeRaised": "2023-08-05T10:44:17",
+      "timeSeverityChanged": "2023-08-05T10:43:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC401",
       "description": "Thorney Island to Bracklesham",
       "eaAreaName": "Solent and South Downs",
@@ -118,27 +139,6 @@
       "timeMessageChanged": "2023-08-04T17:23:00",
       "timeRaised": "2023-08-04T17:23:28",
       "timeSeverityChanged": "2023-08-04T17:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "Coastal conditions have now passed. As a result, there is no longer a risk of flooding in the area. We are expecting higher than normal tides over the next few days and as a result we may issue further alerts. We will continue to monitor levels closely. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-08-04T10:46:00",
-      "timeRaised": "2023-08-04T10:47:22",
-      "timeSeverityChanged": "2023-08-04T10:46:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
@@ -267,69 +267,6 @@
       "timeSeverityChanged": "2023-08-05T09:34:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
-      "description": "The north Norfolk coast from Old Hunstanton, to and including Cley",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A",
-        "county": "Norfolk",
-        "notation": "054WACDV2A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV2A",
-      "isTidal": true,
-      "message": "Tide levels are now below the flood risk threshold. The forecast shows no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely and issue further Flood Alerts if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-08-04T11:00:00",
-      "timeRaised": "2023-08-04T11:00:12",
-      "timeSeverityChanged": "2023-08-04T11:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A12",
-      "description": "The north Norfolk coast from East Cley to Kelling Hard, including Salthouse",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A12",
-        "county": "Norfolk",
-        "notation": "054WACDV2A12",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A12/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV2A12",
-      "isTidal": true,
-      "message": "Tide levels are now below the flood risk threshold. The forecast shows no current flood risk from high tides. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely and issue further Flood Alerts if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-08-04T10:59:00",
-      "timeRaised": "2023-08-04T11:00:03",
-      "timeSeverityChanged": "2023-08-04T10:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
-      "description": "Humber estuary from Spurn Point to Winestead Outfall",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAT957",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
-        "riverOrSea": "Humber Estuary, Winestead Drain"
-      },
-      "floodAreaID": "122WAT957",
-      "isTidal": true,
-      "message": "Coastal conditions have now passed. As a result, there is no longer a risk of flooding in the area. We are expecting higher than normal tides over the next few days and as a result we may issue further alerts. We will continue to monitor levels closely. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-08-04T10:43:00",
-      "timeRaised": "2023-08-04T10:43:13",
-      "timeSeverityChanged": "2023-08-04T10:43:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
       "description": "Upper River Derwent",
       "eaAreaName": "Yorkshire",
@@ -385,12 +322,12 @@
       },
       "floodAreaID": "031WAT122",
       "isTidal": true,
-      "message": " As a result of high spring tides and strong winds.  Tides will be at their highest between 9pm and 10pm this evening, 04/08/23. Flooding of roads and farmland is possible at these times, however conditions may apply two to four hours either side of the high tide.  Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 7.3m to 7.5m Friday evening and 7.3 to 7.4m Saturday morning.  Newport 7.1m to 7.2m Friday evening and 6.8 to 7.1 m Saturday morning, 05/08/23\nWe are closely monitoring the situation.  \nPlease avoid contact with flood water and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 11:00 on 05/08/23, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T09:48:00",
-      "timeRaised": "2023-08-04T09:49:05",
-      "timeSeverityChanged": "2023-08-03T14:16:00"
+      "message": "This Flood Alert has been removed. Incoming high tide levels are now forecast to be below the Flood Alert threshold. We will continue to monitor the forecast and re-issue this alert if necessary.   \nPlease avoid contact with flood water. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-08-05T10:59:00",
+      "timeRaised": "2023-08-05T10:59:42",
+      "timeSeverityChanged": "2023-08-05T10:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
@@ -427,12 +364,12 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": "As a result of high spring tides and strong winds, tides will be higher than normal overnight 04/08/2023 to 05/08/2023. After tonight the forecast tide levels decrease and we do not anticipate issuing alerts after tomorrow. No property flooding is expected.\nThe highest tide level is expected to be at Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stanah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods at 02:15 AM tomorrow morning. Flooding is possible 2 hours either side of this time. Forecast tide level is 5.25m Above Ordnance Datum.\nPlease be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 11:00 AM on 05/08/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T17:07:00",
-      "timeRaised": "2023-08-04T17:07:56",
-      "timeSeverityChanged": "2023-08-03T17:14:00"
+      "message": "Tide levels are now decreasing. The forecast is for no current flood risk from high tides and no further impacts are expected. \nWe will continue to monitor levels closely.\nThere may still be some areas where flood water is present until it can naturally drain away.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-08-05T10:17:00",
+      "timeRaised": "2023-08-05T10:18:06",
+      "timeSeverityChanged": "2023-08-05T10:17:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
@@ -469,11 +406,11 @@
       },
       "floodAreaID": "062WAF38BrentBks",
       "isTidal": false,
-      "message": "We have issued a Flood Alert. Heavy rain is forecast to affect London throughout Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Hendon, Wembley, Harrow, Wealdstone, Edgware or Stanmore areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from Saturday morning. Flooding from surface water could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action.\n\nWe expect the band of rain to move out of the area on Saturday evening. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe continue to deploy resources and are working closely with emergency services, the local authority and partners in the Tokyngton area on the Wembley Brook.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
+      "message": " We have issued a Flood Alert. Storm Antoni is forecast to bring thunderstorms affecting London from midday on Saturday 5 August. It is currently unclear which areas will see the heaviest rain.\n\nIf the heaviest rain affects the Hendon, Wembley, Harrow, Wealdstone, Edgware or Stanmore areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from midday on Saturday. Flooding from surface water may also occur.\n\nWe expect river levels to rise quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action.\n\nWe expect the band of rain to leave the area on Saturday evening. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe are continuing to deploy pumps, people and equipment, and liaising with emergency services and local authorities in the Tokyngton area on the Wembley Brook.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T16:10:00",
-      "timeRaised": "2023-08-04T16:10:50",
+      "timeMessageChanged": "2023-08-05T10:49:00",
+      "timeRaised": "2023-08-05T10:49:57",
       "timeSeverityChanged": "2023-08-04T16:10:00"
     },
     {
@@ -490,11 +427,11 @@
       },
       "floodAreaID": "062WAF28Pinn",
       "isTidal": false,
-      "message": " We have issued a Flood Alert. Heavy rain is forecast to affect London throughout Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Hatch End, Pinner, Ruislip, Ickenham, Hillingdon, or Uxbridge areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from Saturday morning. Flooding from surface water, where water gathers and flows off road surfaces, could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\n\nWe expect the band of rain to move out of the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
+      "message": " We have issued a Flood Alert. Storm Antoni is forecast to bring thunderstorms affecting London from midday on Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Hatch End, Pinner, Ruislip, Ickenham, Hillingdon, or Uxbridge areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from midday on Saturday. Flooding from surface water could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action.\n\nWe expect the band of rain to leave the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T16:10:00",
-      "timeRaised": "2023-08-04T16:11:11",
+      "timeMessageChanged": "2023-08-05T10:50:00",
+      "timeRaised": "2023-08-05T10:50:11",
       "timeSeverityChanged": "2023-08-04T16:10:00"
     },
     {
@@ -511,11 +448,11 @@
       },
       "floodAreaID": "062WAB55BeamRom",
       "isTidal": false,
-      "message": " We have issued a Flood Alert. Heavy rain is forecast to affect London throughout Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n \nIf the heaviest rain affects Havering Park, Collier Row, Romford and Rush Green areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from Saturday morning. Flooding from surface water, where water gathers and flows off road surfaces, could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\n\nWe expect the band of rain to move out of the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
+      "message": " We have issued a Flood Alert. Storm Antoni is forecast to bring thunderstorms affecting London from midday on Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects Havering Park, Collier Row, Romford and Rush Green areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from midday on Saturday. Flooding from surface water could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action.\n\nWe expect the band of rain to leave the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T16:11:00",
-      "timeRaised": "2023-08-04T16:11:57",
+      "timeMessageChanged": "2023-08-05T10:50:00",
+      "timeRaised": "2023-08-05T10:50:19",
       "timeSeverityChanged": "2023-08-04T16:11:00"
     },
     {
@@ -532,11 +469,11 @@
       },
       "floodAreaID": "062WAF36Yeadings",
       "isTidal": false,
-      "message": " We have issued a Flood Alert. Heavy rain is forecast to affect London throughout Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Harrow or Hillingdon areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from Saturday morning. Flooding from surface water, where water gathers and flows off road surfaces, could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\n\nWe expect the band of rain to move out of the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
+      "message": " We have issued a Flood Alert. Storm Antoni is forecast to bring thunderstorms affecting London from midday on Saturday 5 August. It is currently unclear which areas will experience the heaviest rain.\n\nIf the heaviest rain affects the Harrow or Hillingdon areas there is the possibility that rivers could overtop their banks. Flooding to low lying land, roads and riverside gardens is possible from midday on Saturday. Flooding from surface water could also occur.\n\nWe expect river levels to respond by rising quickly in areas receiving the heaviest rain. We recommend you stay aware of local weather conditions and water levels. Consider putting your flood plan into action.\n\nWe expect the band of rain to leave the area on Saturday evening, scattered showers are forecast for Sunday. We are constantly monitoring rainfall and river levels and are checking rivers for blockages.\n\nWe will update this message on Saturday afternoon or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-08-04T16:11:00",
-      "timeRaised": "2023-08-04T16:11:58",
+      "timeMessageChanged": "2023-08-05T10:50:00",
+      "timeRaised": "2023-08-05T10:50:30",
       "timeSeverityChanged": "2023-08-04T16:11:00"
     },
     {
