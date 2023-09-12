@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed. \nThis alert was issued in error due to a spike in data.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-09-11T10:09:00",
+      "timeRaised": "2023-09-11T10:09:47",
+      "timeSeverityChanged": "2023-09-11T10:09:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF924",
       "description": "Upper River Tees",
       "eaAreaName": "North East",
@@ -118,27 +139,6 @@
       "timeMessageChanged": "2023-09-11T10:04:00",
       "timeRaised": "2023-09-11T10:04:49",
       "timeSeverityChanged": "2023-09-11T10:04:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. \nThis alert was issued in error due to a spike in data.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-09-11T10:09:00",
-      "timeRaised": "2023-09-11T10:09:47",
-      "timeSeverityChanged": "2023-09-11T10:09:00"
     }
   ]
 }
