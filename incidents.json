@@ -183,27 +183,6 @@
       "timeSeverityChanged": "2023-09-20T11:51:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN1",
-      "description": "Severn Estuary at Severn Beach",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1",
-        "county": "South Gloucestershire",
-        "notation": "112WATSVN1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN1/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "112WATSVN1",
-      "isTidal": true,
-      "message": "The tides are now receding following spring tides at the weekend and the period of high winds has passed. This means there is no longer a risk of flooding. We will continue to monitor the forecast and re-issue this alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-09-19T13:52:00",
-      "timeRaised": "2023-09-19T13:52:36",
-      "timeSeverityChanged": "2023-09-19T13:52:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
       "description": "Lower River Derwent",
       "eaAreaName": "Yorkshire",
@@ -496,6 +475,27 @@
       "timeMessageChanged": "2023-09-20T12:35:00",
       "timeRaised": "2023-09-20T12:35:57",
       "timeSeverityChanged": "2023-09-20T12:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUL",
+      "description": "Upper River Lune",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUL",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "012WAFUL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUL/polygon",
+        "riverOrSea": "River Lune"
+      },
+      "floodAreaID": "012WAFUL",
+      "isTidal": false,
+      "message": "River levels are high on the River Lune due to heavy rainfall. Although rainfall will ease throughout the afternoon, river levels will remain high, with further intermittent showers forecast throughout the evening.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. We will continue to monitor the forecast and update as necessary.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-09-20T13:45:00",
+      "timeRaised": "2023-09-20T13:45:20",
+      "timeSeverityChanged": "2023-09-20T13:45:00"
     }
   ]
 }
