@@ -162,27 +162,6 @@
       "timeSeverityChanged": "2023-09-20T05:13:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLR",
-      "description": "Lower River Ribble and Darwen",
-      "eaAreaName": "Cumbria and Lancashire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLR",
-        "county": "Blackburn with Darwen, Lancashire",
-        "notation": "012WAFLR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFLR/polygon",
-        "riverOrSea": "River Ribble, River Darwen"
-      },
-      "floodAreaID": "012WAFLR",
-      "isTidal": false,
-      "message": "River levels are falling this morning as rainfall eases.\nNo property flooding is expected.\nRiver levels are now falling steadily.\nWe will continue to monitor levels closely.\nThere may still be some areas where flood water is present until it can naturally drain away.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-09-20T07:00:00",
-      "timeRaised": "2023-09-20T07:01:01",
-      "timeSeverityChanged": "2023-09-20T07:00:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
       "description": "Upper River Aire catchment",
       "eaAreaName": "Yorkshire",
@@ -790,6 +769,27 @@
       "timeMessageChanged": "2023-09-20T21:04:00",
       "timeRaised": "2023-09-20T21:05:13",
       "timeSeverityChanged": "2023-09-20T21:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF113",
+      "description": "River Blackwater",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF113",
+        "county": "Hampshire, Wiltshire",
+        "notation": "065WAF113",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF113/polygon",
+        "riverOrSea": "River Blackwater"
+      },
+      "floodAreaID": "065WAF113",
+      "isTidal": false,
+      "message": "The water level in the River Blackwater at Ower and Cadnam River is high and rising. In the last 24 hours, more than half a month’s rain (41mm) has been recorded in Romsey. From 8:30am this morning (21/09/2023), the river will flood land, fields and roads at Cadnam, West Wellow, Landford and Ower. Water levels will also be very high around the mill building at East Wellow. Further showers are forecast throughout the day. We expect the river will rise at least until 10.00am on 21/09/2023. Although water levels will be much higher than normal, property flooding is not currently expected. We continue to monitor the forecast. Our operations staff will work to ensure the river remains free of any reported blockages. Please ensure that pumps used to protect property are operating correctly. This Flood Alert will be updated by 12:00 on 21/09/2023.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-09-21T07:00:00",
+      "timeRaised": "2023-09-21T07:00:30",
+      "timeSeverityChanged": "2023-09-21T07:00:00"
     }
   ]
 }
