@@ -490,12 +490,12 @@
       },
       "floodAreaID": "122WAC955",
       "isTidal": true,
-      "message": " The high ties have peaked today (30/09/2023) as such we are removing this alert. We continue to monitor the forecast and will re issue this alert if necessary on Monday as currently further high tides are forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-09-30T09:28:00",
-      "timeRaised": "2023-09-30T09:28:18",
-      "timeSeverityChanged": "2023-09-30T09:28:00"
+      "message": " High spring tides may cause large waves and spray overtopping on the coast tomorrow morning (01/10/2023). Areas most at risk include The North Sea coast from Skipsea to Mappleton, including Hornsea between 05:45am to 7:15am on 01/10/2023. We will continue to monitor the forecast and re-issue this alert if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 9pm on 30/09/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-09-30T11:50:00",
+      "timeRaised": "2023-09-30T11:50:33",
+      "timeSeverityChanged": "2023-09-30T11:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23Central",
@@ -1504,6 +1504,48 @@
       "timeMessageChanged": "2023-09-30T10:21:00",
       "timeRaised": "2023-09-30T10:22:04",
       "timeSeverityChanged": "2023-09-30T10:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT217",
+      "description": "Severn estuary from Gloucester to Sharpness",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217",
+        "county": "Gloucestershire",
+        "notation": "031WAT217",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT217/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "031WAT217",
+      "isTidal": true,
+      "message": "As a result of high spring tides peaking tonight, Saturday 30/09/23. Flooding to roads and farmland is expected, however conditions may apply a few hours either side of the high tide. Flooding may affect low lying land and roads adjacent the Severn Estuary from Sandhurst to Chepstow and Sharpness. Locations that may be affected include areas river side of defences, including Lydney Harbour. Low lying land at Purton on the east bank may also be impacted. High tides may also affect watercourses draining into the Severn Estuary. Predicted peaks:- Sharpness 10.3m to 10.6m tonight at 9:45pm, 30/09/23 and 9.8m to 10.1m at 10am tomorrow morning, 01/10/23. Flooding is not forecast at other gauge locations. We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 2pm on Sunday, 01/10/23, or as the situation changes. \n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-09-30T11:17:00",
+      "timeRaised": "2023-09-30T11:18:09",
+      "timeSeverityChanged": "2023-09-30T11:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWTWY0G",
+      "description": "Wye Estuary at Elmdale, Chepstow",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWTWY0G",
+        "county": "Gloucestershire, Monmouthshire",
+        "notation": "031FWTWY0G",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWTWY0G/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "031FWTWY0G",
+      "isTidal": true,
+      "message": " A series of high tides has been building over the last few days and is due to peak this evening 30/09/23. Flooding to properties, roads and farmland is expected between 8:45pm and 9pm this evening, however conditions may apply two to four hours either side of the high tide. Predicted peaks:- Avonmouth Portbury 8m to 8.3m 30/09/23 at 9:00 pm, Newport 7.7m to 7.9m 30/09/23 at 8:45pm.   \n\nWe are closely monitoring the situation.  Our incident response staff are on patrol during the period of high tide.  \n  \nThis message will be updated by 11pm this evening 30/09/23",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-09-30T11:26:00",
+      "timeRaised": "2023-09-30T11:26:22",
+      "timeSeverityChanged": "2023-09-30T11:26:00"
     }
   ]
 }
