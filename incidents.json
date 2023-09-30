@@ -519,27 +519,6 @@
       "timeSeverityChanged": "2023-09-29T13:54:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
-      "description": "North Sea coast at Hornsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
-        "county": "East Riding of Yorkshire",
-        "notation": "122FWC003",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
-        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
-      },
-      "floodAreaID": "122FWC003",
-      "isTidal": true,
-      "message": "The situation is improving and no further flooding is expected in this area. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-09-29T09:04:00",
-      "timeRaised": "2023-09-29T09:05:13",
-      "timeSeverityChanged": "2023-09-29T09:04:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23Central",
       "description": "Tidal Thames riverside from the Thames Barrier to Putney Bridge",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -658,11 +637,11 @@
       },
       "floodAreaID": "112WATAVN1",
       "isTidal": true,
-      "message": "A flood alert has been issued as a result of high spring tides this evening 29/09/2023 and over the coming days.\n\nAreas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton.\n\nFirst forecast high water is at 20:15 on 29/09/23 with a level of 7.75 mAOD and a Force 3 westerly wind. Times are local and refer to the high water time at Avonmouth, however conditions may apply one hour either side of the high tide.  mAOD is height above average sea level, for more detail refer to local tide tables. Flooding to roads and farmland is possible but properties are not expected to flood. We are closing flood gates at Pill and Shirehampton and monitoring the situation.\n\nWe are expecting higher than normal tides over the next 3 days. This flood alert will remain in place through to Monday evening 02/10/23 but will be updated by 11:30 on Saturday 30/09/23.",
+      "message": "This flood alert remains in place as a result of high spring tides this evening 30/09/2023 and over the next two days.\n\nAreas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton.\n\nForecast high water at 21:00 this evening is at a level of 7.89 mAOD with a Force 4 southerly wind. Times are local and refer to the high water time at Avonmouth, however conditions may apply one hour either side of the high tide. Flooding to roads and farmland is possible but properties are not expected to flood. We have closed flood gates at Pill and Shirehampton and are monitoring the situation.\n\nThis flood alert will remain in place through to Monday 02/10/23 but will be updated by 10:00 on Sunday 01/10/23.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-09-29T09:17:00",
-      "timeRaised": "2023-09-29T09:18:13",
+      "timeMessageChanged": "2023-09-30T09:13:00",
+      "timeRaised": "2023-09-30T09:13:33",
       "timeSeverityChanged": "2023-09-29T09:17:00"
     },
     {
@@ -910,12 +889,12 @@
       },
       "floodAreaID": "122FWC007",
       "isTidal": true,
-      "message": "High spring tides are expected to cause large waves and spray overtopping on the coast tomorrow morning (30/09/2023). Flooding is possible at the east side of Kilnsea, including the Caravan Park, and Easington, again including the Caravan Park, at 05:55AM to 07:30AM on 30/09/2023. We will continue to monitor the forecast and re-issue this warning if necessary. Please stay away from beaches, promenades, coastal footpaths and roads as the expected large waves and sea spray will be dangerous. This message will be updated by 10am on 30/09/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-09-29T20:33:00",
-      "timeRaised": "2023-09-29T20:33:38",
-      "timeSeverityChanged": "2023-09-29T14:09:00"
+      "message": " The high ties have peaked today (30/09/2023) as such we are removing this warning. We continue to monitor the forecast and will re issue this warning if necessary on Monday as currently further high tides are forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-09-30T09:17:00",
+      "timeRaised": "2023-09-30T09:17:58",
+      "timeSeverityChanged": "2023-09-30T09:17:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
@@ -958,6 +937,27 @@
       "timeMessageChanged": "2023-09-29T16:21:00",
       "timeRaised": "2023-09-29T16:22:06",
       "timeSeverityChanged": "2023-09-28T17:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSVN2",
+      "description": "Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN2",
+        "county": "City of Bristol, Gloucestershire, South Gloucestershire",
+        "notation": "112WATSVN2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSVN2/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "112WATSVN2",
+      "isTidal": true,
+      "message": " A flood alert has been issued as a result of high spring tides this evening 30/09/2023.\n\nTides are forecast to peak at 21:00 on 30/09/23 with a level of 7.89 mAOD and a Force 4 southerly wind. Times are local and refer to the high water time at Avonmouth, however conditions may apply one hour either side of the high tide.  mAOD is height above average sea level, for more detail refer to local tide tables. There is a possibility of flooding for the Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth including Aust and Old Passage. Flooding to roads and farmland is possible but properties are not expected to flood. We have closed flood gates at Pill and Shirehampton and are monitoring the situation.\n\nTomorrow morning’s tide is not forecast to reach flood alert thresholds. This message will be updated by 10:00 on Sunday 01/10/23.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-09-30T09:14:00",
+      "timeRaised": "2023-09-30T09:14:51",
+      "timeSeverityChanged": "2023-09-30T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN1",
@@ -1057,12 +1057,12 @@
       },
       "floodAreaID": "122FWC002",
       "isTidal": true,
-      "message": "High spring tides are expected to cause large waves and spray overtopping on the coast tomorrow morning (30/09/2023). Areas most at risk include South Pier and Chicken Run Jetty, and adjacent car parks off South Cliff Road. Flooding is possible at the South Pier and Chicken Run Jetty, and adjacent car parks off South Cliff Road between 05:15AM to 06:30AM on 30/09/2023. We will continue to monitor the forecast and re-issue this warning if necessary. Please stay away from beaches, promenades, coastal footpaths and roads as the expected large waves and sea spray will be dangerous. This message will be updated by 10am on 30/09/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-09-29T20:33:00",
-      "timeRaised": "2023-09-29T20:33:39",
-      "timeSeverityChanged": "2023-09-29T14:09:00"
+      "message": " The high ties have peaked today (30/09/2023) as such we are removing this warning. We continue to monitor the forecast and will re issue this warning if necessary on Monday as currently further high tides are forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-09-30T09:12:00",
+      "timeRaised": "2023-09-30T09:12:58",
+      "timeSeverityChanged": "2023-09-30T09:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC040",
@@ -1078,12 +1078,12 @@
       },
       "floodAreaID": "122FWC040",
       "isTidal": true,
-      "message": "High spring tides are expected to cause large waves and spray overtopping on the coast tomorrow morning (30/09/2023). Areas most at risk include Whitby harbour area including Abrahams Quay, Pier Road, New Quay Road, Church Street, Campion Dock and Bagdale Road between 04:00AM to 05:45AM on 30/09/2023. We will continue to monitor the forecast and re-issue this warning if necessary. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 10am on 30/09/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-09-29T20:33:00",
-      "timeRaised": "2023-09-29T20:33:39",
-      "timeSeverityChanged": "2023-09-29T14:09:00"
+      "message": " The high ties have peaked today (30/09/2023) as such we are removing this warning. We continue to monitor the forecast and will re issue this warning if necessary on Monday as currently further high tides are forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-09-30T09:14:00",
+      "timeRaised": "2023-09-30T09:15:08",
+      "timeSeverityChanged": "2023-09-30T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT962",
@@ -1120,12 +1120,12 @@
       },
       "floodAreaID": "122FWC001",
       "isTidal": true,
-      "message": "High spring tides are expected to cause large waves and spray overtopping on the coast tomorrow morning (30/09/2023). Areas most at risk include The north side of the dock area, properties on Harbour Road and the Floral Pavilion between 05:15AM to 06:30AM on 30/09/2023. We will continue to monitor the forecast and re-issue this warning if necessary. Please stay away from beaches, promenades, coastal footpaths and roads as the expected large waves and sea spray will be dangerous. This message will be updated by 10am on 30/09/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-09-29T20:33:00",
-      "timeRaised": "2023-09-29T20:33:38",
-      "timeSeverityChanged": "2023-09-29T14:09:00"
+      "message": " The high ties have peaked today (30/09/2023) as such we are removing this warning. We continue to monitor the forecast and will re issue this warning if necessary on Monday as currently further high tides are forecast.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-09-30T09:10:00",
+      "timeRaised": "2023-09-30T09:10:17",
+      "timeSeverityChanged": "2023-09-30T09:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
