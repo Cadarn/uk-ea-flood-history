@@ -99,6 +99,27 @@
       "timeSeverityChanged": "2023-09-30T10:48:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
+      "description": "River Alt, Formby to Huyton",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
+        "county": "Knowsley, Lancashire, Liverpool, Sefton",
+        "notation": "012WAFAC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
+        "riverOrSea": "River Alt"
+      },
+      "floodAreaID": "012WAFAC",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Alt through Saturday night 30/09/2023 into Sunday morning 1/10/2023 due to heavy rainfall.\nAreas most at risk include River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 08:00 AM on 01/10/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-09-30T18:20:00",
+      "timeRaised": "2023-09-30T18:20:35",
+      "timeSeverityChanged": "2023-09-30T18:20:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
       "description": "Climping Seafront",
       "eaAreaName": "Solent and South Downs",
@@ -1861,6 +1882,27 @@
       "timeMessageChanged": "2023-09-30T18:07:00",
       "timeRaised": "2023-09-30T18:07:35",
       "timeSeverityChanged": "2023-09-30T18:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTPOR01",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01",
+        "county": "Somerset",
+        "notation": "112FWTPOR01",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112FWTPOR01",
+      "isTidal": true,
+      "message": "This Flood Warning has been issued as a result of a forecast update for tonight’s high spring tide. The forecast high water is 19:30 on 30/09/2023 and the forecast tide level is 6.98m AOD. The forecast wind is Force 4 south-easterly. Please note all tide times are in local time and refer to the high-water time at Hinkley Point. mAOD is height above average sea level. For more detail, please refer to local tide tables. \n\nFlooding to the quayside roads and access is expected, and conditions may apply for a period either side of the high tide. We expect flooding to affect the coastline between Gore Point and Hurlstone Point including properties on the lockside, businesses around the Harbour Masters office, Gibraltar Cottages and other low lying properties on the B3225 at Porlock Weir. Please be careful along beaches, promenades and coastal footpaths and roads as large waves could be dangerous. We are monitoring the situation and this warning will be reviewed tomorrow, 01/10/2023.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-09-30T18:41:00",
+      "timeRaised": "2023-09-30T18:42:07",
+      "timeSeverityChanged": "2023-09-30T18:41:00"
     }
   ]
 }
