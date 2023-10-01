@@ -385,12 +385,33 @@
       },
       "floodAreaID": "051WACDV4C",
       "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds.  The forecast is for no current flood risk from high tides for the next tide. There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely and issue any further warnings or alerts as necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-09-30T17:21:00",
-      "timeRaised": "2023-09-30T17:21:55",
-      "timeSeverityChanged": "2023-09-30T17:21:00"
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths may occur overnight due to high tides between 1:15am and 3:15am, Monday 2nd October.  Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.74mAODN at 2:15am, Monday 2nd October, which is 0.05m above tide tables, wind Force 4, south - westerly. (mAODN is height above average sea level, for more info refer to local tide table).  The tide on Monday 2nd October at 2:30pm is also currently forecast to be a Flood Alert, we will send a new message before that tide. You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10:00am tomorrow, Monday 2nd October. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-01T15:32:00",
+      "timeRaised": "2023-10-01T15:33:19",
+      "timeSeverityChanged": "2023-10-01T15:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
+      "description": "The north Norfolk coast from Old Hunstanton, to and including Cley",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A",
+        "county": "Norfolk",
+        "notation": "054WACDV2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2A",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths may occur tomorrow morning due to high tides between 7:45am and 9:45am, Monday 2nd October.  We expect to see water on roads and paths to beaches and on the quays in Brancaster, Burnham Overy, Holkham, Wells and Blakeney.  The detailed forecast for those that use it is for a peak level at Wells of 3.90mAODN at 08:45am, Monday 2nd October, which is 0.34m above tide tables, wind Force 2, south westerly. (mAODN is height above average sea level, for more info refer to local tide table). The tide on Monday 2nd October at 9:30pm is not currently forecast to be a Flood Alert. You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 11:00am tomorrow, Monday 2nd October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-01T15:38:00",
+      "timeRaised": "2023-10-01T15:38:40",
+      "timeSeverityChanged": "2023-10-01T15:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
@@ -412,6 +433,27 @@
       "timeMessageChanged": "2023-09-30T20:28:00",
       "timeRaised": "2023-09-30T20:28:28",
       "timeSeverityChanged": "2023-09-30T20:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
+      "description": "The Norfolk coast from Eccles on Sea, to and including, Winterton-on-Sea",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B",
+        "county": "Norfolk",
+        "notation": "054WACDV2B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2B",
+      "isTidal": true,
+      "message": "This message has been issued because some flooding to coastal roads and footpaths may occur tomorrow morning due to high tides between 7:45am and 9:45am, Monday 2nd October. High tides will mean flood gates will be closed restricting normal access to beaches around Eccles on Sea, and Sea Palling. The detailed forecast for those that use it is for a peak level at Cromer of 3.21 mAODN at 08:45am, Monday 2nd October, which is 0.46m above tide tables, wind Force 2, south - westerly. (mAODN is height above average sea level, for more info refer to local tide table). The tide on Monday 2nd October at 9:30pm is not currently forecast to be a Flood Alert. You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 11:00am tomorrow, Monday 2nd October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-01T15:47:00",
+      "timeRaised": "2023-10-01T15:48:26",
+      "timeSeverityChanged": "2023-10-01T15:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
@@ -511,11 +553,11 @@
       },
       "floodAreaID": "013WATMEW",
       "isTidal": true,
-      "message": "Tides are expected to be higher than usual due to the forecast weather conditions during spring tides on the afternoon of Sunday 1st October. \n\nAreas most at risk include low lying land and roads at Fiddlers Ferry between 13:45 and 14:15, Eastford Road between 14:00 and 14:30 and Arpley Bridge between 14:15 and 14:45. It is possible that river levels may affect Arpley Road under the railway bridge. \n\nThe next high tide is expected to be higher than normal and may result in us issuing a further alert. \n\nWe will continue to monitor the forecast and re-issue this alert if necessary. \n\nPlease be careful along footpaths and roads next to the river as they could be dangerous. \n\nThis message will be updated by 16:00 on 01-10-2023 ",
+      "message": " Tides are expected to be higher than usual due to the forecast weather conditions and spring tides tonight and early Monday morning 2nd October.\nAreas most at risk include low lying land and roads at Fiddlers Ferry between 00:30 and 01:00, Eastford Road and Arpley Bridge between 00:45 and 01:15. It is possible that river levels may affect Arpley Road under the railway bridge.\nAfter this high tide we are not expecting to issue any more alerts or warning as the tidal cycle falls.\nWe will continue to monitor the forecast and re-issue this alert if necessary.\nPlease be careful along footpaths and roads next to the river as they could be dangerous.\nThis message will be updated by 09:30 0n Monday 2nd October.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-01T09:35:00",
-      "timeRaised": "2023-10-01T09:35:24",
+      "timeMessageChanged": "2023-10-01T15:42:00",
+      "timeRaised": "2023-10-01T15:43:13",
       "timeSeverityChanged": "2023-09-27T11:44:00"
     },
     {
@@ -1288,11 +1330,11 @@
       },
       "floodAreaID": "034FWBTRALKBRFLT",
       "isTidal": false,
-      "message": "River levels are rising at the Keadby river gauge as a result of high spring tides and strong winds causing a tidal surge. Flooding is expected on high tides at 08:45 AM on 01/10/2023 and 09:15 AM on 02/10/2023 at Keadby. The area most at risk is the Alkborough Flats. The Keadby river gauge is forecast to overtop the lower spillway and result in flooding. We expect river levels to peak on the high tide at 09:00 AM on 01/10/2023 and 09:45 AM on 02/10/2023 at Keadby. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area. Please avoid using low-lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 3:00 PM on 01/10/2023, or as the situation changes.",
+      "message": "River levels are forecast to rise at the Keadby river gauge as a result of high spring tides and strong winds causing a tidal surge. Flooding is expected on high tides at 09:15 AM on 02/10/2023 at Keadby. The area most at risk is the Alkborough Flats. The Keadby river gauge is forecast to overtop the lower spillway and result in flooding. We expect river levels to peak on the high tide at 09:45 AM on 02/10/2023 at Keadby. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area. Please avoid using low-lying footpaths near local watercourses and avoid contact with flood water. This message will be updated by 11:00 PM on 01/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-01T07:13:00",
-      "timeRaised": "2023-10-01T07:13:40",
+      "timeMessageChanged": "2023-10-01T15:52:00",
+      "timeRaised": "2023-10-01T15:52:10",
       "timeSeverityChanged": "2023-09-29T15:00:00"
     },
     {
