@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
+      "description": "Rivers Brathay, Rothay and Winster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
+        "county": "Westmorland and Furness",
+        "notation": "011WAFBR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
+        "riverOrSea": "River Brathay, River Rothay, River Winster"
+      },
+      "floodAreaID": "011WAFBR",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-05T17:42:00",
+      "timeRaised": "2023-10-05T17:43:04",
+      "timeSeverityChanged": "2023-10-05T17:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -34,27 +55,6 @@
       "timeMessageChanged": "2023-10-05T11:54:00",
       "timeRaised": "2023-10-05T11:54:30",
       "timeSeverityChanged": "2023-09-19T18:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF3408",
-      "description": "Mansbridge and Woodmill on the River Itchen",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF3408",
-        "county": "Hampshire, Southampton",
-        "notation": "065FWF3408",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF3408/polygon",
-        "riverOrSea": "River Itchen"
-      },
-      "floodAreaID": "065FWF3408",
-      "isTidal": false,
-      "message": "This Warning was issued in error due to a spike in data.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-04T17:48:00",
-      "timeRaised": "2023-10-04T17:48:31",
-      "timeSeverityChanged": "2023-10-04T17:48:00"
     }
   ]
 }
