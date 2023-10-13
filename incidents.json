@@ -15,47 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
-      "description": "Upper Tame",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
-        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
-        "notation": "033WAF303",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
-        "riverOrSea": "River Tame, Ford Brook"
-      },
-      "floodAreaID": "033WAF303",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-13T09:13:00",
-      "timeRaised": "2023-10-13T09:13:21",
-      "timeSeverityChanged": "2023-10-13T09:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF340",
-      "description": "Upper Tame at Sandwell Valley",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340",
-        "county": "Birmingham, Sandwell",
-        "notation": "033WAF340",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340/polygon"
-      },
-      "floodAreaID": "033WAF340",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-13T06:42:00",
-      "timeRaised": "2023-10-13T06:43:05",
-      "timeSeverityChanged": "2023-10-13T06:42:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF301",
       "description": "River Cole",
       "eaAreaName": "West Midlands",
@@ -75,27 +34,6 @@
       "timeMessageChanged": "2023-10-13T10:12:00",
       "timeRaised": "2023-10-13T10:12:36",
       "timeSeverityChanged": "2023-10-13T10:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
-      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
-        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
-        "notation": "033WAF330",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
-        "riverOrSea": "River Stour, Smestow Brook"
-      },
-      "floodAreaID": "033WAF330",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-13T07:12:00",
-      "timeRaised": "2023-10-13T07:13:13",
-      "timeSeverityChanged": "2023-10-13T07:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
@@ -138,6 +76,68 @@
       "timeMessageChanged": "2023-10-13T12:27:00",
       "timeRaised": "2023-10-13T12:28:02",
       "timeSeverityChanged": "2023-10-13T12:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF303",
+      "description": "Upper Tame",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303",
+        "county": "Birmingham, Dudley, Sandwell, Solihull, Walsall, Warwickshire, Wolverhampton",
+        "notation": "033WAF303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF303/polygon",
+        "riverOrSea": "River Tame, Ford Brook"
+      },
+      "floodAreaID": "033WAF303",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-13T09:13:00",
+      "timeRaised": "2023-10-13T09:13:21",
+      "timeSeverityChanged": "2023-10-13T09:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-13T07:12:00",
+      "timeRaised": "2023-10-13T07:13:13",
+      "timeSeverityChanged": "2023-10-13T07:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF340",
+      "description": "Upper Tame at Sandwell Valley",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340",
+        "county": "Birmingham, Sandwell",
+        "notation": "033WAF340",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF340/polygon"
+      },
+      "floodAreaID": "033WAF340",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-13T06:42:00",
+      "timeRaised": "2023-10-13T06:43:05",
+      "timeSeverityChanged": "2023-10-13T06:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -279,12 +279,12 @@
       },
       "floodAreaID": "052WATCSTHUN",
       "isTidal": true,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-13T00:13:00",
-      "timeRaised": "2023-10-13T00:13:20",
-      "timeSeverityChanged": "2023-10-13T00:13:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-13T16:26:00",
+      "timeRaised": "2023-10-13T16:26:21",
+      "timeSeverityChanged": "2023-10-13T16:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
@@ -453,6 +453,27 @@
       "timeMessageChanged": "2023-10-12T13:12:00",
       "timeRaised": "2023-10-12T13:13:05",
       "timeSeverityChanged": "2023-10-12T13:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low-lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. Environment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-13T16:41:00",
+      "timeRaised": "2023-10-13T16:41:48",
+      "timeSeverityChanged": "2023-10-13T16:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF204",
