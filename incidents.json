@@ -203,6 +203,27 @@
       "timeSeverityChanged": "2023-10-13T11:42:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
+      "description": "River Alt, Formby to Huyton",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
+        "county": "Knowsley, Lancashire, Liverpool, Sefton",
+        "notation": "012WAFAC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
+        "riverOrSea": "River Alt"
+      },
+      "floodAreaID": "012WAFAC",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-13T13:42:00",
+      "timeRaised": "2023-10-13T13:43:10",
+      "timeSeverityChanged": "2023-10-13T13:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
       "description": "Hunstanton coast in Norfolk",
       "eaAreaName": "East Anglia",
@@ -557,6 +578,27 @@
       "timeMessageChanged": "2023-10-13T12:43:00",
       "timeRaised": "2023-10-13T12:43:21",
       "timeSeverityChanged": "2023-10-13T12:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. Environment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-13T13:19:00",
+      "timeRaised": "2023-10-13T13:19:52",
+      "timeSeverityChanged": "2023-10-13T13:19:00"
     }
   ]
 }
