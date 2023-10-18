@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
+      "description": "River Rea",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300",
+        "county": "Birmingham",
+        "notation": "033WAF300",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF300/polygon",
+        "riverOrSea": "River Rea"
+      },
+      "floodAreaID": "033WAF300",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-18T22:12:00",
+      "timeRaised": "2023-10-18T22:13:15",
+      "timeSeverityChanged": "2023-10-18T22:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
       "description": "Christchurch Harbour",
       "eaAreaName": "Wessex",
@@ -223,6 +244,27 @@
       "timeMessageChanged": "2023-10-18T06:27:00",
       "timeRaised": "2023-10-18T06:27:55",
       "timeSeverityChanged": "2023-10-18T06:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF4AC",
+      "description": "The Rivers Deben and Lark",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF4AC",
+        "county": "Suffolk",
+        "notation": "054WAFSF4AC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF4AC/polygon",
+        "riverOrSea": "River Deben, River Lark"
+      },
+      "floodAreaID": "054WAFSF4AC",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-18T22:12:00",
+      "timeRaised": "2023-10-18T22:12:41",
+      "timeSeverityChanged": "2023-10-18T22:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
