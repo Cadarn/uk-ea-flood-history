@@ -769,6 +769,27 @@
       "timeSeverityChanged": "2023-10-19T23:42:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
+      "description": "Coast from Silloth to St Bees",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2",
+        "county": "Cumberland",
+        "notation": "011WACN2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN2/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN2",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-20T03:12:00",
+      "timeRaised": "2023-10-20T03:12:55",
+      "timeSeverityChanged": "2023-10-20T03:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
       "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
       "eaAreaName": "Yorkshire",
@@ -2131,6 +2152,27 @@
       "timeMessageChanged": "2023-10-20T02:12:00",
       "timeRaised": "2023-10-20T02:13:09",
       "timeSeverityChanged": "2023-10-20T02:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAF118TBC",
+      "description": "Bain catchment",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAF118TBC",
+        "county": "Lincolnshire",
+        "notation": "053WAF118TBC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAF118TBC/polygon",
+        "riverOrSea": "River Bain, River Waring, Haltham Beck, Scrivelsby"
+      },
+      "floodAreaID": "053WAF118TBC",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-20T03:13:00",
+      "timeRaised": "2023-10-20T03:13:27",
+      "timeSeverityChanged": "2023-10-20T03:13:00"
     }
   ]
 }
