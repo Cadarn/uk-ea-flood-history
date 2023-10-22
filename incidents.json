@@ -15,6 +15,90 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
+      "description": "Upper Bristol Avon area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
+        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
+        "notation": "112WAFTUBA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
+        "riverOrSea": "Bristol River Avon"
+      },
+      "floodAreaID": "112WAFTUBA",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T10:38:00",
+      "timeRaised": "2023-10-22T10:39:04",
+      "timeSeverityChanged": "2023-10-22T10:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-14T06:42:00",
+      "timeRaised": "2023-10-14T06:42:58",
+      "timeSeverityChanged": "2023-10-14T06:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
+      "description": "River Leadon catchment",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
+        "county": "Gloucestershire, Herefordshire, Worcestershire",
+        "notation": "031WAF213",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
+        "riverOrSea": "Leadon, Glynch"
+      },
+      "floodAreaID": "031WAF213",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-19T23:42:00",
+      "timeRaised": "2023-10-19T23:43:04",
+      "timeSeverityChanged": "2023-10-19T23:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF986",
+      "description": "River Doe Lea catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF986",
+        "county": "Derbyshire, Nottinghamshire",
+        "notation": "123WAF986",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF986/polygon",
+        "riverOrSea": "River Doe Lea"
+      },
+      "floodAreaID": "123WAF986",
+      "isTidal": false,
+      "message": "The risk of flooding from Storm Babet has now passed. As a result, there is a reduced risk of flooding in the area and this Flood Alert has now been removed. \n\nA further period of unsettled weather is expected from Tuesday. We are not currently anticipating any impacts but will continue to monitor the forecast and will re-issue this Flood Alert if necessary.\n\n Take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T09:38:00",
+      "timeRaised": "2023-10-22T09:38:42",
+      "timeSeverityChanged": "2023-10-22T09:38:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF301",
       "description": "River Cole",
       "eaAreaName": "West Midlands",
@@ -34,48 +118,6 @@
       "timeMessageChanged": "2023-10-22T11:43:00",
       "timeRaised": "2023-10-22T11:43:36",
       "timeSeverityChanged": "2023-10-22T11:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF426",
-      "description": "Loughborough urban watercourses and local tributaries to the River Soar",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426",
-        "county": "Leicestershire, Nottinghamshire",
-        "notation": "034WAF426",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426/polygon",
-        "riverOrSea": "Black Brook"
-      },
-      "floodAreaID": "034WAF426",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.\nWe continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-22T18:19:00",
-      "timeRaised": "2023-10-22T18:19:41",
-      "timeSeverityChanged": "2023-10-22T18:19:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
-      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417",
-        "county": "Nottingham, Nottinghamshire",
-        "notation": "034WAF417",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
-        "riverOrSea": "River Leen, Day Brook, Tottle Brook"
-      },
-      "floodAreaID": "034WAF417",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further light rainfall is forecast over the next 24 hours.  \nWe continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-22T16:10:00",
-      "timeRaised": "2023-10-22T16:11:02",
-      "timeSeverityChanged": "2023-10-22T16:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
@@ -120,25 +162,46 @@
       "timeSeverityChanged": "2023-10-19T03:57:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
-      "description": "River Cole and Dorcan Brook",
-      "eaAreaName": "Thames",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
+      "description": "Tributaries in South Derbyshire",
+      "eaAreaName": "East Midlands",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
-        "county": "Oxfordshire, Swindon",
-        "notation": "061WAF07Cole",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
-        "riverOrSea": "River Cole"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
+        "county": "Derby, Derbyshire, Leicestershire, Staffordshire",
+        "notation": "034WAF411",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
+        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
       },
-      "floodAreaID": "061WAF07Cole",
+      "floodAreaID": "034WAF411",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "message": "River levels remain high but are beginning to fall at the Derby Bridge Street river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads around the tributaries to the River Derwent and River Trent in South Derbyshire, including Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook.   \n\nNo further significant rainfall is forecast.  River levels are falling, but still pose a flood risk.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 tomorrow morning, 23/10/2023, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-20T05:43:00",
-      "timeRaised": "2023-10-20T05:43:37",
-      "timeSeverityChanged": "2023-10-20T05:43:00"
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:34",
+      "timeSeverityChanged": "2023-10-19T19:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF423",
+      "description": "River Erewash Tributaries in Derbyshire and Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423",
+        "county": "Derbyshire, Nottinghamshire",
+        "notation": "034WAF423",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423/polygon",
+        "riverOrSea": "Golden Brook, Beauvale Brook, Bailey Brook, Boundary Brook, Golden Stream"
+      },
+      "floodAreaID": "034WAF423",
+      "isTidal": false,
+      "message": "River levels remain high but are beginning to fall at the Trowell river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads around the tributaries to the River Erewash near the border of Derbyshire and Nottinghamshire, including Golden Brook and Stream, Boundary Brook, Nut Brook, Bailey Brook, Beauvale Brook and Nether Green Brook.   \n\nNo further significant rainfall is forecast.  River levels are falling, but still pose a flood risk.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 tomorrow morning, 23/10/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-22T20:43:00",
+      "timeRaised": "2023-10-22T20:44:06",
+      "timeSeverityChanged": "2023-10-19T19:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF429",
@@ -154,12 +217,54 @@
       },
       "floodAreaID": "034WAF429",
       "isTidal": false,
-      "message": " River levels remain high but are beginning to fall at the Lowdham river gauge as a result of Storm BABET. Consequently, flooding of roads and farmland continues.\nAreas most at risk are low-lying agricultural land and roads around the tributaries of the River Trent in Nottinghamshire, the River Greet, Potwell Dyke, Dover Beck, Cocker Beck, Woodborough Brook, Ouse Dyke, Thurgarton Beck and others.\nFurther light rainfall is forecast over the next 24 hours. \nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\nThis message will be updated by 02:00 on 23/10/23, or as the situation changes.\n",
+      "message": "River levels are falling at the Lowdham river gauge as a result of Storm Babet. The risk of flooding of roads and farmland continues.\nAreas most at risk are low-lying agricultural land and roads around the tributaries of the River Trent in Nottinghamshire, the River Greet, Potwell Dyke, Dover Beck, Cocker Beck, Woodborough Brook, Ouse Dyke, Thurgarton Beck and others.\nFurther rainfall is forecast over the next 24 hours. \nWe are closely monitoring the situation.\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\nThis message will be updated by 09:00 on 23/10/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-22T02:09:00",
-      "timeRaised": "2023-10-22T02:10:05",
+      "timeMessageChanged": "2023-10-22T20:54:00",
+      "timeRaised": "2023-10-22T20:54:22",
       "timeSeverityChanged": "2023-10-19T18:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF417",
+      "description": "River Leen, Day Brook and Tottle Brook in Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417",
+        "county": "Nottingham, Nottinghamshire",
+        "notation": "034WAF417",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF417/polygon",
+        "riverOrSea": "River Leen, Day Brook, Tottle Brook"
+      },
+      "floodAreaID": "034WAF417",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further light rainfall is forecast over the next 24 hours.  \nWe continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T16:10:00",
+      "timeRaised": "2023-10-22T16:11:02",
+      "timeSeverityChanged": "2023-10-22T16:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF426",
+      "description": "Loughborough urban watercourses and local tributaries to the River Soar",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426",
+        "county": "Leicestershire, Nottinghamshire",
+        "notation": "034WAF426",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF426/polygon",
+        "riverOrSea": "Black Brook"
+      },
+      "floodAreaID": "034WAF426",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  River levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.\nWe continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T18:19:00",
+      "timeRaised": "2023-10-22T18:19:41",
+      "timeSeverityChanged": "2023-10-22T18:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF410",
@@ -183,46 +288,25 @@
       "timeSeverityChanged": "2023-10-22T19:55:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
-      "description": "Tributaries in South Derbyshire",
-      "eaAreaName": "East Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
+      "description": "River Cole and Dorcan Brook",
+      "eaAreaName": "Thames",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
-        "county": "Derby, Derbyshire, Leicestershire, Staffordshire",
-        "notation": "034WAF411",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
-        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
+        "county": "Oxfordshire, Swindon",
+        "notation": "061WAF07Cole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
+        "riverOrSea": "River Cole"
       },
-      "floodAreaID": "034WAF411",
+      "floodAreaID": "061WAF07Cole",
       "isTidal": false,
-      "message": " River levels are beginning to fall, however flooding of roads, paths and farmland remains likely this weekend.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nAreas most at risk are low-lying agricultural land and roads around the tributaries to the River Derwent and River Trent in South Derbyshire, including Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook.\n\nLittle rainfall is forecast over the rest of the weekend so river levels should continue to fall.\n\nWe continue to closely monitor the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\n\nThis message will be updated by 16:00 on 22/10/23, or as the situation changes.",
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T19:30:00",
-      "timeRaised": "2023-10-21T19:30:50",
-      "timeSeverityChanged": "2023-10-19T19:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF423",
-      "description": "River Erewash Tributaries in Derbyshire and Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423",
-        "county": "Derbyshire, Nottinghamshire",
-        "notation": "034WAF423",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423/polygon",
-        "riverOrSea": "Golden Brook, Beauvale Brook, Bailey Brook, Boundary Brook, Golden Stream"
-      },
-      "floodAreaID": "034WAF423",
-      "isTidal": false,
-      "message": " River levels are falling, however flooding of roads, paths and farmland remains possible this weekend.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nAreas most at risk are low-lying agricultural land and roads around the tributaries to the River Erewash near the border of Derbyshire and Nottinghamshire, including Golden Brook and Stream, Boundary Brook, Nut Brook, Bailey Brook, Beauvale Brook and Nether Green Brook.\n\nLittle rainfall is forecast over the rest of the weekend so river levels should continue to fall.\n\nWe continue to closely monitor the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\n\nThis message will be updated by 16:00 on 22/10/23, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T21:14:00",
-      "timeRaised": "2023-10-21T21:14:41",
-      "timeSeverityChanged": "2023-10-19T19:13:00"
+      "timeMessageChanged": "2023-10-20T05:43:00",
+      "timeRaised": "2023-10-20T05:43:37",
+      "timeSeverityChanged": "2023-10-20T05:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -700,11 +784,11 @@
       },
       "floodAreaID": "034WAF409",
       "isTidal": false,
-      "message": " River levels remain high; therefore flooding of roads, paths and farmland also remains likely this weekend.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nAreas most at risk are low-lying agricultural land and roads including Church Wilne, Draycott, and Wilne Lane between Draycott and Sawley.\n\nLittle rainfall is forecast over the rest of the weekend so river levels should fall. Although some rain on Tuesday could mean they rise again.\n\nWe continue to closely monitor the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\n\nThis message will be updated by 16:00 on 22/10/23, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall at the Church Wilne river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads including Church Wilne, Draycott, and Wilne Lane between Draycott and Sawley.   \n\nNo further significant rainfall is forecast.  River levels are falling, but still pose a flood risk.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 tomorrow morning, 23/10/2023, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T18:42:00",
-      "timeRaised": "2023-10-21T18:43:08",
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:36",
       "timeSeverityChanged": "2023-10-19T19:15:00"
     },
     {
@@ -721,11 +805,11 @@
       },
       "floodAreaID": "034WAF408",
       "isTidal": false,
-      "message": "River levels are falling, however the river level at the Ashford gauge is still above Flood Alert threshold. Consequently, flooding of roads, paths and farmland remains possible.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nAreas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas.\n\nLittle rainfall is forecast over the rest of the weekend so river levels will continue to fall.\n\nWe continue to closely monitor the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\n\nThis message will be updated by 18:00 on 22/10/23, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall at the Ashford river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads including Ashford and Bakewell areas.   \n\nNo further significant rainfall is forecast.  River levels are falling, but still pose a flood risk.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 tomorrow morning, 23/10/2023, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T17:42:00",
-      "timeRaised": "2023-10-21T17:43:02",
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:45",
       "timeSeverityChanged": "2023-10-19T19:15:00"
     },
     {
@@ -784,11 +868,11 @@
       },
       "floodAreaID": "122WAF946",
       "isTidal": false,
-      "message": "River levels are now peaking, but remain high on the Upper River Ouse due to persistent and heavy rainfall associated with Storm Babet. Areas most at risk include riverside footpaths and low lying land in York and to the south as far as Naburn Lock, including King's Staith, Queen's Staith and South Esplanade. Our incident rooms are open and we are carrying out operational activity, including operating the Foss Barrier. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 8:30 PM on 22/10/2023, or as the situation changes.",
+      "message": "River levels in York have peaked and are now slowly falling. Areas most at risk include riverside footpaths and low lying land in York and to the south as far as Naburn Lock, including Kings Staith, Queens Staith and South Esplanade. Our duty officers continue to monitor and we carry out operational activity, including operating the Foss Barrier. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 9am on 23/10/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-22T12:38:00",
-      "timeRaised": "2023-10-22T12:38:22",
+      "timeMessageChanged": "2023-10-22T20:19:00",
+      "timeRaised": "2023-10-22T20:20:08",
       "timeSeverityChanged": "2023-10-20T11:04:00"
     },
     {
@@ -897,27 +981,6 @@
       "timeSeverityChanged": "2023-10-22T12:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
-      "description": "River Leadon catchment",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
-        "county": "Gloucestershire, Herefordshire, Worcestershire",
-        "notation": "031WAF213",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
-        "riverOrSea": "Leadon, Glynch"
-      },
-      "floodAreaID": "031WAF213",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-19T23:42:00",
-      "timeRaised": "2023-10-19T23:43:04",
-      "timeSeverityChanged": "2023-10-19T23:42:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWFNF3D",
       "description": "The River Yare from the A11 at Cringleford to Trowse Newton",
       "eaAreaName": "East Anglia",
@@ -958,27 +1021,6 @@
       "timeMessageChanged": "2023-10-21T21:12:00",
       "timeRaised": "2023-10-21T21:13:09",
       "timeSeverityChanged": "2023-10-21T21:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-14T06:42:00",
-      "timeRaised": "2023-10-14T06:42:58",
-      "timeSeverityChanged": "2023-10-14T06:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF1B",
@@ -1182,12 +1224,12 @@
       },
       "floodAreaID": "031WAF119",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-20T20:13:00",
-      "timeRaised": "2023-10-20T20:14:13",
-      "timeSeverityChanged": "2023-10-20T20:13:00"
+      "message": "This Flood Alert has been removed.  \nThere is no longer a threat of flooding, though standing water and debris may still remain.    \nWe continue to monitor the situation.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:28:00",
+      "timeRaised": "2023-10-22T20:28:25",
+      "timeSeverityChanged": "2023-10-22T20:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
@@ -1203,12 +1245,12 @@
       },
       "floodAreaID": "031WAF120",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T12:57:00",
-      "timeRaised": "2023-10-21T12:57:59",
-      "timeSeverityChanged": "2023-10-21T12:57:00"
+      "message": "This Flood Alert has been removed.  \nThere is no longer a threat of flooding, though standing water and debris may still remain.    \nWe continue to monitor the situation.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:27:00",
+      "timeRaised": "2023-10-22T20:28:00",
+      "timeSeverityChanged": "2023-10-22T20:27:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDEE",
@@ -1245,11 +1287,11 @@
       },
       "floodAreaID": "122WAF947",
       "isTidal": false,
-      "message": "River levels remain high on the tidal River Ouse due to persistent and heavy rainfall associated with Storm Babet. Areas most at risk include the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. Our incident rooms are open and we are carrying out operational activity, including operating the Foss Barrier in York. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 8:30 PM on 22/10/2023, or as the situation changes.",
+      "message": "River levels remain high on the tidal River Ouse due to persistent and heavy rainfall associated with Storm Babet. Areas most at risk include the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. Our duty officers continue to monitor and we carry out operational activity, including operating the Foss Barrier. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 9am on 23/10/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-22T12:38:00",
-      "timeRaised": "2023-10-22T12:38:18",
+      "timeMessageChanged": "2023-10-22T20:22:00",
+      "timeRaised": "2023-10-22T20:22:59",
       "timeSeverityChanged": "2023-10-20T11:08:00"
     },
     {
@@ -1715,27 +1757,6 @@
       "timeSeverityChanged": "2023-10-22T11:42:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
-      "description": "Upper Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
-        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
-        "notation": "112WAFTUBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTUBA",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-22T10:38:00",
-      "timeRaised": "2023-10-22T10:39:04",
-      "timeSeverityChanged": "2023-10-22T10:38:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFDAU10A",
       "description": "Dauntsey Brook at Dauntsey, Old Sodom Lane and The Green areas",
       "eaAreaName": "Wessex",
@@ -1770,11 +1791,11 @@
       },
       "floodAreaID": "034WAF414",
       "isTidal": false,
-      "message": " River levels remain high; above thresholds at Willington [Cableway] and Shardlow gauges. Therefore flooding of roads, paths and farmland also remains likely this weekend.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nAreas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane, and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane.\n\nLittle rainfall is forecast over the rest of the weekend so river levels are expected to fall over the next few days, once water has passed through the upstream catchments.\n\nWe continue to closely monitor the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\n\nThis message will be updated by 16:00 on 22/10/23, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall at the Willington Cableway river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads including Willington, Ingleby, Barrow upon Trent, Swarkestone, the B5008 at Willington, the access frontage at Swarkestone, the A5132 between Willington and Barrow, and Meadow Lane.   \n\nNo further significant rainfall is forecast.  River levels are falling, but still pose a flood risk.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 tomorrow morning, 23/10/2023, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T20:55:00",
-      "timeRaised": "2023-10-21T20:55:10",
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:25",
       "timeSeverityChanged": "2023-10-19T19:14:00"
     },
     {
@@ -2274,11 +2295,11 @@
       },
       "floodAreaID": "034WAF432",
       "isTidal": false,
-      "message": " River levels are falling, however the river level at the Wingfield Park gauge is still above Flood Alert threshold. Consequently, flooding of roads, paths and farmland remains possible.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nAreas most at risk are low-lying agricultural land and roads along the River Amber around Ambergate.\n\nLittle rainfall is forecast over the rest of the weekend so river levels will continue to fall.\n\nWe continue to closely monitor the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services.\n\nThis message will be updated by 16:00 on 22/10/23, or as the situation changes.",
+      "message": "River levels remain high but are beginning to fall at the Wingfield Park river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads along the River Amber around Ambergate.   \n\nNo further significant rainfall is forecast.  River levels are falling, but still pose a flood risk.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \n\nThis message will be updated by 09:00 tomorrow morning, 23/10/2023, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T19:50:00",
-      "timeRaised": "2023-10-21T19:50:52",
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:15",
       "timeSeverityChanged": "2023-10-19T19:14:00"
     },
     {
@@ -2343,27 +2364,6 @@
       "timeMessageChanged": "2023-10-22T19:02:00",
       "timeRaised": "2023-10-22T19:03:35",
       "timeSeverityChanged": "2023-10-19T20:56:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF986",
-      "description": "River Doe Lea catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF986",
-        "county": "Derbyshire, Nottinghamshire",
-        "notation": "123WAF986",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF986/polygon",
-        "riverOrSea": "River Doe Lea"
-      },
-      "floodAreaID": "123WAF986",
-      "isTidal": false,
-      "message": "The risk of flooding from Storm Babet has now passed. As a result, there is a reduced risk of flooding in the area and this Flood Alert has now been removed. \n\nA further period of unsettled weather is expected from Tuesday. We are not currently anticipating any impacts but will continue to monitor the forecast and will re-issue this Flood Alert if necessary.\n\n Take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-22T09:38:00",
-      "timeRaised": "2023-10-22T09:38:42",
-      "timeSeverityChanged": "2023-10-22T09:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
@@ -2868,27 +2868,6 @@
       "timeMessageChanged": "2023-10-21T21:19:00",
       "timeRaised": "2023-10-21T21:19:44",
       "timeSeverityChanged": "2023-10-21T21:19:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF934",
-      "description": "Lower Dunsforth Access",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF934",
-        "county": "North Yorkshire",
-        "notation": "122WAF934",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF934/polygon",
-        "riverOrSea": "River Ure"
-      },
-      "floodAreaID": "122WAF934",
-      "isTidal": false,
-      "message": "This flood alert has been removed as levels have fallen below levels of concern. We are continuing to monitor the forecast and will re-issue this alert if necessary. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-21T20:31:00",
-      "timeRaised": "2023-10-21T20:32:05",
-      "timeSeverityChanged": "2023-10-21T20:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3WATERHEAD",
@@ -3449,12 +3428,12 @@
       },
       "floodAreaID": "034FWFRYSCROOBY",
       "isTidal": false,
-      "message": " River levels remain high but are beginning to fall at the Blyth river gauge as a result of Storm BABET. Flooding continues. \nAreas most at risk are Scrooby, including Serlby.   \nNo further rainfall is forecast today.  We expect river levels to remain high until later this evening 22/10/23.\nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. \nThis message will be updated by this evening, 22/10/23, or as the situation changes.\n\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T08:19:00",
-      "timeRaised": "2023-10-22T08:19:38",
-      "timeSeverityChanged": "2023-10-20T11:31:00"
+      "message": "This Flood Warning has been removed.  \nRiver levels continue to fall and are below the flood risk threshold, however standing water may still be present for a number of days. Avoid any flood water from rivers and surrounding areas, this may contain hazards. The Flood Warning has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low-lying land.  Further rainfall is forecast on Tuesday, 24/10/2023.  \nWe continue to monitor the situation.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:31:00",
+      "timeRaised": "2023-10-22T20:31:42",
+      "timeSeverityChanged": "2023-10-22T20:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF1",
@@ -3617,12 +3596,12 @@
       },
       "floodAreaID": "031FWFTE70",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-10-20T12:29:00",
-      "timeRaised": "2023-10-20T12:30:11",
-      "timeSeverityChanged": "2023-10-20T12:29:00"
+      "message": "This Flood Warning has been removed.  \nHowever, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.    \nWe continue to monitor the situation.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:59",
+      "timeSeverityChanged": "2023-10-22T20:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF209",
@@ -4435,12 +4414,12 @@
       },
       "floodAreaID": "031WAF115",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-20T14:58:00",
-      "timeRaised": "2023-10-20T14:58:42",
-      "timeSeverityChanged": "2023-10-20T14:58:00"
+      "message": "This Flood Alert has been removed.  \nThere is no longer a threat of flooding, though standing water and debris may still remain.    \nWe continue to monitor the situation.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:44:00",
+      "timeRaised": "2023-10-22T20:44:54",
+      "timeSeverityChanged": "2023-10-22T20:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053FWFPLWI04",
@@ -4687,12 +4666,12 @@
       },
       "floodAreaID": "055FWFEWGL01",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding. Please take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have. Environment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.  ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-10-20T16:25:00",
-      "timeRaised": "2023-10-20T16:25:18",
-      "timeSeverityChanged": "2023-10-20T16:25:00"
+      "message": " Following heavy rainfall on 20th October 2023, we are now seeing an improving situation and river levels are dropping. There may be standing water in low lying areas and fields for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:18:00",
+      "timeRaised": "2023-10-22T20:18:37",
+      "timeSeverityChanged": "2023-10-22T20:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053FWFPLWI12",
@@ -4708,12 +4687,12 @@
       },
       "floodAreaID": "053FWFPLWI12",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday, 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:29:00",
-      "timeRaised": "2023-10-22T16:29:25",
-      "timeSeverityChanged": "2023-10-20T16:29:00"
+      "message": " Following heavy rainfall on 20th October 2023, we are now seeing an improving situation and river levels are dropping. There may be standing water in low lying areas and fields for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-22T20:56:00",
+      "timeRaised": "2023-10-22T20:57:06",
+      "timeSeverityChanged": "2023-10-22T20:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3BLYTH007",
@@ -5632,11 +5611,11 @@
       },
       "floodAreaID": "122FWF712",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels are peaking this morning around 3.6m at York Viking Recorder. Areas most at risk include riverside properties around Queen's Staith, around Tower Gardens and St George's Field and Rowntree Park. Flood gates are closed throughout the city. Our incident room is open and we are carrying out operational activity, including operating the Foss barrier. Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 8:30 PM on 22/10/2023, or as the situation changes.",
+      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels peaked at 3.6m at York Viking Recorder and are now falling slowly. Areas most at risk include riverside properties around Queen's Staith, around Tower Gardens and St George's Field and Rowntree Park. Flood gates are closed throughout the city. Our duty officers continue to monitor and we carry out operational activity, including operating the Foss Barrier. Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 9am on 23/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T12:38:00",
-      "timeRaised": "2023-10-22T12:38:07",
+      "timeMessageChanged": "2023-10-22T20:31:00",
+      "timeRaised": "2023-10-22T20:31:51",
       "timeSeverityChanged": "2023-10-20T21:58:00"
     },
     {
@@ -5695,11 +5674,11 @@
       },
       "floodAreaID": "122FWF710",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels are peaking this morning around 3.6m at York Viking Recorder. Areas most at risk include riverside properties through central York. Flood gates are closed throughout the city. Our incident room is open and we are carrying out operational activity, including operating the Foss Barrier. Flood gates near the river remain closed.  Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 8:30 PM on 22/10/2023, or as the situation changes.",
+      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels peaked at 3.6m at York Viking Recorder and are now falling slowly. Areas most at risk include riverside properties through central York. Flood gates are closed throughout the city. Our duty officers continue to monitor and we carry out operational activity, including operating the Foss Barrier. Flood gates near the river remain closed. Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 9am on 23/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T12:37:00",
-      "timeRaised": "2023-10-22T12:37:49",
+      "timeMessageChanged": "2023-10-22T20:27:00",
+      "timeRaised": "2023-10-22T20:27:52",
       "timeSeverityChanged": "2023-10-20T21:55:00"
     },
     {
@@ -6310,27 +6289,6 @@
       "timeMessageChanged": "2023-10-22T18:38:00",
       "timeRaised": "2023-10-22T18:38:19",
       "timeSeverityChanged": "2023-10-22T18:38:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF620",
-      "description": "Pickering Beck riverside properties at Pickering",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF620",
-        "county": "North Yorkshire",
-        "notation": "122FWF620",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF620/polygon",
-        "riverOrSea": "Pickering Beck"
-      },
-      "floodAreaID": "122FWF620",
-      "isTidal": false,
-      "message": "This flood warning has been removed as levels have fallen below levels of concern. We are continuing to monitor the forecast and will re-issue this warning if necessary. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-21T20:23:00",
-      "timeRaised": "2023-10-21T20:23:33",
-      "timeSeverityChanged": "2023-10-21T20:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF655",
@@ -7732,11 +7690,11 @@
       },
       "floodAreaID": "034FWFTRFARNWYK",
       "isTidal": false,
-      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues.\nAreas most at risk are Farndon, including Wyke Lane, Marsh Lane, Farndon Road and Dorner Avenue.\nNo further rainfall is forecast today.  We expect river levels to remain high until later this evening 22/10/23.\nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. \nThis message will be updated by this evening, 22/10/23, or as the situation changes.\n ",
+      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues. Areas most at risk are Farndon, including Wyke Lane, Marsh Lane, Farndon Road and Dorner Avenue. No further rainfall is forecast today. We expect river levels to remain high until tomorrow, 23/10/2023. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. This message will be updated tomorrow morning, 23/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T13:13:00",
-      "timeRaised": "2023-10-22T13:14:07",
+      "timeMessageChanged": "2023-10-22T20:50:00",
+      "timeRaised": "2023-10-22T20:50:17",
       "timeSeverityChanged": "2023-10-21T12:13:00"
     },
     {
@@ -7795,11 +7753,11 @@
       },
       "floodAreaID": "034FWFTRFISKMILL",
       "isTidal": false,
-      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues.\nAreas most at risk are Fiskerton Mill, including Rolleston Fields, Gorse, and Nurseries.   \nNo further rainfall is forecast today.  We expect river levels to remain high until later this evening 22/10/23.\nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. \nThis message will be updated by this evening, 22/10/23, or as the situation changes.\n ",
+      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues. Areas most at risk are Fiskerton Mill, including Rolleston Fields, Gorse, and Nurseries. No further rainfall is forecast today. We expect river levels to remain high until tomorrow, 23/10/2023. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. This message will be updated tomorrow morning, 23/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T13:19:00",
-      "timeRaised": "2023-10-22T13:20:05",
+      "timeMessageChanged": "2023-10-22T20:54:00",
+      "timeRaised": "2023-10-22T20:55:03",
       "timeSeverityChanged": "2023-10-21T12:14:00"
     },
     {
@@ -7822,27 +7780,6 @@
       "timeMessageChanged": "2023-10-21T12:20:00",
       "timeRaised": "2023-10-21T12:20:43",
       "timeSeverityChanged": "2023-10-21T12:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF621",
-      "description": "Pickering Beck at Pickering",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF621",
-        "county": "North Yorkshire",
-        "notation": "122FWF621",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF621/polygon",
-        "riverOrSea": "Pickering Beck"
-      },
-      "floodAreaID": "122FWF621",
-      "isTidal": false,
-      "message": "This flood warning has been removed as levels have fallen below levels of concern. We are continuing to monitor the forecast and will re-issue this alert if necessary. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-21T20:23:00",
-      "timeRaised": "2023-10-21T20:23:28",
-      "timeSeverityChanged": "2023-10-21T20:23:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE470",
@@ -7921,11 +7858,11 @@
       },
       "floodAreaID": "122FWF723",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels are peaking this morning around 3.6m at York Viking Recorder. Areas most at risk include riverside properties around Naburn Lock where flooding may occur. Our incident room is open and we are closely monitoring the situation and carrying out operations. Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 8:30 PM on 22/10/2023, or as the situation changes.",
+      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels peaked at 3.6m at York Viking Recorder and are now falling slowly. The river level at Naburn is peaking at 7.6m. Areas most at risk include riverside properties around Naburn Lock where flooding may occur. Our duty officers are closely monitoring the situation and carrying out operations. Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 9am on 23/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T12:37:00",
-      "timeRaised": "2023-10-22T12:37:58",
+      "timeMessageChanged": "2023-10-22T20:34:00",
+      "timeRaised": "2023-10-22T20:35:04",
       "timeSeverityChanged": "2023-10-21T13:35:00"
     },
     {
@@ -8488,11 +8425,11 @@
       },
       "floodAreaID": "034FWFTRBSTNMNA",
       "isTidal": false,
-      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues.\nAreas most at risk are Beeston Marina and Beeston Lock, including Beeston Marina Caravan Site.   \nNo further rainfall is forecast today.  We expect river levels to remain high until later this evening 22/10/23.\nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. \nThis message will be updated by this evening, 22/10/23, or as the situation changes.\n ",
+      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. The risk of flooding continues. Areas most at risk are Beeston Marina and Beeston Lock, including Beeston Marina Caravan Site. No further rainfall is forecast today.\nWe expect river levels to remain high until tomorrow, 23/10/2023. We are closely monitoring the situation.  \nOur incident response staff are patrolling watercourses in the area.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses.  \nThis message will be updated tomorrow morning, 23/10/2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T13:00:00",
-      "timeRaised": "2023-10-22T13:01:01",
+      "timeMessageChanged": "2023-10-22T20:22:00",
+      "timeRaised": "2023-10-22T20:22:20",
       "timeSeverityChanged": "2023-10-21T20:22:00"
     },
     {
@@ -8614,11 +8551,11 @@
       },
       "floodAreaID": "034FWFTRCAYTHOR",
       "isTidal": false,
-      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues.\nAreas most at risk are Caythorpe, including Main Street and Caythorpe Road, near Moorfield Farm.\nNo further rainfall is forecast today.  We expect river levels to remain high until later this evening 22/10/23.\nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. \nThis message will be updated by this evening, 22/10/23, or as the situation changes.\n ",
+      "message": "River levels are rising at the Colwick river gauge as a result of Storm BABET. Flooding continues. Areas most at risk are Caythorpe, including Main Street and Caythorpe Road, near Moorfield Farm. No further rainfall is forecast today. We expect river levels to remain high until tomorrow, 23/10/2023. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water. This message will be updated tomorrow morning, 23/10/2023, or as the situation changes.\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T13:08:00",
-      "timeRaised": "2023-10-22T13:08:46",
+      "timeMessageChanged": "2023-10-22T20:29:00",
+      "timeRaised": "2023-10-22T20:30:05",
       "timeSeverityChanged": "2023-10-21T20:54:00"
     },
     {
@@ -9034,11 +8971,11 @@
       },
       "floodAreaID": "031FWFSE260",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "message": " Flooding is expected in this area. This means properties are at risk of flooding. Please take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have. The Temporary Flood Barriers along the Wharfage are now in operation and have water against them. The Environment Agency will continue to carry out maintenance activities. The deployment of the barriers does not remove all risk, as the barrier system is a temporary structure. The Environment Agency Flood Warning System has issued this message based on rising river or tidal levels.  We are temporarily automating our messages due to industrial action.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T17:13:00",
-      "timeRaised": "2023-10-22T17:13:40",
+      "timeMessageChanged": "2023-10-22T20:27:00",
+      "timeRaised": "2023-10-22T20:27:20",
       "timeSeverityChanged": "2023-10-22T17:13:00"
     },
     {
@@ -9061,6 +8998,27 @@
       "timeMessageChanged": "2023-10-22T18:59:00",
       "timeRaised": "2023-10-22T18:59:48",
       "timeSeverityChanged": "2023-10-22T18:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE495",
+      "description": "River Severn at Dunns Lane, Upton upon Severn",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE495",
+        "county": "Worcestershire",
+        "notation": "031FWFSE495",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE495/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE495",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-22T20:58:00",
+      "timeRaised": "2023-10-22T20:58:19",
+      "timeSeverityChanged": "2023-10-22T20:58:00"
     }
   ]
 }
