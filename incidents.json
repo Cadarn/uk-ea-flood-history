@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-14T06:42:00",
+      "timeRaised": "2023-10-14T06:42:58",
+      "timeSeverityChanged": "2023-10-14T06:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
+      "description": "River Leadon catchment",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
+        "county": "Gloucestershire, Herefordshire, Worcestershire",
+        "notation": "031WAF213",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
+        "riverOrSea": "Leadon, Glynch"
+      },
+      "floodAreaID": "031WAF213",
+      "isTidal": false,
+      "message": " This Flood Alert has now been removed. We continue to monitor the situation.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-23T08:34:00",
+      "timeRaised": "2023-10-23T08:34:33",
+      "timeSeverityChanged": "2023-10-23T08:34:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
       "description": "River Blythe in Warwickshire",
       "eaAreaName": "West Midlands",
@@ -57,25 +99,46 @@
       "timeSeverityChanged": "2023-10-19T03:57:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
-      "description": "River Cole and Dorcan Brook",
-      "eaAreaName": "Thames",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
+      "description": "Tributaries in South Derbyshire",
+      "eaAreaName": "East Midlands",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
-        "county": "Oxfordshire, Swindon",
-        "notation": "061WAF07Cole",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
-        "riverOrSea": "River Cole"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
+        "county": "Derby, Derbyshire, Leicestershire, Staffordshire",
+        "notation": "034WAF411",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
+        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
       },
-      "floodAreaID": "061WAF07Cole",
+      "floodAreaID": "034WAF411",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-23T08:51:00",
-      "timeRaised": "2023-10-23T08:52:05",
-      "timeSeverityChanged": "2023-10-23T08:51:00"
+      "message": "River levels are forecast to remain high at the Derby Bridge Street river gauge as a result of Storm Babet.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around the tributaries to the River Derwent and River Trent in South Derbyshire, including Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook.\nWe expect river levels to remain high throughout the week.  Further rainfall is forecast for Tuesday, 24/10/2023.  \n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and liaising with emergency services.  \nPlease stay aware in case further warnings are issued and avoid using low-lying footpaths near local watercourses.  Avoid contact with flood water.\nThis message will be updated by 15:00 on 24/10/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-23T16:09:00",
+      "timeRaised": "2023-10-23T16:10:07",
+      "timeSeverityChanged": "2023-10-19T19:14:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF423",
+      "description": "River Erewash Tributaries in Derbyshire and Nottinghamshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423",
+        "county": "Derbyshire, Nottinghamshire",
+        "notation": "034WAF423",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423/polygon",
+        "riverOrSea": "Golden Brook, Beauvale Brook, Bailey Brook, Boundary Brook, Golden Stream"
+      },
+      "floodAreaID": "034WAF423",
+      "isTidal": false,
+      "message": "River levels are forecast to remain high at the Trowell river gauge as a result of Storm Babet.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around the tributaries to the River Erewash near the border of Derbyshire and Nottinghamshire, including Golden Brook and Stream, Boundary Brook, Nut Brook, Bailey Brook, Beauvale Brook and Nether Green Brook.   \n\nWe expect river levels to remain high throughout the week.  Further rainfall is forecast for Tuesday, 24/10/2023.  \n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and liaising with emergency services.  \n\nPlease stay aware in case further warnings are issued and avoid using low-lying footpaths near local watercourses.  Avoid contact with flood water. \n\nThis message will be updated by 15:00 on 24/10/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-23T16:09:00",
+      "timeRaised": "2023-10-23T16:09:51",
+      "timeSeverityChanged": "2023-10-19T19:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF429",
@@ -120,46 +183,25 @@
       "timeSeverityChanged": "2023-10-22T19:55:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
-      "description": "Tributaries in South Derbyshire",
-      "eaAreaName": "East Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
+      "description": "River Cole and Dorcan Brook",
+      "eaAreaName": "Thames",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411",
-        "county": "Derby, Derbyshire, Leicestershire, Staffordshire",
-        "notation": "034WAF411",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF411/polygon",
-        "riverOrSea": "Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
+        "county": "Oxfordshire, Swindon",
+        "notation": "061WAF07Cole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
+        "riverOrSea": "River Cole"
       },
-      "floodAreaID": "034WAF411",
+      "floodAreaID": "061WAF07Cole",
       "isTidal": false,
-      "message": "River levels are forecast to remain high at the Derby Bridge Street river gauge as a result of Storm Babet.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around the tributaries to the River Derwent and River Trent in South Derbyshire, including Black Brook, Coppice Brook, Markeaton Brook, Chaddeston Brook, Wilne Drain, Cuttle Brook, Doles Brook, Ramsley Brook and Carr Brook.\nWe expect river levels to remain high throughout the week.  Further rainfall is forecast for Tuesday, 24/10/2023.  \n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and liaising with emergency services.  \nPlease stay aware in case further warnings are issued and avoid using low-lying footpaths near local watercourses.  Avoid contact with flood water.\nThis message will be updated by 15:00 on 24/10/2023, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-23T16:09:00",
-      "timeRaised": "2023-10-23T16:10:07",
-      "timeSeverityChanged": "2023-10-19T19:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF423",
-      "description": "River Erewash Tributaries in Derbyshire and Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423",
-        "county": "Derbyshire, Nottinghamshire",
-        "notation": "034WAF423",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF423/polygon",
-        "riverOrSea": "Golden Brook, Beauvale Brook, Bailey Brook, Boundary Brook, Golden Stream"
-      },
-      "floodAreaID": "034WAF423",
-      "isTidal": false,
-      "message": "River levels are forecast to remain high at the Trowell river gauge as a result of Storm Babet.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads around the tributaries to the River Erewash near the border of Derbyshire and Nottinghamshire, including Golden Brook and Stream, Boundary Brook, Nut Brook, Bailey Brook, Beauvale Brook and Nether Green Brook.   \n\nWe expect river levels to remain high throughout the week.  Further rainfall is forecast for Tuesday, 24/10/2023.  \n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area and liaising with emergency services.  \n\nPlease stay aware in case further warnings are issued and avoid using low-lying footpaths near local watercourses.  Avoid contact with flood water. \n\nThis message will be updated by 15:00 on 24/10/2023, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-23T16:09:00",
-      "timeRaised": "2023-10-23T16:09:51",
-      "timeSeverityChanged": "2023-10-19T19:13:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-23T08:51:00",
+      "timeRaised": "2023-10-23T08:52:05",
+      "timeSeverityChanged": "2023-10-23T08:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
@@ -223,6 +265,48 @@
       "timeMessageChanged": "2023-10-23T08:41:00",
       "timeRaised": "2023-10-23T08:41:22",
       "timeSeverityChanged": "2023-10-23T08:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
+      "description": "River Rye catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982",
+        "county": "North Yorkshire",
+        "notation": "122WAF982",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF982/polygon",
+        "riverOrSea": "River Rye"
+      },
+      "floodAreaID": "122WAF982",
+      "isTidal": false,
+      "message": "The flood alert has been issued for the River Rye. Rivers are expected to rise in the early hours of tomorrow in response to overnight rainfall. Areas most at risk include Land around the River Rye and it's tributaries, including Ralsdale Beck, River Seph, Ledge Beck, Fangdale Beck, Prodale Beck, Ladhill Beck, Etton Gill, Borough Beck, Spittle Beck, including properties of Salton, Nunnington and Helmsley. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 10:00 PM on 23/10/2023 or as the situation changes\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-23T19:08:00",
+      "timeRaised": "2023-10-23T19:08:17",
+      "timeSeverityChanged": "2023-10-23T19:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "The flood alert has been issued for the River Seven. Rivers are expected to rise in the early hours of tomorrow in response to overnight rainfall. Our duty officers are closely monitoring the situation. Areas most at risk include Land around the River Seven and it's tributaries including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, including properties in Sinnington and to the East of Normanby. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 10:00 PM on 23/10/2023 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-23T19:08:00",
+      "timeRaised": "2023-10-23T19:08:41",
+      "timeSeverityChanged": "2023-10-23T19:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF307",
@@ -414,27 +498,6 @@
       "timeSeverityChanged": "2023-10-20T09:46:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
-      "description": "River Leadon catchment",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
-        "county": "Gloucestershire, Herefordshire, Worcestershire",
-        "notation": "031WAF213",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
-        "riverOrSea": "Leadon, Glynch"
-      },
-      "floodAreaID": "031WAF213",
-      "isTidal": false,
-      "message": " This Flood Alert has now been removed. We continue to monitor the situation.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-23T08:34:00",
-      "timeRaised": "2023-10-23T08:34:33",
-      "timeSeverityChanged": "2023-10-23T08:34:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWFNF3D",
       "description": "The River Yare from the A11 at Cringleford to Trowse Newton",
       "eaAreaName": "East Anglia",
@@ -475,27 +538,6 @@
       "timeMessageChanged": "2023-10-21T21:12:00",
       "timeRaised": "2023-10-21T21:13:09",
       "timeSeverityChanged": "2023-10-21T21:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-14T06:42:00",
-      "timeRaised": "2023-10-14T06:42:58",
-      "timeSeverityChanged": "2023-10-14T06:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF204",
@@ -559,27 +601,6 @@
       "timeMessageChanged": "2023-10-22T19:52:00",
       "timeRaised": "2023-10-22T19:52:27",
       "timeSeverityChanged": "2023-10-22T19:52:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFMAHAMILWD",
-      "description": "River Maun at Haughton, Milton and West Drayton",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFMAHAMILWD",
-        "county": "Nottinghamshire",
-        "notation": "034FWFMAHAMILWD",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFMAHAMILWD/polygon",
-        "riverOrSea": "River Maun"
-      },
-      "floodAreaID": "034FWFMAHAMILWD",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  \nRiver levels continue to fall and are below the flood risk threshold, however standing water may still be present for a number of days. Avoid any flood water from rivers and surrounding areas, this may contain hazards. The Flood Warning has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low-lying land.  Further rainfall is forecast on Tuesday, 24/10/2023.  \nWe continue to monitor the situation.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-22T19:10:00",
-      "timeRaised": "2023-10-22T19:10:57",
-      "timeSeverityChanged": "2023-10-22T19:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAF100RUA",
@@ -1666,11 +1687,11 @@
       },
       "floodAreaID": "123WAF961",
       "isTidal": false,
-      "message": "River levels have now fallen in the middle River Aire and the risk of flooding has now reduced. This alert remains in force as water levels in the areas adjacent to the river, such as flood storage areas, remain relatively high. Please continue to take care around any standing flood water. Our incident room is open and we continue to monitor levels closely. This message will be updated by 16:20, 23/10/2023.",
+      "message": "River levels have now fallen on the lower River Aire and this will continue throughout the night, Monday 23/10/23. This alert remains in force as water levels in the areas adjacent to the river, such as washlands and flood storage areas, remain relatively high, particularly around Mickletown Ings, Lowther Washlands, Allerton Ings, Newton Ings and Fairburn Ings. We anticipate that the washlands will continue to drain throughout tomorrow, Tuesday 24/10/2023. Please continue to take care around any standing flood water. Our incident room is open and we continue to monitor levels closely. This message will be updated by 3:30 AM, 24th October 2023, or as the situation changes. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-23T08:20:00",
-      "timeRaised": "2023-10-23T08:20:48",
+      "timeMessageChanged": "2023-10-23T19:28:00",
+      "timeRaised": "2023-10-23T19:28:30",
       "timeSeverityChanged": "2023-10-20T07:38:00"
     },
     {
@@ -1875,11 +1896,11 @@
       },
       "floodAreaID": "053FWFPLWI13",
       "isTidal": false,
-      "message": "Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday, 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:46:00",
-      "timeRaised": "2023-10-22T16:46:52",
+      "timeMessageChanged": "2023-10-23T19:19:00",
+      "timeRaised": "2023-10-23T19:19:41",
       "timeSeverityChanged": "2023-10-20T10:25:00"
     },
     {
@@ -2043,11 +2064,11 @@
       },
       "floodAreaID": "053FWFPLWI15",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday, 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T19:35:00",
-      "timeRaised": "2023-10-22T19:36:05",
+      "timeMessageChanged": "2023-10-23T19:30:00",
+      "timeRaised": "2023-10-23T19:30:40",
       "timeSeverityChanged": "2023-10-20T11:30:00"
     },
     {
@@ -2400,11 +2421,11 @@
       },
       "floodAreaID": "053FWFPLWI11",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:23:00",
-      "timeRaised": "2023-10-22T16:23:57",
+      "timeMessageChanged": "2023-10-23T19:17:00",
+      "timeRaised": "2023-10-23T19:17:38",
       "timeSeverityChanged": "2023-10-20T13:15:00"
     },
     {
@@ -2715,11 +2736,11 @@
       },
       "floodAreaID": "053FWFPLWI04",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday, 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:18:00",
-      "timeRaised": "2023-10-22T16:19:00",
+      "timeMessageChanged": "2023-10-23T19:11:00",
+      "timeRaised": "2023-10-23T19:11:49",
       "timeSeverityChanged": "2023-10-20T15:12:00"
     },
     {
@@ -3240,11 +3261,11 @@
       },
       "floodAreaID": "053FWFPLWI01",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:13:00",
-      "timeRaised": "2023-10-22T16:13:27",
+      "timeMessageChanged": "2023-10-23T19:04:00",
+      "timeRaised": "2023-10-23T19:04:56",
       "timeSeverityChanged": "2023-10-20T19:49:00"
     },
     {
@@ -3261,11 +3282,11 @@
       },
       "floodAreaID": "053FWFPLWI02",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:16:00",
-      "timeRaised": "2023-10-22T16:16:10",
+      "timeMessageChanged": "2023-10-23T19:08:00",
+      "timeRaised": "2023-10-23T19:08:27",
       "timeSeverityChanged": "2023-10-20T19:54:00"
     },
     {
@@ -3303,11 +3324,11 @@
       },
       "floodAreaID": "053FWFPLWI10",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday, 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T16:21:00",
-      "timeRaised": "2023-10-22T16:21:31",
+      "timeMessageChanged": "2023-10-23T19:14:00",
+      "timeRaised": "2023-10-23T19:14:53",
       "timeSeverityChanged": "2023-10-20T20:08:00"
     },
     {
@@ -3366,12 +3387,12 @@
       },
       "floodAreaID": "122FWF712",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York due to rainfall associated with Storm Babet. Levels peaked at 3.6m at York Viking Recorder and are now falling slowly. The current level is 3.1m. Areas most at risk include riverside properties around Queen's Staith, Tower Gardens, St George's Field and Rowntree Park. Further rainfall is forecast for tomorrow. Our duty officers continue to monitor the situation and carry out operational activity as required, including operating the Foss Barrier. Flood gates near the river remain closed. Consider putting your flood plan into action. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk, cycle or drive through flood water. This message will be updated by 10:00 PM on 23/10/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-10-23T17:11:00",
-      "timeRaised": "2023-10-23T17:12:02",
-      "timeSeverityChanged": "2023-10-20T21:58:00"
+      "message": "This flood warning has been removed as levels have fallen below levels of concern. We are continuing to monitor the forecast and will re-issue this warning if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-23T19:29:00",
+      "timeRaised": "2023-10-23T19:29:18",
+      "timeSeverityChanged": "2023-10-23T19:29:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF710",
@@ -3647,27 +3668,6 @@
       "timeSeverityChanged": "2023-10-21T01:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFTE90",
-      "description": "River Teme at Knightwick, Doddenham and Broadwas",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFTE90",
-        "county": "Herefordshire, Worcestershire",
-        "notation": "031FWFTE90",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFTE90/polygon",
-        "riverOrSea": "River Teme"
-      },
-      "floodAreaID": "031FWFTE90",
-      "isTidal": false,
-      "message": "This Flood Warning has been removed.  \nHowever, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low lying land.    \nWe continue to monitor the situation.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-22T19:14:00",
-      "timeRaised": "2023-10-22T19:14:38",
-      "timeSeverityChanged": "2023-10-22T19:14:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF655",
       "description": "River Don at South Bramwith",
       "eaAreaName": "Yorkshire",
@@ -3744,11 +3744,11 @@
       },
       "floodAreaID": "123FWF698",
       "isTidal": false,
-      "message": "River levels on the River Don at Stainforth have begun to fall, and are expected to continue falling throughout today, 23/10/23. Further rainfall is forecast throughout the week, and rivers will be receptive to any further rainfall. Flooding in areas adjacent to the river remains a risk, so you should avoid walking, cycling or driving through flood water. Our incident rooms are open, and we are closely monitoring the situation. This message will be updated by 17:00, 23/10/23 or as the situation changes.",
+      "message": " River levels on the River Don are falling and are expected to continue to do so throughout today and overnight, 23/10/23. \nWhile the current overall risk is greatly reduced, further rainfall is forecast overnight and into tomorrow, Tuesday 24/10/23. As such, we expect river levels to begin to respond and rise again from tomorrow afternoon and into the evening 24/10/23, however we do not expect the levels to be as high as in recent days. Flooding in areas adjacent to the river still remains a risk, so you should avoid walking, cycling or driving through flood water. Our incident rooms are open, and we are closely monitoring the situation. This message will be updated by 03:00 AM,  24th October 2023, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-23T08:58:00",
-      "timeRaised": "2023-10-23T08:59:10",
+      "timeMessageChanged": "2023-10-23T19:14:00",
+      "timeRaised": "2023-10-23T19:14:40",
       "timeSeverityChanged": "2023-10-21T02:44:00"
     },
     {
@@ -4479,11 +4479,11 @@
       },
       "floodAreaID": "053FWFPLWI14",
       "isTidal": false,
-      "message": " Heavy rainfall across Lincolnshire on Friday 20th October resulted in high river levels which will remain high today, Sunday, 22nd October and for the next few days. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": "River levels remain high following rainfall associated with Storm Babet. Further rainfall is forecast to begin overnight tonight and continue throughout tomorrow, Tuesday 24th October, with the heaviest rainfall forecast late morning.  Catchments are expected to react and river levels rise throughout Tuesday and into Wednesday. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-22T19:26:00",
-      "timeRaised": "2023-10-22T19:26:15",
+      "timeMessageChanged": "2023-10-23T19:27:00",
+      "timeRaised": "2023-10-23T19:27:16",
       "timeSeverityChanged": "2023-10-21T11:54:00"
     },
     {
@@ -4752,11 +4752,11 @@
       },
       "floodAreaID": "034FWFTRSWARKST",
       "isTidal": false,
-      "message": "River levels are falling at the Willington and Shardlow river gauges as a result of Storm Babet. The risk of flooding remains.  Areas most at risk are Swarkestone, including Swarkestone Access Frontage, Stanton by Bridge, and Kings Newton.\n\nWe expect river levels to remain high throughout the week.  Further rainfall is forecast for Tuesday, 24/10/2023.  \n \nWe are closely monitoring the situation. Our incident response staff are liaising with emergency services and patrolling watercourses in the area.\n\nPlease avoid contact with flood water, avoid low-lying roads near rivers, which may be flooded and contact your insurance company if you've been flooded.  \n\nThis message will be updated by 12:00 on 24/10/2023, or as the situation changes.\n\n",
+      "message": "River levels are falling at the Willington and Shardlow river gauges as a result of Storm Babet. However, flooding continues.  Areas most at risk are Swarkestone, including Swarkestone Access Frontage, Stanton by Bridge, and Kings Newton.\n\nWe expect river levels to remain high throughout the week.  Further rainfall is forecast for Tuesday, 24/10/2023.  \n \nWe are closely monitoring the situation. Our incident response staff are liaising with emergency services and patrolling watercourses in the area.\n\nPlease avoid contact with flood water, avoid low-lying roads near rivers, which may be flooded and contact your insurance company if you've been flooded.  \n\nThis message will be updated by 12:00 on 24/10/2023, or as the situation changes.\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-10-23T18:13:00",
-      "timeRaised": "2023-10-23T18:13:40",
+      "timeMessageChanged": "2023-10-23T19:22:00",
+      "timeRaised": "2023-10-23T19:22:11",
       "timeSeverityChanged": "2023-10-23T13:41:00"
     },
     {
