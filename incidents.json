@@ -70,12 +70,12 @@
       },
       "floodAreaID": "122WAF980",
       "isTidal": false,
-      "message": "River levels are forecasted to rise on the River Seven in response to heavy rainfall overnight. Areas most at risk include land around the River Seven and its tributaries including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, including properties in Sinnington and to the East of Normanby. We will continue to monitor levels closely. Avoid using low lying footpaths and roads near local watercourses and do not attempt to walk or drive through flood water. This message will be updated Friday 27/10/23, or as the situation develops.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T16:15:00",
-      "timeRaised": "2023-10-26T16:16:01",
-      "timeSeverityChanged": "2023-10-26T16:15:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-27T10:40:00",
+      "timeRaised": "2023-10-27T10:40:15",
+      "timeSeverityChanged": "2023-10-27T10:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -435,6 +435,27 @@
       "timeSeverityChanged": "2023-10-27T05:42:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-27T10:58:00",
+      "timeRaised": "2023-10-27T10:58:26",
+      "timeSeverityChanged": "2023-10-27T10:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
       "description": "North Devon coast from Hartland Point to Lynmouth",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -469,12 +490,54 @@
       },
       "floodAreaID": "122WAF950",
       "isTidal": false,
-      "message": " This Flood Alert remains in force as levels on the Lower River Derwent remain high. Low-lying land adjacent to watercourses is most likely to be affected, particularly around local roads and low-lying land around Bielby Beck. Our duty officers are closely monitoring the situation. You should avoid walking, cycling or driving through flood water.",
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-27T10:40:00",
+      "timeRaised": "2023-10-27T10:40:10",
+      "timeSeverityChanged": "2023-10-27T10:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC412",
+      "description": "Coastal areas of Seaford seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC412",
+        "county": "East Sussex",
+        "notation": "065WAC412",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC412/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC412",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T20:12:00",
-      "timeRaised": "2023-10-26T20:12:32",
-      "timeSeverityChanged": "2023-10-20T09:46:00"
+      "timeMessageChanged": "2023-10-27T10:58:00",
+      "timeRaised": "2023-10-27T10:58:52",
+      "timeSeverityChanged": "2023-10-27T10:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC413",
+      "description": "Inland areas of Seaford",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC413",
+        "county": "East Sussex",
+        "notation": "065WAC413",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC413/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC413",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-27T10:58:00",
+      "timeRaised": "2023-10-27T10:58:47",
+      "timeSeverityChanged": "2023-10-27T10:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1D",
@@ -603,6 +666,27 @@
       "timeSeverityChanged": "2023-10-27T09:13:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-27T10:58:00",
+      "timeRaised": "2023-10-27T10:58:19",
+      "timeSeverityChanged": "2023-10-27T10:58:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWT1T1BB00",
       "description": "South Cornwall coast at Mounts Bay, seafront properties",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -666,27 +750,6 @@
       "timeSeverityChanged": "2023-10-24T22:48:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW07",
-      "description": "Rivers Clyst and Culm and their tributaries",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW07",
-        "county": "Devon, Somerset",
-        "notation": "113WAFTW07",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW07/polygon",
-        "riverOrSea": "River Clyst, River Culm"
-      },
-      "floodAreaID": "113WAFTW07",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-26T10:27:00",
-      "timeRaised": "2023-10-26T10:27:35",
-      "timeSeverityChanged": "2023-10-26T10:27:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF975",
       "description": "Lower River Hull",
       "eaAreaName": "Yorkshire",
@@ -721,11 +784,11 @@
       },
       "floodAreaID": "053WAF100RUA",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T08:44:00",
-      "timeRaised": "2023-10-26T08:44:38",
+      "timeMessageChanged": "2023-10-27T10:28:00",
+      "timeRaised": "2023-10-27T10:28:38",
       "timeSeverityChanged": "2023-10-20T05:13:00"
     },
     {
@@ -952,11 +1015,11 @@
       },
       "floodAreaID": "053WAF120SLE",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T10:01:00",
-      "timeRaised": "2023-10-26T10:02:02",
+      "timeMessageChanged": "2023-10-27T10:26:00",
+      "timeRaised": "2023-10-27T10:26:21",
       "timeSeverityChanged": "2023-10-20T07:14:00"
     },
     {
@@ -994,11 +1057,11 @@
       },
       "floodAreaID": "053WAF109WNK",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T09:03:00",
-      "timeRaised": "2023-10-26T09:03:50",
+      "timeMessageChanged": "2023-10-27T10:42:00",
+      "timeRaised": "2023-10-27T10:42:17",
       "timeSeverityChanged": "2023-10-19T07:42:00"
     },
     {
@@ -1015,11 +1078,11 @@
       },
       "floodAreaID": "053WAF124EWF",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T10:07:00",
-      "timeRaised": "2023-10-26T10:08:04",
+      "timeMessageChanged": "2023-10-27T10:23:00",
+      "timeRaised": "2023-10-27T10:23:46",
       "timeSeverityChanged": "2023-10-20T07:28:00"
     },
     {
@@ -1057,11 +1120,11 @@
       },
       "floodAreaID": "053WAF117BED",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T09:51:00",
-      "timeRaised": "2023-10-26T09:51:26",
+      "timeMessageChanged": "2023-10-27T10:34:00",
+      "timeRaised": "2023-10-27T10:34:26",
       "timeSeverityChanged": "2023-10-20T05:13:00"
     },
     {
@@ -1267,11 +1330,11 @@
       },
       "floodAreaID": "053WAF118TBC",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T09:57:00",
-      "timeRaised": "2023-10-26T09:57:22",
+      "timeMessageChanged": "2023-10-27T10:39:00",
+      "timeRaised": "2023-10-27T10:39:30",
       "timeSeverityChanged": "2023-10-20T03:13:00"
     },
     {
@@ -1288,11 +1351,11 @@
       },
       "floodAreaID": "053WAF119MNK",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T09:59:00",
-      "timeRaised": "2023-10-26T09:59:35",
+      "timeMessageChanged": "2023-10-27T10:36:00",
+      "timeRaised": "2023-10-27T10:37:06",
       "timeSeverityChanged": "2023-10-20T04:12:00"
     },
     {
@@ -1309,11 +1372,11 @@
       },
       "floodAreaID": "053WAF101TLA",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T08:47:00",
-      "timeRaised": "2023-10-26T08:47:07",
+      "timeMessageChanged": "2023-10-27T10:31:00",
+      "timeRaised": "2023-10-27T10:31:10",
       "timeSeverityChanged": "2023-10-20T07:13:00"
     },
     {
@@ -1351,11 +1414,11 @@
       },
       "floodAreaID": "053WAF105TRS",
       "isTidal": false,
-      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Thursday 26th of October with further rain forecast. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
+      "message": " River levels remain high following rainfall associated with Storm Babet, and are expected to remain high throughout Friday 27th of October. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. We are monitoring river levels and have staff in the field checking for and clearing blockages in this location. This message will be updated as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-10-26T09:00:00",
-      "timeRaised": "2023-10-26T09:00:49",
+      "timeMessageChanged": "2023-10-27T10:19:00",
+      "timeRaised": "2023-10-27T10:19:30",
       "timeSeverityChanged": "2023-10-20T07:44:00"
     },
     {
@@ -2302,27 +2365,6 @@
       "timeMessageChanged": "2023-10-26T15:59:00",
       "timeRaised": "2023-10-26T15:59:45",
       "timeSeverityChanged": "2023-10-26T15:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW09",
-      "description": "River Axe area",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09",
-        "county": "Devon, Dorset Council, Somerset",
-        "notation": "113WABTW09",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09/polygon",
-        "riverOrSea": "River Coly, River Yarty, Umborne Brook"
-      },
-      "floodAreaID": "113WABTW09",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-26T10:19:00",
-      "timeRaised": "2023-10-26T10:19:33",
-      "timeSeverityChanged": "2023-10-26T10:19:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTSSR",
