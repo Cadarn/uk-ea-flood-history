@@ -141,6 +141,27 @@
       "timeSeverityChanged": "2023-10-27T00:42:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF903",
+      "description": "Upper River Coquet",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF903",
+        "county": "Northumberland",
+        "notation": "121WAF903",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF903/polygon",
+        "riverOrSea": "River Coquet, River Alwin"
+      },
+      "floodAreaID": "121WAF903",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-28T09:42:00",
+      "timeRaised": "2023-10-28T09:43:04",
+      "timeSeverityChanged": "2023-10-28T09:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
       "description": "Lower River Soar in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -154,12 +175,12 @@
       },
       "floodAreaID": "034WAF428",
       "isTidal": false,
-      "message": " \"River levels remain high but are slowly falling at the Pillings Lock river gauge as a result of Storm Babet.  Flooding continues.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.   \nRiver levels are falling, but still pose a flood risk.\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  Avoid contact with floodwater\nThis message will be updated by 10:00 tomorrow morning, Saturday 28/10/23, or as the situation changes.\"\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-27T18:50:00",
-      "timeRaised": "2023-10-27T18:50:19",
-      "timeSeverityChanged": "2023-10-19T06:27:00"
+      "message": " \"This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further intermittent rainfall is forecast over the next 24 hours.  \nWe continue to monitor the situation.  \n\"\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-28T09:49:00",
+      "timeRaised": "2023-10-28T09:49:11",
+      "timeSeverityChanged": "2023-10-28T09:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC401",
@@ -1800,69 +1821,6 @@
       "timeSeverityChanged": "2023-10-20T05:13:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTMBA",
-      "description": "Mid Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA",
-        "county": "Bath and North East Somerset, Wiltshire",
-        "notation": "112WAFTMBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTMBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTMBA",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-27T09:56:00",
-      "timeRaised": "2023-10-27T09:56:25",
-      "timeSeverityChanged": "2023-10-27T09:56:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
-      "description": "River Trent in Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414",
-        "county": "Derby, Derbyshire, Leicestershire",
-        "notation": "034WAF414",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414/polygon",
-        "riverOrSea": "River Trent"
-      },
-      "floodAreaID": "034WAF414",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed. River levels have now fallen below the flood risk threshold. We will continue to monitor the forecast and re-issue this alert if necessary. Further showers are forecast over the next few days. We continue to monitor the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and see the GOV.UK website for a 5 day flood forecast.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-27T09:42:00",
-      "timeRaised": "2023-10-27T09:42:53",
-      "timeSeverityChanged": "2023-10-27T09:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF103",
-      "description": "River Severn in Shropshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF103",
-        "county": "Shropshire, Telford and Wrekin, Worcestershire",
-        "notation": "031WAF103",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF103/polygon",
-        "riverOrSea": "River Severn"
-      },
-      "floodAreaID": "031WAF103",
-      "isTidal": false,
-      "message": " River levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary. We continue to monitor the situation",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-27T09:25:00",
-      "timeRaised": "2023-10-27T09:25:35",
-      "timeSeverityChanged": "2023-10-27T09:25:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOT",
       "description": "Little Ouse River and River Thet in Suffolk and Norfolk",
       "eaAreaName": "East Anglia",
@@ -1876,12 +1834,12 @@
       },
       "floodAreaID": "052WAFLOT",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-20T15:31:00",
-      "timeRaised": "2023-10-20T15:35:24",
-      "timeSeverityChanged": "2023-10-20T15:31:00"
+      "message": "River levels have now fallen below the flood alert threshold. The Flood Alert for the area has now been removed, however standing water and ponding may still affect roads and low lying land.\nFurther heavy rainfall is forecast over the next 24 hours. We will continue to monitor the situation and Flood Alerts will be re-issued if necessary\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-28T09:18:00",
+      "timeRaised": "2023-10-28T09:18:44",
+      "timeSeverityChanged": "2023-10-28T09:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACECD",
@@ -2107,12 +2065,12 @@
       },
       "floodAreaID": "061WAF12Evenlode",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-20T10:44:00",
-      "timeRaised": "2023-10-20T10:44:26",
-      "timeSeverityChanged": "2023-10-20T10:44:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-28T09:22:00",
+      "timeRaised": "2023-10-28T09:22:59",
+      "timeSeverityChanged": "2023-10-28T09:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF108",
@@ -2149,12 +2107,12 @@
       },
       "floodAreaID": "061WAF14RayOxon",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-20T10:58:00",
-      "timeRaised": "2023-10-20T10:59:03",
-      "timeSeverityChanged": "2023-10-20T10:58:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-28T09:25:00",
+      "timeRaised": "2023-10-28T09:25:14",
+      "timeSeverityChanged": "2023-10-28T09:25:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053FWFPLWI15",
@@ -2548,12 +2506,12 @@
       },
       "floodAreaID": "052WAFHFW",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-21T11:27:00",
-      "timeRaised": "2023-10-21T11:28:05",
-      "timeSeverityChanged": "2023-10-21T11:27:00"
+      "message": "River levels have now fallen below the flood alert threshold. The Flood Alert for the area has now been removed, however standing water and ponding may still affect roads and low lying land.\nFurther heavy rainfall is forecast over the next 24 hours. We will continue to monitor the situation and Flood Alerts will be re-issued if necessary. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-28T09:18:00",
+      "timeRaised": "2023-10-28T09:18:44",
+      "timeSeverityChanged": "2023-10-28T09:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052FWFLOTSS",
@@ -2617,27 +2575,6 @@
       "timeMessageChanged": "2023-10-27T11:09:00",
       "timeRaised": "2023-10-27T11:09:53",
       "timeSeverityChanged": "2023-10-27T11:09:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWBTRGIRTON",
-      "description": "River Trent at Girton",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWBTRGIRTON",
-        "county": "Lincolnshire, Nottinghamshire",
-        "notation": "034FWBTRGIRTON",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWBTRGIRTON/polygon",
-        "riverOrSea": "River Trent"
-      },
-      "floodAreaID": "034FWBTRGIRTON",
-      "isTidal": false,
-      "message": "River levels have now fallen below the flood risk threshold.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low-lying land.  We continue to monitor the situation.  Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and see the GOV.UK website for a 5 day flood forecast.   ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-27T09:35:00",
-      "timeRaised": "2023-10-27T09:35:34",
-      "timeSeverityChanged": "2023-10-27T09:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
@@ -3436,6 +3373,48 @@
       "timeMessageChanged": "2023-10-28T07:13:00",
       "timeRaised": "2023-10-28T07:13:23",
       "timeSeverityChanged": "2023-10-28T07:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF1401",
+      "description": "Crowhurst",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF1401",
+        "county": "East Sussex",
+        "notation": "065FWF1401",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF1401/polygon",
+        "riverOrSea": "Combe Haven"
+      },
+      "floodAreaID": "065FWF1401",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-28T09:43:00",
+      "timeRaised": "2023-10-28T09:43:53",
+      "timeSeverityChanged": "2023-10-28T09:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF1202",
+      "description": "Alfriston",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF1202",
+        "county": "East Sussex",
+        "notation": "065FWF1202",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF1202/polygon",
+        "riverOrSea": "Cuckmere"
+      },
+      "floodAreaID": "065FWF1202",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-28T09:44:00",
+      "timeRaised": "2023-10-28T09:44:23",
+      "timeSeverityChanged": "2023-10-28T09:44:00"
     }
   ]
 }
