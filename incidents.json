@@ -1842,6 +1842,27 @@
       "timeSeverityChanged": "2023-10-28T06:29:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF3408",
+      "description": "Mansbridge and Woodmill on the River Itchen",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF3408",
+        "county": "Hampshire, Southampton",
+        "notation": "065FWF3408",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF3408/polygon",
+        "riverOrSea": "River Itchen"
+      },
+      "floodAreaID": "065FWF3408",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-28T17:42:00",
+      "timeRaised": "2023-10-28T17:42:45",
+      "timeSeverityChanged": "2023-10-28T17:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
       "description": "Tern and Perry catchments",
       "eaAreaName": "West Midlands",
@@ -2653,12 +2674,12 @@
       },
       "floodAreaID": "052FWFLOTSS",
       "isTidal": false,
-      "message": "Flood warning for River Thet at Shropham, East Harling and Shadwell.\n\nFlooding is expected in this area. This means properties are at risk of flooding.    \nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.    \n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.  \n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-10-24T13:04:00",
-      "timeRaised": "2023-10-24T13:04:15",
-      "timeSeverityChanged": "2023-10-21T11:54:00"
+      "message": " River levels have now fallen below the Flood Warning threshold. The Flood Warning for the area has now been removed, however river levels remain higher than normal and standing water and ponding may still affect roads and low lying land.\nFurther heavy rainfall is forecast overnight tonight. We will continue to monitor the situation and Flood Alerts and Flood Warnings  will be re-issued if necessary. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-10-28T17:55:00",
+      "timeRaised": "2023-10-28T17:55:35",
+      "timeSeverityChanged": "2023-10-28T17:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF421",
@@ -2703,27 +2724,6 @@
       "timeSeverityChanged": "2023-10-22T11:03:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053FWFPLRA03",
-      "description": "Isolated properties and villages near to the River Ancholme from Broughton to Horkstow",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053FWFPLRA03",
-        "county": "North Lincolnshire",
-        "notation": "053FWFPLRA03",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053FWFPLRA03/polygon",
-        "riverOrSea": "River Ancholme"
-      },
-      "floodAreaID": "053FWFPLRA03",
-      "isTidal": false,
-      "message": " The River Ancholme level has been falling steadily today, Friday 27th October and we do not expect any further flooding to properties. There may be still be standing water in low lying areas and fields.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-27T17:42:00",
-      "timeRaised": "2023-10-27T17:42:44",
-      "timeSeverityChanged": "2023-10-27T17:42:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
       "description": "West Dorset Rivers and Streams",
       "eaAreaName": "Wessex",
@@ -2743,27 +2743,6 @@
       "timeMessageChanged": "2023-10-28T03:13:00",
       "timeRaised": "2023-10-28T03:14:10",
       "timeSeverityChanged": "2023-10-28T03:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053FWFPLRA04",
-      "description": "Properties near the River Ancholme and Old River Ancholme",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053FWFPLRA04",
-        "county": "Lincolnshire, North Lincolnshire",
-        "notation": "053FWFPLRA04",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053FWFPLRA04/polygon",
-        "riverOrSea": "River Ancholme, Old River Ancholme"
-      },
-      "floodAreaID": "053FWFPLRA04",
-      "isTidal": false,
-      "message": " The River Ancholme level has been falling steadily today, Friday 27th October and we do not expect any further flooding to properties. There may still be standing water in low lying areas and fields. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-27T17:39:00",
-      "timeRaised": "2023-10-27T17:39:17",
-      "timeSeverityChanged": "2023-10-27T17:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF216",
@@ -3625,6 +3604,27 @@
       "timeMessageChanged": "2023-10-28T17:12:00",
       "timeRaised": "2023-10-28T17:12:51",
       "timeSeverityChanged": "2023-10-28T17:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFWRI10A",
+      "description": "River Wriggle at Chetnole",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFWRI10A",
+        "county": "Dorset Council",
+        "notation": "112FWFWRI10A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFWRI10A/polygon",
+        "riverOrSea": "River Wriggle"
+      },
+      "floodAreaID": "112FWFWRI10A",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-28T17:42:00",
+      "timeRaised": "2023-10-28T17:43:15",
+      "timeSeverityChanged": "2023-10-28T17:42:00"
     }
   ]
 }
