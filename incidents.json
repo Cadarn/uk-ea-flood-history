@@ -1401,6 +1401,27 @@
       "timeSeverityChanged": "2023-10-28T06:28:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB420",
+      "description": "Tidal Trent for riverside areas from Gainsborough to the Humber confluence",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB420",
+        "county": "East Riding of Yorkshire, Lincolnshire, North Lincolnshire, Nottinghamshire",
+        "notation": "034WAB420",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB420/polygon",
+        "riverOrSea": "River Trent"
+      },
+      "floodAreaID": "034WAB420",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-28T07:12:00",
+      "timeRaised": "2023-10-28T07:13:05",
+      "timeSeverityChanged": "2023-10-28T07:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -3562,6 +3583,27 @@
       "timeMessageChanged": "2023-10-28T06:30:00",
       "timeRaised": "2023-10-28T06:30:32",
       "timeSeverityChanged": "2023-10-28T06:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWC2T1A1",
+      "description": "South Devon coast at the Kingsbridge and Avon estuaries",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWC2T1A1",
+        "county": "Devon",
+        "notation": "113FWC2T1A1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWC2T1A1/polygon",
+        "riverOrSea": "English Channel, South Devon Coast, River Avon, River Erme"
+      },
+      "floodAreaID": "113FWC2T1A1",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-28T07:13:00",
+      "timeRaised": "2023-10-28T07:13:23",
+      "timeSeverityChanged": "2023-10-28T07:13:00"
     }
   ]
 }
