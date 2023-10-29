@@ -329,6 +329,27 @@
       "timeSeverityChanged": "2023-10-29T04:13:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF910",
+      "description": "River Tyne",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF910",
+        "county": "Gateshead, Newcastle upon Tyne, Northumberland",
+        "notation": "121WAF910",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF910/polygon",
+        "riverOrSea": "River Tyne, Cockshaw Burn"
+      },
+      "floodAreaID": "121WAF910",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-29T05:42:00",
+      "timeRaised": "2023-10-29T05:43:11",
+      "timeSeverityChanged": "2023-10-29T05:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
       "description": "Lower River Soar in Leicestershire",
       "eaAreaName": "East Midlands",
@@ -5092,6 +5113,48 @@
       "timeMessageChanged": "2023-10-29T05:13:00",
       "timeRaised": "2023-10-29T05:14:06",
       "timeSeverityChanged": "2023-10-29T05:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF917",
+      "description": "Setting Dike catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF917",
+        "county": "East Riding of Yorkshire, Kingston upon Hull",
+        "notation": "122WAF917",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF917/polygon",
+        "riverOrSea": "Setting Dike"
+      },
+      "floodAreaID": "122WAF917",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-29T05:43:00",
+      "timeRaised": "2023-10-29T05:43:18",
+      "timeSeverityChanged": "2023-10-29T05:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWC2T2E",
+      "description": "North Devon coast at Lynmouth",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWC2T2E",
+        "county": "Devon",
+        "notation": "113FWC2T2E",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWC2T2E/polygon",
+        "riverOrSea": "Bristol Channel, North Devon coast"
+      },
+      "floodAreaID": "113FWC2T2E",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-10-29T05:58:00",
+      "timeRaised": "2023-10-29T05:58:26",
+      "timeSeverityChanged": "2023-10-29T05:58:00"
     }
   ]
 }
