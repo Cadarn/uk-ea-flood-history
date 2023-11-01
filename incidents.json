@@ -99,6 +99,27 @@
       "timeSeverityChanged": "2023-11-01T10:43:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-01T20:13:00",
+      "timeRaised": "2023-11-01T20:13:42",
+      "timeSeverityChanged": "2023-11-01T20:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -687,27 +708,6 @@
       "timeSeverityChanged": "2023-10-25T08:28:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1ShepSwale",
-      "description": "Isle of Sheppey and coast from Kemsley to Seasalter",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale",
-        "county": "Kent",
-        "notation": "064WAC1ShepSwale",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1ShepSwale/polygon",
-        "riverOrSea": "English Channel, The Swale"
-      },
-      "floodAreaID": "064WAC1ShepSwale",
-      "isTidal": true,
-      "message": " The situation is improving and no further flooding is expected in this area.\n \nThe risk of flooding from this afternoon's high tide has now reduced and water levels are falling, though standing water and debris may still remain. We will continue to monitor tide levels over the next few days and will reissue flood alerts if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-31T20:15:00",
-      "timeRaised": "2023-10-31T20:16:04",
-      "timeSeverityChanged": "2023-10-31T20:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
       "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
       "eaAreaName": "East Anglia",
@@ -916,69 +916,6 @@
       "timeMessageChanged": "2023-11-01T09:28:00",
       "timeRaised": "2023-11-01T09:28:58",
       "timeSeverityChanged": "2023-11-01T09:28:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1WhitMar",
-      "description": "Coast from Whitstable to Margate",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar",
-        "county": "Kent",
-        "notation": "064WAC1WhitMar",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC1WhitMar/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "064WAC1WhitMar",
-      "isTidal": true,
-      "message": " The situation is improving and no further flooding is expected in this area.\n \nThe risk of flooding from this afternoon's high tide has now reduced and water levels are falling, though standing water and debris may still remain. We will continue to monitor tide levels over the next few days and will reissue flood alerts if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-31T20:16:00",
-      "timeRaised": "2023-10-31T20:16:11",
-      "timeSeverityChanged": "2023-10-31T20:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1MedEst",
-      "description": "Tidal Medway, Medway estuary and Isle of Grain",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst",
-        "county": "Kent, Medway",
-        "notation": "064WAT1MedEst",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1MedEst/polygon",
-        "riverOrSea": "River Medway"
-      },
-      "floodAreaID": "064WAT1MedEst",
-      "isTidal": true,
-      "message": " The situation is improving and no further flooding is expected in this area.\n \nThe risk of flooding from this afternoon's high tide has now reduced and water levels are falling, though standing water and debris may still remain. We will continue to monitor tide levels over the next few days and will reissue flood alerts if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-31T20:15:00",
-      "timeRaised": "2023-10-31T20:15:44",
-      "timeSeverityChanged": "2023-10-31T20:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAT1ThamesEst",
-      "description": "Coast from Dartford to Allhallows",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst",
-        "county": "Bexley, Greater London, Kent, Medway",
-        "notation": "064WAT1ThamesEst",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAT1ThamesEst/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "064WAT1ThamesEst",
-      "isTidal": true,
-      "message": " The situation is improving and no further flooding is expected in this area.\n \nThe risk of flooding from this afternoon's high tide has now reduced and water levels are falling, though standing water and debris may still remain. We will continue to monitor tide levels over the next few days and will reissue flood alerts if necessary.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-31T20:15:00",
-      "timeRaised": "2023-10-31T20:16:02",
-      "timeSeverityChanged": "2023-10-31T20:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
@@ -1629,6 +1566,27 @@
       "timeMessageChanged": "2023-11-01T13:35:00",
       "timeRaised": "2023-11-01T13:35:57",
       "timeSeverityChanged": "2023-11-01T13:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWTPOR01",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01",
+        "county": "Somerset",
+        "notation": "112FWTPOR01",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWTPOR01/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112FWTPOR01",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-01T20:13:00",
+      "timeRaised": "2023-11-01T20:13:31",
+      "timeSeverityChanged": "2023-11-01T20:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF3408",
@@ -3015,27 +2973,6 @@
       "timeMessageChanged": "2023-10-29T00:02:00",
       "timeRaised": "2023-10-29T00:06:14",
       "timeSeverityChanged": "2023-10-29T00:02:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF32UpprMole",
-      "description": "Upper River Mole, Ifield Brook, Gatwick Stream and Burstow Stream",
-      "eaAreaName": "Kent, South London and East Sussex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole",
-        "county": "Surrey, West Sussex",
-        "notation": "064WAF32UpprMole",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF32UpprMole/polygon",
-        "riverOrSea": "Ifield Brook, River Mole, Gatwick Stream, Burstow Stream"
-      },
-      "floodAreaID": "064WAF32UpprMole",
-      "isTidal": false,
-      "message": " The situation is improving and no further flooding is expected in this area.\n \nRiver levels have now fallen below the level expected to cause flooding. Further periods of rainfall are expected today, Tuesday 31 October. We continue to monitor the situation and will re-issue this flood alert if required.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-10-31T20:16:00",
-      "timeRaised": "2023-10-31T20:16:22",
-      "timeSeverityChanged": "2023-10-31T20:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF425",
