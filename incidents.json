@@ -217,12 +217,12 @@
       },
       "floodAreaID": "121WAF918",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-01T11:42:00",
-      "timeRaised": "2023-11-01T11:43:07",
-      "timeSeverityChanged": "2023-11-01T11:42:00"
+      "message": "River levels are falling overnight as rainfall eases, and no property flooding is expected.\nThe forecast is dry for this evening.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-01T20:44:00",
+      "timeRaised": "2023-11-01T20:44:11",
+      "timeSeverityChanged": "2023-11-01T20:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
@@ -3477,6 +3477,48 @@
       "timeMessageChanged": "2023-11-01T19:58:00",
       "timeRaised": "2023-11-01T19:59:17",
       "timeSeverityChanged": "2023-11-01T19:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
+      "description": "Lower Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFSTOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOL/polygon",
+        "riverOrSea": "River Allen, River Stour"
+      },
+      "floodAreaID": "111WAFSTOL",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-01T20:43:00",
+      "timeRaised": "2023-11-01T20:43:27",
+      "timeSeverityChanged": "2023-11-01T20:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWCWBEB010",
+      "description": "West Bay East Beach",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWCWBEB010",
+        "county": "Dorset Council",
+        "notation": "111FWCWBEB010",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWCWBEB010/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111FWCWBEB010",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-01T20:32:00",
+      "timeRaised": "2023-11-01T20:34:07",
+      "timeSeverityChanged": "2023-11-01T20:32:00"
     }
   ]
 }
