@@ -154,12 +154,12 @@
       },
       "floodAreaID": "121WAF907",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-01T12:13:00",
-      "timeRaised": "2023-11-01T12:13:47",
-      "timeSeverityChanged": "2023-11-01T12:13:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nThe forecast is dry for this evening, and river levels are falling.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-01T21:40:00",
+      "timeRaised": "2023-11-01T21:41:03",
+      "timeSeverityChanged": "2023-11-01T21:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF906",
@@ -1336,6 +1336,27 @@
       "timeMessageChanged": "2023-10-24T16:43:00",
       "timeRaised": "2023-10-24T16:43:54",
       "timeSeverityChanged": "2023-10-14T06:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW06",
+      "description": "Middle Exe area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW06",
+        "county": "Devon, Somerset",
+        "notation": "113WAFTW06",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW06/polygon",
+        "riverOrSea": "River Exe, River Batherm, River Lowman, River Haddeo"
+      },
+      "floodAreaID": "113WAFTW06",
+      "isTidal": false,
+      "message": "Flooding is possible from late Wednesday evening 1st November, and into Thursday morning. \n\nHeavy rain falling in Devon due to Storm Ciaran has caused the River Exe to start rising. Flooding to low lying land and roads close to local rivers from around 10:30pm on Wednesday evening is possible. \n\nFlood Warnings may be required. Please take care near the areas of concern. Do not walk or drive through flood water. Avoid low lying roads and footpaths, which may be flooded. Our incident response staff are closely monitoring the situation. This message will be updated on Thursday afternoon or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-01T21:45:00",
+      "timeRaised": "2023-11-01T21:46:58",
+      "timeSeverityChanged": "2023-11-01T21:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW13",
