@@ -322,12 +322,12 @@
       },
       "floodAreaID": "121WAF917",
       "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain, and no property flooding is expected.\nThe forecast is dry for this evening.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-01T15:25:00",
-      "timeRaised": "2023-11-01T15:25:36",
-      "timeSeverityChanged": "2023-11-01T15:25:00"
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T09:13:00",
+      "timeRaised": "2023-11-02T09:14:05",
+      "timeSeverityChanged": "2023-11-02T09:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF918",
@@ -349,6 +349,27 @@
       "timeMessageChanged": "2023-11-01T20:44:00",
       "timeRaised": "2023-11-01T20:44:11",
       "timeSeverityChanged": "2023-11-01T20:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF915",
+      "description": "Lower River Wear",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF915",
+        "county": "County Durham, Sunderland",
+        "notation": "121WAF915",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF915/polygon",
+        "riverOrSea": "River Wear, Moors Burn, Smallhope Burn"
+      },
+      "floodAreaID": "121WAF915",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T09:15:00",
+      "timeRaised": "2023-11-02T09:16:16",
+      "timeSeverityChanged": "2023-11-02T09:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
@@ -2925,12 +2946,12 @@
       },
       "floodAreaID": "122WAF971",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-01T17:24:00",
-      "timeRaised": "2023-11-01T17:25:16",
-      "timeSeverityChanged": "2023-11-01T17:24:00"
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T09:15:00",
+      "timeRaised": "2023-11-02T09:16:26",
+      "timeSeverityChanged": "2023-11-02T09:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWFEF1A",
@@ -3414,27 +3435,6 @@
       "timeMessageChanged": "2023-10-27T02:12:00",
       "timeRaised": "2023-10-27T02:13:09",
       "timeSeverityChanged": "2023-10-27T02:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWBSE570",
-      "description": "River Severn at Sandhurst and Maisemore",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWBSE570",
-        "county": "Gloucestershire",
-        "notation": "031FWBSE570",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWBSE570/polygon",
-        "riverOrSea": "River Severn"
-      },
-      "floodAreaID": "031FWBSE570",
-      "isTidal": false,
-      "message": "River levels have now fallen below the flood warning threshold.      \nWe continue to monitor the situation.\nA flood alert remains in force for this area.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-01T09:16:00",
-      "timeRaised": "2023-11-01T09:17:01",
-      "timeSeverityChanged": "2023-11-01T09:16:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF5005",
@@ -4647,11 +4647,11 @@
       },
       "floodAreaID": "111FWCWCD011",
       "isTidal": true,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "message": "Flooding is occurring in this area. This means properties are at risk of flooding now.\n\nThe causeway is closed. There will be wave overtopping of the esplanade and potential flying debris hazard which will provide a risk to life.\n\nThe warning information will be updated as the situation changes.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-11-01T19:58:00",
-      "timeRaised": "2023-11-01T19:59:17",
+      "timeMessageChanged": "2023-11-02T09:15:00",
+      "timeRaised": "2023-11-02T09:15:42",
       "timeSeverityChanged": "2023-11-01T19:58:00"
     },
     {
@@ -5514,6 +5514,48 @@
       "timeMessageChanged": "2023-11-02T08:58:00",
       "timeRaised": "2023-11-02T08:58:27",
       "timeSeverityChanged": "2023-11-02T08:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWTBT1E",
+      "description": "Outlying villages on the Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT1E",
+        "county": "Norfolk",
+        "notation": "054FWTBT1E",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWTBT1E/polygon",
+        "riverOrSea": "River Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054FWTBT1E",
+      "isTidal": true,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding. Please take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have. Environment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-02T09:07:00",
+      "timeRaised": "2023-11-02T09:08:32",
+      "timeSeverityChanged": "2023-11-02T09:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8UpTeise",
+      "description": "River Teise area from Lamberhurst to Goudhurst",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8UpTeise",
+        "county": "East Sussex, Kent",
+        "notation": "064WAF8UpTeise",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF8UpTeise/polygon",
+        "riverOrSea": "Teise"
+      },
+      "floodAreaID": "064WAF8UpTeise",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T09:13:00",
+      "timeRaised": "2023-11-02T09:13:36",
+      "timeSeverityChanged": "2023-11-02T09:13:00"
     }
   ]
 }
