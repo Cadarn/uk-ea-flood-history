@@ -1896,12 +1896,12 @@
       },
       "floodAreaID": "113WACT1B",
       "isTidal": true,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-01T05:12:00",
-      "timeRaised": "2023-11-01T05:13:05",
-      "timeSeverityChanged": "2023-11-01T05:12:00"
+      "message": "The risk of flooding from the sea has now reduced, however, large waves and gale force winds are forecast, so take care near coastal paths and promenades.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-02T16:10:00",
+      "timeRaised": "2023-11-02T16:10:17",
+      "timeSeverityChanged": "2023-11-02T16:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
@@ -6604,6 +6604,69 @@
       "timeMessageChanged": "2023-11-02T15:58:00",
       "timeRaised": "2023-11-02T15:58:19",
       "timeSeverityChanged": "2023-11-02T15:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF54Cripsey",
+      "description": "Cripsey Brook in Epping Forest District Council",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54Cripsey",
+        "county": "Essex",
+        "notation": "062WAF54Cripsey",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF54Cripsey/polygon",
+        "riverOrSea": "Cripsey Brook"
+      },
+      "floodAreaID": "062WAF54Cripsey",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T16:12:00",
+      "timeRaised": "2023-11-02T16:13:08",
+      "timeSeverityChanged": "2023-11-02T16:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064FWF8LngFld",
+      "description": "Lingfield",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8LngFld",
+        "county": "Surrey",
+        "notation": "064FWF8LngFld",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8LngFld/polygon",
+        "riverOrSea": "Eden Brook"
+      },
+      "floodAreaID": "064FWF8LngFld",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-02T16:13:00",
+      "timeRaised": "2023-11-02T16:13:39",
+      "timeSeverityChanged": "2023-11-02T16:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF6A",
+      "description": "The upper River Chelmer",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6A",
+        "county": "Essex",
+        "notation": "051WAFEF6A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6A/polygon",
+        "riverOrSea": "Chelmer"
+      },
+      "floodAreaID": "051WAFEF6A",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T16:28:00",
+      "timeRaised": "2023-11-02T16:28:25",
+      "timeSeverityChanged": "2023-11-02T16:28:00"
     }
   ]
 }
