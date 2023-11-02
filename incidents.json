@@ -5171,11 +5171,11 @@
       },
       "floodAreaID": "111FWCWCD011",
       "isTidal": true,
-      "message": "Flooding is occurring in this area. This means properties are at risk of flooding now.\n\nThe causeway is closed. There will be wave overtopping of the esplanade and potential flying debris hazard which will provide a risk to life.\n\nThe warning information will be updated as the situation changes.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.",
+      "message": "The Flood Warning is still in force for the area, meaning properties remain at risk of flooding.\nAreas most at risk include A354 Chiswell, Brandy Row, Pebble Lane, Victoria Square up to the junction with Queens Road, the car parks along the A354 and the yard along Lerret Road.\nConsider activating any property flood protection products in.\nWe will continue to monitor levels closely.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-11-02T09:15:00",
-      "timeRaised": "2023-11-02T09:15:42",
+      "timeMessageChanged": "2023-11-02T17:17:00",
+      "timeRaised": "2023-11-02T17:18:59",
       "timeSeverityChanged": "2023-11-01T19:58:00"
     },
     {
@@ -6793,6 +6793,48 @@
       "timeMessageChanged": "2023-11-02T17:12:00",
       "timeRaised": "2023-11-02T17:12:50",
       "timeSeverityChanged": "2023-11-02T17:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF5",
+      "description": "The Rivers Pant, Blackwater and Brain",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF5",
+        "county": "Essex",
+        "notation": "051WAFEF5",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF5/polygon",
+        "riverOrSea": "Pant, Blackwater, Brain"
+      },
+      "floodAreaID": "051WAFEF5",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T17:42:00",
+      "timeRaised": "2023-11-02T17:43:18",
+      "timeSeverityChanged": "2023-11-02T17:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2E1C",
+      "description": "River Taw (Middle) from Taw Bridge to Newnham Bridge",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2E1C",
+        "county": "Devon",
+        "notation": "113FWF2E1C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2E1C/polygon",
+        "riverOrSea": "River Taw"
+      },
+      "floodAreaID": "113FWF2E1C",
+      "isTidal": false,
+      "message": "Flooding is expected on Thursday evening 2nd November.\nHeavy rain has fallen in the catchment with showery conditions expected for the next few days. This is causing the River Taw to rise and the river is forecast to continue rising for the next few hours.  \nProperties and low lying areas along the River Taw will start to flood first from around 17:30 on Thursday 2nd November. \nFlood waters may be deep and fast flowing in these areas. Residents are strongly urged to take action now. Remain safe and be aware of your local surroundings.\nWe will be closely monitoring the situation throughout the day and this message will be updated as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-02T17:32:00",
+      "timeRaised": "2023-11-02T17:34:17",
+      "timeSeverityChanged": "2023-11-02T17:32:00"
     }
   ]
 }
