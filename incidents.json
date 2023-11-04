@@ -15,6 +15,69 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
+      "description": "Upper Bristol Avon area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
+        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
+        "notation": "112WAFTUBA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
+        "riverOrSea": "Bristol River Avon"
+      },
+      "floodAreaID": "112WAFTUBA",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T04:13:00",
+      "timeRaised": "2023-11-02T04:14:05",
+      "timeSeverityChanged": "2023-11-02T04:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-29T09:43:00",
+      "timeRaised": "2023-10-29T09:43:33",
+      "timeSeverityChanged": "2023-10-29T09:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. Environment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-10-24T16:43:00",
+      "timeRaised": "2023-10-24T16:43:54",
+      "timeSeverityChanged": "2023-10-14T06:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
       "description": "River Maun in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -792,27 +855,6 @@
       "timeSeverityChanged": "2023-11-04T10:12:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "Flooding is possible in this area. Monitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one. Environment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-24T16:43:00",
-      "timeRaised": "2023-10-24T16:43:54",
-      "timeSeverityChanged": "2023-10-14T06:42:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF1B",
       "description": "The River Glaven through Hunworth, Thornage and Letheringsett",
       "eaAreaName": "East Anglia",
@@ -1504,27 +1546,6 @@
       "timeMessageChanged": "2023-10-28T20:44:00",
       "timeRaised": "2023-10-28T20:44:27",
       "timeSeverityChanged": "2023-10-28T20:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
-      "description": "Upper Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
-        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
-        "notation": "112WAFTUBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTUBA",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-02T04:13:00",
-      "timeRaised": "2023-11-02T04:14:05",
-      "timeSeverityChanged": "2023-11-02T04:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFDAU10A",
@@ -3332,27 +3353,6 @@
       "timeSeverityChanged": "2023-10-25T06:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTESR",
-      "description": "East Somerset Rivers",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTESR",
-        "county": "Somerset",
-        "notation": "112WAFTESR",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTESR/polygon",
-        "riverOrSea": "River Brue, River Sheppey, North Drain, South Drain"
-      },
-      "floodAreaID": "112WAFTESR",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:12:00",
-      "timeRaised": "2023-11-03T11:13:07",
-      "timeSeverityChanged": "2023-11-03T11:12:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROU",
       "description": "Upper Frome and tributaries",
       "eaAreaName": "Wessex",
@@ -3702,12 +3702,12 @@
       },
       "floodAreaID": "111FWTCHXH011",
       "isTidal": true,
-      "message": " As a result of High river levels have coincided with high tide, flooding is predicted from now until the turn of the tide in the next 2 hours (0800).  We expect flooding to affect areas in close proximity to Christchurch Harbour including Mudeford, Stanpit, the Quomps and Wick areas Willow Way (Quomps), including Watermead and Kingfishers developments. \nHigh tide levels may prevent rivers from flowing to the sea and cause rivers to rise.\nWe are closely monitoring the situation.   \nIf not already done so please consider installing property flood resilience equipment.  \nThis message will be updated Saturday, 04/11/23, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-11-04T06:02:00",
-      "timeRaised": "2023-11-04T06:04:38",
-      "timeSeverityChanged": "2023-11-04T06:02:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-04T11:14:00",
+      "timeRaised": "2023-11-04T11:15:11",
+      "timeSeverityChanged": "2023-11-04T11:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF1202",
@@ -4002,27 +4002,6 @@
       "timeMessageChanged": "2023-11-04T08:34:00",
       "timeRaised": "2023-11-04T08:34:58",
       "timeSeverityChanged": "2023-10-29T07:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
-      "description": "Lower Frome and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
-        "county": "Dorset Council",
-        "notation": "111WAFFROL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
-        "riverOrSea": "River Frome"
-      },
-      "floodAreaID": "111WAFFROL",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-10-29T09:43:00",
-      "timeRaised": "2023-10-29T09:43:33",
-      "timeSeverityChanged": "2023-10-29T09:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WACWCD",
@@ -4340,27 +4319,6 @@
       "timeSeverityChanged": "2023-11-01T20:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2C1A",
-      "description": "River Harbourne at Crowdy Mill, Beenleigh, Bow and Tuckenhay",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2C1A",
-        "county": "Devon",
-        "notation": "113FWF2C1A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2C1A/polygon",
-        "riverOrSea": "River Harbourne"
-      },
-      "floodAreaID": "113FWF2C1A",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:04:00",
-      "timeRaised": "2023-11-03T11:04:58",
-      "timeSeverityChanged": "2023-11-03T11:04:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF106",
       "description": "River Dun",
       "eaAreaName": "Solent and South Downs",
@@ -4508,27 +4466,6 @@
       "timeSeverityChanged": "2023-11-03T11:33:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2F1C",
-      "description": "River Teign (Lower) from Chudleigh to Kingsteignton",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2F1C",
-        "county": "Devon",
-        "notation": "113FWF2F1C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2F1C/polygon",
-        "riverOrSea": "River Teign"
-      },
-      "floodAreaID": "113FWF2F1C",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:04:00",
-      "timeRaised": "2023-11-03T11:04:44",
-      "timeSeverityChanged": "2023-11-03T11:04:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2G7A",
       "description": "River Clyst from Broadclyst to Clyst St. Mary",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -4590,27 +4527,6 @@
       "timeMessageChanged": "2023-11-04T10:54:00",
       "timeRaised": "2023-11-04T10:55:13",
       "timeSeverityChanged": "2023-11-02T05:46:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFPAR20A",
-      "description": "River Parrett (upper) at Thorney and Kingsbury Episcopi",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFPAR20A",
-        "county": "Somerset",
-        "notation": "112FWFPAR20A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFPAR20A/polygon",
-        "riverOrSea": "River Parrett"
-      },
-      "floodAreaID": "112FWFPAR20A",
-      "isTidal": false,
-      "message": " The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:11:00",
-      "timeRaised": "2023-11-03T11:12:02",
-      "timeSeverityChanged": "2023-11-03T11:11:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF321",
@@ -4920,11 +4836,11 @@
       },
       "floodAreaID": "064WAF351",
       "isTidal": false,
-      "message": "River levels remain high after heavy rainfall from Storm Ciarán but are continuing to fall overnight. Flooding of low lying land and roads along the River Rother, particularly between Robertsbridge and Rye is possible overnight into the early hours of Saturday morning, 04/11/23.\n\nFurther heavy rainfall is forecast from around 5am on Saturday and is expected to continue until the evening. We expect river levels to begin rising again at Crowhurst and Etchingham on Saturday morning and will continue throughout most of the day.\nOur incident response staff are actively monitoring the situation and are prepared to respond if required. Please avoid using low lying footpaths near local watercourses. This message will be updated on Saturday morning, 04/11/23, or as the situation changes. \n ",
+      "message": "River levels continued to fall overnight following Storm Ciarán but are expected to rise again at Crowhurst and Etchingham this morning and throughout today, Saturday 04/11/23, in response to further rainfall. We expect flooding to affect low lying land and roads along the River Rother, particularly between Robertsbridge and Rye. Rain is forecast throughout the day, clearing overnight. Sunday is expected to be dry.\nOur incident response staff are actively monitoring the situation and are prepared to respond if required. Please avoid using low lying footpaths near local watercourses. This message will be updated on Saturday evening, 04/11/23, or as the situation changes. \n ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-03T20:59:00",
-      "timeRaised": "2023-11-03T21:00:08",
+      "timeMessageChanged": "2023-11-04T11:02:00",
+      "timeRaised": "2023-11-04T11:04:23",
       "timeSeverityChanged": "2023-11-02T09:45:00"
     },
     {
@@ -5115,27 +5031,6 @@
       "timeMessageChanged": "2023-11-03T16:00:00",
       "timeRaised": "2023-11-03T16:00:14",
       "timeSeverityChanged": "2023-11-03T16:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2D0C",
-      "description": "River Torridge (Lower) from Dolton to Bideford, including Taddiport and Weare Giffard",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2D0C",
-        "county": "Devon",
-        "notation": "113FWF2D0C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2D0C/polygon",
-        "riverOrSea": "River Torridge"
-      },
-      "floodAreaID": "113FWF2D0C",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:04:00",
-      "timeRaised": "2023-11-03T11:05:58",
-      "timeSeverityChanged": "2023-11-03T11:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW03",
@@ -5387,27 +5282,6 @@
       "timeMessageChanged": "2023-11-04T09:19:00",
       "timeRaised": "2023-11-04T09:19:50",
       "timeSeverityChanged": "2023-11-02T17:42:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2E1C",
-      "description": "River Taw (Middle) from Taw Bridge to Newnham Bridge",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2E1C",
-        "county": "Devon",
-        "notation": "113FWF2E1C",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2E1C/polygon",
-        "riverOrSea": "River Taw"
-      },
-      "floodAreaID": "113FWF2E1C",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:04:00",
-      "timeRaised": "2023-11-03T11:05:08",
-      "timeSeverityChanged": "2023-11-03T11:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF1006",
@@ -5681,27 +5555,6 @@
       "timeMessageChanged": "2023-11-03T14:10:00",
       "timeRaised": "2023-11-03T14:10:45",
       "timeSeverityChanged": "2023-11-03T14:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWFEXE12",
-      "description": "River Exe at vulnerable riverside locations in Exeter, including Exeter Quay",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWFEXE12",
-        "county": "Devon",
-        "notation": "113FWFEXE12",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWFEXE12/polygon",
-        "riverOrSea": "River Exe"
-      },
-      "floodAreaID": "113FWFEXE12",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T11:04:00",
-      "timeRaised": "2023-11-03T11:04:45",
-      "timeSeverityChanged": "2023-11-03T11:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF973",
