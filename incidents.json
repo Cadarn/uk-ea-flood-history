@@ -204,27 +204,6 @@
       "timeSeverityChanged": "2023-11-04T08:16:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
-      },
-      "floodAreaID": "122WAF980",
-      "isTidal": false,
-      "message": "This alert has been removed as levels have fallen below levels of concern. We will continue to monitor the situation and re-issue the alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-03T18:30:00",
-      "timeRaised": "2023-11-03T18:30:37",
-      "timeSeverityChanged": "2023-11-03T18:30:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W03A00",
       "description": "North Cornwall Rivers",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -1671,6 +1650,27 @@
       "timeMessageChanged": "2023-11-04T15:37:00",
       "timeRaised": "2023-11-04T15:37:19",
       "timeSeverityChanged": "2023-11-04T15:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF206",
+      "description": "River Dene in South East Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF206",
+        "county": "Warwickshire",
+        "notation": "033WAF206",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF206/polygon",
+        "riverOrSea": "Dene"
+      },
+      "floodAreaID": "033WAF206",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-04T18:28:00",
+      "timeRaised": "2023-11-04T18:28:55",
+      "timeSeverityChanged": "2023-11-04T18:28:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -3331,6 +3331,27 @@
       "timeSeverityChanged": "2023-11-04T12:23:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWF1201",
+      "description": "Hellingly and Horsebridge",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF1201",
+        "county": "East Sussex",
+        "notation": "065FWF1201",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWF1201/polygon",
+        "riverOrSea": "Cuckmere River"
+      },
+      "floodAreaID": "065FWF1201",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-04T18:28:00",
+      "timeRaised": "2023-11-04T18:28:53",
+      "timeSeverityChanged": "2023-11-04T18:28:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF442",
       "description": "River Uck",
       "eaAreaName": "Solent and South Downs",
@@ -4519,12 +4540,12 @@
       },
       "floodAreaID": "061WAF30Hoestrm",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-02T17:12:00",
-      "timeRaised": "2023-11-02T17:12:50",
-      "timeSeverityChanged": "2023-11-02T17:12:00"
+      "message": "River levels have now fallen below the flood risk threshold. We continue to monitor the situation and will reissue this Alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-04T18:36:00",
+      "timeRaised": "2023-11-04T18:36:17",
+      "timeSeverityChanged": "2023-11-04T18:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF5",
@@ -4666,11 +4687,11 @@
       },
       "floodAreaID": "062WAF54MdRoding",
       "isTidal": false,
-      "message": "River levels are high but steady on the Roding.\nNo property flooding is expected.\nFurther rainfall is forecast today.\nRiver levels are high but steady at the Abridge and Loughton gauges.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated Saturday evening 04/11/2023, or as the situation changes.",
+      "message": "River levels are now falling steadily on the Roding.\nNo property flooding is expected.\nThe forecast is mostly dry for tomorrow.\nRiver levels are now falling steadily at the Abridge and Loughton gauges.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated Sunday morning 05/11/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-04T10:46:00",
-      "timeRaised": "2023-11-04T10:46:46",
+      "timeMessageChanged": "2023-11-04T18:38:00",
+      "timeRaised": "2023-11-04T18:38:34",
       "timeSeverityChanged": "2023-11-02T20:13:00"
     },
     {
@@ -4750,11 +4771,11 @@
       },
       "floodAreaID": "062WAF54UpRoding",
       "isTidal": false,
-      "message": "River levels are now falling steadily on the Roding.\nNo property flooding is expected.\nFurther rainfall is forecast today, but we will continue to monitor levels closely.\nRiver levels are falling steadily at the Shonks Mill Bridge gauge.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated Saturday evening 04/11/2023, or as the situation changes.",
+      "message": "River levels are now falling steadily on the Roding.\nNo property flooding is expected.\nThe forecast is mostly dry for tomorrow.\nRiver levels are falling at the Shonks Mill Bridge gauge.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated Sunday morning 05/11/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-04T10:42:00",
-      "timeRaised": "2023-11-04T10:42:19",
+      "timeMessageChanged": "2023-11-04T18:38:00",
+      "timeRaised": "2023-11-04T18:38:25",
       "timeSeverityChanged": "2023-11-03T02:12:00"
     },
     {
