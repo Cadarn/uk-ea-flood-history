@@ -15,69 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
-      "description": "Upper Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
-        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
-        "notation": "112WAFTUBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTUBA",
-      "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-02T04:13:00",
-      "timeRaised": "2023-11-02T04:14:05",
-      "timeSeverityChanged": "2023-11-02T04:13:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
-      "description": "Lower Frome and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
-        "county": "Dorset Council",
-        "notation": "111WAFFROL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
-        "riverOrSea": "River Frome"
-      },
-      "floodAreaID": "111WAFFROL",
-      "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T11:31:00",
-      "timeRaised": "2023-11-06T11:31:46",
-      "timeSeverityChanged": "2023-10-29T09:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "Property flooding is not currently expected. However, river levels remain high on the River Thame and Chalgrove Brook, especially in the Dorchester area. Low lying paths, roads and land may remain flooded. River levels are stable and starting to fall in some places. Refer to the 'River and Sea levels in England' webpage for current river levels. This message will be updated as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T11:52:00",
-      "timeRaised": "2023-11-06T11:53:13",
-      "timeSeverityChanged": "2023-10-14T06:42:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
       "description": "River Sow and River Penk",
       "eaAreaName": "West Midlands",
@@ -154,12 +91,12 @@
       },
       "floodAreaID": "012WAFLD",
       "isTidal": false,
-      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T08:57:00",
-      "timeRaised": "2023-11-06T08:58:11",
-      "timeSeverityChanged": "2023-11-06T08:57:00"
+      "message": "River levels have been falling steadily since rainfall has eased.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-07T15:15:00",
+      "timeRaised": "2023-11-07T15:15:48",
+      "timeSeverityChanged": "2023-11-07T15:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUD",
@@ -330,6 +267,27 @@
       "timeSeverityChanged": "2023-10-28T09:12:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. However, river levels remain high on the River Thame and Chalgrove Brook, especially in the Dorchester area. Low lying paths, roads and land may remain flooded. River levels are stable and starting to fall in some places. Refer to the 'River and Sea levels in England' webpage for current river levels. This message will be updated as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-06T11:52:00",
+      "timeRaised": "2023-11-06T11:53:13",
+      "timeSeverityChanged": "2023-10-14T06:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -385,11 +343,11 @@
       },
       "floodAreaID": "112WAFTPM",
       "isTidal": false,
-      "message": "The River Tone level at Currymoor pumping station is 7.38 m and gradually falling. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45 m.\n\nThe drain level at Currymoor is 6.59 m and is stable. There is a risk of water overtopping Haymoor flood storage area and affecting Curload and Stan Moor if this level reaches 8.30 m.\n\nFurther showers are forecast, therefore flooding remains possible over the next few days.\n\nWe are pumping at Currymoor, Saltmoor and Northmoor pumping stations with additional temporary pumps installed. The Parrett Relief Channel is being used to evacuate the water away from the Parrett-Tone confluence. Additional pumps at Elson's Clyce are being installed meaning Huntworth Lane will be closed from this evening.\n\nPlease consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated before 03:00 PM on 07/11/2023, or as the situation changes.",
+      "message": "For water levels on the River Tone and Currymoor Drain at Currymoor pumping station please refer to our website: Check For Flooding (check-for-flooding.service.gov.uk).\n\nWater will enter Currymoor reservoir via Hookbridge spillway whilst the River Tone level exceeds 7.45 m.\n\nWe are utilising our pumping stations, including additional temporary pumps, as water levels allow. The Parrett Relief Channel is being used to evacuate the water away from the Parrett-Tone confluence.\n\nFurther rain, including heavy downpours, is forecast this week, therefore flooding remains possible over the next few days.\n\nPlease consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T10:38:00",
-      "timeRaised": "2023-11-06T10:38:53",
+      "timeMessageChanged": "2023-11-07T15:12:00",
+      "timeRaised": "2023-11-07T15:12:13",
       "timeSeverityChanged": "2023-10-28T20:57:00"
     },
     {
@@ -580,6 +538,27 @@
       "timeMessageChanged": "2023-10-28T20:44:00",
       "timeRaised": "2023-10-28T20:44:27",
       "timeSeverityChanged": "2023-10-28T20:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
+      "description": "Upper Bristol Avon area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
+        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
+        "notation": "112WAFTUBA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
+        "riverOrSea": "Bristol River Avon"
+      },
+      "floodAreaID": "112WAFTUBA",
+      "isTidal": false,
+      "message": "Flooding is possible in this area.\n\nMonitor local water levels and weather conditions. Avoid using low lying footpaths or entering areas prone to flooding. Start acting on your flood plan if you have one.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-02T04:13:00",
+      "timeRaised": "2023-11-02T04:14:05",
+      "timeSeverityChanged": "2023-11-02T04:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
@@ -1582,11 +1561,11 @@
       },
       "floodAreaID": "112WAFYPM",
       "isTidal": false,
-      "message": "The River Yeo level at Huish Episcopi pumping station (HEPS) is 8.08 m and gradually falling.\n\nThe drain level at HEPS is 8.04 m and gradually rising.\n\nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\n\nScattered showers are forecast today, 06/11 therefore flooding remains possible.\n\nWe are monitoring rainfall and river levels closely. We are unable to pump at Huish Episcopi and other pumping stations near Langport due to high river levels. However we are utilising the Parrett Relief Channel to evacuate the water (as downstream tidal levels allow).\n\nPlease consider local water levels, weather conditions and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated by 03:00 PM on 07/11/2023, or as the situation changes.",
+      "message": "For water levels on the River Yeo and the Drain at Huish Episcopi pumping station please refer to our website: Check For Flooding (check-for-flooding.service.gov.uk).\nFlooding will affect the road from Langport to Muchelney if this level exceeds 7.3 m, the road from Muchelney to Long load if this level exceeds 7.86 and the road from Muchelney to Thorney if this level exceeds 7.93 m. \nWe are utilising our pumping stations, as water levels allow. The Parrett Relief Channel is also being used to evacuate the water.\nFurther rain, including heavy downpours, is forecast this week, therefore flooding remains possible over the next few days.\nPlease consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T10:12:00",
-      "timeRaised": "2023-11-06T10:12:13",
+      "timeMessageChanged": "2023-11-07T15:16:00",
+      "timeRaised": "2023-11-07T15:16:28",
       "timeSeverityChanged": "2023-10-25T22:57:00"
     },
     {
@@ -1708,11 +1687,11 @@
       },
       "floodAreaID": "112WAFRYP",
       "isTidal": false,
-      "message": "River levels are falling but remain high, particularly in the levels and moors, after the rain over the weekend. Areas most at risk include the Ilchester to Yeovilton road at the end of the runway, the Mudford to Limington road, the road and properties at the south end of Westover Trading Estate. Further showers are forecast, therefore flooding remains possible over the next few days. We are monitoring rainfall and river levels closely. We will pump when river levels allow us to at Langport later today. Please consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 05:00 PM on 07/11/2023, or as the situation changes.",
+      "message": " Further rain, including heavy downpours, is forecast this week, therefore flooding remains possible over the next few days.\nAreas most at risk include the Ilchester to Yeovilton road at the end of the runway, the Mudford to Limington road, the road and properties at the south end of Westover Trading Estate. \nWe are utilising our pumping stations, including additional temporary pumps, as water levels allow. The Parrett Relief Channel is being used to evacuate the water away from the Parrett-Tone confluence.\nPlease consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T10:55:00",
-      "timeRaised": "2023-11-06T10:55:15",
+      "timeMessageChanged": "2023-11-07T15:08:00",
+      "timeRaised": "2023-11-07T15:09:14",
       "timeSeverityChanged": "2023-11-02T04:28:00"
     },
     {
@@ -1756,6 +1735,27 @@
       "timeMessageChanged": "2023-11-06T20:56:00",
       "timeRaised": "2023-11-06T20:56:42",
       "timeSeverityChanged": "2023-10-29T07:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-06T11:31:00",
+      "timeRaised": "2023-11-06T11:31:46",
+      "timeSeverityChanged": "2023-10-29T09:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF652",
