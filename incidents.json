@@ -15,25 +15,88 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
-      "description": "River Blythe in Warwickshire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
+      "description": "Upper Bristol Avon area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
+        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
+        "notation": "112WAFTUBA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
+        "riverOrSea": "Bristol River Avon"
+      },
+      "floodAreaID": "112WAFTUBA",
+      "isTidal": false,
+      "message": "River levels are falling on the Bristol Avon, Tetbury Avon, Sherston Avon and Dauntsey Brook. Areas most at risk include the road at Reybridge..\n\nFurther rain has fallen on Tuesday morning which may keep rivers high or cause them to rise again.\n\nWe are monitoring rainfall and river levels, checking rivers for blockages and clearing debris from weed screens in the area.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated on Tuesday evening, or sooner if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-14T11:50:00",
+      "timeRaised": "2023-11-14T11:50:27",
+      "timeSeverityChanged": "2023-11-08T16:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
+      "description": "Lower Frome and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
+        "county": "Dorset Council",
+        "notation": "111WAFFROL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
+        "riverOrSea": "River Frome"
+      },
+      "floodAreaID": "111WAFFROL",
+      "isTidal": false,
+      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-06T11:31:00",
+      "timeRaised": "2023-11-06T11:31:46",
+      "timeSeverityChanged": "2023-10-29T09:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
+      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
+        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
+        "notation": "061WAF19Thame",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
+        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
+      },
+      "floodAreaID": "061WAF19Thame",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising on the River Thame as a result of heavy overnight rainfall. Therefore, flooding of low lying land and roads is expected 13/11/23, especially in the Stadhampton and Dorchester areas. Further rainfall is expected today 13/11/23 with unsettled weather expected over the coming week. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 14/11/23, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-13T10:55:00",
+      "timeRaised": "2023-11-13T10:56:00",
+      "timeSeverityChanged": "2023-10-14T06:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
+      "description": "River Leadon catchment",
       "eaAreaName": "West Midlands",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
-        "county": "Solihull, Warwickshire",
-        "notation": "033WAF302",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
-        "riverOrSea": "River Blythe"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
+        "county": "Gloucestershire, Herefordshire, Worcestershire",
+        "notation": "031WAF213",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
+        "riverOrSea": "Leadon, Glynch"
       },
-      "floodAreaID": "033WAF302",
+      "floodAreaID": "031WAF213",
       "isTidal": false,
-      "message": "River levels are high but steady at the Cheswick Green river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is expected between 10:00 and 19:00 today, 14/11/23. Flooding is affecting low-lying land and roads adjacent to the River Blythe between Cheswick Green and Blyth End.   \nWe expect river levels to remain high until this evening, 14/11/23.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, 14/11/23, or as the situation changes.\n",
+      "message": "River levels are rising at the Wedderburn Bridge river gauge as a result of heavy rainfall.  Flooding continues.  We expect flooding to affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton and Tibberton. Water may be out of bank at Upleadon Court.   \nWe expect river levels to peak today Tuesday 14/11/23. Further rainfall is forecast over the next few days, which may keep river levels high. We are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 9am on Wednesday 15/11/23, or as the situation changes. \n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-14T10:00:00",
-      "timeRaised": "2023-11-14T10:00:18",
-      "timeSeverityChanged": "2023-11-12T16:38:00"
+      "timeMessageChanged": "2023-11-14T08:38:00",
+      "timeRaised": "2023-11-14T08:38:19",
+      "timeSeverityChanged": "2023-11-13T13:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
@@ -57,6 +120,27 @@
       "timeSeverityChanged": "2023-11-14T08:45:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF302",
+      "description": "River Blythe in Warwickshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302",
+        "county": "Solihull, Warwickshire",
+        "notation": "033WAF302",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF302/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033WAF302",
+      "isTidal": false,
+      "message": "River levels are high but steady at the Cheswick Green river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is expected between 10:00 and 19:00 today, 14/11/23. Flooding is affecting low-lying land and roads adjacent to the River Blythe between Cheswick Green and Blyth End.   \nWe expect river levels to remain high until this evening, 14/11/23.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening, 14/11/23, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-14T10:00:00",
+      "timeRaised": "2023-11-14T10:00:18",
+      "timeSeverityChanged": "2023-11-12T16:38:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
       "description": "River Cole and Dorcan Brook",
       "eaAreaName": "Thames",
@@ -70,11 +154,11 @@
       },
       "floodAreaID": "061WAF07Cole",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. River levels are forecast to rise on the River Cole and Dorcan Brook as a result of heavy overnight rainfall. Therefore, flooding of low lying land and roads is possible 13/11/23, especially in the Inglesham area. Further showers are expected today 13/11/23 and unsettled weather over the coming week. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 14/11/23, or as the situation changes.",
+      "message": "Property flooding is not currently expected. River levels are steady on the River Cole and Dorcan Brook as a result of previous heavy rainfall. Therefore, flooding of low lying land and roads is expected to continue today 14/11/23, especially in the Inglesham area. Further showers are expected today 14/11/23 and we expect further unsettled weather over the coming week. We expect river levels to remain high throughout the day. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 15/11/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T14:09:00",
-      "timeRaised": "2023-11-13T14:09:51",
+      "timeMessageChanged": "2023-11-14T11:46:00",
+      "timeRaised": "2023-11-14T11:46:20",
       "timeSeverityChanged": "2023-11-12T08:45:00"
     },
     {
@@ -309,6 +393,27 @@
       "timeSeverityChanged": "2023-11-13T15:40:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "River levels have risen at the Pillings Lock river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible from 12:00 today, 14/11/2023.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.   \n\nFurther rainfall is forecast over the next 6 hours.  We expect river levels to remain high until tomorrow morning, 15/11/2023.\n\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \n\nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses.  \n\nThis message will be updated by 17:00 this afternoon, 14/11/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-14T12:09:00",
+      "timeRaised": "2023-11-14T12:09:46",
+      "timeSeverityChanged": "2023-11-14T12:09:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
       "description": "Upper River Aire catchment",
       "eaAreaName": "Yorkshire",
@@ -391,27 +496,6 @@
       "timeMessageChanged": "2023-11-13T13:59:00",
       "timeRaised": "2023-11-13T13:59:40",
       "timeSeverityChanged": "2023-11-13T13:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATPOOH",
-      "description": "Dorset coast at Poole Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
-        "notation": "111WATPOOH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATPOOH",
-      "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-13T12:01:00",
-      "timeRaised": "2023-11-13T12:01:20",
-      "timeSeverityChanged": "2023-11-13T12:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC162",
@@ -708,27 +792,6 @@
       "timeSeverityChanged": "2023-11-13T19:20:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
-      "description": "River Leadon catchment",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
-        "county": "Gloucestershire, Herefordshire, Worcestershire",
-        "notation": "031WAF213",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
-        "riverOrSea": "Leadon, Glynch"
-      },
-      "floodAreaID": "031WAF213",
-      "isTidal": false,
-      "message": "River levels are rising at the Wedderburn Bridge river gauge as a result of heavy rainfall.  Flooding continues.  We expect flooding to affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton and Tibberton. Water may be out of bank at Upleadon Court.   \nWe expect river levels to peak today Tuesday 14/11/23. Further rainfall is forecast over the next few days, which may keep river levels high. We are closely monitoring the situation.  \nPlease avoid using low lying footpaths near local watercourses and avoid contact with flood water.  \nThis message will be updated by 9am on Wednesday 15/11/23, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-14T08:38:00",
-      "timeRaised": "2023-11-14T08:38:19",
-      "timeSeverityChanged": "2023-11-13T13:54:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
       "description": "Coast from Silloth to St Bees",
       "eaAreaName": "Cumbria and Lancashire",
@@ -853,27 +916,6 @@
       "timeMessageChanged": "2023-11-14T09:09:00",
       "timeRaised": "2023-11-14T09:09:27",
       "timeSeverityChanged": "2023-11-13T07:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
-      "description": "River Thame, Horsenden Stream and Chalgrove Brook",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame",
-        "county": "Buckinghamshire, Hertfordshire, Oxfordshire",
-        "notation": "061WAF19Thame",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF19Thame/polygon",
-        "riverOrSea": "River Thame, Horsenden Stream, Chalgrove Brook"
-      },
-      "floodAreaID": "061WAF19Thame",
-      "isTidal": false,
-      "message": "Property flooding is not currently expected. River levels are rising on the River Thame as a result of heavy overnight rainfall. Therefore, flooding of low lying land and roads is expected 13/11/23, especially in the Stadhampton and Dorchester areas. Further rainfall is expected today 13/11/23 with unsettled weather expected over the coming week. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 14/11/23, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T10:55:00",
-      "timeRaised": "2023-11-13T10:56:00",
-      "timeSeverityChanged": "2023-10-14T06:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
@@ -1161,12 +1203,12 @@
       },
       "floodAreaID": "011WAFME",
       "isTidal": false,
-      "message": "River levels are rising on the Middle River Eden due to heavy rainfall.\n\nAreas most at risk include River Eden and tributaries from Temple Sowerby to the confluence with the River Irthing at Warwick Bridge including Langwathby, Lazonby, Kirkoswald, Armathwaite, Wetheral and Warwick on Eden.\n\nFurther heavy showers are forecast throughout this evening which will keep river levels high.\nWe are clearing debris from weed screens in the area and continuing to monitor rainfall and river levels.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated tomorrow morning, 14/11/2023, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T18:44:00",
-      "timeRaised": "2023-11-13T18:44:52",
-      "timeSeverityChanged": "2023-11-13T18:44:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-14T11:57:00",
+      "timeRaised": "2023-11-14T11:57:14",
+      "timeSeverityChanged": "2023-11-14T11:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUL",
@@ -1203,12 +1245,12 @@
       },
       "floodAreaID": "011WAFUE",
       "isTidal": false,
-      "message": "River levels remain high on the Upper River Eden due to heavy rainfall. The Flood Alert will remain in place overnight as further heavy showers are forecast which will keep river levels high.\n\nAreas most at flood risk include River Eden and other watercourses, from Kirkby Stephen to Temple Sowerby including low lying areas around Brough, Warcop, Great Ormside.\n\nWe are clearing debris from weed screens in the area and continuing to monitor rainfall and river levels.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated tomorrow morning, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T17:09:00",
-      "timeRaised": "2023-11-13T17:09:26",
-      "timeSeverityChanged": "2023-11-13T14:28:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-14T11:57:00",
+      "timeRaised": "2023-11-14T11:57:07",
+      "timeSeverityChanged": "2023-11-14T11:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
@@ -1245,12 +1287,12 @@
       },
       "floodAreaID": "011FWFNC3A",
       "isTidal": false,
-      "message": "River levels are rising on the River Eden due to Storm Debi.\n\nFlooding is forecast to affect locations near the River Eden, with low lying land expected to be most affected, particularly around low lying roads, car parks, public spaces and recreational facilities at Rickerby Park, Swifts and Stoneyholme Golf Courses.\n\nRiver levels are forecast to continue to rise during the night, with further heavy showers expected.  River levels are expected to peak at approximately 03:00 am on 14/11/2023.\n\nWe will continue to monitor rainfall and river levels closely.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated tomorrow morning, or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-11-13T21:30:00",
-      "timeRaised": "2023-11-13T21:30:26",
-      "timeSeverityChanged": "2023-11-13T21:30:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-14T11:54:00",
+      "timeRaised": "2023-11-14T11:54:55",
+      "timeSeverityChanged": "2023-11-14T11:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC11B",
@@ -1266,12 +1308,12 @@
       },
       "floodAreaID": "011FWFNC11B",
       "isTidal": false,
-      "message": "River levels are rising on the River Eden due to Storm Debi.\n\nFlooding is forecast to affect locations near the River Eden, with low lying land expected to be most affected, particularly around farms and residential properties in the Warwick Holmes area.\n\nRiver levels are forecast to continue to rise during the night, with further heavy showers expected.  River levels are expected to peak at approximately 03:00 am on 14/11/2023.\n\nWe will continue to monitor rainfall and river levels closely.\n\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\n\nThis message will be updated tomorrow morning, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-11-13T21:33:00",
-      "timeRaised": "2023-11-13T21:33:39",
-      "timeSeverityChanged": "2023-11-13T21:33:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-14T11:54:00",
+      "timeRaised": "2023-11-14T11:54:43",
+      "timeSeverityChanged": "2023-11-14T11:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOL",
@@ -1664,33 +1706,12 @@
       },
       "floodAreaID": "112WAFTMBA",
       "isTidal": false,
-      "message": "River levels are rising on the Bristol Avon at Bradford-on-Avon and have peaked on the Semington Brook at Semington. Areas most at risk include low lying land and roads between Melksham and Bathford. The flood gates at Holt Road may be closed.  No Flood Warnings are forecast to be issued in this Flood Alert area.\n\nWe are monitoring rainfall and river levels, checking rivers for blockages and clearing debris from weed screens in the area.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated on Tuesday morning, or sooner if the situation changes.",
+      "message": "River levels are rising on the Bristol Avon at Bradford-on-Avon and have peaked on the Semington Brook at Semington. Areas most at risk include low lying land and roads between Melksham and Bathford. The flood gates at Holt Road may be closed.\n\nFurther rain has fallen on Tuesday morning which may keep river levels high or cause them to rise further.  No Flood Warnings are currently forecast to be issued in this Flood Alert area.\n\nWe are monitoring rainfall and river levels, checking rivers for blockages and clearing debris from weed screens in the area.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated on Tuesday evening, or sooner if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T19:50:00",
-      "timeRaised": "2023-11-13T19:50:51",
+      "timeMessageChanged": "2023-11-14T11:56:00",
+      "timeRaised": "2023-11-14T11:56:13",
       "timeSeverityChanged": "2023-10-28T20:44:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
-      "description": "Upper Bristol Avon area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA",
-        "county": "Gloucestershire, South Gloucestershire, Wiltshire",
-        "notation": "112WAFTUBA",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTUBA/polygon",
-        "riverOrSea": "Bristol River Avon"
-      },
-      "floodAreaID": "112WAFTUBA",
-      "isTidal": false,
-      "message": "River levels are rising on the Bristol Avon, but falling on the Tetbury Avon, Sherston Avon and Dauntsey Brook. Areas most at risk include the road at Reybridge..\n\nRain that fell overnight on Sunday and into Monday is causing some river levels to continue to rise and a Flood Warning has been issued.\n\nWe are monitoring rainfall and river levels, checking rivers for blockages and clearing debris from weed screens in the area.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nPlan driving routes to avoid low lying roads near rivers, which may be flooded.\n\nThis message will be updated on Tuesday, or sooner if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T19:45:00",
-      "timeRaised": "2023-11-13T19:45:20",
-      "timeSeverityChanged": "2023-11-08T16:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
@@ -1748,11 +1769,11 @@
       },
       "floodAreaID": "061WAF17Ock",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. River levels are rising on the River Ock as a result of heavy overnight rainfall. Therefore, flooding of low lying land and roads is expected 13/11/23, especially in the Stanford in the Vale area. Further showers are expected today 13/11/23 and unsettled weather over the coming week may keep river levels high. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 14/11/23, or as the situation changes.",
+      "message": "Property flooding is not currently expected. River levels are rising slowly on the River Ock as a result of previous heavy rainfall. Therefore, flooding of low lying land and roads is expected to continue today 14/11/23, especially in the Charney Bassett and Stanford in the Vale areas. Further showers are expected today 14/11/23 and we expect further unsettled weather over the coming week. We expect river levels to remain high over the next few days. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 15/11/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T13:53:00",
-      "timeRaised": "2023-11-13T13:54:02",
+      "timeMessageChanged": "2023-11-14T11:53:00",
+      "timeRaised": "2023-11-14T11:54:05",
       "timeSeverityChanged": "2023-11-10T17:42:00"
     },
     {
@@ -2763,27 +2784,6 @@
       "timeSeverityChanged": "2023-11-14T10:04:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWDRS",
-      "description": "West Dorset Rivers and Streams",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS",
-        "county": "Devon, Dorset Council",
-        "notation": "111WAFWDRS",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFWDRS/polygon",
-        "riverOrSea": "River Asker, River Brit, River Bride, River Char, River Lim"
-      },
-      "floodAreaID": "111WAFWDRS",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-13T11:59:00",
-      "timeRaised": "2023-11-13T11:59:31",
-      "timeSeverityChanged": "2023-11-13T11:59:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF415",
       "description": "Aldingbourne and Barnham Rifes",
       "eaAreaName": "Solent and South Downs",
@@ -2803,27 +2803,6 @@
       "timeMessageChanged": "2023-11-14T10:27:00",
       "timeRaised": "2023-11-14T10:28:03",
       "timeSeverityChanged": "2023-10-25T06:43:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROU",
-      "description": "Upper Frome and tributaries",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROU",
-        "county": "Dorset Council",
-        "notation": "111WAFFROU",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROU/polygon",
-        "riverOrSea": "Frome, Hooke, Sydling Water, Cerne"
-      },
-      "floodAreaID": "111WAFFROU",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-13T11:59:00",
-      "timeRaised": "2023-11-13T11:59:19",
-      "timeSeverityChanged": "2023-11-13T11:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
@@ -3028,12 +3007,12 @@
       },
       "floodAreaID": "051WAFEF6BC",
       "isTidal": false,
-      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely today, Monday 13th November.  River levels are rising steadily in response to the rainfall that has fallen overnight and this morning.  Areas most at risk are low lying roads and riverside areas, including Lordship Lane and Cow Watering Lane around Writtle College.  The forecast is for rain through the rest of this morning, Monday 13th November, some of which is likely to be heavy.  The rain is expected to clear by midday and remain dry for the afternoon and evening. \n There are likely to be some showers tomorrow, Tuesday 14th November.  Flood water is dangerous.  Don't put yourself or others at risk.  We are closely monitoring the situation.  We will update this message on the morning of Tuesday 14th November 2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T09:31:00",
-      "timeRaised": "2023-11-13T09:31:33",
-      "timeSeverityChanged": "2023-11-13T09:31:00"
+      "message": "River levels are now steadily falling, but still remain quite high in some locations on the lower Can and Wid.  The forecast is for some showers through today, Tuesday 14th November, some of which could be heavy at times.  Further rain is expected later in the week.  Flood water is dangerous.  Don't put yourself or others at risk.  Take care on waterside roads and footpaths.  We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-14T11:43:00",
+      "timeRaised": "2023-11-14T11:43:09",
+      "timeSeverityChanged": "2023-11-14T11:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFWE",
@@ -3057,25 +3036,46 @@
       "timeSeverityChanged": "2023-11-14T07:22:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
-      "description": "Lower Frome and tributaries",
-      "eaAreaName": "Wessex",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF981",
+      "description": "Holbeck catchment",
+      "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL",
-        "county": "Dorset Council",
-        "notation": "111WAFFROL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFFROL/polygon",
-        "riverOrSea": "River Frome"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF981",
+        "county": "North Yorkshire",
+        "notation": "122WAF981",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF981/polygon",
+        "riverOrSea": "Holbeck"
       },
-      "floodAreaID": "111WAFFROL",
+      "floodAreaID": "122WAF981",
       "isTidal": false,
-      "message": "Flooding is expected in this area. This means properties are at risk of flooding.\n\nPlease take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. Consider activating any property flood protection products you may have.\n\nEnvironment Agency Flood Warning Officers set the river or tidal levels that have triggered this message. During industrial action this message has been automatically issued based on rising river or tidal levels.",
+      "message": "River levels are rising steadily on the Hovingham Beck as a result of rainfall caused by Storm Debi. Flooding is forecast to affect locations near Hovingham Beck, with low lying land expected to be most affected, particularly land around Holbeck and it's tributaries including Thorpe Beck, Marrs Beck, and including properties to the west of Station Road at Gilling East. Further rainfall is forecast intermittently throughout the day. We will continue to monitor the forecast. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 9PM on 14/11/2023, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-06T11:31:00",
-      "timeRaised": "2023-11-06T11:31:46",
-      "timeSeverityChanged": "2023-10-29T09:43:00"
+      "timeMessageChanged": "2023-11-14T11:20:00",
+      "timeRaised": "2023-11-14T11:20:54",
+      "timeSeverityChanged": "2023-11-14T11:20:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF650",
+      "description": "River Derwent at Buttercrambe Mill",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650",
+        "county": "North Yorkshire",
+        "notation": "122FWF650",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF650/polygon",
+        "riverOrSea": "River Derwent"
+      },
+      "floodAreaID": "122FWF650",
+      "isTidal": false,
+      "message": "River levels are increasing on the River Derwent at Buttercrambe due to heavy rain associated with Storm Debi. Flooding is expected in this area. Flooding is forecast to affect locations near the River Derwent, with low lying land expected to be most affected, particularly around Buttercrambe Mill at Buttercrambe Bridge. Further rainfall will occur intermittently throughout the day. We are closely monitoring the situation. Please take action to protect yourself and your property and monitor local weather and river conditions. Avoid contact with, walking or driving through flood water. This message will be updated by 9PM on Monday, 14/11/2023, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-14T11:35:00",
+      "timeRaised": "2023-11-14T11:35:48",
+      "timeSeverityChanged": "2023-11-14T11:35:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF8LowMed",
@@ -3265,6 +3265,27 @@
       "timeMessageChanged": "2023-11-13T16:28:00",
       "timeRaised": "2023-11-13T16:28:20",
       "timeSeverityChanged": "2023-11-13T16:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW05",
+      "description": "Exmoor Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW05",
+        "county": "Devon, Somerset",
+        "notation": "113WAFTW05",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WAFTW05/polygon",
+        "riverOrSea": "River Barle, River Exe, River Lyn, River Mole, River Bray"
+      },
+      "floodAreaID": "113WAFTW05",
+      "isTidal": false,
+      "message": "Flooding is possible in the afternoon of Tuesday 14th November.\nOver the last 24 hours we have seen heavy rainfall in the Exmoor area. This has meant that Exmoor rivers are now rising. \nThe main areas of concern are Lynton and Lynmouth, Challacombe, Meethe, South Molton, Dulverton, Brushford, Winsford, Exton, and Exford, where levels suggest that there will be flooding to low lying land and roads close to the river from around midday Tuesday 14th November. \nWe expect the river to remain high throughout today though no flooding to properties is forecast and warnings are not expected to be issued.\nTake care near the areas of concern and monitor your local weather conditions. \nWe are constantly monitoring river levels and have staff in the area checking for and clearing blockages in this location. This message will be updated on Wednesday 15th November or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-14T11:54:00",
+      "timeRaised": "2023-11-14T11:55:16",
+      "timeSeverityChanged": "2023-11-14T11:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOM",
@@ -3595,11 +3616,11 @@
       },
       "floodAreaID": "061WAF08Leach",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. River levels are rising on the River Leach as a result of heavy overnight rainfall. Therefore, flooding of low lying land and roads is expected 13/11/23, especially in the Lechlade area. Further showers are expected today 13/11/23 and unsettled weather over the coming week. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 14/11/23, or as the situation changes.",
+      "message": "Property flooding is not currently expected. River levels are rising slowly on the River Leach as a result of previous heavy rainfall. Therefore, flooding of low lying land and roads is expected to continue today 14/11/23, especially in the Lechlade area. Further showers are expected today 14/11/23 and we expect further unsettled weather over the coming week. We expect river levels to remain high over the next few days. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow, 15/11/23, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-13T13:46:00",
-      "timeRaised": "2023-11-13T13:47:02",
+      "timeMessageChanged": "2023-11-14T11:43:00",
+      "timeRaised": "2023-11-14T11:44:12",
       "timeSeverityChanged": "2023-11-13T13:46:00"
     },
     {
@@ -3641,6 +3662,27 @@
       "timeMessageChanged": "2023-11-14T09:15:00",
       "timeRaised": "2023-11-14T09:15:38",
       "timeSeverityChanged": "2023-11-13T16:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF307",
+      "description": "Bishop Monkton Beck at Bishop Monkton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF307",
+        "county": "North Yorkshire",
+        "notation": "122FWF307",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF307/polygon",
+        "riverOrSea": "Bishop Monkton Beck"
+      },
+      "floodAreaID": "122FWF307",
+      "isTidal": false,
+      "message": "River levels are rising on Bishop Monkton Beck at Bishop Monkton as a result of heavy rain from Storm Debi. Flooding is forecast to affect locations near Bishop Monkton Beck, with low lying land and roads expected to be most affected. We will continue to monitor the forecast. Avoid using low lying roads, footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 5:30PM on 14/11/2023, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-14T11:29:00",
+      "timeRaised": "2023-11-14T11:29:42",
+      "timeSeverityChanged": "2023-11-14T11:29:00"
     }
   ]
 }
