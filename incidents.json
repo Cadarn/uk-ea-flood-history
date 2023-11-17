@@ -267,27 +267,6 @@
       "timeSeverityChanged": "2023-11-13T17:21:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
-      "description": "Mansbridge and Riverside Park",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124",
-        "county": "Hampshire, Southampton",
-        "notation": "065WAF124",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124/polygon",
-        "riverOrSea": "River Itchen"
-      },
-      "floodAreaID": "065WAF124",
-      "isTidal": false,
-      "message": "The unsettled weather which elevated tide levels along the south coast has now cleared the area. However, water flow in the River Itchen remains high, and the river will continue to be vulnerable to further rain. Levels may continue to be high, especially around the times of high tide, but only very minor impacts, if any, are anticipated. We do not expect impacts to major roads or property. We continue to monitor the forecast and may issue further advice if flooding is expected to occur. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-16T14:19:00",
-      "timeRaised": "2023-11-16T14:19:55",
-      "timeSeverityChanged": "2023-11-16T14:19:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
       "description": "Upper River Tamar",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -496,6 +475,27 @@
       "timeMessageChanged": "2023-11-17T13:38:00",
       "timeRaised": "2023-11-17T13:38:20",
       "timeSeverityChanged": "2023-10-28T20:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves and spray overtopping on the coast tomorrow morning. Areas most at risk include The North Sea coast from Bridlington to Barmston. Flooding is possible at the North Sea coast from Bridlington to Barmston between 5am and 12pm on Saturday, 18/11/2023. After this tide‚ the weather is more settled and no further impacts are expected. We will continue to monitor levels closely. Please be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 2pm on 18/11/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-17T14:56:00",
+      "timeRaised": "2023-11-17T14:57:10",
+      "timeSeverityChanged": "2023-11-17T14:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
@@ -1203,11 +1203,11 @@
       },
       "floodAreaID": "122FWF712",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York due to rainfall as a result of Storm Debi. Flooding is expected to affect low lying land, particularly around properties along Queens Staith on South Esplanade, Friars Terrace and Tower Place, St Georges Field car parks and Rowntree Park. The level in York at the Viking recorder is around 3.65m and is expected to continue falling today Friday 17/11/2023. Further rainfall is forecast at the weekend and we expect levels to rise again. We will continue to monitor the forecast. The Foss Barrier is being operated. Please monitor local water levels and put your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 3pm on 17/11/23, or as the situation changes.",
+      "message": "River levels remain high on the River Ouse in York due to rainfall as a result of Storm Debi. Flooding is expected to affect low lying land, particularly around properties along Queens Staith on South Esplanade, Friars Terrace and Tower Place, St Georges Field car parks and Rowntree Park. The level in York at the Viking recorder is around 3.45m and is expected to continue falling today Friday 17/11/2023. Further rainfall is forecast at the weekend and we expect levels to rise again into Sunday 19/11/23. We will continue to monitor the forecast. The Foss Barrier is being operated. Please monitor local water levels and put your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by11pm on 17/11/23, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-11-17T06:58:00",
-      "timeRaised": "2023-11-17T06:58:47",
+      "timeMessageChanged": "2023-11-17T14:56:00",
+      "timeRaised": "2023-11-17T14:56:51",
       "timeSeverityChanged": "2023-11-14T14:11:00"
     },
     {
@@ -1224,11 +1224,11 @@
       },
       "floodAreaID": "122FWF710",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York in response to recent rainfall in the upper catchment, associated with Storm Debi. Flooding is forecast to affect riverside properties, properties on King's Staith in York and riverside areas through York from Lendal Bridge to Millennium Bridge. Levels in York at the Viking recorder are around 3.65m and are expected to continue falling today Friday 17/11/23. The Foss Barrier is in operation. Further rainfall is forecast at the weekend and we expect levels to rise again. We will continue to monitor the forecast. Please monitor local water levels and weather conditions and put your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 3pm on 17/11/23, or as the situation changes. ",
+      "message": "River levels remain high on the River Ouse in York in response to recent rainfall in the upper catchment, associated with Storm Debi. Flooding is forecast to affect riverside properties, properties on King's Staith in York and riverside areas through York from Lendal Bridge to Millennium Bridge. Levels in York at the Viking recorder are around 3.45m and are expected to continue falling today Friday 17/11/23. The Foss Barrier is in operation. Further rainfall is forecast at the weekend and we expect levels to rise again into Sunday 19/11/23. We will continue to monitor the forecast. Please monitor local water levels and weather conditions and put your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 11pm on 17/11/23, or as the situation changes. \n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-11-17T06:57:00",
-      "timeRaised": "2023-11-17T06:57:13",
+      "timeMessageChanged": "2023-11-17T14:56:00",
+      "timeRaised": "2023-11-17T14:56:54",
       "timeSeverityChanged": "2023-11-14T13:25:00"
     },
     {
@@ -1308,11 +1308,11 @@
       },
       "floodAreaID": "122FWF723",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in response to recent heavy rainfall in the upper catchments associated with Storm Debi. Levels in York at the Viking recorder are around 3.65m and are expected to continue falling today Friday 17/11/23. The current level at Naburn is 3.15m. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. The Foss Barrier is in operation. Please monitor local water levels and weather conditions and put your flood plan into action. You should avoid walking, cycling or driving through flood water. Further rainfall is forecast at the weekend and we expect levels to rise again. This message will be updated by 3pm on 17/11/23, or as the situation changes.",
+      "message": "River levels remain high on the River Ouse in response to recent heavy rainfall in the upper catchments associated with Storm Debi. Levels in York at the Viking recorder are around 3.45m and are expected to continue falling today Friday 17/11/23. The current level at Naburn is around 3m. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. The Foss Barrier is in operation. Please monitor local water levels and weather conditions and put your flood plan into action. You should avoid walking, cycling or driving through flood water. Further rainfall is forecast at the weekend and we expect levels to rise again into Sunday 19/11/23. This message will be updated by 11pm on 17/11/23, or as the situation changes.\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2023-11-17T07:00:00",
-      "timeRaised": "2023-11-17T07:00:47",
+      "timeMessageChanged": "2023-11-17T14:56:00",
+      "timeRaised": "2023-11-17T14:56:43",
       "timeSeverityChanged": "2023-11-14T10:09:00"
     },
     {
@@ -1581,11 +1581,11 @@
       },
       "floodAreaID": "112WAFRYP",
       "isTidal": false,
-      "message": "The band of rainfall has now passed out of the area, but showers are still possible. Unsettled weather will continue, and a further band of rainfall is currently forecast to arrive Friday evening and into Saturday. This Flood Alert remains in force due to the flooding of large areas of the Somerset Levels and Moors. \nFlood water may affect the Ilchester to Yeovilton road at the end of the runway, the Mudford to Limington road, the road and properties at the south end of Westover Trading Estate.\nWe are utilising our pumping stations, including additional temporary pumps, when river levels allow. The Parrett Relief Channel is being used to evacuate the water away from the Parrett-Tone confluence.\nPlease consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nWe will continue to monitor the rainfall and river levels. This message will be updated by 1pm on 17/11/2023.",
+      "message": "After a mostly dry Friday, a band of rain will return early Saturday morning through to late afternoon. Unsettled weather will continue through the weekend and into Monday 20 November. \nThis Flood Alert remains in force due to the flooding of large areas of the Somerset Levels and Moors. Flood water may affect the Ilchester to Yeovilton road at the end of the runway, the Mudford to Limington road, the road and properties at the south end of Westover Trading Estate.\nWe are utilising our pumping stations, including additional temporary pumps, when river levels allow. The Parrett Relief Channel is being used to evacuate the water away from the Parrett-Tone confluence.\nPlease consider weather conditions, local water levels and your flood plan if you have one. Avoid using low lying footpaths, roads and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nWe will continue to monitor the rainfall and river levels and our staff are checking flood defences and clearing weed screens. This message will be updated by 1pm on Saturday 18/11/2023.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-16T12:42:00",
-      "timeRaised": "2023-11-16T12:42:32",
+      "timeMessageChanged": "2023-11-17T14:20:00",
+      "timeRaised": "2023-11-17T14:20:40",
       "timeSeverityChanged": "2023-11-02T04:28:00"
     },
     {
@@ -2232,12 +2232,12 @@
       },
       "floodAreaID": "122FWF725",
       "isTidal": false,
-      "message": "River levels remain high on the River Ouse in York due to rainfall in the upper catchment as a result of Storm Debi. Flooding is expected to affect locations near the River Ouse, with low lying land expected to be most affected, particularly around properties along Intake Lane, Mill Lane, Yew Tree Close, Darling Lane and Hauling Lane. The level in York at the Viking recorder is around 3.65m and is expected to continue falling today Friday 17/11/23. Further rainfall is forecast at the weekend and we expect levels to rise again. We will continue to monitor the forecast. The Foss Barrier is being operated. Please monitor local water levels and put your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 3pm on 17/11/23, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-11-17T07:02:00",
-      "timeRaised": "2023-11-17T07:03:24",
-      "timeSeverityChanged": "2023-11-15T12:13:00"
+      "message": "This flood warning has been removed as river levels have fallen back below levels of concern. Further rainfall is forecast at the weekend and we expect levels to rise again into Sunday, 19/11/23. We are closely monitoring the forecast and will re-issue this warning if necessary.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-17T14:57:00",
+      "timeRaised": "2023-11-17T14:57:24",
+      "timeSeverityChanged": "2023-11-17T14:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF716",
