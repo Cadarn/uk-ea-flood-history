@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMM",
+      "description": "Middle River Mersey catchment including areas near Bramhall, Stockport, Sale, Altrincham and Urmston",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM",
+        "county": "Cheshire East, Manchester, Salford, Stockport, Tameside, Trafford, Warrington",
+        "notation": "013WAFMM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM/polygon",
+        "riverOrSea": "River Mersey"
+      },
+      "floodAreaID": "013WAFMM",
+      "isTidal": false,
+      "message": "River levels have risen on the River Mersey as a result of persistent rainfall.  River levels are expected to remain high until the early hours of tomorrow morning (20/11/23).\nWe are closely monitoring the situation.  This message will be updated tomorrow (20/11/23) or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-19T17:00:00",
+      "timeRaised": "2023-11-19T17:01:08",
+      "timeSeverityChanged": "2023-11-19T17:00:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF982",
       "description": "River Rye catchment",
       "eaAreaName": "Yorkshire",
