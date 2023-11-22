@@ -267,6 +267,27 @@
       "timeSeverityChanged": "2023-11-02T16:57:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "This flood alert has now been removed as levels are now falling and no longer causing concern. We will continue to monitor the situation and will re-issue the alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-21T19:40:00",
+      "timeRaised": "2023-11-21T19:40:17",
+      "timeSeverityChanged": "2023-11-21T19:40:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -532,12 +553,12 @@
       },
       "floodAreaID": "122WAF947",
       "isTidal": false,
-      "message": "River levels have fallen on the tidal Ouse following recent rainfall but levels upstream in York remain high. Areas most at risk include the tidal foreshore and agricultural land adjacent to the river in the Cawood, Kelfield, Wistow and Selby areas. We expect levels to continue to fall in York today, Wednesday 22/11/2023. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 8pm on 22/11/2023, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-22T07:58:00",
-      "timeRaised": "2023-11-22T07:58:14",
-      "timeSeverityChanged": "2023-11-14T09:48:00"
+      "message": "This flood alert has been removed as river levels have fallen below levels of concern. We are continuing to monitor the forecast and will re-issue this alert if required.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-22T17:05:00",
+      "timeRaised": "2023-11-22T17:05:19",
+      "timeSeverityChanged": "2023-11-22T17:05:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF972",
@@ -1040,27 +1061,6 @@
       "timeMessageChanged": "2023-11-22T07:48:00",
       "timeRaised": "2023-11-22T07:49:22",
       "timeSeverityChanged": "2023-11-22T07:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
-      },
-      "floodAreaID": "122WAF980",
-      "isTidal": false,
-      "message": "This flood alert has now been removed as levels are now falling and no longer causing concern. We will continue to monitor the situation and will re-issue the alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-21T19:40:00",
-      "timeRaised": "2023-11-21T19:40:17",
-      "timeSeverityChanged": "2023-11-21T19:40:00"
     }
   ]
 }
