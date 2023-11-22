@@ -267,27 +267,6 @@
       "timeSeverityChanged": "2023-11-02T16:57:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
-      },
-      "floodAreaID": "122WAF980",
-      "isTidal": false,
-      "message": "This flood alert has now been removed as levels are now falling and no longer causing concern. We will continue to monitor the situation and will re-issue the alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-21T19:40:00",
-      "timeRaised": "2023-11-21T19:40:17",
-      "timeSeverityChanged": "2023-11-21T19:40:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -1061,6 +1040,27 @@
       "timeMessageChanged": "2023-11-22T07:48:00",
       "timeRaised": "2023-11-22T07:49:22",
       "timeSeverityChanged": "2023-11-22T07:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "This flood alert has now been removed as levels are now falling and no longer causing concern. We will continue to monitor the situation and will re-issue the alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-21T19:40:00",
+      "timeRaised": "2023-11-21T19:40:17",
+      "timeSeverityChanged": "2023-11-21T19:40:00"
     }
   ]
 }
