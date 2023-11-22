@@ -267,27 +267,6 @@
       "timeSeverityChanged": "2023-11-02T16:57:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
-      },
-      "floodAreaID": "122WAF980",
-      "isTidal": false,
-      "message": "This flood alert has now been removed as levels are now falling and no longer causing concern. We will continue to monitor the situation and will re-issue the alert if necessary.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-21T19:40:00",
-      "timeRaised": "2023-11-21T19:40:17",
-      "timeSeverityChanged": "2023-11-21T19:40:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTWSS",
       "description": "West Somerset Streams",
       "eaAreaName": "Wessex",
@@ -301,11 +280,11 @@
       },
       "floodAreaID": "112WAFTWSS",
       "isTidal": false,
-      "message": "Dry weather is now forecast for this week. This Flood Alert is still in force as the Washford River level remains high. As no rainfall is forecast, the level will continue to slowly fall, and no further flooding will occur. There may remain some limited flooding of low-lying land and roads in and around the Washford River. The Horner Water, River Aller, Hawkcombe Stream, Monksilver Stream and Doniford Stream are now back to normal winter base flow levels. \nPlease consider the weather conditions and local water levels and do not attempt to walk or drive through flood water.\nWe will continue to monitor the river levels and our staff are checking flood defences and clearing weed screens.\nThis message will be updated by 11am on 22/11/2023 or as the situation changes.",
+      "message": "While the forecast is for a dry week ahead, this Flood Alert is still in force as the Washford River level remains high due to groundwater from all the recent rainfall. As no rainfall is forecast, the level will continue to slowly fall, and no further flooding should occur. There may remain some limited flooding of low-lying land and roads in and around the Washford River. The Horner Water, River Aller, Hawkcombe Stream, Monksilver Stream and Doniford Stream are now back to normal winter base flow levels. \nPlease consider the weather conditions and local water levels and do not attempt to walk or drive through flood water.\nWe will continue to monitor the river levels and our staff are checking flood defences and clearing weed screens where necessary.\nThis message will be updated by 13:00 on 23/11/2023 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-21T10:58:00",
-      "timeRaised": "2023-11-21T10:58:23",
+      "timeMessageChanged": "2023-11-22T13:11:00",
+      "timeRaised": "2023-11-22T13:11:19",
       "timeSeverityChanged": "2023-11-02T12:59:00"
     },
     {
@@ -1061,6 +1040,27 @@
       "timeMessageChanged": "2023-11-22T07:48:00",
       "timeRaised": "2023-11-22T07:49:22",
       "timeSeverityChanged": "2023-11-22T07:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "This flood alert has now been removed as levels are now falling and no longer causing concern. We will continue to monitor the situation and will re-issue the alert if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-21T19:40:00",
+      "timeRaised": "2023-11-21T19:40:17",
+      "timeSeverityChanged": "2023-11-21T19:40:00"
     }
   ]
 }
