@@ -162,27 +162,6 @@
       "timeSeverityChanged": "2023-11-23T09:27:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
-      "description": "Upper River Ouse",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
-        "county": "North Yorkshire, York",
-        "notation": "122WAF946",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
-        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
-      },
-      "floodAreaID": "122WAF946",
-      "isTidal": false,
-      "message": "This flood alert has been removed as river levels have fallen below levels of concern. We are continuing to monitor the forecast and will re-issue this alert if required.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-22T19:37:00",
-      "timeRaised": "2023-11-22T19:37:37",
-      "timeSeverityChanged": "2023-11-22T19:37:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -1040,6 +1019,27 @@
       "timeMessageChanged": "2023-11-23T18:43:00",
       "timeRaised": "2023-11-23T18:44:05",
       "timeSeverityChanged": "2023-11-23T18:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3A",
+      "description": "The Norfolk coast from Caister to Gorleston, including Great Yarmouth",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A",
+        "county": "Norfolk",
+        "notation": "054WACDV3A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3A",
+      "isTidal": true,
+      "message": " his message has been issued because some minor flooding to coastal roads and footpaths may occur tomorrow morning due to high tides between 4:15am and 6:15am, Friday 24th November. Strong winds and spring tides may cause large waves, and spray overtopping on the coast. We expect high tide levels at Gorleston-on-Sea and water on towpaths and quaysides throughout Great Yarmouth. The detailed forecast for those that use it is for a peak level at Great Yarmouth of 1.93 mAODN at 5:15am, Friday 24th November, which is 0.87m above tide tables, wind Force 6, north - westerly. (mAODN is height above average sea level, for more info refer to local tide table). The tide on Friday 24th November at 6:15pm is also currently forecast to be a Flood Alert, we will send a new message before that tide. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and further alerts or warnings may be issued.  We will update this message by 10am tomorrow, Friday 24th November.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-23T20:01:00",
+      "timeRaised": "2023-11-23T20:01:54",
+      "timeSeverityChanged": "2023-11-23T20:01:00"
     }
   ]
 }
