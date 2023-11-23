@@ -49,12 +49,12 @@
       },
       "floodAreaID": "065WAF413",
       "isTidal": false,
-      "message": "The River Lavant remains high, but is slowly falling. Minimal flood impacts are expected which could affect fields, rural roads and gardens between West Dean and Westhampnett. In East Lavant water may affect Sheepwash Lane, Pook Lane and the Green, and possibly access bridges over the river. Flood water could affect gardens and approach properties at The Sadlers, Westhampnett. Wednesday 22/11/2023 and Thursday are expected to remain dry. There could be showers on Friday 24/11/2023 but rainfall totals will be low. Water levels should start to reduce but will remain higher than normal until at least Thursday. Some roads could be affected by flood water. Plan to avoid driving through routes vulnerable to flooding including Sheepwash Lane. If you see a blockage affecting the flow in the river, please call our incident hotline on 0800 80 70 60. We are managing structures in Westhampnett to reduce the flood risk on the River Lavant. We will update this message by 11:00 on 23/11/2023.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-22T09:39:00",
-      "timeRaised": "2023-11-22T09:39:55",
-      "timeSeverityChanged": "2023-11-18T06:36:00"
+      "message": "The River Lavant remains high, but is stable and should slowly fall over the coming days. Only minimal flood impacts affecting fields and low lying land are currently expected. No rain is forecast until Monday 27/11/2023, which will allow the river to fall by a small amount. Monday’s rain will cause river levels to rise again, however we do not currently think river levels will rise much higher than they have already been this winter. Some roads could be affected by flood water. As a precaution, on Monday plan to avoid driving through routes vulnerable to flooding, including Sheepwash Lane. If you see a blockage affecting the flow in the river, please call our incident hotline on 0800 80 70 60. We are managing structures in Westhampnett to reduce the flood risk on the River Lavant. We will re-issue this message if the risk of property flooding becomes more likely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-23T10:18:00",
+      "timeRaised": "2023-11-23T10:19:41",
+      "timeSeverityChanged": "2023-11-23T10:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
@@ -851,6 +851,27 @@
       "timeMessageChanged": "2023-11-23T08:50:00",
       "timeRaised": "2023-11-23T08:50:10",
       "timeSeverityChanged": "2023-11-22T07:48:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "Large waves and sea spray are expected to affect the seafront between 02:00am and 04:00am tomorrow morning, Friday 24 November. Areas most at risk are around Hunstanton seafront. Flood gates in the area will be closed by the Local Authority which will make access difficult. The detailed forecast for those that use it is for a peak level of 3.67mAODN at 03:00am, on Friday 24 November, which is 0.70m above tide tables, wind Force 7, North Westerly, (mAODN is height above average sea level, for more info refer to local tide tables).  The following tide on Friday at 16:00pm is currently forecast to be above the Flood Alert threshold. Take care on beaches, coastal roads and footpaths, and don't put yourself or others in danger. We are monitoring the situation and not expecting it to escalate. We will update this message by 10am tomorrow, Friday 24 November.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-23T10:28:00",
+      "timeRaised": "2023-11-23T10:28:46",
+      "timeSeverityChanged": "2023-11-23T10:28:00"
     }
   ]
 }
