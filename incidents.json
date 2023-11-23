@@ -259,12 +259,12 @@
       },
       "floodAreaID": "112WAFTWSS",
       "isTidal": false,
-      "message": "While the forecast is for a dry week ahead, this Flood Alert is still in force as the Washford River level remains high due to groundwater from all the recent rainfall. As no rainfall is forecast, the level will continue to slowly fall, and no further flooding should occur. There may remain some limited flooding of low-lying land and roads in and around the Washford River. The Horner Water, River Aller, Hawkcombe Stream, Monksilver Stream and Doniford Stream are now back to normal winter base flow levels. \nPlease consider the weather conditions and local water levels and do not attempt to walk or drive through flood water.\nWe will continue to monitor the river levels and our staff are checking flood defences and clearing weed screens where necessary.\nThis message will be updated by 13:00 on 23/11/2023 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-22T13:11:00",
-      "timeRaised": "2023-11-22T13:11:19",
-      "timeSeverityChanged": "2023-11-02T12:59:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nNo property flooding is expected.\nNo further rainfall is forecast over the next three to four days, apart from an occasional shower.  \nRiver levels are now returning to normal winter baseflows.\nWe will continue to monitor levels closely.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-23T12:03:00",
+      "timeRaised": "2023-11-23T12:04:41",
+      "timeSeverityChanged": "2023-11-23T12:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Abingdon",
@@ -427,11 +427,11 @@
       },
       "floodAreaID": "065WAF415",
       "isTidal": false,
-      "message": "The Aldingbourne Rife remains high, but is slowly falling. Flooding is thought to still be affecting the Tesco car park on Shripney Road, some areas of Durban Road, fields near Shripney Lane and the A259. As well as caravans at Riverside Caravan Centre and Rowan Park Caravan Park. The Barnham Rife is also slowly falling. Flood impacts will continue in Bersted. Wednesday 22/11/2023 and Thursday are expected to remain dry. There could be showers on Friday 24/11/2023 but rainfall totals will be low. Water levels should start to reduce, but will remain higher than normal until at least the weekend. The Aldingbourne Rife might not return to normal until December. Some roads will be affected by flood water, please plan to avoid driving through routes vulnerable to flooding, including Shripney Lane. We are running our pumps at Felpham and keeping grilles clear to help reduce the risk of flooding. We will update this message by 11:00 23/11/2023.",
+      "message": "The Aldingbourne Rife remains high, but is slowly falling. Minor flooding is still affecting caravans at Riverside Caravan Centre and Rowan Park Caravan Park and could be affecting small parts of the Tesco car park on Shripney Road. The Barnham Rife is also slowly falling. Minor flood impacts will continue in Bersted. The next few days are expected to remain dry. Rain is expected on Monday 27/11/2023 but there is currently low confidence on rainfall totals. Water levels will remain higher than normal until at least the weekend and might rise again on Monday. The Aldingbourne Rife might not return to normal until December. Some roads will be affected by flood water, please plan to avoid driving through routes vulnerable to flooding, including Shripney Lane. We are running our pumps at Felpham and keeping grilles clear to help reduce the risk of flooding. We will update this message by 11:00 24/11/2023.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-22T09:32:00",
-      "timeRaised": "2023-11-22T09:34:22",
+      "timeMessageChanged": "2023-11-23T11:19:00",
+      "timeRaised": "2023-11-23T11:20:00",
       "timeSeverityChanged": "2023-10-25T06:43:00"
     },
     {
@@ -872,6 +872,48 @@
       "timeMessageChanged": "2023-11-23T10:28:00",
       "timeRaised": "2023-11-23T10:28:46",
       "timeSeverityChanged": "2023-11-23T10:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": " This message has been issued because some minor flooding to riverside roads and footpaths is likely from 4pm this afternoon, Thursday 23rd November, and for the next few days. Water levels continue to remain high in this area. The forecast tides at Great Yarmouth will restrict the freshwater river drainage out to sea resulting in higher than normal water levels within the Broads until the current high tides pass. We expect to see high water levels in Brundall and Reedham riverside areas. The current series of high spring tides will continue for the next few days and further warning messages may be issued. After the weekend the tides will start to fall away, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are closely monitoring the situation.  We will update this message on Friday 25th November, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-23T12:00:00",
+      "timeRaised": "2023-11-23T12:00:27",
+      "timeSeverityChanged": "2023-11-23T12:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 4pm this afternoon, Thursday 23rd November, and for the next few days. Water levels continue to remain high in this area. The forecast tides at Great Yarmouth will restrict the freshwater river drainage out to sea resulting in higher than normal water levels within the Broads until the current high tides pass. We expect to see high water levels at Beccles Quay. The current series of high spring tides will continue for the next few days and further warning messages may be issued. After the weekend the tides will start to fall away, allowing the freshwater river flows to drain out to sea at low tide as normal again. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are closely monitoring the situation. We will update this message on Friday 25th November, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-23T12:08:00",
+      "timeRaised": "2023-11-23T12:08:39",
+      "timeSeverityChanged": "2023-11-23T12:08:00"
     }
   ]
 }
