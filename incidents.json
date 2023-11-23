@@ -511,12 +511,12 @@
       },
       "floodAreaID": "061WAF21PangSulm",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. River levels are high but falling on the River Pang and Sulham Brook. Therefore, flooding of low lying land and roads is possible, especially in the Sulham area. The weather forecast today, 23/11/23 is mostly dry with the possibility of light rain this evening. River levels are falling slowly and we expect this to continue. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated tomorrow morning, 24/11/23, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-23T09:52:00",
-      "timeRaised": "2023-11-23T09:52:55",
-      "timeSeverityChanged": "2023-11-10T12:13:00"
+      "message": "This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold.  There is the possibility of light showers this evening 23/11/2023 which will clear overnight leaving a most dry day tomorrow.\nWe continue to monitor the situation. We will continue to monitor the forecast and re-issue this alert if necessary.\nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-23T18:40:00",
+      "timeRaised": "2023-11-23T18:41:17",
+      "timeSeverityChanged": "2023-11-23T18:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
@@ -908,11 +908,11 @@
       },
       "floodAreaID": "122WAC952",
       "isTidal": true,
-      "message": "Strong winds and high tides are expected to cause large waves and spray overtopping along the North Sea coast from Staithes to Whitby, including Sandsend and tidal River Esk.  The main area of concern is Sandsend. Overtopping waves and spray are expected between 1:30am to 5am on Friday, 2pm to 6pm on Friday and 3am to 6am on Saturday. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and may re-issue this alert for additional tides if necessary. This message will be updated by 8pm on 23/11/2023, or as the situation changes.",
+      "message": "Strong winds and high tides are expected to cause large waves and spray overtopping along the North Sea coast from Staithes to Whitby, including Sandsend and tidal River Esk. The main area of concern is Sandsend. Overtopping waves and spray are expected between 1am to 5am on Friday morning 24/11/2023, 1pm to 6pm on Friday afternoon and 2am to 6am on Saturday morning 25/11/2023. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and may re-issue this alert for additional tides if necessary. This message will be updated by 10am on 24/11/2023, or as the situation changes.\t",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2023-11-23T14:04:00",
-      "timeRaised": "2023-11-23T14:04:59",
+      "timeMessageChanged": "2023-11-23T18:48:00",
+      "timeRaised": "2023-11-23T18:49:10",
       "timeSeverityChanged": "2023-11-23T14:04:00"
     },
     {
@@ -998,6 +998,48 @@
       "timeMessageChanged": "2023-11-23T18:23:00",
       "timeRaised": "2023-11-23T18:24:09",
       "timeSeverityChanged": "2023-11-23T18:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "Strong winds and high tides are expected to cause large waves and spray overtopping along the North Sea coast, from Mappleton to Spurn Point, on Friday afternoon, 24/11/2023. The main areas of concern are Spurn Road, properties on the east side of Kilnsea, including Kilnsea Caravan Park, and Easington Caravan Park. Overtopping waves and spray are expected between 2pm and 6pm on Friday 24/11/2023. Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and may re-issue this alert for additional tides if necessary. This message will be updated by 10am on 24/11/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-23T18:43:00",
+      "timeRaised": "2023-11-23T18:45:02",
+      "timeSeverityChanged": "2023-11-23T18:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
+      "description": "North Sea coast from Whitby to Filey",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAC953",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC953",
+      "isTidal": true,
+      "message": "Strong winds and high tides are expected to cause large waves and spray overtopping along the North Sea Coast from Whitby to Filey, including Scarborough, on Friday afternoon, 24/11/2023. Overtopping waves and spray are expected between 3pm and 7pm on Friday 24/11/2023, particularly around Marine Drive and Royal Albert Drive in Scarborough.  Avoid beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. We will continue to monitor the forecast and may re-issue this alert for additional tides if necessary. This message will be updated by 10am on 24/11/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-23T18:43:00",
+      "timeRaised": "2023-11-23T18:44:05",
+      "timeSeverityChanged": "2023-11-23T18:43:00"
     }
   ]
 }
