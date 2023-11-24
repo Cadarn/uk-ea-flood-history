@@ -679,12 +679,12 @@
       },
       "floodAreaID": "061WAF23UpThTrbs",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. River levels are high but falling on the upper River Thames tributaries.  Therefore, flooding of low lying land and roads is possible, especially in the Oaksey area. The weather forecast today, 23/11/23 is mostly dry with the possibility of light rain this evening.  River levels are falling and we expect this to continue. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated tomorrow morning, 24/11/23, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-11-23T09:52:00",
-      "timeRaised": "2023-11-23T09:52:30",
-      "timeSeverityChanged": "2023-11-10T13:57:00"
+      "message": "This Flood Alert has been removed. \nRiver levels have now fallen below the flood risk threshold. The weather forecast today, 24/11/23 and into tomorrow is mostly dry. \nWe continue to monitor the situation. We will continue to monitor the forecast and re-issue this alert if necessary.\nPlease remain safe and aware of your local surroundings and refer to the 'River and Sea levels in England' webpage for current river levels. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-24T08:56:00",
+      "timeRaised": "2023-11-24T08:57:13",
+      "timeSeverityChanged": "2023-11-24T08:56:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
@@ -1061,6 +1061,27 @@
       "timeMessageChanged": "2023-11-23T20:08:00",
       "timeRaised": "2023-11-23T20:09:26",
       "timeSeverityChanged": "2023-11-23T20:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC036",
+      "description": "North Sea at Sandsend",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036",
+        "county": "North Yorkshire",
+        "notation": "122FWC036",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC036/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC036",
+      "isTidal": true,
+      "message": "Strong winds and high tides are expected to cause large waves and spray overtopping along the North Sea at Sandsend. Waves are forecast to overtop coastal defences at the sea front (A174) and properties adjacent to the road between 12:30pm and 6pm on Friday afternoon, 24/11/2023. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray will be dangerous. Start acting on your flood plan if you have one. Plan driving routes to coastal roads, which may be flooded. We will continue to monitor the forecast and may re-issue this warning for additional tides if necessary. This message will be updated by 4pm on 24/11/2023, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2023-11-24T08:55:00",
+      "timeRaised": "2023-11-24T08:55:57",
+      "timeSeverityChanged": "2023-11-24T08:55:00"
     }
   ]
 }
