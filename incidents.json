@@ -362,12 +362,12 @@
       },
       "floodAreaID": "122FWF032",
       "isTidal": false,
-      "message": "River levels are rising in the Cottingham area in response to recent rainfall. Levels are expected to rise quickly on Creyke, Mill and Broadlane Becks at Cottingham on Monday morning, 27/11/2023 onwards. Further rain is forecast during Monday and on Tuesday 28/11/2023. The area most at risk is properties around King Street, Northgate, Dunswell Road and North Moor Lane. We continue to monitor the forecast.  Please take action to protect yourself and your property and monitor local weather and river conditions. Consider putting your flood plan into action and avoid using low-lying footpaths near local watercourses. We will update this message by 5pm on 27/11/2023, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2023-11-27T09:53:00",
-      "timeRaised": "2023-11-27T09:53:17",
-      "timeSeverityChanged": "2023-11-22T07:48:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low-lying land is still possible. We will continue to monitor the forecast and re-issue this warning if necessary. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-11-27T12:36:00",
+      "timeRaised": "2023-11-27T12:37:02",
+      "timeSeverityChanged": "2023-11-27T12:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -557,6 +557,27 @@
       "timeMessageChanged": "2023-11-27T11:53:00",
       "timeRaised": "2023-11-27T11:53:46",
       "timeSeverityChanged": "2023-11-27T11:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF317",
+      "description": "River Churnet and River Tean",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317",
+        "county": "Staffordshire",
+        "notation": "033WAF317",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF317/polygon",
+        "riverOrSea": "River Churnet, River Tean"
+      },
+      "floodAreaID": "033WAF317",
+      "isTidal": false,
+      "message": " River levels have risen at the Leek river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible this afternoon, 27/11/23.  Flooding is affecting low-lying land and roads adjacent to the River Churnet between Leek and Rocester and the River Tean between Adderley and Spath including Cecilly Brook at Cheadle.   \n  We expect river levels to remain high.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses.  \nThis message will be updated as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-27T12:23:00",
+      "timeRaised": "2023-11-27T12:23:21",
+      "timeSeverityChanged": "2023-11-27T12:23:00"
     }
   ]
 }
