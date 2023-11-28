@@ -455,27 +455,6 @@
       "timeSeverityChanged": "2023-11-24T11:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF124",
-      "description": "Mansbridge and Riverside Park",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124",
-        "county": "Hampshire, Southampton",
-        "notation": "065WAF124",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF124/polygon",
-        "riverOrSea": "River Itchen"
-      },
-      "floodAreaID": "065WAF124",
-      "isTidal": false,
-      "message": "Flows in the lower River Itchen remain high but will slowly fall over the next 24 hours. Tuesday 28/11/2023 and Wednesday 29/11/2023 are forecast to be mostly dry, and tide levels are expected to be significantly lower than this morning (27/11/2023). Flooding impacts are not expected during this period. The river will remain responsive to further rainfall over the coming weeks. Please remain prepared for potential flood impacts this winter. We are operating Woodmill sea door to help reduce water levels in the river. We will continue to monitor the river and weather forecast information.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-11-27T17:37:00",
-      "timeRaised": "2023-11-27T17:37:32",
-      "timeSeverityChanged": "2023-11-27T17:37:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF416",
       "description": "River Erewash in Derbyshire and Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -726,6 +705,27 @@
       "timeMessageChanged": "2023-11-28T17:13:00",
       "timeRaised": "2023-11-28T17:13:28",
       "timeSeverityChanged": "2023-11-27T18:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB424",
+      "description": "River Trent from Cromwell Weir to Gainsborough",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424",
+        "county": "Lincolnshire, Nottinghamshire",
+        "notation": "034WAB424",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB424/polygon",
+        "riverOrSea": "River Trent, River Idle"
+      },
+      "floodAreaID": "034WAB424",
+      "isTidal": false,
+      "message": "River levels are rising at the Torksey river gauge as a result of high spring tides coinciding with high river levels. Flooding is expected on high tides at at 21:45, today 28/11/2023 and at 10:00, tomorrow, 29/11/2023. Areas most at risk are Church Laneham to Rampton Road. We expect river levels to remain high until after the high tide. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid using low-lying footpaths near local watercourses. This message will be updated by 11:00, 29/11/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-11-28T17:18:00",
+      "timeRaised": "2023-11-28T17:19:31",
+      "timeSeverityChanged": "2023-11-28T17:18:00"
     }
   ]
 }
