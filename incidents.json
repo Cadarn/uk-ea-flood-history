@@ -15,6 +15,90 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMM",
+      "description": "Middle River Mersey catchment including areas near Bramhall, Stockport, Sale, Altrincham and Urmston",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM",
+        "county": "Cheshire East, Manchester, Salford, Stockport, Tameside, Trafford, Warrington",
+        "notation": "013WAFMM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM/polygon",
+        "riverOrSea": "River Mersey"
+      },
+      "floodAreaID": "013WAFMM",
+      "isTidal": false,
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-12-27T15:44:00",
+      "timeRaised": "2023-12-27T15:44:55",
+      "timeSeverityChanged": "2023-12-27T15:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
+      "description": "River Severn in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214",
+        "county": "Gloucestershire, Worcestershire",
+        "notation": "031WAF214",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "031WAF214",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Mythe Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible overnight.  We expect flooding to affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley and Maisemore. \nFurther rainfall is forecast over the next few days.  \nWe are closely monitoring the situation.  Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 10am on 28/12/23, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-27T12:08:00",
+      "timeRaised": "2023-12-27T12:08:22",
+      "timeSeverityChanged": "2023-12-27T12:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "River levels are still high at the Pillings Lock river gauge as a result of recent heavy rainfall. Consequently, flooding of roads and farmland is possible. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.\nFurther rainfall is forecast over the next 24 hours.\nWe are closely monitoring the situation.\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\nThis message will be updated by 13:00 on Thursday 28/12/2023, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-28T01:00:00",
+      "timeRaised": "2023-12-28T01:00:59",
+      "timeSeverityChanged": "2023-12-26T16:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
+      "description": "Upper River Aire catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
+        "county": "Bradford, North Yorkshire",
+        "notation": "123WAF960",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
+        "riverOrSea": "River Aire, Eller Beck"
+      },
+      "floodAreaID": "123WAF960",
+      "isTidal": false,
+      "message": " River levels are forecast to rise on the Upper River Aire throughout the day today, 27/12/2023, as a result of persistent heavy rainfall overnight and this morning. This rainfall is forecast to clear away although the risk of some further showers remain tonight and over the coming days. River levels are have started to peak but will remain high overnight and into tomorrow, 28/12/2023. Areas most likely to be at risk include locations near the River Aire from Gargrave to Stockbridge, with low lying land expected to be most affected. Washlands between Gargrave have started to fill. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We will continue to monitor rainfall and river levels closely. We do not currently expect to have to issue any flood warnings but will do if required. This message will be updated by 08:00 on 28/12/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-27T17:10:00",
+      "timeRaised": "2023-12-27T17:10:49",
+      "timeSeverityChanged": "2023-12-26T16:55:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC6KC",
       "description": "Keswick Campsite",
       "eaAreaName": "Cumbria and Lancashire",
@@ -162,27 +246,6 @@
       "timeSeverityChanged": "2023-12-04T19:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
-      },
-      "floodAreaID": "122WAF980",
-      "isTidal": false,
-      "message": "River levels are beginning to drop on the River Seven due to heavy rainfall. However, levels still remain high. Areas most at risk include land around the River Seven and its tributaries, including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, Sinnington and to the east of Normanby. Further rainfall is forecast throughout the next few days. Our incident rooms are open and we are closely monitoring the situation. Monitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 7:00AM on Thursday 28/12/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-27T23:11:00",
-      "timeRaised": "2023-12-27T23:11:15",
-      "timeSeverityChanged": "2023-12-27T12:49:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROL",
       "description": "Lower Frome and tributaries",
       "eaAreaName": "Wessex",
@@ -223,6 +286,27 @@
       "timeMessageChanged": "2023-12-27T17:42:00",
       "timeRaised": "2023-12-27T17:42:30",
       "timeSeverityChanged": "2023-12-24T13:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
+      "description": "Groundwater flooding in the Cranborne Chase area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
+        "county": "Dorset Council, Hampshire, Wiltshire",
+        "notation": "111FAGCCGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGCCGW",
+      "isTidal": false,
+      "message": " Borehole levels across Cranborne Chase continue to fall back leading to a reduced risk of groundwater flooding. However the next ten days will bring some fairly unsettled weather which could produce some heavy periods of rainfall. Groundwater levels will respond very quickly under the current very wet surface conditions. Ensure that any property level resilience measures such as pumps, flood barriers and air brick covers are in good conditions and replace any stocks of sandbags.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-12-27T10:34:00",
+      "timeRaised": "2023-12-27T10:34:36",
+      "timeSeverityChanged": "2023-12-27T10:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -435,6 +519,27 @@
       "timeSeverityChanged": "2023-10-25T09:57:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
+      "description": "Groundwater flooding in the West of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
+        "county": "Dorset Council",
+        "notation": "111FAGWDGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGWDGW",
+      "isTidal": false,
+      "message": "  Borehole levels across The West of Dorset continue to fall back leading to a reduced risk of groundwater flooding. However the next ten days will bring some fairly unsettled weather which could produce some heavy periods of rainfall. Groundwater levels will respond very quickly under the current very wet surface conditions. Ensure that any property level resilience measures such as pumps, flood barriers and air brick covers are in good conditions and replace any stocks of sandbags.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2023-12-27T10:34:00",
+      "timeRaised": "2023-12-27T10:34:28",
+      "timeSeverityChanged": "2023-12-27T10:34:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPIDD",
       "description": "River Piddle and tributaries",
       "eaAreaName": "Wessex",
@@ -454,6 +559,27 @@
       "timeMessageChanged": "2023-12-26T15:19:00",
       "timeRaised": "2023-12-26T15:19:23",
       "timeSeverityChanged": "2023-12-04T08:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
+      "description": "River Trent in Derbyshire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414",
+        "county": "Derby, Derbyshire, Leicestershire",
+        "notation": "034WAF414",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414/polygon",
+        "riverOrSea": "River Trent"
+      },
+      "floodAreaID": "034WAF414",
+      "isTidal": false,
+      "message": " River levels are rising at the Willington and Shardlow gauges as a result of heavy rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane. \nWe expect river levels to remain high until tomorrow, 28/12/23. We are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 10:00 tomorrow morning, 28/12/23, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-27T19:46:00",
+      "timeRaised": "2023-12-27T19:46:39",
+      "timeSeverityChanged": "2023-12-23T09:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
@@ -540,6 +666,48 @@
       "timeSeverityChanged": "2023-12-25T10:47:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF138EWG",
+      "description": "East and West Glens",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF138EWG",
+        "county": "Lincolnshire, Rutland",
+        "notation": "055WAF138EWG",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF138EWG/polygon",
+        "riverOrSea": "River East Glen, River West Glen, River Tham"
+      },
+      "floodAreaID": "055WAF138EWG",
+      "isTidal": false,
+      "message": " Overnight and this morning we have seen heavy rainfall in the East and West Glens. This means that the East and West Glens are now rising, which will lead to flooding of low-lying land and roads close to the river from the afternoon of Wednesday 27th December onwards. We expect the river to remain high throughout the next few days and flooding to gardens, driveways or outhouses is possible close to the river. Our forecasts indicate that flooding inside properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring river levels and have staff in the field checking for blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated online and on Floodline by 13:00 on 28/12/2023, or before if the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-27T15:24:00",
+      "timeRaised": "2023-12-27T15:24:30",
+      "timeSeverityChanged": "2023-12-27T15:24:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
+      "description": "Lower River Nidd catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
+        "county": "Leeds, North Yorkshire",
+        "notation": "122WAF933",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
+        "riverOrSea": "River Nidd"
+      },
+      "floodAreaID": "122WAF933",
+      "isTidal": false,
+      "message": "River levels have risen rapidly on the River Nidd due to heavy rainfall. Areas most at risk include land around the lower River Nidd and its tributaries, including Sand Beck, Sike Beck, Pool Beck and Great Gutter. Further rainfall is forecast throughout the next few days. Our incident rooms are open and we are closely monitoring the situation. Monitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 6:45AM on 28/12/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-27T22:56:00",
+      "timeRaised": "2023-12-27T22:56:10",
+      "timeSeverityChanged": "2023-12-27T13:33:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTMBA",
       "description": "Mid Bristol Avon area",
       "eaAreaName": "Wessex",
@@ -601,6 +769,27 @@
       "timeMessageChanged": "2023-12-27T22:52:00",
       "timeRaised": "2023-12-27T22:52:28",
       "timeSeverityChanged": "2023-12-27T13:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "River levels are beginning to drop on the River Seven due to heavy rainfall. However, levels still remain high. Areas most at risk include land around the River Seven and its tributaries, including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, Sinnington and to the east of Normanby. Further rainfall is forecast throughout the next few days. Our incident rooms are open and we are closely monitoring the situation. Monitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 7:00AM on Thursday 28/12/2023, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-27T23:11:00",
+      "timeRaised": "2023-12-27T23:11:15",
+      "timeSeverityChanged": "2023-12-27T12:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
@@ -834,27 +1023,6 @@
       "timeSeverityChanged": "2023-12-27T14:41:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAF138EWG",
-      "description": "East and West Glens",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF138EWG",
-        "county": "Lincolnshire, Rutland",
-        "notation": "055WAF138EWG",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAF138EWG/polygon",
-        "riverOrSea": "River East Glen, River West Glen, River Tham"
-      },
-      "floodAreaID": "055WAF138EWG",
-      "isTidal": false,
-      "message": " Overnight and this morning we have seen heavy rainfall in the East and West Glens. This means that the East and West Glens are now rising, which will lead to flooding of low-lying land and roads close to the river from the afternoon of Wednesday 27th December onwards. We expect the river to remain high throughout the next few days and flooding to gardens, driveways or outhouses is possible close to the river. Our forecasts indicate that flooding inside properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring river levels and have staff in the field checking for blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated online and on Floodline by 13:00 on 28/12/2023, or before if the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-27T15:24:00",
-      "timeRaised": "2023-12-27T15:24:30",
-      "timeSeverityChanged": "2023-12-27T15:24:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF973",
       "description": "River Hull Central catchment",
       "eaAreaName": "Yorkshire",
@@ -916,27 +1084,6 @@
       "timeMessageChanged": "2023-12-27T14:10:00",
       "timeRaised": "2023-12-27T14:10:25",
       "timeSeverityChanged": "2023-12-27T14:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
-      "description": "River Trent in Derbyshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414",
-        "county": "Derby, Derbyshire, Leicestershire",
-        "notation": "034WAF414",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF414/polygon",
-        "riverOrSea": "River Trent"
-      },
-      "floodAreaID": "034WAF414",
-      "isTidal": false,
-      "message": " River levels are rising at the Willington and Shardlow gauges as a result of heavy rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads including Willington, Barrow upon Trent, Swarkestone, Bargate Lane and the access roads to Willington Meadows, the Twyford Village access road, Church Lane at Barrow, and Ingleby Lane. \nWe expect river levels to remain high until tomorrow, 28/12/23. We are closely monitoring the situation. Please avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 10:00 tomorrow morning, 28/12/23, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-27T19:46:00",
-      "timeRaised": "2023-12-27T19:46:39",
-      "timeSeverityChanged": "2023-12-23T09:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WAFTW13",
@@ -1231,27 +1378,6 @@
       "timeMessageChanged": "2023-12-27T10:28:00",
       "timeRaised": "2023-12-27T10:28:53",
       "timeSeverityChanged": "2023-12-25T16:16:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
-      "description": "Lower River Soar in Leicestershire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
-        "county": "Derbyshire, Leicestershire, Nottinghamshire",
-        "notation": "034WAF428",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
-        "riverOrSea": "River Soar"
-      },
-      "floodAreaID": "034WAF428",
-      "isTidal": false,
-      "message": "River levels are still high at the Pillings Lock river gauge as a result of recent heavy rainfall. Consequently, flooding of roads and farmland is possible. Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.\nFurther rainfall is forecast over the next 24 hours.\nWe are closely monitoring the situation.\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\nThis message will be updated by 13:00 on Thursday 28/12/2023, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-28T01:00:00",
-      "timeRaised": "2023-12-28T01:00:59",
-      "timeSeverityChanged": "2023-12-26T16:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
@@ -2071,27 +2197,6 @@
       "timeSeverityChanged": "2023-12-27T14:20:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
-      "description": "River Severn in Gloucestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214",
-        "county": "Gloucestershire, Worcestershire",
-        "notation": "031WAF214",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "031WAF214",
-      "isTidal": false,
-      "message": " River levels are forecast to rise at the Mythe Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible overnight.  We expect flooding to affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley and Maisemore. \nFurther rainfall is forecast over the next few days.  \nWe are closely monitoring the situation.  Our incident response staff are checking defences.  \nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 10am on 28/12/23, or as the situation changes. \n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-27T12:08:00",
-      "timeRaised": "2023-12-27T12:08:22",
-      "timeSeverityChanged": "2023-12-27T12:08:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF918",
       "description": "Coastal rivers in North Northumberland",
       "eaAreaName": "North East",
@@ -2363,27 +2468,6 @@
       "timeMessageChanged": "2023-12-27T08:29:00",
       "timeRaised": "2023-12-27T08:29:40",
       "timeSeverityChanged": "2023-12-07T12:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
-      "description": "Upper River Aire catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
-        "county": "Bradford, North Yorkshire",
-        "notation": "123WAF960",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
-        "riverOrSea": "River Aire, Eller Beck"
-      },
-      "floodAreaID": "123WAF960",
-      "isTidal": false,
-      "message": " River levels are forecast to rise on the Upper River Aire throughout the day today, 27/12/2023, as a result of persistent heavy rainfall overnight and this morning. This rainfall is forecast to clear away although the risk of some further showers remain tonight and over the coming days. River levels are have started to peak but will remain high overnight and into tomorrow, 28/12/2023. Areas most likely to be at risk include locations near the River Aire from Gargrave to Stockbridge, with low lying land expected to be most affected. Washlands between Gargrave have started to fill. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We will continue to monitor rainfall and river levels closely. We do not currently expect to have to issue any flood warnings but will do if required. This message will be updated by 08:00 on 28/12/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-27T17:10:00",
-      "timeRaised": "2023-12-27T17:10:49",
-      "timeSeverityChanged": "2023-12-26T16:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF963",
@@ -2680,27 +2764,6 @@
       "timeSeverityChanged": "2023-12-27T13:00:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
-      "description": "Lower River Nidd catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
-        "county": "Leeds, North Yorkshire",
-        "notation": "122WAF933",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
-        "riverOrSea": "River Nidd"
-      },
-      "floodAreaID": "122WAF933",
-      "isTidal": false,
-      "message": "River levels have risen rapidly on the River Nidd due to heavy rainfall. Areas most at risk include land around the lower River Nidd and its tributaries, including Sand Beck, Sike Beck, Pool Beck and Great Gutter. Further rainfall is forecast throughout the next few days. Our incident rooms are open and we are closely monitoring the situation. Monitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water. This message will be updated by 6:45AM on 28/12/2023, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2023-12-27T22:56:00",
-      "timeRaised": "2023-12-27T22:56:10",
-      "timeSeverityChanged": "2023-12-27T13:33:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF914",
       "description": "Upper River Wear",
       "eaAreaName": "North East",
@@ -2764,27 +2827,6 @@
       "timeSeverityChanged": "2023-12-27T19:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
-      "description": "Groundwater flooding in the West of Dorset",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
-        "county": "Dorset Council",
-        "notation": "111FAGWDGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGWDGW",
-      "isTidal": false,
-      "message": "  Borehole levels across The West of Dorset continue to fall back leading to a reduced risk of groundwater flooding. However the next ten days will bring some fairly unsettled weather which could produce some heavy periods of rainfall. Groundwater levels will respond very quickly under the current very wet surface conditions. Ensure that any property level resilience measures such as pumps, flood barriers and air brick covers are in good conditions and replace any stocks of sandbags.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-12-27T10:34:00",
-      "timeRaised": "2023-12-27T10:34:28",
-      "timeSeverityChanged": "2023-12-27T10:34:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFVY60",
       "description": "River Vyrnwy at Melverley",
       "eaAreaName": "West Midlands",
@@ -2846,27 +2888,6 @@
       "timeMessageChanged": "2023-12-27T10:47:00",
       "timeRaised": "2023-12-27T10:47:44",
       "timeSeverityChanged": "2023-12-27T10:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMM",
-      "description": "Middle River Mersey catchment including areas near Bramhall, Stockport, Sale, Altrincham and Urmston",
-      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM",
-        "county": "Cheshire East, Manchester, Salford, Stockport, Tameside, Trafford, Warrington",
-        "notation": "013WAFMM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFMM/polygon",
-        "riverOrSea": "River Mersey"
-      },
-      "floodAreaID": "013WAFMM",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-12-27T15:44:00",
-      "timeRaised": "2023-12-27T15:44:55",
-      "timeSeverityChanged": "2023-12-27T15:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMU",
@@ -3140,27 +3161,6 @@
       "timeMessageChanged": "2023-12-27T16:19:00",
       "timeRaised": "2023-12-27T16:19:36",
       "timeSeverityChanged": "2023-12-26T16:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
-      "description": "Groundwater flooding in the Cranborne Chase area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
-        "county": "Dorset Council, Hampshire, Wiltshire",
-        "notation": "111FAGCCGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGCCGW",
-      "isTidal": false,
-      "message": " Borehole levels across Cranborne Chase continue to fall back leading to a reduced risk of groundwater flooding. However the next ten days will bring some fairly unsettled weather which could produce some heavy periods of rainfall. Groundwater levels will respond very quickly under the current very wet surface conditions. Ensure that any property level resilience measures such as pumps, flood barriers and air brick covers are in good conditions and replace any stocks of sandbags.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-12-27T10:34:00",
-      "timeRaised": "2023-12-27T10:34:36",
-      "timeSeverityChanged": "2023-12-27T10:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFBOU",
