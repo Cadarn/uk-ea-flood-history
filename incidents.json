@@ -1233,27 +1233,6 @@
       "timeSeverityChanged": "2023-12-27T07:24:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF205",
-      "description": "River Arrow and River Alne",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205",
-        "county": "Warwickshire, Worcestershire",
-        "notation": "033WAF205",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205/polygon",
-        "riverOrSea": "Arrow, Alne"
-      },
-      "floodAreaID": "033WAF205",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2023-12-29T15:17:00",
-      "timeRaised": "2023-12-29T15:17:36",
-      "timeSeverityChanged": "2023-12-29T15:17:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF204",
       "description": "Middle Avon Rugby to Bidford",
       "eaAreaName": "West Midlands",
@@ -3121,6 +3100,48 @@
       "timeMessageChanged": "2023-12-30T08:25:00",
       "timeRaised": "2023-12-30T08:25:54",
       "timeSeverityChanged": "2023-12-29T17:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
+      "description": "Climping Seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
+        "county": "West Sussex",
+        "notation": "065WAC404",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC404",
+      "isTidal": true,
+      "message": "Sunday's early morning tide at 01:30 on 31/12/2023 is higher than normal, due to unsettled weather with strong Southerly Force 7 winds and large waves. The weather increases tide table values by 0.26 m. The total forecast tide is 5.67 metres Chart Datum (2.62 mAOD) at Littlehampton. For 2 hours either side of high tide, minimal flood impacts are expected. A small amount of water could find its way behind the beach and may pond on nearby land and fields including at Climping Street Car Park and Mill Lane. Wave heights will increase over Sunday afternoon's high water and will continue throughout Sunday, before reducing Monday afternoon. Similar minor flood impacts affecting Climping will occur over high water Sunday afternoon and in the early hours of Monday 01/01/2024. We continue to monitor the forecast and routinely check the condition of the beach at Climping. Shingle and debris can be thrown by large waves. Access could be restricted during and after high tide. Take care if visiting Climping beach. We will update this message by 11:00 on 31/12/2023.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-30T15:04:00",
+      "timeRaised": "2023-12-30T15:05:05",
+      "timeSeverityChanged": "2023-12-30T15:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC412",
+      "description": "Coastal areas of Seaford seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC412",
+        "county": "East Sussex",
+        "notation": "065WAC412",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC412/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC412",
+      "isTidal": true,
+      "message": "Sunday afternoon's tide at 14:00 on 31/12/2023 is higher than normal, due to unsettled weather with strong Westerly Force 6 winds and very large waves. The weather increases tide table values by 0.29 m. The total forecast tide is 6.28 metres Chart Datum (2.76 mAOD) at Newhaven. For 2 hours either side of high water, a small amount of spray overtopping will affect footpaths, sea front parking and the road at Marine Parade and the Esplanade. Similar conditions, but with slightly smaller waves are expected in the early hours of Sunday too. Very large waves will continue throughout Sunday, before reducing Monday afternoon. Similar minor flood impacts including spray affecting the esplanade will occur over high water in the early hours of Monday 01/01/2024. We continue to monitor the forecast. We work to maintain the condition of the shingle beach which helps to protect the town from flooding. Avoid Seaford Sea Front at high tide. Flood water and stormy seas are dangerous and can sweep you off your feet. Spray will scatter shingle. We will update this message by 17:00 on 31/12/2023.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2023-12-30T15:04:00",
+      "timeRaised": "2023-12-30T15:05:06",
+      "timeSeverityChanged": "2023-12-30T15:04:00"
     }
   ]
 }
