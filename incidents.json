@@ -36,6 +36,48 @@
       "timeSeverityChanged": "2023-12-28T08:54:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
+      "description": "River Severn in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214",
+        "county": "Gloucestershire, Worcestershire",
+        "notation": "031WAF214",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214/polygon",
+        "riverOrSea": "Severn Estuary"
+      },
+      "floodAreaID": "031WAF214",
+      "isTidal": false,
+      "message": "River levels are falling but remain high on the River Severn as a result of recent rainfall. Consequently, flooding of roads and farmland is expected to continue over the next few days. We expect flooding to affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley and Maisemore. \nPeaks:- Mythe peaked at 4.78m on Thursday evening, 04/01/2024. \nHaw Bridge peaked at 5.77m on Friday morning, 05/01/2024. \t\nSandhurst peaked at 5.0m on Friday morning, 05/01/2024. \nGloucester peaked at 4.7m on Friday evening, 05/01/2024.\nWe expect river levels to remain high over the next few days. We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 7pm tomorrow, Wednesday 10/01/2024, or as the situation changes\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-09T18:01:00",
+      "timeRaised": "2024-01-09T18:02:01",
+      "timeSeverityChanged": "2023-12-27T12:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  \nNo further rainfall is forecast. \nWe continue to monitor the situation.  \nPlease avoid contact with flood water and see the GOV.UK website for a 5 day flood forecast. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-09T18:52:00",
+      "timeRaised": "2024-01-09T18:52:30",
+      "timeSeverityChanged": "2024-01-09T18:52:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF02Churn",
       "description": "River Churn and its tributaries",
       "eaAreaName": "Thames",
@@ -76,6 +118,27 @@
       "timeMessageChanged": "2024-01-10T08:47:00",
       "timeRaised": "2024-01-10T08:47:59",
       "timeSeverityChanged": "2023-12-28T17:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Hurley",
+      "description": "River Thames from Hurley to Cookham",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Hurley",
+        "county": "Buckinghamshire, Windsor and Maidenhead",
+        "notation": "061WAF23Hurley",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Hurley/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "061WAF23Hurley",
+      "isTidal": false,
+      "message": "River levels remain high on the River Thames but are slowly beginning to fall in the Hurley to Cookham areas. Flooding of low lying land and roads is expected to continue. It is forecast to be dry today, 9 January 2024, and into tomorrow. We expect river levels to remain high over the coming days as water moves through the system. \n\nFlood Warnings remain in force for the River Thames at Hurley and Harleyford, and for the properties closest to the River Thames in Marlow.\n\nWe are closely monitoring the situation. Please remain safe and aware of your local surroundings. Avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \n\nThis message will be updated tomorrow, 10 January 2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-09T09:44:00",
+      "timeRaised": "2024-01-09T09:44:40",
+      "timeSeverityChanged": "2023-12-31T18:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
@@ -196,12 +259,75 @@
       },
       "floodAreaID": "111WAFFROL",
       "isTidal": false,
-      "message": "River levels at our East Stoke and Stinsford gauges remain high due to rainfall but are now declining.  Flooding is forecast to affect locations near the Lower Dorset Frome, with low lying land expected to be most affected, particularly around tributaries between Dorchester and Wareham. No further rainfall is forecast.  We are monitoring rainfall and river levels in the area.  Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk, cycle or drive through flood water. This message will be updated by 5:00 PM on 10/01/2024, or as the situation changes",
+      "message": "River levels are now falling steadily on the Lower Dorset Frome.\nNo property flooding is expected.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 05:00 PM on 12/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-09T14:46:00",
-      "timeRaised": "2024-01-09T14:47:08",
+      "timeMessageChanged": "2024-01-10T16:57:00",
+      "timeRaised": "2024-01-10T16:57:24",
       "timeSeverityChanged": "2023-12-04T08:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
+      "description": "Lower Tone and Parrett Moors",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTPM",
+        "county": "Somerset",
+        "notation": "112WAFTPM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTPM/polygon",
+        "riverOrSea": "River Tone, River Parrett"
+      },
+      "floodAreaID": "112WAFTPM",
+      "isTidal": false,
+      "message": "The River Tone level at Currymoor pumping station is currently 7.35m and stable as pumping operations continue. Water will enter Currymoor via Hookbridge spillway whilst this level exceeds 7.45m. The drain level in Currymoor is 7.02m and falling. Cutts Road floods when this level is above 5.75m, and New Road when the level is above 6.18m. Both roads remain closed. \n\nAthelney spillway is no longer running and we are aware the A361 has reopened. Please refer to @TravelSomerset for further information about this road. \n\nWe are pumping at Currymoor, Northmoor and Saltmoor pumping stations, and are using the Parrett Relief Channel to lower river levels. Dry and cold conditions are forecast this week, however we expect the water level in Currymoor to remain high during this time. \n\nWe are maximising pumping operations to clear as much water off the moors as possible during this settled period, and we are monitoring the situation closely. Please do not attempt to drive or walk through flood water. This message will be updated by 2 PM on 11/01/24, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-10T11:21:00",
+      "timeRaised": "2024-01-10T11:21:21",
+      "timeSeverityChanged": "2023-12-30T18:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23HenMed",
+      "description": "River Thames for Henley, Remenham, Medmenham and its tributaries",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23HenMed",
+        "county": "Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham",
+        "notation": "061WAF23HenMed",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23HenMed/polygon",
+        "riverOrSea": "River Thames, Assendon Stream, Hambledon Brook"
+      },
+      "floodAreaID": "061WAF23HenMed",
+      "isTidal": false,
+      "message": "River levels remain high but are beginning to slowly fall on the River Thames in the Henley, Remenham and Medmenham areas. Flooding of low lying land and roads is expected to continue. It is forecast to be dry today, 9 January 2024, and into tomorrow. We expect river levels to remain high over the coming days as water moves through the system. \n\nA Flood Warning remains in force for the River Thames for Henley, Remenham, Medmenham and its tributaries. \n\nWe are closely monitoring the situation. Please remain safe and aware of your local surroundings. Avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \n\nThis message will be updated tomorrow, 10 January 2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-09T09:44:00",
+      "timeRaised": "2024-01-09T09:44:48",
+      "timeSeverityChanged": "2023-12-31T18:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
+      "description": "Groundwater flooding in the Cranborne Chase area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
+        "county": "Dorset Council, Hampshire, Wiltshire",
+        "notation": "111FAGCCGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGCCGW",
+      "isTidal": false,
+      "message": "  Groundwater levels at most of the monitoring boreholes across Cranborne Chase have continued to rise in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected. \nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-07T15:02:00",
+      "timeRaised": "2024-01-07T15:02:54",
+      "timeSeverityChanged": "2024-01-02T11:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -328,6 +454,27 @@
       "timeMessageChanged": "2024-01-10T09:14:00",
       "timeRaised": "2024-01-10T09:14:48",
       "timeSeverityChanged": "2023-11-02T04:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
+      "description": "River Foulness and Market Weighton catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAF974",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
+        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
+      },
+      "floodAreaID": "122WAF974",
+      "isTidal": false,
+      "message": "River levels are falling across this catchment this evening. However, flooding is expected to affect locations near Mill Beck in Market Weighton, on Market Weighton Canal, Ings Beck in North Newbald, North Cave Beck in North Cave and the River Foulness near Welham Bridge, with low lying land expected to be most affected. We continue to monitor river levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We expect to be able to remove this message by 10PM on Wednesday 10/01/2024, if levels continue to fall.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-10T10:11:00",
+      "timeRaised": "2024-01-10T10:11:26",
+      "timeSeverityChanged": "2023-12-31T16:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
@@ -477,6 +624,27 @@
       "timeSeverityChanged": "2023-10-25T09:57:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
+      "description": "Groundwater flooding in the West of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
+        "county": "Dorset Council",
+        "notation": "111FAGWDGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGWDGW",
+      "isTidal": false,
+      "message": " Groundwater levels at most of the monitoring boreholes across the West of Dorset have continued to rise in response to recent heavy rainfall and will continue to do so for the next few days. Flooding of roads and some properties, especially basements is expected. \nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-07T13:40:00",
+      "timeRaised": "2024-01-07T13:40:12",
+      "timeSeverityChanged": "2024-01-02T11:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPIDD",
       "description": "River Piddle and tributaries",
       "eaAreaName": "Wessex",
@@ -538,6 +706,27 @@
       "timeMessageChanged": "2024-01-10T08:22:00",
       "timeRaised": "2024-01-10T08:22:59",
       "timeSeverityChanged": "2023-12-31T14:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF1",
+      "description": "The River Waveney from Diss and the River Dove to Ellingham, including Bungay",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF1",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WAFSF1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF1/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WAFSF1",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely today, Wednesday 10th January 2024. River levels remain higher than normal in response to recent rainfall.  Areas most at risk are low lying roads and riverside areas around Diss, Eye, Harleston and Bungay. River levels are likely to remain higher than normal for the next few days. The forecast is for drier conditions over the next few days and into the weekend. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation closely.  We will update this message tomorrow, Thursday 11th January.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-10T10:14:00",
+      "timeRaised": "2024-01-10T10:14:36",
+      "timeSeverityChanged": "2024-01-02T12:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG22OgVal",
@@ -643,6 +832,27 @@
       "timeMessageChanged": "2024-01-10T10:38:00",
       "timeRaised": "2024-01-10T10:38:20",
       "timeSeverityChanged": "2023-10-25T22:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFCUR10A",
+      "description": "Curry Moor and Hay Moor",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFCUR10A",
+        "county": "Somerset",
+        "notation": "112FWFCUR10A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFCUR10A/polygon",
+        "riverOrSea": "River Tone"
+      },
+      "floodAreaID": "112FWFCUR10A",
+      "isTidal": false,
+      "message": "The River Tone level at Currymoor pumping station is currently 7.35m and stable as pumping operations continue. Water will enter Currymoor via Hookbridge spillway whilst this level exceeds 7.45m. The drain level in Currymoor is 7.01m and falling. Cutts Road floods when this level is above 5.75m, and New Road when the level is above 6.18m. Both roads remain closed. \n\nAthelney spillway is no longer running, and we are aware the A361 has reopened. Please refer to @TravelSomerset for further information about this road. \n\nWe are pumping at Currymoor, Northmoor and Saltmoor pumping stations, and are using the Parrett Relief Channel to lower river levels. Dry and cold conditions are forecast this week, however we expect the water level in Currymoor to remain high during this time. \n\nWe are maximising pumping operations to clear as much water off the moors as possible during this settled period, and we are monitoring this situation closely. Please do not attempt to drive or walk through flood water. This message will be updated by 2 PM on 11/01/24, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-01-10T11:19:00",
+      "timeRaised": "2024-01-10T11:19:41",
+      "timeSeverityChanged": "2024-01-02T21:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFRYP",
@@ -813,27 +1023,6 @@
       "timeSeverityChanged": "2023-12-04T16:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
-      "description": "Lower River Soar in Leicestershire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
-        "county": "Derbyshire, Leicestershire, Nottinghamshire",
-        "notation": "034WAF428",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
-        "riverOrSea": "River Soar"
-      },
-      "floodAreaID": "034WAF428",
-      "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  \nNo further rainfall is forecast. \nWe continue to monitor the situation.  \nPlease avoid contact with flood water and see the GOV.UK website for a 5 day flood forecast. \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-09T18:52:00",
-      "timeRaised": "2024-01-09T18:52:30",
-      "timeSeverityChanged": "2024-01-09T18:52:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF209",
       "description": "River Avon in Worcestershire",
       "eaAreaName": "West Midlands",
@@ -853,27 +1042,6 @@
       "timeMessageChanged": "2024-01-10T15:28:00",
       "timeRaised": "2024-01-10T15:29:01",
       "timeSeverityChanged": "2023-12-28T07:23:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
-      "description": "Lower Tone and Parrett Moors",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTPM",
-        "county": "Somerset",
-        "notation": "112WAFTPM",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTPM/polygon",
-        "riverOrSea": "River Tone, River Parrett"
-      },
-      "floodAreaID": "112WAFTPM",
-      "isTidal": false,
-      "message": "The River Tone level at Currymoor pumping station is currently 7.35m and stable as pumping operations continue. Water will enter Currymoor via Hookbridge spillway whilst this level exceeds 7.45m. The drain level in Currymoor is 7.02m and falling. Cutts Road floods when this level is above 5.75m, and New Road when the level is above 6.18m. Both roads remain closed. \n\nAthelney spillway is no longer running and we are aware the A361 has reopened. Please refer to @TravelSomerset for further information about this road. \n\nWe are pumping at Currymoor, Northmoor and Saltmoor pumping stations, and are using the Parrett Relief Channel to lower river levels. Dry and cold conditions are forecast this week, however we expect the water level in Currymoor to remain high during this time. \n\nWe are maximising pumping operations to clear as much water off the moors as possible during this settled period, and we are monitoring the situation closely. Please do not attempt to drive or walk through flood water. This message will be updated by 2 PM on 11/01/24, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-10T11:21:00",
-      "timeRaised": "2024-01-10T11:21:21",
-      "timeSeverityChanged": "2023-12-30T18:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOBE",
@@ -931,11 +1099,11 @@
       },
       "floodAreaID": "111WAFWEYR",
       "isTidal": false,
-      "message": " River levels remain high on the River Wey, Preston Brook, and River Jordan due to the recent rainfall falling on catchments that are already saturated. High groundwater levels continue to add further to river flow. Areas most at risk include the River Wey to Radipole Lake, Preston Brook and River Jordan. No further significant rainfall is forecast. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. Plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 5:00 PM on 10/01/2024, or as the situation changes.",
+      "message": "River levels are remaining high on the River Wey, Preston Brook, River Jordan.\nNo property flooding is expected.\nNo further rainfall is forecast.\nRiver levels are high but steady at the Broadwey, Upwey gauge.\nWe will continue to monitor levels closely.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 05:00 PM on 12/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-09T14:46:00",
-      "timeRaised": "2024-01-09T14:47:04",
+      "timeMessageChanged": "2024-01-10T16:57:00",
+      "timeRaised": "2024-01-10T16:57:13",
       "timeSeverityChanged": "2024-01-01T18:13:00"
     },
     {
@@ -958,48 +1126,6 @@
       "timeMessageChanged": "2024-01-10T08:47:00",
       "timeRaised": "2024-01-10T08:48:03",
       "timeSeverityChanged": "2023-12-04T17:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
-      "description": "River Foulness and Market Weighton catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAF974",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
-        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
-      },
-      "floodAreaID": "122WAF974",
-      "isTidal": false,
-      "message": "River levels are falling across this catchment this evening. However, flooding is expected to affect locations near Mill Beck in Market Weighton, on Market Weighton Canal, Ings Beck in North Newbald, North Cave Beck in North Cave and the River Foulness near Welham Bridge, with low lying land expected to be most affected. We continue to monitor river levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We expect to be able to remove this message by 10PM on Wednesday 10/01/2024, if levels continue to fall.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-10T10:11:00",
-      "timeRaised": "2024-01-10T10:11:26",
-      "timeSeverityChanged": "2023-12-31T16:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
-      "description": "River Severn in Gloucestershire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214",
-        "county": "Gloucestershire, Worcestershire",
-        "notation": "031WAF214",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF214/polygon",
-        "riverOrSea": "Severn Estuary"
-      },
-      "floodAreaID": "031WAF214",
-      "isTidal": false,
-      "message": "River levels are falling but remain high on the River Severn as a result of recent rainfall. Consequently, flooding of roads and farmland is expected to continue over the next few days. We expect flooding to affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley and Maisemore. \nPeaks:- Mythe peaked at 4.78m on Thursday evening, 04/01/2024. \nHaw Bridge peaked at 5.77m on Friday morning, 05/01/2024. \t\nSandhurst peaked at 5.0m on Friday morning, 05/01/2024. \nGloucester peaked at 4.7m on Friday evening, 05/01/2024.\nWe expect river levels to remain high over the next few days. We are closely monitoring the situation. Our incident response staff are checking defences. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 7pm tomorrow, Wednesday 10/01/2024, or as the situation changes\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-09T18:01:00",
-      "timeRaised": "2024-01-09T18:02:01",
-      "timeSeverityChanged": "2023-12-27T12:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFRHEE",
@@ -1254,27 +1380,6 @@
       "timeSeverityChanged": "2024-01-02T11:45:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFCUR10A",
-      "description": "Curry Moor and Hay Moor",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFCUR10A",
-        "county": "Somerset",
-        "notation": "112FWFCUR10A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFCUR10A/polygon",
-        "riverOrSea": "River Tone"
-      },
-      "floodAreaID": "112FWFCUR10A",
-      "isTidal": false,
-      "message": "The River Tone level at Currymoor pumping station is currently 7.35m and stable as pumping operations continue. Water will enter Currymoor via Hookbridge spillway whilst this level exceeds 7.45m. The drain level in Currymoor is 7.01m and falling. Cutts Road floods when this level is above 5.75m, and New Road when the level is above 6.18m. Both roads remain closed. \n\nAthelney spillway is no longer running, and we are aware the A361 has reopened. Please refer to @TravelSomerset for further information about this road. \n\nWe are pumping at Currymoor, Northmoor and Saltmoor pumping stations, and are using the Parrett Relief Channel to lower river levels. Dry and cold conditions are forecast this week, however we expect the water level in Currymoor to remain high during this time. \n\nWe are maximising pumping operations to clear as much water off the moors as possible during this settled period, and we are monitoring this situation closely. Please do not attempt to drive or walk through flood water. This message will be updated by 2 PM on 11/01/24, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T11:19:00",
-      "timeRaised": "2024-01-10T11:19:41",
-      "timeSeverityChanged": "2024-01-02T21:37:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWBTRGIRTON",
       "description": "River Trent at Girton",
       "eaAreaName": "East Midlands",
@@ -1288,12 +1393,12 @@
       },
       "floodAreaID": "034FWBTRGIRTON",
       "isTidal": false,
-      "message": " River levels remain high but are falling at the Torksey river gauge as a result of Storm Henk. Consequently, flooding is expected to continue. Areas most at risk are access roads and properties in Girton. The A1133 and High Street has flooded, which has isolated the village. No further rainfall is forecast over the next 5 days. We expect local river levels to remain high until tomorrow morning, Thursday 11/01/2024. We are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area and liaising with emergency services. Please avoid contact with flood water and follow advice from the emergency services. Contact your insurance company if you've been flooded and take photographs of any flood damage. This message will be updated by 20:00 this evening, 10/01/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T10:29:00",
-      "timeRaised": "2024-01-10T10:29:27",
-      "timeSeverityChanged": "2024-01-02T07:42:00"
+      "message": " This Flood Warning has been removed.  \nRiver and high tide levels have now fallen below the flood risk threshold.  The Flood Warning for the area has now been removed.  However, a Flood Alert remains in force for the wider area, so flooding may still affect roads and low-lying land.  \nWe continue to monitor the situation.  Our incident response staff are patrolling watercourses in the area.\nPlease avoid contact with flood water and contact your insurance company if you've been flooded.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-10T16:55:00",
+      "timeRaised": "2024-01-10T16:56:06",
+      "timeSeverityChanged": "2024-01-10T16:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG016",
@@ -1309,11 +1414,11 @@
       },
       "floodAreaID": "065FAG016",
       "isTidal": false,
-      "message": "Nearly an average month's rainfall (80mm) has fallen since New Year's Eve. Groundwater is high, close to the surface and rising. Minor groundwater flood impacts are expected to continue, with water flowing on roads, in basements or under floorboards, and affecting the ability of the sewage network to operate in East Dean, Charlton, Singleton and West Dean. Water could also affect the B2141 Chilgrove road. Very little rainfall is forecast for the next five days. Groundwater is expected to begin to fall in most boreholes by 11/01/2024. Groundwater might not fall in East Dean until the middle of January. Flood impacts are expected to remain until February, and potentially longer, or affecting more people if wet weather returns. Groundwater will remain higher than normal and sensitive to any additional rainfall over winter. If you have pumps to help reduce groundwater levels in your property, ensure they are operational. We continue to monitor the levels and forecast. We will update this message by 18:00 10/01/2024",
+      "message": "Groundwater is high, and at or very close to the surface. Minor groundwater flood impacts are expected to continue, with water flowing on roads, in basements or under floorboards, and affecting the ability of the sewage network to operate in East Dean, Charlton, Singleton and West Dean. Water will also affect the B2141 Chilgrove Road. Very little rainfall is forecast for the next 5 days. Groundwater is expected to continue to slowly fall in most boreholes. However, groundwater might not fall in East Dean until the middle of January 2024, and will remain very close to the surface in communities until at least February 2024. Flood impacts are expected to remain until February 2024, and potentially for longer, or affect more people, if wet weather returns. Groundwater will remain higher than normal and sensitive to any additional rainfall over winter. If you have pumps to help reduce groundwater levels in your property, please ensure they are operational. We continue to monitor the levels and forecast. We will update this message by 18:00 on Monday 15/01/2024.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-06T08:18:00",
-      "timeRaised": "2024-01-06T08:18:48",
+      "timeMessageChanged": "2024-01-10T16:49:00",
+      "timeRaised": "2024-01-10T16:49:31",
       "timeSeverityChanged": "2023-12-07T12:22:00"
     },
     {
@@ -1399,27 +1504,6 @@
       "timeMessageChanged": "2024-01-10T16:15:00",
       "timeRaised": "2024-01-10T16:15:56",
       "timeSeverityChanged": "2024-01-04T20:24:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
-      "description": "Groundwater flooding in the West of Dorset",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
-        "county": "Dorset Council",
-        "notation": "111FAGWDGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGWDGW",
-      "isTidal": false,
-      "message": " Groundwater levels at most of the monitoring boreholes across the West of Dorset have continued to rise in response to recent heavy rainfall and will continue to do so for the next few days. Flooding of roads and some properties, especially basements is expected. \nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-07T13:40:00",
-      "timeRaised": "2024-01-07T13:40:12",
-      "timeSeverityChanged": "2024-01-02T11:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGHOK5",
@@ -1519,11 +1603,11 @@
       },
       "floodAreaID": "111FWGDEV4",
       "isTidal": false,
-      "message": " The groundwater level at the Dole's Ash borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
+      "message": "The groundwater level at the Doles Ash borehole is now peaking and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.\n\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:08:00",
-      "timeRaised": "2024-01-07T16:08:25",
+      "timeMessageChanged": "2024-01-10T16:35:00",
+      "timeRaised": "2024-01-10T16:35:37",
       "timeSeverityChanged": "2024-01-04T13:49:00"
     },
     {
@@ -1548,27 +1632,6 @@
       "timeSeverityChanged": "2024-01-05T10:06:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF1",
-      "description": "The River Waveney from Diss and the River Dove to Ellingham, including Bungay",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF1",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WAFSF1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF1/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WAFSF1",
-      "isTidal": false,
-      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely today, Wednesday 10th January 2024. River levels remain higher than normal in response to recent rainfall.  Areas most at risk are low lying roads and riverside areas around Diss, Eye, Harleston and Bungay. River levels are likely to remain higher than normal for the next few days. The forecast is for drier conditions over the next few days and into the weekend. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation closely.  We will update this message tomorrow, Thursday 11th January.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-10T10:14:00",
-      "timeRaised": "2024-01-10T10:14:36",
-      "timeSeverityChanged": "2024-01-02T12:33:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFWYLE",
       "description": "River Wylye and tributaries",
       "eaAreaName": "Wessex",
@@ -1582,11 +1645,11 @@
       },
       "floodAreaID": "111WAFWYLE",
       "isTidal": false,
-      "message": "River levels remain high on the River Wylye at South Newton due to groundwater influences.   Areas most at risk include tributaries between Norton Ferris and Wilton.  There is no further rainfall forecast. We are monitoring rainfall and river levels in the area.  Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00 PM on 10/01/2024, or as the situation changes.",
+      "message": "River levels remain high on the River Wylye at South Newton due to groundwater influences. Areas most at risk include tributaries between Norton Ferris and Wilton. There is no further rainfall forecast. We are monitoring rainfall and river levels in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00 PM on 12/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-09T14:47:00",
-      "timeRaised": "2024-01-09T14:47:29",
+      "timeMessageChanged": "2024-01-10T16:57:00",
+      "timeRaised": "2024-01-10T16:57:31",
       "timeSeverityChanged": "2023-12-31T09:05:00"
     },
     {
@@ -1687,11 +1750,11 @@
       },
       "floodAreaID": "065FAG019",
       "isTidal": false,
-      "message": "Nearly an average month's rainfall (66mm) has fallen since New Year's Eve. Groundwater is high, close to the surface, and rising. Minor groundwater flood impacts will likely continue or return, with springs affecting fields, the village green Stoughton, and rural roads including Stoughton main road, the road from East Marden and also between Cooks Lane and The Barley Mow, and the B2146 near Woodlands Lane, in Walderton. Very little rainfall is forecast for the next five days. Groundwater is expected to begin to fall by 11/01/2024. Flood impacts could remain until February, and potentially longer, or affecting more people if wet weather returns. Groundwater will remain higher than normal and sensitive to any rainfall over winter. If you have pumps to help reduce groundwater levels in your property, ensure they are operational. We continue to monitor the levels and forecast. We will update this message by 18:00 10/01/2024",
+      "message": "Groundwater is high and close to the surface at the Compton borehole, but is now slowly falling. Minor groundwater flood impacts will likely continue, with springs affecting fields and rural roads, including Stoughton main road and the road from East Marden. Groundwater will affect a small number of properties close to the village green in Stoughton. Groundwater will also be close to the surface, in basements, and near the ground floor of properties in Walderton. Very little rainfall is forecast for the next 5 days. Groundwater is expected to continue to fall at the Compton borehole. However, minor flood impacts could remain until February 2024, and potentially for longer, or affect more people, if wet weather returns. Groundwater will remain higher than normal and sensitive to any rainfall over winter. If you have pumps to help reduce groundwater levels in your property, please ensure they are operational. We continue to monitor the levels and forecast. We will update this message by 18:00 on Monday 15/01/2024.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-06T08:22:00",
-      "timeRaised": "2024-01-06T08:22:42",
+      "timeMessageChanged": "2024-01-10T16:49:00",
+      "timeRaised": "2024-01-10T16:49:20",
       "timeSeverityChanged": "2023-12-09T19:14:00"
     },
     {
@@ -1714,27 +1777,6 @@
       "timeMessageChanged": "2024-01-10T09:05:00",
       "timeRaised": "2024-01-10T09:05:18",
       "timeSeverityChanged": "2023-12-31T08:56:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Hurley",
-      "description": "River Thames from Hurley to Cookham",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Hurley",
-        "county": "Buckinghamshire, Windsor and Maidenhead",
-        "notation": "061WAF23Hurley",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Hurley/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "061WAF23Hurley",
-      "isTidal": false,
-      "message": "River levels remain high on the River Thames but are slowly beginning to fall in the Hurley to Cookham areas. Flooding of low lying land and roads is expected to continue. It is forecast to be dry today, 9 January 2024, and into tomorrow. We expect river levels to remain high over the coming days as water moves through the system. \n\nFlood Warnings remain in force for the River Thames at Hurley and Harleyford, and for the properties closest to the River Thames in Marlow.\n\nWe are closely monitoring the situation. Please remain safe and aware of your local surroundings. Avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \n\nThis message will be updated tomorrow, 10 January 2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-09T09:44:00",
-      "timeRaised": "2024-01-09T09:44:40",
-      "timeSeverityChanged": "2023-12-31T18:26:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG017",
@@ -1819,27 +1861,6 @@
       "timeMessageChanged": "2024-01-10T09:03:00",
       "timeRaised": "2024-01-10T09:03:15",
       "timeSeverityChanged": "2024-01-02T08:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
-      "description": "Groundwater flooding in the Cranborne Chase area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
-        "county": "Dorset Council, Hampshire, Wiltshire",
-        "notation": "111FAGCCGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGCCGW",
-      "isTidal": false,
-      "message": "  Groundwater levels at most of the monitoring boreholes across Cranborne Chase have continued to rise in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected. \nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-07T15:02:00",
-      "timeRaised": "2024-01-07T15:02:54",
-      "timeSeverityChanged": "2024-01-02T11:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWBTRDUNHAM",
@@ -1947,27 +1968,6 @@
       "timeSeverityChanged": "2023-12-12T11:27:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23HenMed",
-      "description": "River Thames for Henley, Remenham, Medmenham and its tributaries",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23HenMed",
-        "county": "Buckinghamshire, Oxfordshire, Windsor and Maidenhead, Wokingham",
-        "notation": "061WAF23HenMed",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23HenMed/polygon",
-        "riverOrSea": "River Thames, Assendon Stream, Hambledon Brook"
-      },
-      "floodAreaID": "061WAF23HenMed",
-      "isTidal": false,
-      "message": "River levels remain high but are beginning to slowly fall on the River Thames in the Henley, Remenham and Medmenham areas. Flooding of low lying land and roads is expected to continue. It is forecast to be dry today, 9 January 2024, and into tomorrow. We expect river levels to remain high over the coming days as water moves through the system. \n\nA Flood Warning remains in force for the River Thames for Henley, Remenham, Medmenham and its tributaries. \n\nWe are closely monitoring the situation. Please remain safe and aware of your local surroundings. Avoid using low lying footpaths near local watercourses and refer to the 'River and Sea levels in England' webpage for current river levels. \n\nThis message will be updated tomorrow, 10 January 2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-09T09:44:00",
-      "timeRaised": "2024-01-09T09:44:48",
-      "timeSeverityChanged": "2023-12-31T18:27:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23ShipWar",
       "description": "River Thames for Shiplake, Lower Shiplake and Wargrave",
       "eaAreaName": "Thames",
@@ -2044,11 +2044,11 @@
       },
       "floodAreaID": "111FWGNWV1",
       "isTidal": false,
-      "message": " The groundwater level at the Delcombe Wood borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
+      "message": " The groundwater level at the Delcombe Wood borehole is now peaking and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:08:00",
-      "timeRaised": "2024-01-07T16:08:17",
+      "timeMessageChanged": "2024-01-10T16:39:00",
+      "timeRaised": "2024-01-10T16:39:16",
       "timeSeverityChanged": "2024-01-04T17:31:00"
     },
     {
@@ -2107,11 +2107,11 @@
       },
       "floodAreaID": "111FWGNWV2",
       "isTidal": false,
-      "message": "  The groundwater level at the Delcombe Wood borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": "  The groundwater level at the Delcombe Wood borehole is now peaking and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:07:00",
-      "timeRaised": "2024-01-07T16:08:06",
+      "timeMessageChanged": "2024-01-10T16:38:00",
+      "timeRaised": "2024-01-10T16:39:06",
       "timeSeverityChanged": "2024-01-05T16:34:00"
     },
     {
@@ -2569,11 +2569,11 @@
       },
       "floodAreaID": "061FWF22Ramsbury",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels remain high on the River Kennet following recent heavy rainfall and high groundwater levels. Therefore, flooding of low lying land, roads and property is expected to continue today, 10/01/2024, especially in areas closest to the river south of Ramsbury including the Mill Lane and Lamplands areas. The forecast is dry today and overnight. We expect river levels to remain high over the coming days and may rise due to high groundwater levels. We are monitoring the situation and have teams checking blockages. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. Be aware of flooded roads; do not drive through floodwater. This message will be updated this evening, 10/01/2024, or as the situation changes.",
+      "message": " Property flooding is expected. River levels remain high on the River Kennet following recent heavy rainfall and high groundwater levels. Therefore, flooding of low lying land, roads and property is expected to continue today, 10/01/2024, especially in areas closest to the river south of Ramsbury including the Mill Lane and Lamplands areas. The forecast this evening and into tomorrow (11/01/24) is dry. We expect river levels to remain high over the coming days and may rise due to high groundwater levels. We are monitoring the situation and have teams checking blockages. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. Be aware of flooded roads; do not drive through floodwater. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T07:40:00",
-      "timeRaised": "2024-01-10T07:40:27",
+      "timeMessageChanged": "2024-01-10T16:49:00",
+      "timeRaised": "2024-01-10T16:50:07",
       "timeSeverityChanged": "2024-01-05T17:50:00"
     },
     {
@@ -2590,11 +2590,11 @@
       },
       "floodAreaID": "061FWF22Denford",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels remain high on the River Kennet following recent heavy rainfall and high groundwater levels. Therefore, flooding of low lying land, roads and property is expected to continue today, 10/01/2024, especially in areas closest to the river south of Ramsbury including the Mill Lane and Lamplands areas. The forecast is dry today and overnight. We expect river levels to remain high over the coming days and may rise due to high groundwater levels. We are monitoring the situation and have teams checking blockages. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. Be aware of flooded roads; do not drive through floodwater. This message will be updated this evening, 10/01/2024, or as the situation changes.",
+      "message": " Property flooding is expected. River levels remain high on the River Kennet following recent heavy rainfall and high groundwater levels. Therefore, flooding of low lying land, roads and property is expected to continue today, 10/01/2024, especially in areas closest to the river south of Ramsbury including the Mill Lane and Lamplands areas. The forecast this evening and into tomorrow (11/01/24) is dry. We expect river levels to remain high over the coming days and may rise due to high groundwater levels. We are monitoring the situation and have teams checking blockages. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. Be aware of flooded roads; do not drive through floodwater. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T08:00:00",
-      "timeRaised": "2024-01-10T08:00:15",
+      "timeMessageChanged": "2024-01-10T16:53:00",
+      "timeRaised": "2024-01-10T16:54:08",
       "timeSeverityChanged": "2024-01-01T21:31:00"
     },
     {
@@ -2632,11 +2632,11 @@
       },
       "floodAreaID": "061FWF14Islip",
       "isTidal": false,
-      "message": " Property flooding remains possible. River levels are high but falling on the River Ray following recent rainfall. Therefore, flooding of low lying land, roads and property remains possible today, 10/01/2024, especially in areas closest to the river in Mill Street, Islip. The forecast is dry today and overnight. Levels are expected to continue falling slowly over the coming days, but will remain sensitive to further rainfall. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Be aware of flooded roads; do not drive through floodwater. This message will be updated this evening, 10/01/24, or as the situation changes.",
+      "message": "Property flooding remains possible. River levels are high but falling on the River Ray following recent rainfall. Therefore, flooding of low lying land, roads and property remains possible today, 10/01/2024, especially in areas closest to the river in Mill Street, Islip. The forecast this evening and into tomorrow (11/01/24) is dry. Levels are expected to continue falling slowly over the coming days, but will remain sensitive to further rainfall. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Be aware of flooded roads; do not drive through floodwater. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T07:40:00",
-      "timeRaised": "2024-01-10T07:40:42",
+      "timeMessageChanged": "2024-01-10T16:39:00",
+      "timeRaised": "2024-01-10T16:39:49",
       "timeSeverityChanged": "2024-01-02T06:45:00"
     },
     {
@@ -2653,11 +2653,11 @@
       },
       "floodAreaID": "061FWF14Murcott",
       "isTidal": false,
-      "message": " Property flooding remains possible. River levels are high but falling on the River Ray and watercourses within the Otmoor area following recent rainfall. Flooding of low lying land, roads and property remains possible today, 10/01/2024, especially in the Murcott area including Pigeonhouse Lane and Ferncott Road, and the Ambrosden area including Marsh Road and Ambrosden Close. The forecast is dry today and overnight. We expect river levels to continue falling over the coming days but will remain sensitive to further rainfall. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Be aware of flooded roads; do not drive through floodwater. This message will be updated this evening, 10/01/2024, or as the situation changes.",
+      "message": "Property flooding remains possible. River levels are high but falling on the River Ray and watercourses within the Otmoor area following recent rainfall. Flooding of low lying land, roads and property remains possible today, 10/01/2024, especially in the Murcott area including Pigeonhouse Lane and Ferncott Road, and the Ambrosden area including Marsh Road and Ambrosden Close. The forecast this evening and into tomorrow (11/01/24) is dry. We expect river levels to continue falling over the coming days but will remain sensitive to further rainfall. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Be aware of flooded roads; do not drive through floodwater. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T07:40:00",
-      "timeRaised": "2024-01-10T07:40:36",
+      "timeMessageChanged": "2024-01-10T16:42:00",
+      "timeRaised": "2024-01-10T16:42:53",
       "timeSeverityChanged": "2024-01-02T06:48:00"
     },
     {
@@ -2779,11 +2779,11 @@
       },
       "floodAreaID": "061FWF19Dorchstr",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels are high, but falling on the River Thame following recent rainfall and water moving down the catchment. Flooding of property and roads is expected to continue today, 10/01/2024, especially in the Dorchester area. The forecast is dry today and overnight. We expect river levels to continue gradually falling over the next few days, but levels will remain sensitive to further rainfall. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Be aware of flooded roads; do not drive through floodwater. This message will be updated this evening, 10/01/2024, or as the situation changes.",
+      "message": " Property flooding is expected. River levels are high, but falling on the River Thame following recent rainfall and water moving down the catchment. Flooding of property and roads is expected to continue today, 10/01/2024, especially in the Dorchester area. The forecast this evening and into tomorrow (11/01/24) is dry. We expect river levels to continue gradually falling over the next few days, but levels will remain sensitive to further rainfall. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Be aware of flooded roads; do not drive through floodwater. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T07:40:00",
-      "timeRaised": "2024-01-10T07:40:35",
+      "timeMessageChanged": "2024-01-10T16:46:00",
+      "timeRaised": "2024-01-10T16:46:36",
       "timeSeverityChanged": "2024-01-02T15:46:00"
     },
     {
@@ -3115,11 +3115,11 @@
       },
       "floodAreaID": "111FWGCRA2",
       "isTidal": false,
-      "message": "   The groundwater level at the Woodyates borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": "  The groundwater level at the Woodyates borehole has now peaked and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:07:00",
-      "timeRaised": "2024-01-07T16:07:33",
+      "timeMessageChanged": "2024-01-10T16:52:00",
+      "timeRaised": "2024-01-10T16:52:56",
       "timeSeverityChanged": "2024-01-04T16:19:00"
     },
     {
@@ -3136,11 +3136,11 @@
       },
       "floodAreaID": "111FWGCCWH1",
       "isTidal": false,
-      "message": "  The groundwater level at the Woodyates borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": "  The groundwater level at the Woodyates borehole has now peaked and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:33:00",
-      "timeRaised": "2024-01-07T16:33:49",
+      "timeMessageChanged": "2024-01-10T16:52:00",
+      "timeRaised": "2024-01-10T16:52:46",
       "timeSeverityChanged": "2024-01-04T16:29:00"
     },
     {
@@ -3157,11 +3157,11 @@
       },
       "floodAreaID": "111FWGIWE5",
       "isTidal": false,
-      "message": " The groundwater level at the Iwerne Hill Farm borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
+      "message": " The groundwater level at the Iwerne Hill Farm borehole has now peaked and will continue to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:34:00",
-      "timeRaised": "2024-01-07T16:34:17",
+      "timeMessageChanged": "2024-01-10T16:58:00",
+      "timeRaised": "2024-01-10T16:58:38",
       "timeSeverityChanged": "2024-01-04T16:29:00"
     },
     {
@@ -3535,11 +3535,11 @@
       },
       "floodAreaID": "061FWF22UpLamGSh",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels on the River Lambourn are high but currently stable following recent heavy rainfall and high groundwater. Therefore, flooding of property and roads is expected to continue today, 10/01/2024, especially in the Eastbury area and areas closest to the river. The forecast is dry today and overnight. River levels may rise further in response to high groundwater elevating river levels. We expect levels to remain high and sensitive to further rainfall over the coming days. We are monitoring the situation. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Go to the 'River and Sea levels in England' webpage for current river levels. Be aware of flooded roads, do not drive through floodwater. This message will be updated this evening, 10/01/2024, or as the situation changes.",
+      "message": " Property flooding is expected. River levels on the River Lambourn are high but currently stable following recent heavy rainfall and high groundwater. Therefore, flooding of property and roads is expected to continue today, 10/01/2024, especially in the Eastbury area and areas closest to the river. The forecast this evening and into tomorrow (11/01/24) is dry. River levels may rise further in response to high groundwater elevating river levels. We expect levels to remain high and sensitive to further rainfall over the coming days. We are monitoring the situation. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Go to the 'River and Sea levels in England' webpage for current river levels. Be aware of flooded roads, do not drive through floodwater. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T07:59:00",
-      "timeRaised": "2024-01-10T08:00:07",
+      "timeMessageChanged": "2024-01-10T17:00:00",
+      "timeRaised": "2024-01-10T17:00:40",
       "timeSeverityChanged": "2024-01-04T20:50:00"
     },
     {
@@ -3913,11 +3913,11 @@
       },
       "floodAreaID": "111FWGALL102",
       "isTidal": false,
-      "message": "   The groundwater level at the Woodyates borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": " The groundwater level at the Woodyates borehole has now peaked and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:07:00",
-      "timeRaised": "2024-01-07T16:07:44",
+      "timeMessageChanged": "2024-01-10T16:53:00",
+      "timeRaised": "2024-01-10T16:53:16",
       "timeSeverityChanged": "2024-01-05T11:26:00"
     },
     {
@@ -3934,11 +3934,11 @@
       },
       "floodAreaID": "111FWGTAR7",
       "isTidal": false,
-      "message": "  The groundwater level at the Rushmore borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": " The groundwater level at the Rushmore Lodge borehole has now peaked and will continue to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:33:00",
-      "timeRaised": "2024-01-07T16:33:54",
+      "timeMessageChanged": "2024-01-10T16:55:00",
+      "timeRaised": "2024-01-10T16:55:23",
       "timeSeverityChanged": "2024-01-05T11:21:00"
     },
     {
@@ -4543,11 +4543,11 @@
       },
       "floodAreaID": "061FWF22Newbury",
       "isTidal": false,
-      "message": " Property flooding is possible. River levels are very high on the River Kennet following recent heavy rainfall and high groundwater. Therefore, flooding of property and roads remains possible today, 10/01/2024, especially in the Newbury area. Areas most at risk are Newbury particularly the Northcroft Lane area and areas around the confluence of the River Kennet and River Lambourn. The forecast is dry today and overnight. River levels have dropped but may rise further in response to high groundwater elevating river levels. We are monitoring the situation. Our staff are liaising with councils and emergency services. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated this evening, 10/01/2024, or as the situation changes.",
+      "message": " Property flooding is possible. River levels are very high on the River Kennet following recent heavy rainfall and high groundwater. Therefore, flooding of property and roads remains possible today, 10/01/2024, especially in the Newbury area. Areas most at risk are Newbury particularly the Northcroft Lane area and areas around the confluence of the River Kennet and River Lambourn. The forecast this evening and into tomorrow (11/01/24) is dry. River levels have dropped but may rise further in response to high groundwater elevating river levels. We are monitoring the situation. Our staff are liaising with councils and emergency services. Activate any property flood protection products such as flood barriers. Be aware of flood water that may remain on the floodplain as river levels recede. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by midday tomorrow, or before if the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-10T07:59:00",
-      "timeRaised": "2024-01-10T08:00:09",
+      "timeMessageChanged": "2024-01-10T16:57:00",
+      "timeRaised": "2024-01-10T16:57:22",
       "timeSeverityChanged": "2024-01-07T09:53:00"
     },
     {
@@ -4627,11 +4627,11 @@
       },
       "floodAreaID": "111FWGCRI3",
       "isTidal": false,
-      "message": "   The groundwater level at the Rushmore Lodge borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": "  The groundwater level at the Rushmore Lodge borehole has now peaked and will continue to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:07:00",
-      "timeRaised": "2024-01-07T16:07:30",
+      "timeMessageChanged": "2024-01-10T16:52:00",
+      "timeRaised": "2024-01-10T16:52:35",
       "timeSeverityChanged": "2024-01-07T16:07:00"
     },
     {
@@ -4669,11 +4669,11 @@
       },
       "floodAreaID": "111FWGALL103",
       "isTidal": false,
-      "message": "   The groundwater level at the Woodyates borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": "  The groundwater level at the Woodyates borehole has now peaked and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:07:00",
-      "timeRaised": "2024-01-07T16:07:46",
+      "timeMessageChanged": "2024-01-10T16:52:00",
+      "timeRaised": "2024-01-10T16:53:07",
       "timeSeverityChanged": "2024-01-07T16:07:00"
     },
     {
@@ -4732,11 +4732,11 @@
       },
       "floodAreaID": "111FWGGUS4",
       "isTidal": false,
-      "message": " The groundwater level at the Rushmore Lodge borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.\n",
+      "message": " The groundwater level at the Rushmore Lodge borehole has now peaked and will continue to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:34:00",
-      "timeRaised": "2024-01-07T16:34:34",
+      "timeMessageChanged": "2024-01-10T16:55:00",
+      "timeRaised": "2024-01-10T16:55:34",
       "timeSeverityChanged": "2024-01-07T16:34:00"
     },
     {
@@ -4753,11 +4753,11 @@
       },
       "floodAreaID": "111FWGPIM6",
       "isTidal": false,
-      "message": "  The groundwater level at the Iwerne Hill Farm borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": " The groundwater level at the Iwerne Hill Farm borehole has now peaked and will continue to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:33:00",
-      "timeRaised": "2024-01-07T16:34:07",
+      "timeMessageChanged": "2024-01-10T16:58:00",
+      "timeRaised": "2024-01-10T16:58:49",
       "timeSeverityChanged": "2024-01-07T16:33:00"
     },
     {
@@ -4774,11 +4774,11 @@
       },
       "floodAreaID": "111FWGCCWH2",
       "isTidal": false,
-      "message": "   The groundwater level at the Woodyates borehole is rising in response to recent heavy rainfall and will continue to do so for the next 48 hours. Flooding of roads and some properties, especially basements is expected to continue.\nResidents should deploy any property resilience measures such as pumps, flood barriers and air brick covers.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may become overloaded. Do not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Tuesday 9th January, or as the situation changes.",
+      "message": "  The groundwater level at the Woodyates borehole has now peaked and will start to drop back over the next few days. Flooding of roads and some properties is expected to gradually recede by the weekend.\nResidents should keep any property resilience measures such as pumps, flood barriers and air brick covers deployed as there may be a delayed response.\nDriving through flood water will be especially dangerous as temperatures will drop to below freezing at times over the next week and will cause ice to form on roads. The bow wave from vehicles can flood adjacent properties and lead to icing of pavements.\nSewage systems may remain problematic over the next few days.\nDo not lift manhole covers to alleviate local surface water flooding as this may cause toilets further downhill to surcharge.\nThis message will be updated on Friday 12th January, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-07T16:33:00",
-      "timeRaised": "2024-01-07T16:33:40",
+      "timeMessageChanged": "2024-01-10T16:52:00",
+      "timeRaised": "2024-01-10T16:52:44",
       "timeSeverityChanged": "2024-01-07T16:33:00"
     },
     {
