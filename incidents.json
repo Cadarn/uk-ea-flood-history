@@ -280,11 +280,11 @@
       },
       "floodAreaID": "031WAF116",
       "isTidal": false,
-      "message": "River levels are high but falling at the Lugwardine river gauge following recent heavy rainfall. Consequently, the risk of flooding continues. We expect flooding to affect low lying land and roads adjacent to the River Lugg south of Leominster from Stoke Prior to Mordiford. Other locations that may be affected include Bodenham, Lugwardine and Hampton Bishop. \nWe expect river levels to remain high over the next few days. \nWe are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 5pm on Saturday, 13/01/24, or as the situation changes.",
+      "message": "River levels are high but falling at the Lugwardine river gauge following recent heavy rainfall. Consequently, the risk of flooding continues. We expect flooding to affect low lying land and roads adjacent to the River Lugg south of Leominster from Stoke Prior to Mordiford. Other locations that may be affected include Bodenham, Lugwardine and Hampton Bishop. \nWe expect river levels to remain high over the next 24 hours.\nWe are monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. \nThis message will be updated by 5pm on Sunday, 14/01/24, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-12T15:19:00",
-      "timeRaised": "2024-01-12T15:19:59",
+      "timeMessageChanged": "2024-01-13T14:47:00",
+      "timeRaised": "2024-01-13T14:47:31",
       "timeSeverityChanged": "2023-12-03T17:09:00"
     },
     {
@@ -847,12 +847,12 @@
       },
       "floodAreaID": "051WACDV4C",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths may occur today due to high tides at lunchtime, between 12:15 and 1:15pm, Saturday 13th January. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.79mAODN at 1:15pm, Saturday 13th January, which is 0.45m above tide tables, wind Force 4, westerly (mAODN is height above average sea level, for more info refer to local tide table). The next tide, in the early hours of Sunday 14th January, is not forecast to reach Flood Alert. You are advised to stay away from risk areas, and take care next to the coast. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 3pm today, Saturday 13th January.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-13T08:46:00",
-      "timeRaised": "2024-01-13T08:46:31",
-      "timeSeverityChanged": "2024-01-13T08:46:00"
+      "message": "Levels are now below the flood risk thresholds. The forecast is for no current flood risk from high tides overnight, however flood alerts are currently forecast tomorrow afternoon, at 2pm on Sunday 14th January. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-13T14:38:00",
+      "timeRaised": "2024-01-13T14:38:46",
+      "timeSeverityChanged": "2024-01-13T14:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG013",
@@ -1126,6 +1126,27 @@
       "timeMessageChanged": "2024-01-13T14:15:00",
       "timeRaised": "2024-01-13T14:15:52",
       "timeSeverityChanged": "2024-01-02T11:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATCHXH",
+      "isTidal": true,
+      "message": "This Flood Alert has been issued because some minor flooding to coastal roads and footpaths is likely tomorrow morning on 14/01/2024 between 10:15 AM and 01:15 PM.\nAreas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon.\nThe detailed tidal information for those who use it is for a peak level at Christchurch Harbour. The first forecast high water is at 11:15 AM on 14/01/2024 with a level of 1.31 mAODN with north-westerly force 4 winds. The second forecast high water is at 11:45 AM on 15/01/2024 with a level of 1.37 mAODN with northerly force 5 winds. (mAODN is height above average sea level - for more info refer to local tide tables.)\nThe forecast is dry for tomorrow morning.\nA combination of tide locking and high fluvial flows will result in high water levels.\nWe are closing locks and flood gates in the area.\nConsider activating any property flood protection products in the Christchurch Harbour and Quomps areas.\nThis message will be updated by 04:00 PM on 14/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-13T14:36:00",
+      "timeRaised": "2024-01-13T14:36:35",
+      "timeSeverityChanged": "2024-01-13T14:36:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG016",
