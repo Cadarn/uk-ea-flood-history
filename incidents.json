@@ -456,6 +456,27 @@
       "timeSeverityChanged": "2024-01-21T18:03:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF710",
+      "description": "River Ouse at York - riverside properties",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF710",
+        "county": "York",
+        "notation": "122FWF710",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF710/polygon",
+        "riverOrSea": "River Ouse"
+      },
+      "floodAreaID": "122FWF710",
+      "isTidal": false,
+      "message": "River levels are rising on the River Ouse due to heavy rainfall associated with Storm Isha. Flooding is forecast to affect locations near the River Ouse, with low lying land expected to be most affected, particularly around properties on King's Staith in York and riverside areas through York from Lendal Bridge to Millennium Bridge. Flooding is expected at properties on King's Staith in York and riverside areas through York from Lendal Bridge to Millennium Bridge from 11:00am on 22/01/2024. No further significant rainfall is forecast today. Our incident response staff are closing flood gates and checking defences. Start acting on your flood plan if you have one. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on 22/01/2024, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-01-22T08:59:00",
+      "timeRaised": "2024-01-22T08:59:45",
+      "timeSeverityChanged": "2024-01-22T08:59:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
       "description": "Rivers Brathay, Rothay and Winster",
       "eaAreaName": "Cumbria and Lancashire",
@@ -679,12 +700,12 @@
       },
       "floodAreaID": "034WAF430",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Whitewater Bridge river gauge as a result of rainfall overnight.  Consequently, flooding of roads and farmland is possible tonight Sunday 21/01/2024, and into Monday.  Areas most at risk are low-lying agricultural land and roads around Mansfield, the Sherwood Forest Caravan Park at Clipstone, Edwinstowe, Ollerton, Whitewater Lane at Whitewater Bridge and West Drayton.   \nFurther rainfall is forecast over the next 48 hours.  \nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 08:00 tomorrow morning, 22/01/24, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-21T17:20:00",
-      "timeRaised": "2024-01-21T17:20:44",
-      "timeSeverityChanged": "2024-01-21T17:20:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding.  Further light rainfall is forecast over the next 48 hours.  \nWe continue to monitor the situation.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-22T08:37:00",
+      "timeRaised": "2024-01-22T08:37:14",
+      "timeSeverityChanged": "2024-01-22T08:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG22LamVal",
@@ -790,27 +811,6 @@
       "timeMessageChanged": "2024-01-21T20:20:00",
       "timeRaised": "2024-01-21T20:21:05",
       "timeSeverityChanged": "2024-01-21T20:20:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
-      "description": "North Sea coast at Bridlington",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC954",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC954",
-      "isTidal": true,
-      "message": "This alert has been removed due to improving conditions. We continue to monitor the forecast and will reissue this alert if necessary. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-21T09:03:00",
-      "timeRaised": "2024-01-21T09:03:32",
-      "timeSeverityChanged": "2024-01-21T09:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Windrush",
@@ -1792,11 +1792,11 @@
       },
       "floodAreaID": "011WAFPC",
       "isTidal": false,
-      "message": "River levels remain high but are beginning to fall on the Rivers Caldew and Petteril.\nAreas most at risk include Rivers Caldew and Petteril from the Lakeland Fells to Carlisle including Greystoke, Newton Reigny, Plumpton, Stockdalewath, Sebergham and Denton Holme in Carlisle.\nFlooding is possible at Rivers Caldew and Petteril from the Lakeland Fells to Carlisle including Greystoke, Newton Reigny, Plumpton, Stockdalewath, Sebergham and Denton Holme in Carlisle from 2:00 AM on 22/01/2024.\nFurther light rainfall is forecast overnight.\nRiver levels remain high but are beginning to fall, but the risk of flooding to low-lying land remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 22/01/2024, or as the situation changes.",
+      "message": "River levels are high on the Rivers Caldew and Petteril due to Storm Isha.\nFlooding is possible at Rivers Caldew and Petteril from the Lakeland Fells to Carlisle including Greystoke, Newton Reigny, Plumpton, Stockdalewath, Sebergham and Denton Holme in Carlisle on 22/01/2024.\nFurther light rainfall is forecast throughout the day.\nRiver levels are remaining high.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 5:00 PM on 22/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-22T02:06:00",
-      "timeRaised": "2024-01-22T02:06:43",
+      "timeMessageChanged": "2024-01-22T08:54:00",
+      "timeRaised": "2024-01-22T08:54:52",
       "timeSeverityChanged": "2024-01-20T16:54:00"
     },
     {
@@ -1834,11 +1834,11 @@
       },
       "floodAreaID": "011WAFLO",
       "isTidal": false,
-      "message": "River levels are expected to remain high on the Rivers Lowther and Eamont.\nAreas most at risk include Rivers Eamont and Lowther to their confluence with the River Eden at Langwathby.\nFlooding is possible at Rivers Eamont and Lowther to their confluence with the River Eden at Langwathby from 2:00 AM on 22/01/2024.\nFurther light rainfall is forecast overnight.\nThe Rivers Lowther and Eamont remain high but are beginning to fall today (22/01/2024) and we do not expect any further flooding to properties.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 22/01/2024, or as the situation changes.",
+      "message": "River levels are remaining high on the Rivers Lowther and Eamont due to Storm Isha.\nFlooding is forecast to affect locations near the Rivers Lowther and Eamont.\nFlooding is possible at Rivers Eamont and Lowther to their confluence with the River Eden at Langwathby on 22/01/2024.\nFurther light rainfall is forecast throughout the day.\nWe will continue to monitor river levels closely.\nRiver levels are forecast to remain high.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 5:00 PM on 22/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-22T02:44:00",
-      "timeRaised": "2024-01-22T02:44:53",
+      "timeMessageChanged": "2024-01-22T08:36:00",
+      "timeRaised": "2024-01-22T08:36:55",
       "timeSeverityChanged": "2024-01-20T16:49:00"
     },
     {
@@ -1855,11 +1855,11 @@
       },
       "floodAreaID": "011WAFEI",
       "isTidal": false,
-      "message": "River levels are expected to remain high on the Rivers Esk and Irthing.\nAreas most at risk include Rivers Esk and Irthing and other watercourses, including low lying areas around Longtown and Brampton.\nFlooding is possible at Rivers Esk and Irthing and other watercourses, including low lying areas around Longtown and Brampton from 1:30 AM on 22/01/2024.\nFurther light rainfall is forecast overnight.\nRiver levels are rising steadily, but the risk of flooding to low-lying land remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 10:00 AM on 22/01/2024, or as the situation changes.",
+      "message": "River levels are high on the Rivers Esk and Irthing due to Storm Isha.\nFlooding is possible at the Rivers Esk and Irthing and other watercourses, including low lying areas around Longtown and Brampton on 22/01/2024.\nFurther light rainfall is forecast throughout the day.\nRiver levels are expected to remain high.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 5:00 PM on 22/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-22T02:03:00",
-      "timeRaised": "2024-01-22T02:03:10",
+      "timeMessageChanged": "2024-01-22T08:43:00",
+      "timeRaised": "2024-01-22T08:44:06",
       "timeSeverityChanged": "2024-01-21T17:21:00"
     },
     {
@@ -1939,11 +1939,11 @@
       },
       "floodAreaID": "011FWFNC3A",
       "isTidal": false,
-      "message": "River levels are peaking on the River Eden at Linstock river gauge.  Further showers are expected throughout today with another band of rain during Tuesday. This means levels will remain higher than normal and will rise again on Tuesday afternoon. \n\nWe are continuing to monitor rainfall and river levels and are checking rivers for blockages in the area.\n\nFlooding is forecast to affect locations near the River Eden, with low lying land expected to be most affected, particularly around low lying roads, car parks, public spaces and recreational facilities at Rickerby Park, Swifts and Stoneyholme Golf Courses.\n\nThis message will be updated by 10AM on 23/01/2024, or as the situation changes. ",
+      "message": "River levels are high on the River Eden due to Storm Isha.\nFlooding is forecast to affect locations near the River Eden, with low lying land expected to be most affected, particularly around low lying roads, car parks, public spaces and recreational facilities at Rickerby Park, Swifts and Stoneyholme Golf Courses.\nFurther light rainfall is forecast this morning.\nRiver levels are forecast to begin falling, but the risk of flooding remains.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 5:00 PM on 22/01/2024, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-22T07:31:00",
-      "timeRaised": "2024-01-22T07:31:23",
+      "timeMessageChanged": "2024-01-22T09:01:00",
+      "timeRaised": "2024-01-22T09:01:38",
       "timeSeverityChanged": "2024-01-21T19:19:00"
     },
     {
@@ -2254,11 +2254,11 @@
       },
       "floodAreaID": "065WAF101",
       "isTidal": false,
-      "message": "Water levels in the Bourne Rivulet at St Mary Bourne are high. Due to high groundwater levels throughout the Bourne Valley, the river level is currently stable and just beginning to slowly fall. Small amounts of rain (up to 2mm) are forecast today (20/01/2024). Further rainfall is forecast for tomorrow (21/01/2024) with totals of up to 20mm possible. The unsettled weather will continue into next week, with a further 10mm of rainfall forecast Monday (22/01/2024). The river will remain elevated and sensitive to any further rainfall over the next few weeks. Flood barriers are now deployed to help to reduce the risk of flooding in St Mary Bourne. Avoid walking or driving through flood water. We will continue to monitor the river and weather forecast information. This Flood Alert will be updated by 12:00 on 22/01/2024.",
+      "message": "The water level in the Bourne Rivulet at St Mary Bourne is high and rising steadily. In the last 24 hours 17mm of rainfall has been recorded at Andover. This follows months of prolonged and wet weather. The river is currently bankfull. River levels will be impeded by bridges upstream of St Mary Bourne and rainfall events will cause surface water flooding in Upton. Extensive field and road flooding through the Bourne Valley is expected. Over the next 5 days, the weather remains unsettled, with further rain forecast (up to 12mm) on Tuesday (23/01/2024). The river may rise and fall throughout this time, and generally, levels will remain much higher than normal. The river will remain elevated and sensitive to any further rainfall over the next few weeks. Flood barriers are now deployed to help to reduce the risk of flooding in St Mary Bourne. Avoid walking or driving through flood water. We will continue to monitor the river and weather forecast information. This Flood Alert will be updated by 12:00 on 24/01/2024.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-20T11:07:00",
-      "timeRaised": "2024-01-20T11:08:07",
+      "timeMessageChanged": "2024-01-22T09:01:00",
+      "timeRaised": "2024-01-22T09:02:02",
       "timeSeverityChanged": "2024-01-04T21:36:00"
     },
     {
@@ -2820,12 +2820,12 @@
       },
       "floodAreaID": "011FWFNC10B",
       "isTidal": false,
-      "message": "River levels are forecast to rise on the River Eden due to heavy rainfall, peaking at 5:00 AM on Monday 22/12024.\nFlooding is forecast to affect locations near the River Eden, with low lying land expected to be most affected, particularly around Warwick Park, Holme Eden Gardens, the A69 and Down A Gate Community Centre areas.\nNo further rainfall is forecast tonight.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area.\nResidents are strongly urged to take action now. Remain safe and be aware of your surroundings.\nThis message will be updated by 10:00 AM on 22/01/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-01-22T03:35:00",
-      "timeRaised": "2024-01-22T03:36:18",
-      "timeSeverityChanged": "2024-01-22T03:35:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-22T08:53:00",
+      "timeRaised": "2024-01-22T08:53:49",
+      "timeSeverityChanged": "2024-01-22T08:53:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011FWFNC11A",
