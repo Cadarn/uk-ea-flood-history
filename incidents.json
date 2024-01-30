@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
+      "description": "Upper River Aire catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
+        "county": "Bradford, North Yorkshire",
+        "notation": "123WAF960",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
+        "riverOrSea": "River Aire, Eller Beck"
+      },
+      "floodAreaID": "123WAF960",
+      "isTidal": false,
+      "message": "River levels remain high on the River Aire following heavy rainfall yesterday, 29/01/2024. Cononley washlands continue to fill. Areas most at risk include low lying land and roads near to the River Aire in the Kildwick area.\nToday is forecast to be dry and river levels are expected to gradually fall throughout the day. We are not expecting to issue any flood warnings at this time, but will continue to monitor the situation.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 21:00  on 30/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-30T09:52:00",
+      "timeRaised": "2024-01-30T09:52:58",
+      "timeSeverityChanged": "2024-01-29T16:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -99,25 +120,46 @@
       "timeSeverityChanged": "2024-01-29T19:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF712",
+      "description": "River Ouse at York - St George's Field and Queen's Staith",
       "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712",
+        "county": "York",
+        "notation": "122FWF712",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712/polygon",
+        "riverOrSea": "River Ouse"
       },
-      "floodAreaID": "122WAF980",
+      "floodAreaID": "122FWF712",
       "isTidal": false,
-      "message": "This alert has been removed due to improving conditions. We continue to monitor the forecast and will reissue this alert if necessary. ",
+      "message": "River levels are rising on the River Ouse due to heavy rainfall on Monday 29/01/2024. The peak level is expected late in the evening of Tuesday 30/01/2024, and will be lower than the levels seen last Thursday (25/01/2024).  Flooding is expected at properties along Queen's Staith, on South Esplanade, Friars Terrace and Tower Place, St. George's Field carpark and Rowntree Park. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk, cycle or drive through flood water. This message will be updated by 9:00pm on Tuesday 30/01/2024, or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-01-30T12:52:00",
+      "timeRaised": "2024-01-30T12:52:57",
+      "timeSeverityChanged": "2024-01-29T20:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
+      "description": "Groundwater flooding in the Cranborne Chase area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
+        "county": "Dorset Council, Hampshire, Wiltshire",
+        "notation": "111FAGCCGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGCCGW",
+      "isTidal": false,
+      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2024-01-30T13:03:00",
-      "timeRaised": "2024-01-30T13:03:57",
-      "timeSeverityChanged": "2024-01-30T13:03:00"
+      "timeMessageChanged": "2024-01-30T12:06:00",
+      "timeRaised": "2024-01-30T12:06:58",
+      "timeSeverityChanged": "2024-01-30T12:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -139,6 +181,27 @@
       "timeMessageChanged": "2024-01-30T09:28:00",
       "timeRaised": "2024-01-30T09:28:19",
       "timeSeverityChanged": "2024-01-30T09:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
+      "description": "River Foulness and Market Weighton catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAF974",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
+        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
+      },
+      "floodAreaID": "122WAF974",
+      "isTidal": false,
+      "message": "This alert remains in place as river levels remain high on the River Foulness and Market Weighton Catchment. Flooding is expected to affect locations near Mill Beck in Market Weighton, on Market Weighton Canal, Ings Beck in North Newbald, North Cave Beck in North Cave and the River Foulness near Welham Bridge, with low-lying land expected to be most affected. We continue to monitor river levels closely. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Wednesday 31/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-30T17:25:00",
+      "timeRaised": "2024-01-30T17:26:04",
+      "timeSeverityChanged": "2023-12-31T16:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
@@ -175,11 +238,11 @@
       },
       "floodAreaID": "122WAF972",
       "isTidal": false,
-      "message": "This alert remains in place as levels remain high on Beverley and Barmston Drain, Frodingham Beck and the River Hull due to recent prolonged rainfall and elevated groundwater levels. Levels on Roam Drain have stopped rising but remain very high. Areas most at risk are around the rivers and drains between Frodingham Bridge and the Wilfholme area, including low-lying land around Hempholme. Our pumping stations are operating to reduce levels, however water levels will remain high for several days. We are closely monitoring the situation. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "message": "This alert remains in place as levels remain high on Beverley and Barmston Drain, Frodingham Beck and the River Hull due to recent prolonged rainfall and elevated groundwater levels. Levels on Roam Drain have stopped rising but remain very high. Areas most at risk are around the rivers and drains between Frodingham Bridge and the Wilfholme area, including low-lying land around Hempholme. Our pumping stations are operating to reduce levels, however water levels will remain high. We are closely monitoring the situation. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Wednesday 31/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-29T17:21:00",
-      "timeRaised": "2024-01-29T17:22:02",
+      "timeMessageChanged": "2024-01-30T17:25:00",
+      "timeRaised": "2024-01-30T17:25:55",
       "timeSeverityChanged": "2023-12-04T19:24:00"
     },
     {
@@ -267,6 +330,27 @@
       "timeSeverityChanged": "2023-10-25T09:57:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
+      "description": "Groundwater flooding in the West of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
+        "county": "Dorset Council",
+        "notation": "111FAGWDGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGWDGW",
+      "isTidal": false,
+      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-30T12:06:00",
+      "timeRaised": "2024-01-30T12:07:04",
+      "timeSeverityChanged": "2024-01-30T12:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF710",
       "description": "River Ouse at York - riverside properties",
       "eaAreaName": "Yorkshire",
@@ -309,6 +393,27 @@
       "timeSeverityChanged": "2024-01-02T08:26:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
+      "description": "Lower River Nidd catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
+        "county": "Leeds, North Yorkshire",
+        "notation": "122WAF933",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
+        "riverOrSea": "River Nidd"
+      },
+      "floodAreaID": "122WAF933",
+      "isTidal": false,
+      "message": "River levels have risen on the River Nidd at Skip Bridge and Hunsingore due to recent heavy rainfall. Areas most at risk include low-lying land around the Lower River Nidd from Hunsingore down to Skip Bridge and its tributaries, including Sand Beck, Sike Beck, Pool Beck and Great Gutter. No further significant rainfall is expected today, 30/01/24. We are closely monitoring the situation. Avoid using low-lying footpaths and bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 7:30pm on Tuesday 30/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-30T07:26:00",
+      "timeRaised": "2024-01-30T07:26:38",
+      "timeSeverityChanged": "2024-01-29T19:30:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
       "description": "River Yeo and River Parrett Moors around Muchelney and Thorney",
       "eaAreaName": "Wessex",
@@ -349,6 +454,27 @@
       "timeMessageChanged": "2024-01-30T15:19:00",
       "timeRaised": "2024-01-30T15:19:09",
       "timeSeverityChanged": "2024-01-30T15:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "This alert has been removed due to improving conditions. We continue to monitor the forecast and will reissue this alert if necessary. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-30T13:03:00",
+      "timeRaised": "2024-01-30T13:03:57",
+      "timeSeverityChanged": "2024-01-30T13:03:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -469,11 +595,11 @@
       },
       "floodAreaID": "122WAF973",
       "isTidal": false,
-      "message": "This alert remains in place as levels remain high on Beverley and Barmston Drain and the River Hull. Areas most at risk include the River Hull area around Arram, Tickton, Beverley and Dunswell. Our pumping stations are operating to reduce levels, however water levels will remain high for several days. We are closely monitoring the situation. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "message": "This alert remains in place as levels remain high on Beverley and Barmston Drain and the River Hull. Areas most at risk include the River Hull area around Arram, Tickton, Beverley and Dunswell. Our pumping stations are operating to reduce levels, however water levels will remain high. We are closely monitoring the situation. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Wednesday 31/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-29T17:21:00",
-      "timeRaised": "2024-01-29T17:21:28",
+      "timeMessageChanged": "2024-01-30T17:25:00",
+      "timeRaised": "2024-01-30T17:25:39",
       "timeSeverityChanged": "2023-12-29T21:37:00"
     },
     {
@@ -511,12 +637,12 @@
       },
       "floodAreaID": "121WAF925",
       "isTidal": false,
-      "message": "River levels are high on the Lower River Tees and estuarine tributaries due to heavy rainfall. Levels have peaked but remain high and are expected to remain high until later this evening.\n\nFlooding is forecast to affect locations around Yarm, however we are not expecting to need to close Yarm flood gates as a result. We will continue to monitor levels closely.\n\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated by 18:00 on 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T10:22:00",
-      "timeRaised": "2024-01-30T10:22:40",
-      "timeSeverityChanged": "2024-01-29T15:18:00"
+      "message": "River levels are falling this evening. As a result, there is no longer a risk of flooding in the area.\n \nNo further rainfall is forecast overnight.\n \nWe will continue to monitor levels closely.\n \nThere may still be some areas where flood water is present until it can naturally drain away.\n \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-30T17:58:00",
+      "timeRaised": "2024-01-30T17:58:24",
+      "timeSeverityChanged": "2024-01-30T17:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Windrush",
@@ -538,27 +664,6 @@
       "timeMessageChanged": "2024-01-30T09:04:00",
       "timeRaised": "2024-01-30T09:04:41",
       "timeSeverityChanged": "2023-12-04T17:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
-      "description": "River Foulness and Market Weighton catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAF974",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
-        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
-      },
-      "floodAreaID": "122WAF974",
-      "isTidal": false,
-      "message": "This alert remains in place as river levels remain high on the River Fooney and Market Weighton Catchment. Flooding is expected to affect locations near Mill Beck in Market Weighton, on Market Weighton Canal, Ings Beck in North Newbald, North Cave Beck in North Cave and the River Fooney near Welham Bridge, with low-lying land expected to be most affected. We continue to monitor river levels closely. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-29T17:21:00",
-      "timeRaised": "2024-01-29T17:21:58",
-      "timeSeverityChanged": "2023-12-31T16:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF907",
@@ -595,11 +700,11 @@
       },
       "floodAreaID": "122FWF104",
       "isTidal": false,
-      "message": "This warning remains in place as river levels in the upper River Hull catchment remain high following recent rainfall and high groundwater levels. Areas most at risk include the River Hull and its tributaries at Frodingham, Hempholme, Wilfholme and Burshill, including Roam Drain. We are operating pumps in the area and continue to monitor the situation. Put your flood plan into action and avoid using low-lying footpaths and any bridges near local watercourses. Do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "message": "This warning remains in place as river levels in the upper River Hull catchment remain high following recent rainfall and high groundwater levels. Areas most at risk include the River Hull and its tributaries at Frodingham, Hempholme, Wilfholme and Burshill, including Roam Drain. We are operating pumps in the area and continue to monitor the situation. Put your flood plan into action and avoid using low-lying footpaths and any bridges near local watercourses. Do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Wednesday 31/01/2024, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-30T05:41:00",
-      "timeRaised": "2024-01-30T05:41:28",
+      "timeMessageChanged": "2024-01-30T17:24:00",
+      "timeRaised": "2024-01-30T17:25:06",
       "timeSeverityChanged": "2023-12-05T07:50:00"
     },
     {
@@ -622,27 +727,6 @@
       "timeMessageChanged": "2024-01-29T08:31:00",
       "timeRaised": "2024-01-29T08:31:20",
       "timeSeverityChanged": "2023-12-07T12:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
-      "description": "Upper River Aire catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
-        "county": "Bradford, North Yorkshire",
-        "notation": "123WAF960",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
-        "riverOrSea": "River Aire, Eller Beck"
-      },
-      "floodAreaID": "123WAF960",
-      "isTidal": false,
-      "message": "River levels remain high on the River Aire following heavy rainfall yesterday, 29/01/2024. Cononley washlands continue to fill. Areas most at risk include low lying land and roads near to the River Aire in the Kildwick area.\nToday is forecast to be dry and river levels are expected to gradually fall throughout the day. We are not expecting to issue any flood warnings at this time, but will continue to monitor the situation.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 21:00  on 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T09:52:00",
-      "timeRaised": "2024-01-30T09:52:58",
-      "timeSeverityChanged": "2024-01-29T16:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF936",
@@ -792,27 +876,6 @@
       "timeSeverityChanged": "2024-01-30T14:39:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
-      "description": "Lower River Nidd catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
-        "county": "Leeds, North Yorkshire",
-        "notation": "122WAF933",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
-        "riverOrSea": "River Nidd"
-      },
-      "floodAreaID": "122WAF933",
-      "isTidal": false,
-      "message": "River levels have risen on the River Nidd at Skip Bridge and Hunsingore due to recent heavy rainfall. Areas most at risk include low-lying land around the Lower River Nidd from Hunsingore down to Skip Bridge and its tributaries, including Sand Beck, Sike Beck, Pool Beck and Great Gutter. No further significant rainfall is expected today, 30/01/24. We are closely monitoring the situation. Avoid using low-lying footpaths and bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 7:30pm on Tuesday 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T07:26:00",
-      "timeRaised": "2024-01-30T07:26:38",
-      "timeSeverityChanged": "2024-01-29T19:30:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF242",
       "description": "Confluence of Sun Beck and Turker Beck at Northallerton",
       "eaAreaName": "Yorkshire",
@@ -874,48 +937,6 @@
       "timeMessageChanged": "2024-01-30T08:59:00",
       "timeRaised": "2024-01-30T08:59:14",
       "timeSeverityChanged": "2024-01-30T08:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
-      "description": "Groundwater flooding in the West of Dorset",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
-        "county": "Dorset Council",
-        "notation": "111FAGWDGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGWDGW",
-      "isTidal": false,
-      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-30T12:06:00",
-      "timeRaised": "2024-01-30T12:07:04",
-      "timeSeverityChanged": "2024-01-30T12:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF712",
-      "description": "River Ouse at York - St George's Field and Queen's Staith",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712",
-        "county": "York",
-        "notation": "122FWF712",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712/polygon",
-        "riverOrSea": "River Ouse"
-      },
-      "floodAreaID": "122FWF712",
-      "isTidal": false,
-      "message": "River levels are rising on the River Ouse due to heavy rainfall on Monday 29/01/2024. The peak level is expected late in the evening of Tuesday 30/01/2024, and will be lower than the levels seen last Thursday (25/01/2024).  Flooding is expected at properties along Queen's Staith, on South Esplanade, Friars Terrace and Tower Place, St. George's Field carpark and Rowntree Park. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk, cycle or drive through flood water. This message will be updated by 9:00pm on Tuesday 30/01/2024, or as the situation changes. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-01-30T12:52:00",
-      "timeRaised": "2024-01-30T12:52:57",
-      "timeSeverityChanged": "2024-01-29T20:54:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF723",
@@ -1107,27 +1128,6 @@
       "timeSeverityChanged": "2024-01-30T08:36:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
-      "description": "Groundwater flooding in the Cranborne Chase area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
-        "county": "Dorset Council, Hampshire, Wiltshire",
-        "notation": "111FAGCCGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGCCGW",
-      "isTidal": false,
-      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-30T12:06:00",
-      "timeRaised": "2024-01-30T12:06:58",
-      "timeSeverityChanged": "2024-01-30T12:06:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF945",
       "description": "River Foss",
       "eaAreaName": "Yorkshire",
@@ -1210,27 +1210,6 @@
       "timeMessageChanged": "2024-01-30T14:42:00",
       "timeRaised": "2024-01-30T14:42:52",
       "timeSeverityChanged": "2023-12-12T11:27:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23Trowlock",
-      "description": "River Thames at Trowlock Island",
-      "eaAreaName": "Thames",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock",
-        "county": "Greater London, Richmond upon Thames",
-        "notation": "061WAB23Trowlock",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAB23Trowlock/polygon",
-        "riverOrSea": "River Thames"
-      },
-      "floodAreaID": "061WAB23Trowlock",
-      "isTidal": false,
-      "message": " This Flood Alert has been removed. River levels have fallen and there is no longer a threat of flooding. The forecast for tomorrow 30/01/24 is for a dry day. We will continue to monitor the tidal forecast and re-issue this alert if necessary. Please refer to the 'River and Sea levels in England' webpage for current river levels. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-29T17:57:00",
-      "timeRaised": "2024-01-29T17:57:48",
-      "timeSeverityChanged": "2024-01-29T17:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG012",
@@ -1393,11 +1372,11 @@
       },
       "floodAreaID": "122WAF970",
       "isTidal": false,
-      "message": "This alert remains in place as river levels remain high on the Gypsey Race due to recent rainfall and high groundwater levels. Flooding is forecast to affect locations near the Gypsey Race, with low-lying land expected to be most affected, particularly around the Gypsey Race from Wold Newton to Bridlington. Groundwater will remain high for some time. We are closely monitoring the situation. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "message": "This alert remains in place as river levels remain high on the Gypsey Race due to recent rainfall and high groundwater levels. Flooding is forecast to affect locations near the Gypsey Race, with low-lying land expected to be most affected, particularly around the Gypsey Race from Wold Newton to Bridlington. Groundwater will remain high for some time. We are closely monitoring the situation. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Wednesday 31/01/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-29T17:21:00",
-      "timeRaised": "2024-01-29T17:21:11",
+      "timeMessageChanged": "2024-01-30T17:24:00",
+      "timeRaised": "2024-01-30T17:25:08",
       "timeSeverityChanged": "2024-01-02T19:44:00"
     },
     {
@@ -1414,11 +1393,11 @@
       },
       "floodAreaID": "122WAF934",
       "isTidal": false,
-      "message": "River levels are rising steadily on the River Ure near Lower Dunsforth due to persistent and heavy rainfall on Monday, 29/01/2024. Flooding is possible on low-lying land and local roads around Lower Dunsforth, including Ings Road, Mary Lane and the Ings. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. We are closely monitoring the situation. This message will be updated by 6:00pm on Tuesday 30/01/2024, or as the situation changes. ",
+      "message": "River levels are declining, but remain high, on the River Ure near Lower Dunsforth due to persistent and heavy rainfall on Monday 29/01/2024. Flooding is possible on low-lying land and local roads around Lower Dunsforth, including Ings Road, Mary Lane and the Ings. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. We are closely monitoring the situation. This message will be updated by 6:00am on Wednesday 31/01/2024, or as the situation changes. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T05:41:00",
-      "timeRaised": "2024-01-30T05:41:34",
+      "timeMessageChanged": "2024-01-30T17:57:00",
+      "timeRaised": "2024-01-30T17:58:00",
       "timeSeverityChanged": "2024-01-29T18:00:00"
     },
     {
@@ -1477,11 +1456,11 @@
       },
       "floodAreaID": "122FWF135",
       "isTidal": false,
-      "message": "This warning remains in place as levels remain very high on Roam Drain following recent rainfall and high groundwater levels. Areas most at risk include properties in Hempholme and around Hunt Hill Farm. River levels are steady but are expected to remain high and flooding of properties will continue for several days. We are operating pumps in the area and continue to closely monitor the situation. Put your flood plan into action and avoid walking, cycling or driving through flood water. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "message": "This warning remains in place as levels remain very high on Roam Drain following recent rainfall and high groundwater levels. Areas most at risk include properties in Hempholme and around Hunt Hill Farm. River levels are steady but are expected to remain high and flooding of properties will continue. We are operating pumps in the area and continue to closely monitor the situation. Put your flood plan into action and avoid walking, cycling or driving through flood water. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 5:00pm on Wednesday 31/01/2024, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-29T17:20:00",
-      "timeRaised": "2024-01-29T17:21:02",
+      "timeMessageChanged": "2024-01-30T17:24:00",
+      "timeRaised": "2024-01-30T17:24:56",
       "timeSeverityChanged": "2023-12-31T16:08:00"
     },
     {
