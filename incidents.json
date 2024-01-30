@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
+      "description": "Upper River Aire catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
+        "county": "Bradford, North Yorkshire",
+        "notation": "123WAF960",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
+        "riverOrSea": "River Aire, Eller Beck"
+      },
+      "floodAreaID": "123WAF960",
+      "isTidal": false,
+      "message": "River levels remain high on the River Aire following heavy rainfall yesterday, 29/01/2024. Cononley washlands continue to fill. Areas most at risk include low lying land and roads near to the River Aire in the Kildwick area.\nToday is forecast to be dry and river levels are expected to gradually fall throughout the day. We are not expecting to issue any flood warnings at this time, but will continue to monitor the situation.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 21:00  on 30/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-30T09:52:00",
+      "timeRaised": "2024-01-30T09:52:58",
+      "timeSeverityChanged": "2024-01-29T16:44:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
       "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
       "eaAreaName": "Cumbria and Lancashire",
@@ -99,25 +120,46 @@
       "timeSeverityChanged": "2024-01-29T19:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
-      "description": "River Seven catchment",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF712",
+      "description": "River Ouse at York - St George's Field and Queen's Staith",
       "eaAreaName": "Yorkshire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
-        "county": "North Yorkshire",
-        "notation": "122WAF980",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
-        "riverOrSea": "River Seven"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712",
+        "county": "York",
+        "notation": "122FWF712",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712/polygon",
+        "riverOrSea": "River Ouse"
       },
-      "floodAreaID": "122WAF980",
+      "floodAreaID": "122FWF712",
       "isTidal": false,
-      "message": "River levels have peaked but are still high on the River Seven due to recent rainfall. Areas most at risk include land around the River Seven and its tributaries including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, including properties in Sinnington and to the East of Normanby. Further rainfall is forecast this morning, Tuesday 30/01/2024. We are closely monitoring the situation. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 4:00pm on Tuesday 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T03:50:00",
-      "timeRaised": "2024-01-30T03:50:37",
-      "timeSeverityChanged": "2024-01-29T16:09:00"
+      "message": "River levels are rising on the River Ouse due to heavy rainfall on Monday 29/01/2024. The peak level is expected late in the evening of Tuesday 30/01/2024, and will be lower than the levels seen last Thursday (25/01/2024).  Flooding is expected at properties along Queen's Staith, on South Esplanade, Friars Terrace and Tower Place, St. George's Field carpark and Rowntree Park. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk, cycle or drive through flood water. This message will be updated by 9:00pm on Tuesday 30/01/2024, or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-01-30T12:52:00",
+      "timeRaised": "2024-01-30T12:52:57",
+      "timeSeverityChanged": "2024-01-29T20:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
+      "description": "Groundwater flooding in the Cranborne Chase area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
+        "county": "Dorset Council, Hampshire, Wiltshire",
+        "notation": "111FAGCCGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGCCGW",
+      "isTidal": false,
+      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-30T12:06:00",
+      "timeRaised": "2024-01-30T12:06:58",
+      "timeSeverityChanged": "2024-01-30T12:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF116",
@@ -139,6 +181,27 @@
       "timeMessageChanged": "2024-01-30T09:28:00",
       "timeRaised": "2024-01-30T09:28:19",
       "timeSeverityChanged": "2024-01-30T09:28:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
+      "description": "River Foulness and Market Weighton catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAF974",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
+        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
+      },
+      "floodAreaID": "122WAF974",
+      "isTidal": false,
+      "message": "This alert remains in place as river levels remain high on the River Fooney and Market Weighton Catchment. Flooding is expected to affect locations near Mill Beck in Market Weighton, on Market Weighton Canal, Ings Beck in North Newbald, North Cave Beck in North Cave and the River Fooney near Welham Bridge, with low-lying land expected to be most affected. We continue to monitor river levels closely. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-29T17:21:00",
+      "timeRaised": "2024-01-29T17:21:58",
+      "timeSeverityChanged": "2023-12-31T16:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF947",
@@ -267,6 +330,27 @@
       "timeSeverityChanged": "2023-10-25T09:57:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
+      "description": "Groundwater flooding in the West of Dorset",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
+        "county": "Dorset Council",
+        "notation": "111FAGWDGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FAGWDGW",
+      "isTidal": false,
+      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-01-30T12:06:00",
+      "timeRaised": "2024-01-30T12:07:04",
+      "timeSeverityChanged": "2024-01-30T12:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF710",
       "description": "River Ouse at York - riverside properties",
       "eaAreaName": "Yorkshire",
@@ -280,11 +364,11 @@
       },
       "floodAreaID": "122FWF710",
       "isTidal": false,
-      "message": "River levels are rising on the River Ouse due to heavy rainfall. Flooding is forecast to affect locations near the River Ouse, with low-lying land expected to be most affected, particularly around properties on King's Staith in York and riverside areas through York, from Lendal Bridge to Millennium Bridge. Further rainfall is forecast today. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 1:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "message": "River levels are rising on the River Ouse due to heavy rainfall on Monday 29/01/2024. The peak level is expected late in the evening of Tuesday 30/01/2024, and will be lower than the levels seen last Thursday (25/01/2024). Flooding is forecast to affect locations near the River Ouse, with low-lying land expected to be most affected, particularly around properties on King's Staith in York and riverside areas through York, from Lendal Bridge to Millennium Bridge.  We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk, cycle or drive through flood water. This message will be updated by 9:00pm on Tuesday 30/01/2024, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-30T04:50:00",
-      "timeRaised": "2024-01-30T04:50:09",
+      "timeMessageChanged": "2024-01-30T12:49:00",
+      "timeRaised": "2024-01-30T12:49:33",
       "timeSeverityChanged": "2024-01-29T20:54:00"
     },
     {
@@ -307,6 +391,27 @@
       "timeMessageChanged": "2024-01-26T09:50:00",
       "timeRaised": "2024-01-26T09:51:01",
       "timeSeverityChanged": "2024-01-02T08:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
+      "description": "Lower River Nidd catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
+        "county": "Leeds, North Yorkshire",
+        "notation": "122WAF933",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
+        "riverOrSea": "River Nidd"
+      },
+      "floodAreaID": "122WAF933",
+      "isTidal": false,
+      "message": "River levels have risen on the River Nidd at Skip Bridge and Hunsingore due to recent heavy rainfall. Areas most at risk include low-lying land around the Lower River Nidd from Hunsingore down to Skip Bridge and its tributaries, including Sand Beck, Sike Beck, Pool Beck and Great Gutter. No further significant rainfall is expected today, 30/01/24. We are closely monitoring the situation. Avoid using low-lying footpaths and bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 7:30pm on Tuesday 30/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-30T07:26:00",
+      "timeRaised": "2024-01-30T07:26:38",
+      "timeSeverityChanged": "2024-01-29T19:30:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFYPM",
@@ -349,6 +454,27 @@
       "timeMessageChanged": "2024-01-30T05:41:00",
       "timeRaised": "2024-01-30T05:41:42",
       "timeSeverityChanged": "2024-01-29T17:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
+      "description": "River Seven catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980",
+        "county": "North Yorkshire",
+        "notation": "122WAF980",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF980/polygon",
+        "riverOrSea": "River Seven"
+      },
+      "floodAreaID": "122WAF980",
+      "isTidal": false,
+      "message": "River levels have peaked but are still high on the River Seven due to recent rainfall. Areas most at risk include land around the River Seven and its tributaries including Northdale Beck, Hartoft Beck, Ings Beck, Lastingham Beck, Sutherland Beck, Cropton Beck, Catter Beck, including properties in Sinnington and to the East of Normanby. Further rainfall is forecast this morning, Tuesday 30/01/2024. We are closely monitoring the situation. Plan driving routes to avoid low-lying roads near rivers, which may be flooded. This message will be updated by 4:00pm on Tuesday 30/01/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-01-30T03:50:00",
+      "timeRaised": "2024-01-30T03:50:37",
+      "timeSeverityChanged": "2024-01-29T16:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -561,27 +687,6 @@
       "timeSeverityChanged": "2023-12-04T17:05:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
-      "description": "River Foulness and Market Weighton catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAF974",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF974/polygon",
-        "riverOrSea": "River Foulness, Market Weighton Canal, North Cave Beck, Ellerker Beck, Mill Beck"
-      },
-      "floodAreaID": "122WAF974",
-      "isTidal": false,
-      "message": "This alert remains in place as river levels remain high on the River Fooney and Market Weighton Catchment. Flooding is expected to affect locations near Mill Beck in Market Weighton, on Market Weighton Canal, Ings Beck in North Newbald, North Cave Beck in North Cave and the River Fooney near Welham Bridge, with low-lying land expected to be most affected. We continue to monitor river levels closely. Avoid using low-lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 5:00pm on Tuesday 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-29T17:21:00",
-      "timeRaised": "2024-01-29T17:21:58",
-      "timeSeverityChanged": "2023-12-31T16:22:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF907",
       "description": "River Rede",
       "eaAreaName": "North East",
@@ -643,27 +748,6 @@
       "timeMessageChanged": "2024-01-29T08:31:00",
       "timeRaised": "2024-01-29T08:31:20",
       "timeSeverityChanged": "2023-12-07T12:22:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
-      "description": "Upper River Aire catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
-        "county": "Bradford, North Yorkshire",
-        "notation": "123WAF960",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
-        "riverOrSea": "River Aire, Eller Beck"
-      },
-      "floodAreaID": "123WAF960",
-      "isTidal": false,
-      "message": "River levels remain high on the River Aire following heavy rainfall yesterday, 29/01/2024. Cononley washlands continue to fill. Areas most at risk include low lying land and roads near to the River Aire in the Kildwick area.\nToday is forecast to be dry and river levels are expected to gradually fall throughout the day. We are not expecting to issue any flood warnings at this time, but will continue to monitor the situation.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 21:00  on 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T09:52:00",
-      "timeRaised": "2024-01-30T09:52:58",
-      "timeSeverityChanged": "2024-01-29T16:44:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF936",
@@ -813,27 +897,6 @@
       "timeSeverityChanged": "2024-01-29T19:31:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF933",
-      "description": "Lower River Nidd catchment",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933",
-        "county": "Leeds, North Yorkshire",
-        "notation": "122WAF933",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF933/polygon",
-        "riverOrSea": "River Nidd"
-      },
-      "floodAreaID": "122WAF933",
-      "isTidal": false,
-      "message": "River levels have risen on the River Nidd at Skip Bridge and Hunsingore due to recent heavy rainfall. Areas most at risk include low-lying land around the Lower River Nidd from Hunsingore down to Skip Bridge and its tributaries, including Sand Beck, Sike Beck, Pool Beck and Great Gutter. No further significant rainfall is expected today, 30/01/24. We are closely monitoring the situation. Avoid using low-lying footpaths and bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 7:30pm on Tuesday 30/01/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-01-30T07:26:00",
-      "timeRaised": "2024-01-30T07:26:38",
-      "timeSeverityChanged": "2024-01-29T19:30:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF242",
       "description": "Confluence of Sun Beck and Turker Beck at Northallerton",
       "eaAreaName": "Yorkshire",
@@ -897,48 +960,6 @@
       "timeSeverityChanged": "2024-01-30T08:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGWDGW",
-      "description": "Groundwater flooding in the West of Dorset",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW",
-        "county": "Dorset Council",
-        "notation": "111FAGWDGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGWDGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGWDGW",
-      "isTidal": false,
-      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-30T12:06:00",
-      "timeRaised": "2024-01-30T12:07:04",
-      "timeSeverityChanged": "2024-01-30T12:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF712",
-      "description": "River Ouse at York - St George's Field and Queen's Staith",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712",
-        "county": "York",
-        "notation": "122FWF712",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWF712/polygon",
-        "riverOrSea": "River Ouse"
-      },
-      "floodAreaID": "122FWF712",
-      "isTidal": false,
-      "message": "River levels are rising on the River Ouse due to recent heavy rainfall. Flooding is expected at properties along Queen's Staith, on South Esplanade, Friars Terrace and Tower Place, St. George's Field carpark and Rowntree Park. Flooding is expected in these riverside areas from 7:30am, Tuesday 30/01/2024. Further rainfall is forecast today. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 1:00pm on Tuesday 30/01/2024, or as the situation changes. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-01-30T04:49:00",
-      "timeRaised": "2024-01-30T04:50:01",
-      "timeSeverityChanged": "2024-01-29T20:54:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWF723",
       "description": "River Ouse at Naburn Lock",
       "eaAreaName": "Yorkshire",
@@ -952,11 +973,11 @@
       },
       "floodAreaID": "122FWF723",
       "isTidal": false,
-      "message": "River levels are rising on the River Ouse due to recent heavy rainfall. Flooding is forecast to affect locations near the River Ouse, with low-lying land expected to be most affected, particularly around Naburn Lock Buildings and Lock Cottages. Flooding is expected in these riverside areas from 8:00am, Tuesday 30/01/2024. Further rainfall is forecast today. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk or drive through flood water. This message will be updated by 1:00pm on Tuesday 30/01/2024, or as the situation changes. ",
+      "message": "River levels are rising on the River Ouse due to heavy rainfall on Monday 29/01/2024. The peak level is expected late in the evening of Tuesday 30/01/2024, and will be lower than the levels seen last Thursday (25/01/2024).  Flooding is forecast to affect locations near the River Ouse, with low-lying land expected to be most affected, particularly around Naburn Lock Buildings and Lock Cottages. Further rainfall is forecast today. We are closing flood gates through the city and the Foss barrier is in operation. Act on your flood plan if you have one. Avoid using low-lying footpaths and any bridges near local watercourses, and do not attempt to walk, cycle or drive through flood water. This message will be updated by 9:00pm on Tuesday 30/01/2024, or as the situation changes. ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-01-30T04:49:00",
-      "timeRaised": "2024-01-30T04:49:53",
+      "timeMessageChanged": "2024-01-30T12:56:00",
+      "timeRaised": "2024-01-30T12:56:40",
       "timeSeverityChanged": "2024-01-29T20:54:00"
     },
     {
@@ -1126,27 +1147,6 @@
       "timeMessageChanged": "2024-01-30T08:36:00",
       "timeRaised": "2024-01-30T08:36:43",
       "timeSeverityChanged": "2024-01-30T08:36:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
-      "description": "Groundwater flooding in the Cranborne Chase area",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW",
-        "county": "Dorset Council, Hampshire, Wiltshire",
-        "notation": "111FAGCCGW",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FAGCCGW/polygon",
-        "riverOrSea": "Groundwater"
-      },
-      "floodAreaID": "111FAGCCGW",
-      "isTidal": false,
-      "message": "  Groundwater levels have now fallen back and with little rainfall in the forecast, there is now no risk of further flooding.\nWe will continue to monitor groundwater levels in the area.  ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-01-30T12:06:00",
-      "timeRaised": "2024-01-30T12:06:58",
-      "timeSeverityChanged": "2024-01-30T12:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF945",
