@@ -532,12 +532,12 @@
       },
       "floodAreaID": "031WAF112",
       "isTidal": false,
-      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  \nWe will continue to monitor the forecast and re-issue this alert if necessary.  \nFurther rainfall is forecast over the next 48 hours.  \nPlease avoid contact with flood water.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-02-07T12:22:00",
-      "timeRaised": "2024-02-07T12:23:08",
-      "timeSeverityChanged": "2024-02-07T12:22:00"
+      "message": " River levels are rising at the Onibury river gauge as a result of heavy rainfall and snow melt. Consequently, flooding of roads and farmland is expected from midday today, 09/02/24.  We expect flooding to affect low lying land and roads adjacent the River Teme, River Onny and River Corve and their tributaries. Locations that may be affected include Bishops Castle, Church Stretton, Knighton and Ludlow.\nFurther rainfall is forecast over the next 24 hours.  We expect river levels to rise as a result.\nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated by 6.00pm on 08/02/24, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-08T12:09:00",
+      "timeRaised": "2024-02-08T12:09:45",
+      "timeSeverityChanged": "2024-02-08T12:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG22OgVal",
@@ -574,11 +574,11 @@
       },
       "floodAreaID": "114WAFT1W10A00",
       "isTidal": false,
-      "message": "Flooding is possible tonight, Wednesday 7th February and into tomorrow morning. River levels remain high following heavy rainfall last night. Patchy rain is forecast over the daytime on Wednesday, with a weather front bringing more widespread and heavy rainfall overnight and into Thursday morning. River levels are expected to peak by 2pm tomorrow afternoon. Flooding to low-lying land and roads close to the river is possible. The main areas of concern are Tamarstone and Crowford Bridge. No flooding to properties is currently forecast.   \n\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Thursday morning or earlier if the situation changes. ",
+      "message": "Flooding is possible tonight, Thursday 8th February and into Friday morning. Over the last 24 hours we have seen 20mm of rainfall, which has caused river levels to rise. Frontal rain, bringing further heavy showers is forecast this afternoon and into Thursday evening. Totals of up to 30mm are possible. Rivers are expected to respond to this rainfall. \nFlooding to low-lying land and roads close to the river is possible. The main areas of concern are Tamarstone and Crowford Bridge. No flooding to properties is currently forecast.\nTake care near the areas of concern and monitor your local weather conditions. We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Friday morning or earlier if the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-02-07T10:59:00",
-      "timeRaised": "2024-02-07T10:59:13",
+      "timeMessageChanged": "2024-02-08T12:07:00",
+      "timeRaised": "2024-02-08T12:08:05",
       "timeSeverityChanged": "2024-02-06T15:28:00"
     },
     {
@@ -1861,6 +1861,48 @@
       "timeMessageChanged": "2024-02-08T11:29:00",
       "timeRaised": "2024-02-08T11:29:25",
       "timeSeverityChanged": "2024-02-08T11:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
+      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
+        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
+        "notation": "033WAF330",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
+        "riverOrSea": "River Stour, Smestow Brook"
+      },
+      "floodAreaID": "033WAF330",
+      "isTidal": false,
+      "message": "River levels have risen at the Halesowen Manor Way river gauge as a result of heavy rainfall this morning. Consequently, flooding of roads and farmland is possible today Thursday 08/02/2024. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by tomorrow morning Friday 09/02/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-08T11:34:00",
+      "timeRaised": "2024-02-08T11:34:56",
+      "timeSeverityChanged": "2024-02-08T11:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF213",
+      "description": "River Leadon catchment",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213",
+        "county": "Gloucestershire, Herefordshire, Worcestershire",
+        "notation": "031WAF213",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF213/polygon",
+        "riverOrSea": "Leadon, Glynch"
+      },
+      "floodAreaID": "031WAF213",
+      "isTidal": false,
+      "message": "River levels are rising at the Bosbury, Bromsberrow and Wedderburn Bridge river gauges as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible.  We expect flooding to affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton and Tibberton. Water may also come out of bank at Upleadon Court.\n\nWe expect river levels to remain high over the next few days. Additional rainfall is forecast over the next 48 hours which is expected to keep levels elevated.\n\nWe are closely monitoring the situation. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded\n\nThis message will be updated by 5:00pm today, 08/02/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-08T11:46:00",
+      "timeRaised": "2024-02-08T11:46:55",
+      "timeSeverityChanged": "2024-02-08T11:46:00"
     }
   ]
 }
