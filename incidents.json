@@ -196,11 +196,11 @@
       },
       "floodAreaID": "112WAFTNSA",
       "isTidal": false,
-      "message": "River levels have risen on the Congresbury Yeo due to heavy overnight rainfall. Flooding is forecast to affect locations near the Congresbury Yeo this morning, with low lying land expected to be most affected, particularly around roads at Wrington and Iwood. \n\nFurther rainfall is forecast this morning and we expect river levels to remain high during Sunday. Sunday afternoon is expected to be predominantly dry, once the rain front moves out of the area. We continue to monitor rainfall and river levels closely.\n\nPlease avoid using low lying footpaths near local watercourses, and remain aware of water levels and weather conditions. You should avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 2:00 PM on 18/02/2024, or as the situation changes.",
+      "message": "The river level on the Congresbury Yeo peaked around 10 AM on Sunday but it remains high following the heavy rainfall on Saturday night. Flooding remains possible for locations near the Congresbury Yeo today, Sunday 18/02/2024, with low lying land expected to be most affected, particularly around roads at Wrington and Iwood. No property flooding is expected.\n\nSunday afternoon is forecast to be predominantly dry, and we expect river levels to continue falling during this period. We continue to monitor the situation closely.\n\nPlease avoid using low lying footpaths near local watercourses, and remain aware of water levels and weather conditions. You should avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 2 PM on Monday 19/02/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-02-18T06:06:00",
-      "timeRaised": "2024-02-18T06:07:10",
+      "timeMessageChanged": "2024-02-18T13:05:00",
+      "timeRaised": "2024-02-18T13:05:32",
       "timeSeverityChanged": "2024-02-18T06:06:00"
     },
     {
@@ -1141,12 +1141,12 @@
       },
       "floodAreaID": "112FWFWIN10A",
       "isTidal": false,
-      "message": "River levels are rising on the Winford Brook due to rainfall.  Flooding is forecast to affect locations near the Winford Brook, with low lying land expected to be most affected, particularly around the road at The Batch and Streamleaze..  Flooding is affecting the road at The Batch and Streamleaze. from 5:00 AM on 18/02/2024.\n\nFurther rainfall is forecast overnight.  River levels are rising.  We are monitoring rainfall and river levels and are checking rivers for blockages in the area.  Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.  Start acting on your flood plan if you have one.\n\nThis message will be updated by 1:00 PM on 18/02/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-02-18T05:15:00",
-      "timeRaised": "2024-02-18T05:15:28",
-      "timeSeverityChanged": "2024-02-18T05:15:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo property flooding is expected.\nNo further rainfall is forecast.\nRiver levels are now falling steadily.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.\nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-02-18T13:20:00",
+      "timeRaised": "2024-02-18T13:21:12",
+      "timeSeverityChanged": "2024-02-18T13:20:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF208",
@@ -4087,6 +4087,27 @@
       "timeSeverityChanged": "2024-02-18T12:46:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3EARLSWOOD",
+      "description": "River Blythe at Earlswood",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3EARLSWOOD",
+        "county": "Solihull, Warwickshire",
+        "notation": "033FWF3EARLSWOOD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3EARLSWOOD/polygon",
+        "riverOrSea": "River Blythe"
+      },
+      "floodAreaID": "033FWF3EARLSWOOD",
+      "isTidal": false,
+      "message": " River levels have continued to rise at the Cheswick Green river gauge as a result of heavy rainfall.  \nConsequently, flooding of property is possible today Sunday 18/02/2024.\nWe expect flooding to affect properties and roads in the area from Valley Road to the Industrial Estate.   \nThere is no significant rainfall expected for the rest of today. River levels are anticipated to continue rising until this evening, Sunday 18/02/2024\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast. \n \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and call 999 if in immediate danger.  \n\nThis message will be updated tomorrow morning, Monday 19/02/2024, or as the situation changes. \n\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-02-18T13:31:00",
+      "timeRaised": "2024-02-18T13:31:26",
+      "timeSeverityChanged": "2024-02-18T13:31:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWFEF5C",
       "description": "The River Brain through Braintree, to and including Witham",
       "eaAreaName": "East Anglia",
@@ -4106,6 +4127,27 @@
       "timeMessageChanged": "2024-02-18T11:57:00",
       "timeRaised": "2024-02-18T11:58:23",
       "timeSeverityChanged": "2024-02-18T11:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3LEAM003",
+      "description": "River Leam at Eathorpe, Huningham and Offchurch",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3LEAM003",
+        "county": "Warwickshire",
+        "notation": "033FWF3LEAM003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3LEAM003/polygon",
+        "riverOrSea": "River Leam"
+      },
+      "floodAreaID": "033FWF3LEAM003",
+      "isTidal": false,
+      "message": "River levels have risen at the Eathorpe gauge as a result of heavy rainfall.  Consequently, flooding of property is possible today Sunday 18/02/2024.\nWe expect flooding to affect properties and roads in the Eathorpe village, Main Street in Huningham, Welsh Road in Offchurch and Offchurch Bury Park area \nThere is no significant rainfall expected for the rest of today. River levels are anticipated to continue rising until this evening, Sunday 18/02/2024\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast. \n \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and call 999 if in immediate danger.  \n\nThis message will be updated tomorrow morning, Monday 19/02/2024, or as the situation changes. \n\n ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-02-18T13:21:00",
+      "timeRaised": "2024-02-18T13:21:25",
+      "timeSeverityChanged": "2024-02-18T13:21:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051FWFEF1B",
@@ -4190,6 +4232,27 @@
       "timeMessageChanged": "2024-02-18T08:01:00",
       "timeRaised": "2024-02-18T08:02:07",
       "timeSeverityChanged": "2024-02-18T08:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3AVON001",
+      "description": "River Avon at Stanford on Avon",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3AVON001",
+        "county": "West Northamptonshire",
+        "notation": "033FWF3AVON001",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3AVON001/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "033FWF3AVON001",
+      "isTidal": false,
+      "message": "River levels have risen at the Lilbourne gauge as a result of heavy rainfall.  Consequently, flooding of property is possible today Sunday 18/02/2024.\nWe expect flooding to affect properties and roads in the Stanford on Avon village area.  \nThere is no significant rainfall expected for the rest of today. River levels are anticipated to continue rising until this evening, Sunday 18/02/2024\n\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast. \n \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and call 999 if in immediate danger.  \n\nThis message will be updated tomorrow morning, Monday 19/02/2024, or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-02-18T13:06:00",
+      "timeRaised": "2024-02-18T13:06:48",
+      "timeSeverityChanged": "2024-02-18T13:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWFNF1D",
@@ -4759,6 +4822,27 @@
       "timeSeverityChanged": "2024-02-18T11:30:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAF120SLE",
+      "description": "Tributaries of the lower River Witham from Blankney to Sleaford",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAF120SLE",
+        "county": "Lincolnshire",
+        "notation": "053WAF120SLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAF120SLE/polygon",
+        "riverOrSea": "Kyme Eau, River Slea, Billinghay Skirth, Ruskington Beck, Old River Slea and Leasingham Beck"
+      },
+      "floodAreaID": "053WAF120SLE",
+      "isTidal": false,
+      "message": " Overnight and into this morning, Sunday 18th February, we have seen heavy rainfall in the Blankney to Sleaford area. This means river levels are now rising, which will lead to flooding of low-lying land and roads close to rivers from this morning, Sunday 18th February onwards. Forecasts indicate further unsettled weather and rainfall is possible from Wednesday 21st February onwards, and we expect rivers to remain high throughout the next few days and flooding to gardens, driveways or outhouses is possible close to rivers.  Our forecasts indicate that flooding inside properties isn't likely and therefore flood warnings are not expected to be issued. We are constantly monitoring river levels and have staff in the field checking for blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated online and on FloodLine by 17:00 on 19/02/24, or before if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T13:25:00",
+      "timeRaised": "2024-02-18T13:25:25",
+      "timeSeverityChanged": "2024-02-18T13:25:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF1",
       "description": "The River Waveney from Diss and the River Dove to Ellingham, including Bungay",
       "eaAreaName": "East Anglia",
@@ -4793,11 +4877,11 @@
       },
       "floodAreaID": "112WAFYPM",
       "isTidal": false,
-      "message": "The River Yeo level at Huish Episcopi pumping station is currently 8.11m and falling slowly. The drain level at Huish Episcopi pumping station is 6.94m and rising slowly. Flooding will affect the road from Langport to Muchelney if this level exceeds 7.30 m, the road from Muchelney to Long load above 7.86 m, and the road from Muchelney to Thorney above 7.93 m. Property flooding is possible if this level exceeds 8.35 m. \n\nA band of potentially heavy and persistent rain will arrive on Saturday afternoon and continue into early Sunday morning. The River Yeo at Muchelney is expected to remain high as a result, with further rise in the Huish Episcopi drain level. \n\nWe are continually monitoring river levels and the weather forecast, and staff are checking the condition of flood banks, spillways and weed screens. Please avoid using low lying footpaths near local watercourses and do not walk, cycle or drive through flood water. This message will be updated by 2pm on Sunday 18/02/2024, or as the situation changes.",
+      "message": "The River Yeo level at Huish Episcopi pumping station is currently 8.91m having risen due to Saturday night’s rain. The drain level at Huish Episcopi pumping station is 7.08m and rising steadily. Flooding will affect the road from Langport to Muchelney if this level exceeds 7.30 m, the road from Muchelney to Long load above 7.86 m, and the road from Muchelney to Thorney above 7.93 m. Property flooding is possible if this level exceeds 8.35 m.\n\nSunday afternoon is forecast to be predominantly dry, however the River Yeo is expected to remain high as water makes its way down through the system. Pumping activities and use of the Sowy Relief Channel will take place as river levels allow.\n\nWe are continually monitoring river levels and the weather forecast, and staff are checking the condition of flood banks, spillways and weed screens. \n\nPlease avoid using low lying footpaths near local watercourses and do not walk, cycle or drive through flood water. This message will be updated by 2 PM on Monday 19/02/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-02-17T12:33:00",
-      "timeRaised": "2024-02-17T12:34:01",
+      "timeMessageChanged": "2024-02-18T13:27:00",
+      "timeRaised": "2024-02-18T13:27:43",
       "timeSeverityChanged": "2024-02-16T19:03:00"
     },
     {
@@ -4969,6 +5053,27 @@
       "timeSeverityChanged": "2024-02-17T14:57:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF26Cut",
+      "description": "Cut",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF26Cut",
+        "county": "Bracknell Forest, Windsor and Maidenhead",
+        "notation": "061WAF26Cut",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF26Cut/polygon",
+        "riverOrSea": "The Cut"
+      },
+      "floodAreaID": "061WAF26Cut",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising on the River Cut following a period of recent heavy rainfall. Therefore flooding of low lying land and roads is expected today 18/02/24, especially in the Binghams area. \n\nHeavier rainfall is forecast today (18/02/24), with the lighter showers forecast tomorrow (19/02/24). We expect river levels to continue to rise. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels.\n\nThis message will be updated tomorrow, 19/02/24, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T13:30:00",
+      "timeRaised": "2024-02-18T13:30:20",
+      "timeSeverityChanged": "2024-02-18T13:30:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF313",
       "description": "River Blithe and River Swarbourn",
       "eaAreaName": "West Midlands",
@@ -4988,6 +5093,69 @@
       "timeMessageChanged": "2024-02-18T10:30:00",
       "timeRaised": "2024-02-18T10:31:08",
       "timeSeverityChanged": "2024-02-18T10:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24LLoddon",
+      "description": "Lower River Loddon",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24LLoddon",
+        "county": "Windsor and Maidenhead, Wokingham",
+        "notation": "061WAF24LLoddon",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24LLoddon/polygon",
+        "riverOrSea": "River Loddon"
+      },
+      "floodAreaID": "061WAF24LLoddon",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising on the River Loddon following a period of recent heavy rainfall. Therefore flooding of low lying land and roads is expected today 18/02/24, especially in the Sindlesham area. \n\nHeavier rainfall is forecast today (18/02/24), with the lighter showers forecast tomorrow (19/02/24). We expect river levels to continue to rise. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels.\n\nThis message will be updated tomorrow, 19/02/24, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T13:30:00",
+      "timeRaised": "2024-02-18T13:30:28",
+      "timeSeverityChanged": "2024-02-18T13:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24Twyford",
+      "description": "Lower River Loddon at the River Thames confluence at Twyford",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24Twyford",
+        "county": "Oxfordshire, Wokingham",
+        "notation": "061WAF24Twyford",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF24Twyford/polygon",
+        "riverOrSea": "River Loddon, River Thames"
+      },
+      "floodAreaID": "061WAF24Twyford",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising on the River Loddon following a period of recent heavy rainfall. Therefore flooding of low lying land and roads is expected today 18/02/24, especially in the Twyford area. \n\nHeavier rainfall is forecast today (18/02/24), with the lighter showers forecast tomorrow (19/02/24). We expect river levels to continue to rise. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels.\n\nThis message will be updated tomorrow, 19/02/24, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T13:30:00",
+      "timeRaised": "2024-02-18T13:30:41",
+      "timeSeverityChanged": "2024-02-18T13:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF30UpperWey",
+      "description": "Upper River Wey",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey",
+        "county": "Hampshire, Surrey, West Sussex",
+        "notation": "061WAF30UpperWey",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF30UpperWey/polygon",
+        "riverOrSea": "River Wey"
+      },
+      "floodAreaID": "061WAF30UpperWey",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising on the River Wey following a period of recent heavy rainfall. Therefore flooding of low lying land and roads is expected today 18/02/24, especially in the Tilford area. \n\nHeavier rainfall is forecast today (18/02/24), with the lighter showers forecast tomorrow (19/02/24). We expect river levels to continue to rise. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels.\n\nThis message will be updated tomorrow, 19/02/24, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T13:30:00",
+      "timeRaised": "2024-02-18T13:31:09",
+      "timeSeverityChanged": "2024-02-18T13:30:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Abingdon",
@@ -5758,12 +5926,12 @@
       },
       "floodAreaID": "034WAF408",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Ashford river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is expected to continue. Areas most at risk are low-lying agricultural land and roads including the Ashford and Bakewell areas.\n\nFurther rainfall is forecast over the next 6 hours. We expect river levels to remain high until tomorrow, 19/02/24.\n\nWe are closely monitoring the situation. Our incident response staff are patrolling watercourses in the area.\n\nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.\n\nThis message will be updated by 19:00 this evening, 18/02/24, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-02-18T08:46:00",
-      "timeRaised": "2024-02-18T08:47:04",
-      "timeSeverityChanged": "2024-02-17T18:00:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  We will continue to monitor the forecast and re-issue this alert if necessary.  No further rainfall is forecast until later in the week.  \nWe continue to monitor the situation.  Our incident response staff are -.  \nPlease see the GOV.UK website for a 5 day flood forecast.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-02-18T13:24:00",
+      "timeRaised": "2024-02-18T13:24:37",
+      "timeSeverityChanged": "2024-02-18T13:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFNADD",
@@ -5863,12 +6031,12 @@
       },
       "floodAreaID": "111FWFCHA110",
       "isTidal": false,
-      "message": "River levels are forecast to rise on the River Char due to heavy rainfall.\nFlooding is forecast to affect locations near the River Char, with low lying land expected to be most affected, particularly around Dolphins River Park.\nFlooding is affecting Dolphins River Park from 8:00 PM on 17/02/2024.\nWe will continue to monitor levels closely.\nStart acting on your flood plan if you have one\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 1:00 PM on 18/02/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-02-17T14:56:00",
-      "timeRaised": "2024-02-17T14:57:11",
-      "timeSeverityChanged": "2024-02-17T14:56:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo further rainfall is forecast.\nRiver levels are now falling steadily at the Charmouth gauge.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nThere may still be some areas where flood water is present until it can naturally drain away.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-02-18T13:30:00",
+      "timeRaised": "2024-02-18T13:31:13",
+      "timeSeverityChanged": "2024-02-18T13:30:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
@@ -6030,12 +6198,12 @@
       },
       "floodAreaID": "013WAFMM",
       "isTidal": false,
-      "message": "River levels are rising at the Brinksway river gauge as a result of heavy rainfall. We believe there is a possibility of flooding for low lying land and roads around Micker, Cringle, Sinderland and Poynton Brooks and their tributaries.\n\nWe expect river levels to reach the flood alert threshold between midnight and 1AM on 18/02/24. We expect the river level to peak at 6AM and begin to fall from mid afternoon.\n\nOur incident response staff are closely monitoring weather forecasts and river levels. Please be aware of your surroundings and keep up to date with the current situation.\n\nThis message will be updated by 2PM on 18/02/24, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-02-17T17:00:00",
-      "timeRaised": "2024-02-17T17:01:01",
-      "timeSeverityChanged": "2024-02-17T17:00:00"
+      "message": "This Flood Alert has been removed.\n\nRiver levels have now fallen below the flood risk threshold.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-02-18T13:31:00",
+      "timeRaised": "2024-02-18T13:32:03",
+      "timeSeverityChanged": "2024-02-18T13:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFSHE10A",
@@ -6051,12 +6219,12 @@
       },
       "floodAreaID": "112FWFSHE10A",
       "isTidal": false,
-      "message": "River levels have risen on the River Sheppey due to heavy rainfall this evening. This Flood Warning has been issued because flooding is expected tonight, potentially commencing at approximately 2 AM. Areas most at risk include the area around Charlton Viaduct, the Cider Factory and Draycott Road in Shepton Mallet, and the area around Jack’s Bridge in Croscombe.\n\nResidents are strongly urged to take action now. Start acting on your flood plan if you have one, and consider activating any property flood protection products you may have.\n\nWe are continually monitoring rainfall and river levels, and staff have been out checking rivers and weed screens in the area for blockages. Further rainfall is forecast tonight and on Sunday morning, before the front clears the area leaving a predominantly dry Sunday afternoon. \n\nThis message will be updated by 2:00 PM on Sunday 18/02/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-02-17T23:50:00",
-      "timeRaised": "2024-02-17T23:50:14",
-      "timeSeverityChanged": "2024-02-17T23:21:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low-lying land is still possible.\n\nWe are aware of properties being affected by flooding in Croscombe as a result of Saturday night’s rain. No further property flooding is expected at this time.\n\nThe forecast is predominantly dry for the remainder of Sunday, and river levels are now returning to normal.\n\nWe will continue to work with emergency services and local authorities and we are closely monitoring the situation. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-02-18T13:15:00",
+      "timeRaised": "2024-02-18T13:16:44",
+      "timeSeverityChanged": "2024-02-18T13:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFNUN10A",
@@ -6093,12 +6261,12 @@
       },
       "floodAreaID": "111FWFWEY510",
       "isTidal": false,
-      "message": "River levels are forecast to rise on the River Wey due to heavy rainfall.\nFlooding is forecast to affect locations near the River Wey, with low lying land expected to be most affected, particularly around River Wey from Upwey to Weymouth including Church Street, Little Mead, Nottington Lane, Nottington Farm and Almas Palace.\nFlooding is affecting River Wey from Upwey to Weymouth including Church Street, Little Mead, Nottington Lane, Nottington Farm and Almas Palace from 00:00 AM on 18/02/2024.\nWe will continue to monitor levels closely.\nStart acting on your flood plan if you have one\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 1:00 PM on 18/02/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-02-18T00:47:00",
-      "timeRaised": "2024-02-18T00:47:42",
-      "timeSeverityChanged": "2024-02-18T00:47:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo further rainfall is forecast.\nNo further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-02-18T13:30:00",
+      "timeRaised": "2024-02-18T13:31:10",
+      "timeSeverityChanged": "2024-02-18T13:30:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFBRD160",
@@ -7022,6 +7190,27 @@
       "timeMessageChanged": "2024-02-18T12:08:00",
       "timeRaised": "2024-02-18T12:09:08",
       "timeSeverityChanged": "2024-02-18T12:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF308",
+      "description": "River Mease",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308",
+        "county": "Derbyshire, Leicestershire, Staffordshire",
+        "notation": "033WAF308",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308/polygon",
+        "riverOrSea": "Gilwiskaw Brook, River Mease"
+      },
+      "floodAreaID": "033WAF308",
+      "isTidal": false,
+      "message": "River levels have risen at the Clifton Hall river gauge as a result of heavy rainfall overnight.  Consequently, flooding of roads and farmland is possible today, Sunday 18/02/2024.  We expect flooding to affect the Harlaston to Edingale Road and low-lying land and roads adjacent to the River Mease and Gilwiskaw Brook between Ashby and Croxall.   \nNo further rainfall is forecast today.  We expect river levels to remain high until this evening, Sunday 18/02/2024.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow afternoon, Monday 19/02/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T13:24:00",
+      "timeRaised": "2024-02-18T13:24:29",
+      "timeSeverityChanged": "2024-02-18T13:24:00"
     }
   ]
 }
