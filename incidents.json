@@ -1149,6 +1149,27 @@
       "timeSeverityChanged": "2024-02-17T16:24:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPURB",
+      "description": "Purbeck Rivers and Streams",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFPURB",
+        "county": "Dorset Council",
+        "notation": "111WAFPURB",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFPURB/polygon",
+        "riverOrSea": "Swan Brook, Corfe Stream"
+      },
+      "floodAreaID": "111WAFPURB",
+      "isTidal": false,
+      "message": "River levels have risen on the Corfe Stream, Swan Brook due to heavy rainfall.\nFlooding is forecast to affect locations near the Corfe Stream, Swan Brook, with low lying land expected to be most affected, particularly around the Corfe Castle and Swanage areas.\nFlooding is possible at the Corfe Castle and Swanage areas from 1:00 AM on 18/02/2024.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 6:00 PM on 18/02/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T00:56:00",
+      "timeRaised": "2024-02-18T00:56:32",
+      "timeSeverityChanged": "2024-02-18T00:56:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW02",
       "description": "Lower Torridge area",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -2220,6 +2241,27 @@
       "timeSeverityChanged": "2024-02-17T17:32:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOU",
+      "description": "Upper Stour and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU",
+        "county": "Dorset Council, Somerset, Wiltshire",
+        "notation": "111WAFSTOU",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFSTOU/polygon",
+        "riverOrSea": "River Stour, River Lodden, River Shreen"
+      },
+      "floodAreaID": "111WAFSTOU",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Upper Dorset Stour, Shreen Water due to heavy rainfall.\nFlooding is forecast to affect locations near the Upper Dorset Stour, Shreen Water, with low lying land expected to be most affected, particularly around tributaries between Gillingham and Sturminster Newton.\nFlooding is possible at tributaries between Gillingham and Sturminster Newton from 12:30 AM on 18/02/2024.\nWe will continue to monitor the forecast and re-issue this alert/warning if necessary.\nMonitor local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\nThis message will be updated by 6:00 PM on 18/02/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-02-18T00:47:00",
+      "timeRaised": "2024-02-18T00:47:43",
+      "timeSeverityChanged": "2024-02-18T00:47:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFFROU",
       "description": "Upper Frome and tributaries",
       "eaAreaName": "Wessex",
@@ -2638,6 +2680,26 @@
       "timeMessageChanged": "2024-02-17T13:14:00",
       "timeRaised": "2024-02-17T13:14:08",
       "timeSeverityChanged": "2024-02-15T17:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3GOG",
+      "description": "Gog Brook at Warwick",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3GOG",
+        "county": "Warwickshire",
+        "notation": "033FWF3GOG",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3GOG/polygon"
+      },
+      "floodAreaID": "033FWF3GOG",
+      "isTidal": false,
+      "message": " River levels have risen at the Warwick Old Budbrooke Road river gauge as a result of persistent heavy rainfall.  Consequently, flooding of property is possible overnight and into tomorrow morning. Flooding is affecting Properties along Lodge Crescent.   \nFurther rainfall is forecast over the next 12 hours.  \nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated later today 18/02/2024, or as the situation changes.\nFlood warning and alerts will be issued in advance based on the latest forecasts for the next 24 hours. Updates will be issued at least every twenty-four hours.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-02-18T00:08:00",
+      "timeRaised": "2024-02-18T00:09:01",
+      "timeSeverityChanged": "2024-02-18T00:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
@@ -3975,12 +4037,54 @@
       },
       "floodAreaID": "112FWFSHE10A",
       "isTidal": false,
-      "message": "River levels have risen on the River Sheppey, due to heavy rainfall this evening. This Flood Warning has been issued because flooding is expected tonight, potentially commencing at approximately 2 AM. Areas most at risk include the area around Charlton Viaduct, the Cider Factory and Draycott Road in Shepton Mallet, and the area around Jack’s Bridge in Croscombe.\n\nResidents are strongly urged to take action now. Start acting on your flood plan if you have one, and consider activating any property flood protection products you may have.\n\nWe are continually monitoring rainfall and river levels, and staff have been out checking rivers and weed screens in the area for blockages. Further rainfall is forecast tonight and on Sunday morning, before the front clears the area leaving a predominantly dry Sunday afternoon. \n\nThis message will be updated by 2:00 PM on Sunday 18/02/2024, or as the situation changes.",
+      "message": "River levels have risen on the River Sheppey due to heavy rainfall this evening. This Flood Warning has been issued because flooding is expected tonight, potentially commencing at approximately 2 AM. Areas most at risk include the area around Charlton Viaduct, the Cider Factory and Draycott Road in Shepton Mallet, and the area around Jack’s Bridge in Croscombe.\n\nResidents are strongly urged to take action now. Start acting on your flood plan if you have one, and consider activating any property flood protection products you may have.\n\nWe are continually monitoring rainfall and river levels, and staff have been out checking rivers and weed screens in the area for blockages. Further rainfall is forecast tonight and on Sunday morning, before the front clears the area leaving a predominantly dry Sunday afternoon. \n\nThis message will be updated by 2:00 PM on Sunday 18/02/2024, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-02-17T23:21:00",
-      "timeRaised": "2024-02-17T23:23:18",
+      "timeMessageChanged": "2024-02-17T23:50:00",
+      "timeRaised": "2024-02-17T23:50:14",
       "timeSeverityChanged": "2024-02-17T23:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFNUN10A",
+      "description": "Nunney Brook",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFNUN10A",
+        "county": "Somerset",
+        "notation": "112FWFNUN10A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFNUN10A/polygon",
+        "riverOrSea": "Nunney Brook, Sharpshaw Watercourse"
+      },
+      "floodAreaID": "112FWFNUN10A",
+      "isTidal": false,
+      "message": "River levels are rising on the Nunney Brook, River Mells due to rainfall.  Flooding is forecast to affect locations near the Nunney Brook, River Mells, with low lying land expected to be most affected, particularly around properties at Church Street in Nunney.  Flooding may affect properties at Church Street in Nunney from 12:15 AM on 18/02/2024.\n\nFurther rainfall is forecast overnight.  River levels are rising.  We are monitoring rainfall and river levels and are checking rivers for blockages in the area.  Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.  Start acting on your flood plan if you have one.\n\nThis message will be updated by 9:00 AM on 18/02/2024, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-02-17T23:36:00",
+      "timeRaised": "2024-02-17T23:37:33",
+      "timeSeverityChanged": "2024-02-17T23:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFWEY510",
+      "description": "River Wey from Upwey to Weymouth",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFWEY510",
+        "county": "Dorset Council",
+        "notation": "111FWFWEY510",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFWEY510/polygon",
+        "riverOrSea": "River Wey"
+      },
+      "floodAreaID": "111FWFWEY510",
+      "isTidal": false,
+      "message": "River levels are forecast to rise on the River Wey due to heavy rainfall.\nFlooding is forecast to affect locations near the River Wey, with low lying land expected to be most affected, particularly around River Wey from Upwey to Weymouth including Church Street, Little Mead, Nottington Lane, Nottington Farm and Almas Palace.\nFlooding is affecting River Wey from Upwey to Weymouth including Church Street, Little Mead, Nottington Lane, Nottington Farm and Almas Palace from 00:00 AM on 18/02/2024.\nWe will continue to monitor levels closely.\nStart acting on your flood plan if you have one\nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\nThis message will be updated by 1:00 PM on 18/02/2024, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-02-18T00:47:00",
+      "timeRaised": "2024-02-18T00:47:42",
+      "timeSeverityChanged": "2024-02-18T00:47:00"
     }
   ]
 }
