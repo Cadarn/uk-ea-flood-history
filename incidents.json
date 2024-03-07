@@ -1674,27 +1674,6 @@
       "timeSeverityChanged": "2024-02-09T16:25:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWFFROL320",
-      "description": "Lower Frome from East Stoke to Wareham",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROL320",
-        "county": "Dorset Council",
-        "notation": "111FWFFROL320",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWFFROL320/polygon",
-        "riverOrSea": "Dorset Frome"
-      },
-      "floodAreaID": "111FWFFROL320",
-      "isTidal": false,
-      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nNo property flooding is expected. No further rainfall is forecast until the weekend. No further flooding to fields and roads is expected, however there may be standing water seen for several days.\nWe will continue to monitor the forecast and re-issue this warning if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-03-06T13:50:00",
-      "timeRaised": "2024-03-06T13:51:11",
-      "timeSeverityChanged": "2024-03-06T13:50:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFNAR",
       "description": "River Nar in Norfolk",
       "eaAreaName": "East Anglia",
@@ -2806,6 +2785,27 @@
       "timeMessageChanged": "2024-03-06T17:08:00",
       "timeRaised": "2024-03-06T17:09:41",
       "timeSeverityChanged": "2024-03-06T17:08:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF101",
+      "description": "Bourne Rivulet",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF101",
+        "county": "Hampshire, Wiltshire",
+        "notation": "065WAF101",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF101/polygon",
+        "riverOrSea": "Bourne Rivulet"
+      },
+      "floodAreaID": "065WAF101",
+      "isTidal": false,
+      "message": "The water level in the Bourne Rivulet at St Marybourne is high and rising steadily. This follows months of prolonged wet weather. The river is currently bankfull. Overnight today (07/03/2024) the river will begin to flood land and gardens in St Marybourne, Stoke and Ibthorpe. During periods of further heavy rainfall, surface water could also flood parts of the B3048, as water in the road will be unable to drain to the river effectively. Properties which are located directly on the main road could be affected as a result. Today (Thursday 07/03/2024) and tomorrow (Friday 08/03/2024) no rainfall is forecast. However, 13-29mm is forecast over the weekend. The river will rise steadily throughout this time, and flood depths will increase on roads, land and gardens. Monday (11/03/2024) is forecast to be dry. We have deployed the flood barrier to help to reduce the risk of flooding in St Marybourne. We would like all residents to take action and ensure they can protect their property over the coming weeks. This Flood Alert will be updated by 15:00 on 08/03/2024.\n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-03-07T13:56:00",
+      "timeRaised": "2024-03-07T13:56:29",
+      "timeSeverityChanged": "2024-03-07T13:56:00"
     }
   ]
 }
