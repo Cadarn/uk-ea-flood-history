@@ -4732,11 +4732,11 @@
       },
       "floodAreaID": "122WAF939",
       "isTidal": false,
-      "message": "This flood alert has been issued as river levels are forecast to rise on the River Ure due to a forecast of heavy rainfall this morning, Wednesday 13/03/2024. Flooding is forecast to affect locations near the River Ure, with low lying land expected to be most affected, particularly around the River Ure and tributaries from its source downstream to Kilgram from midday today (13/03/2024) peaking this evening around 4pm. Further rainfall is expected today, Wednesday 13/03/2024 and Thursday 14/03/2024. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 9:00 PM on Wednesday 13/03/2024, or as the situation changes.",
+      "message": "This flood alert has been issued as river levels have risen and peaked on the Upper Ure due to heavy rain on Wednesday 13/03/2024. Flooding is forecast to affect locations near the River Ure, with low lying land expected to be most affected, particularly around the River Ure and tributaries from its source downstream to Kilgram from (13/03/2024). Further rainfall is expected overnight Wednesday 13/03/2024 and into Thursday 14/03/2024. River levels are slowly dropping. We will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 9:00 AM on Thursday 14/03/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-03-13T09:24:00",
-      "timeRaised": "2024-03-13T09:25:11",
+      "timeMessageChanged": "2024-03-13T20:36:00",
+      "timeRaised": "2024-03-13T20:36:14",
       "timeSeverityChanged": "2024-03-12T20:49:00"
     },
     {
@@ -4942,12 +4942,12 @@
       },
       "floodAreaID": "122FWC007",
       "isTidal": true,
-      "message": "Strong winds and high spring tides are creating high tidal levels on the Coast at Easington and Kilnesea this evening, Wednesday 13th March between 19:00 and 20:30. Our current forecasts suggest that high tidal levels could affect areas along the coast in this area,  including caravan parks at Easington and Kilnsea, and other properties on the coast. We are expecting higher than normal tides over the coming days and as a result we may issue further warnings for subsequent tides, however this is not currently expected for this area beyond tonight's tide. Consider putting your flood plan into action, and avoid exposed coastal footpaths and beaches during this time. We will update this message by 21:00 tonight, 13/03/24.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-03-13T12:32:00",
-      "timeRaised": "2024-03-13T12:33:09",
-      "timeSeverityChanged": "2024-03-13T12:32:00"
+      "message": "This warning has been removed due to improving conditions. We continue to monitor the forecast and will reissue this warning if necessary.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-03-13T20:43:00",
+      "timeRaised": "2024-03-13T20:43:59",
+      "timeSeverityChanged": "2024-03-13T20:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
@@ -5032,6 +5032,27 @@
       "timeMessageChanged": "2024-03-13T16:15:00",
       "timeRaised": "2024-03-13T16:15:30",
       "timeSeverityChanged": "2024-03-13T16:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
+      "description": "Lower River Eden",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLE",
+        "county": "Cumberland, Westmorland and Furness",
+        "notation": "011WAFLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFLE/polygon",
+        "riverOrSea": "River Eden"
+      },
+      "floodAreaID": "011WAFLE",
+      "isTidal": false,
+      "message": "River levels are rising steadily on the Lower River Eden due to recent rainfall.  Further rainfall is forecast overnight and tomorrow.\n\nAreas most at risk include River Eden and its tributaries from its confluence with the River Irthing through Crosby-on-Eden and Carlisle to the Solway Firth at Rockcliffe.\n\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated by 10:00 AM on 14/03/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-03-13T20:46:00",
+      "timeRaised": "2024-03-13T20:47:17",
+      "timeSeverityChanged": "2024-03-13T20:46:00"
     }
   ]
 }
