@@ -1309,12 +1309,12 @@
       },
       "floodAreaID": "114WAFT1W04A00",
       "isTidal": false,
-      "message": "Flooding is possible after prolonged rainfall across Cornwall on 25th March and river levels remain elevated across the area.\nFlooding  of low lying land and roads close to the river is possible. We expect rivers to remain high through Tuesday 26th March, though no flooding to properties is currently forecast.\nTake care near the areas of concern and monitor your local weather conditions.  We are monitoring river levels and have staff in the area checking for and clearing blockages. This message will be updated on Wednesday morning or earlier if the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-03-26T11:22:00",
-      "timeRaised": "2024-03-26T11:22:18",
-      "timeSeverityChanged": "2024-03-25T17:25:00"
+      "message": "The risk of flooding from the St Austell and Par Rivers has now reduced, and river levels are falling below levels of concern. Whilst no further flooding is expected, please be careful and do not walk or drive through flood water. It is hazardous.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-03-26T14:43:00",
+      "timeRaised": "2024-03-26T14:44:01",
+      "timeSeverityChanged": "2024-03-26T14:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W02A00",
@@ -1336,6 +1336,27 @@
       "timeMessageChanged": "2024-03-26T11:21:00",
       "timeRaised": "2024-03-26T11:22:17",
       "timeSeverityChanged": "2024-03-25T20:06:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG25RagHuh",
+      "description": "Groundwater flooding in the High Wycombe area",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG25RagHuh",
+        "county": "Buckinghamshire",
+        "notation": "061FAG25RagHuh",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG25RagHuh/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "061FAG25RagHuh",
+      "isTidal": false,
+      "message": " Groundwater levels are currently rising at our Piddington Ray Farm borehole near the High Wycombe area as a result of recent rainfall. Groundwater levels are above normal for this time of year and have now reached a level where communities may be affected by groundwater flooding. We expect levels to rise over the next few weeks and be responsive to further sustained rainfall. Low-lying land, gardens, roads, and cellars may therefore be at risk of flooding. Due to the nature of groundwater flooding, this situation could continue for several weeks or longer. We are continuing to monitor groundwater levels and will update this message by 29/03/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-03-26T14:44:00",
+      "timeRaised": "2024-03-26T14:44:28",
+      "timeSeverityChanged": "2024-03-26T14:44:00"
     }
   ]
 }
