@@ -1519,11 +1519,11 @@
       },
       "floodAreaID": "063WAT23West",
       "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.74 mAOD at 14:45 on 07/04/24 and 4.64 mAOD at 02:30 on 08/04/24.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is high for this time of year at 210 cubic metres per second and is falling. We anticipate the flows to remain high for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 10:00 on 08/04/24, or as the situation changes.",
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe Thames Barrier will be operating for the next high tide at Richmond at 15:15 on Monday 8th April 2024\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is high for this time of year at 205 cubic metres per second and is falling slowly. We anticipate the flows to remain high for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 19:00 on Monday 8th April 2024, or as the situation changes, as subsequent tides over the next couple of days may be higher.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-04-07T08:30:00",
-      "timeRaised": "2024-04-07T08:31:16",
+      "timeMessageChanged": "2024-04-08T07:23:00",
+      "timeRaised": "2024-04-08T07:24:07",
       "timeSeverityChanged": "2024-04-06T08:20:00"
     },
     {
@@ -2241,6 +2241,27 @@
       "timeSeverityChanged": "2024-04-07T14:32:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23East",
+      "description": "Tidal Thames riverside from Dartford Creek and The Mardyke to the Thames Barrier",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East",
+        "county": "Barking and Dagenham, Bexley, Greater London, Greenwich, Havering, Kent, Newham, Thurrock",
+        "notation": "063WAT23East",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23East/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23East",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides and a closure of the Thames Barrier.\n\nWater will be maintained within the downstream network of flood defences, which include river walls, embankments and flood gates, however flooding of low lying footpaths and open spaces is possible for 1-2 hours around high tide.\n\nThe forecast high tide at the Thames Barrier is at 14:00 on Monday 8th April 2024.\n\nWe are closely monitoring the situation. Our incident response staff are out on the ground ensuring all flood gates are closed.\n\nMembers of the public are advised to avoid floodwater and also to keep abreast of updates to the forecast as further Thames Barrier closures are possible.\n\nThis message will be updated by 19:00 on Monday 8th April 2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-04-08T07:18:00",
+      "timeRaised": "2024-04-08T07:18:52",
+      "timeSeverityChanged": "2024-04-08T07:18:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
       "description": "North Sea coast at Withernsea, Easington and Kilnsea",
       "eaAreaName": "Yorkshire",
@@ -2953,6 +2974,27 @@
       "timeMessageChanged": "2024-04-08T07:10:00",
       "timeRaised": "2024-04-08T07:10:41",
       "timeSeverityChanged": "2024-04-08T07:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 11:30 and 13:30 today Monday 8th April.  The flood gates at Felixstowe seafront will be closed.  The waterfront at Pin Mill, and The Strand at Wherstead under the Orwell Bridge may be flooded.  Water may be on the quay at Mistley.  The detailed forecast for those that use it is for a peak level at Harwich of 2.88 mAODN at 12:30 today, Monday 8th April, which is 0.73m above tide tables, wind Force 4, in a south easterly direction (mAODN is height above average sea level, for more info refer to local tide tables).  The tide tonight, at half past midnight, Tuesday 9th April is also currently forecast to be a Flood Alert, we will send a new message before that tide. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger.  We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 15:00 today, Monday 8th April.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-04-08T07:22:00",
+      "timeRaised": "2024-04-08T07:23:18",
+      "timeSeverityChanged": "2024-04-08T07:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN2",
