@@ -2325,27 +2325,6 @@
       "timeSeverityChanged": "2024-04-11T08:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFPNBR01",
-      "description": "North Bank Road alongside the River Nene, east of Peterborough and west of Dog-in-a-Doublet Sluice",
-      "eaAreaName": "Lincolnshire and Northamptonshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01",
-        "county": "Cambridgeshire, Peterborough",
-        "notation": "055FWFPNBR01",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055FWFPNBR01/polygon",
-        "riverOrSea": "River Nene"
-      },
-      "floodAreaID": "055FWFPNBR01",
-      "isTidal": false,
-      "message": "The River Nene has being falling steadily today Wednesday 10th April. North Bank Road will be reopened once the Highways Authority have been able to inspect the road surface and carry out any necessary works to ensure the road is passable. There may be standing water in low lying areas and fields for several days.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-04-10T14:38:00",
-      "timeRaised": "2024-04-10T14:38:55",
-      "timeSeverityChanged": "2024-04-10T14:38:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
       "description": "Tern and Perry catchments",
       "eaAreaName": "West Midlands",
@@ -2512,6 +2491,27 @@
       "timeMessageChanged": "2024-04-10T16:57:00",
       "timeRaised": "2024-04-10T16:57:19",
       "timeSeverityChanged": "2024-04-07T13:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
+      "description": "The north Norfolk coast from Old Hunstanton, to and including Cley",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A",
+        "county": "Norfolk",
+        "notation": "054WACDV2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2A",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 8:00pm and 10:00pm on Thursday 11th April. We expect to see water on roads and paths to beaches and on the quays in Brancaster, Burnham Overy, Holkham, Wells and Blakeney. The detailed forecast for those that use it is for a peak level at Wells of 3.71 mAODN at 9:00pm, on Thursday 11th April, which is 0.47m above tide tables, wind Force 4, South Westerely (mAODN is height above average sea level, for more info refer to local tide tables). No further high tides are expected over the coming days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Friday 12th April, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-04-11T14:58:00",
+      "timeRaised": "2024-04-11T14:59:18",
+      "timeSeverityChanged": "2024-04-11T14:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC303",
@@ -3493,11 +3493,11 @@
       },
       "floodAreaID": "054WATBT1",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely overnight tonight, Wednesday 10th April and for the next few days. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 4pm tomorrow, Thursday 11th April, or as the situation changes.",
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely overnight tonight, Thursday 11th April and for the next few days. This is due to a natural tide locking effect. High tidal water moving up the rivers from Great Yarmouth, is currently restricting the normal drainage out to sea at low tide, of the Broads river system. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 4pm tomorrow, Friday 12th April, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-04-10T16:47:00",
-      "timeRaised": "2024-04-10T16:48:07",
+      "timeMessageChanged": "2024-04-11T14:48:00",
+      "timeRaised": "2024-04-11T14:48:30",
       "timeSeverityChanged": "2024-04-08T11:33:00"
     },
     {
@@ -3583,27 +3583,6 @@
       "timeMessageChanged": "2024-04-11T09:09:00",
       "timeRaised": "2024-04-11T09:10:06",
       "timeSeverityChanged": "2024-04-04T17:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF925",
-      "description": "Lower River Tees and estuarine tributaries",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF925",
-        "county": "County Durham, Darlington, Hartlepool, Middlesbrough, North Yorkshire, Stockton-on-Tees",
-        "notation": "121WAF925",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF925/polygon",
-        "riverOrSea": "River Tees"
-      },
-      "floodAreaID": "121WAF925",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may remain.\nThere is some further rainfall forecast over the next few days, therefore we may issue further alerts.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\nFlood gates in Yarm are being partially reopened. Full access to car parks is expected by 14:30. However, pedestrian flood gates that limit access to the riverside via private gardens will remain closed until the river level reduces to a safe level.  \nWe will continue to monitor levels closely.\nThis message will be updated by 7:00 PM on 10/04/2024, or as the situation changes.\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-04-10T15:02:00",
-      "timeRaised": "2024-04-10T15:02:11",
-      "timeSeverityChanged": "2024-04-10T15:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGCCWH1",
