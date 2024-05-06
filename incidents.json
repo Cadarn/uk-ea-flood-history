@@ -574,11 +574,11 @@
       },
       "floodAreaID": "063WAT23West",
       "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 14:15 on Monday 6th May 2024.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is high for this time of year at 120 cubic metres per second and is steady. We anticipate the flows to remain high for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 19:00 this evening, Monday 6th May 2024, or as the situation changes.",
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe next high tide at Richmond at 02:00 on Tuesday 7th May 2024, may result in brief low-level flooding of riverside roads and open spaces.\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is high for this time of year at 115 cubic metres per second and is falling, but is expected to rise tonight in response to today's rainfall. We anticipate the flows to remain high for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 10:00 on Tuesday 7th May 2024, or as the situation changes, as subsequent tides over the next couple of days may be higher.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-05-06T07:58:00",
-      "timeRaised": "2024-05-06T07:58:27",
+      "timeMessageChanged": "2024-05-06T18:16:00",
+      "timeRaised": "2024-05-06T18:16:59",
       "timeSeverityChanged": "2024-05-06T07:58:00"
     },
     {
@@ -1002,6 +1002,27 @@
       "timeSeverityChanged": "2024-03-26T14:44:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF984",
+      "description": "River Spen and Batley Beck catchments",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984",
+        "county": "Bradford, Kirklees, Leeds",
+        "notation": "123WAF984",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984/polygon",
+        "riverOrSea": "Batley Beck, Chickenley Beck, Lands Beck, River Spen, Blacup Beck"
+      },
+      "floodAreaID": "123WAF984",
+      "isTidal": false,
+      "message": "River levels are rising rapidly on the Batley Beck, Chickenley Beck, Lands Beck, River Spen, Blacup Beck due to heavy rainfall from thunderstorms throughout the afternoon. Flooding is possible and areas most at risk are the River Spen, Blacup Beck, Lands Beck and Canker Dyke in Cleckheaton and Liversedge, Batley Beck from Birstall to Dewsbury, and Chickenley Beck, from 18:00 on 06/05/2024.\nFurther heavy showers and thunderstorms are forecast this evening, but should ease through the night.\n\nWe will continue to monitor the forecast and issue any warnings if necessary. You should avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.\n\nThis message will be updated by 22:00 on 06/05/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-05-06T18:06:00",
+      "timeRaised": "2024-05-06T18:07:14",
+      "timeSeverityChanged": "2024-05-06T18:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF423",
       "description": "River Erewash Tributaries in Derbyshire and Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -1189,6 +1210,27 @@
       "timeMessageChanged": "2024-05-06T17:05:00",
       "timeRaised": "2024-05-06T17:06:11",
       "timeSeverityChanged": "2024-05-06T17:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF038",
+      "description": "Oil Mill Beck at Horsforth Woodside",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF038",
+        "county": "Leeds",
+        "notation": "123FWF038",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF038/polygon",
+        "riverOrSea": "Oil Mill Beck"
+      },
+      "floodAreaID": "123FWF038",
+      "isTidal": false,
+      "message": "River levels are rising rapidly on the Oil Mill Beck due to heavy rainfall and thunderstorms. Areas most at risk include Properties in Troy, Horsforth Woodside and the south eastern edge of Cragg Hill. Flooding is expected at Properties in Troy, Horsforth Woodside and the south eastern edge of Cragg Hill from 18:00 on 06/05/2024. Further thunderstorms are forecast throughout the evening but should ease overnight.\n\nWe will continue to monitor the forecast, local water levels and weather conditions. Consider putting your flood plan into action. You should avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 22:00 on 06/05/2024, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-05-06T18:12:00",
+      "timeRaised": "2024-05-06T18:12:38",
+      "timeSeverityChanged": "2024-05-06T18:12:00"
     }
   ]
 }
