@@ -1140,12 +1140,12 @@
       },
       "floodAreaID": "033FWF3ALN005",
       "isTidal": false,
-      "message": "River levels are rising at the Little Alne gauge as a result of persistent heavy rainfall. Consequently, flooding of roads and properties is possible today, 22/05/24. We expect flooding to affect properties and roads in the Chapel Lane in Aston Cantlow and Great Alne.\nFurther rainfall, some of which may be locally heavy, is forecast all day today, 22/05/24.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.\nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.\nThis message will be updated tomorrow, 23/05/24, or as the situation changes.\nFlood warning area: properties and roads in the Chapel Lane in Aston Cantlow and Great Alne.\n ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-05-22T18:39:00",
-      "timeRaised": "2024-05-22T18:40:05",
-      "timeSeverityChanged": "2024-05-22T18:39:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-05-23T06:09:00",
+      "timeRaised": "2024-05-23T06:09:49",
+      "timeSeverityChanged": "2024-05-23T06:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3MART001",
@@ -3393,6 +3393,27 @@
       "timeMessageChanged": "2024-05-23T05:12:00",
       "timeRaised": "2024-05-23T05:12:25",
       "timeSeverityChanged": "2024-05-23T05:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUD",
+      "description": "Upper River Douglas",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUD",
+        "county": "Bolton, Lancashire, Wigan",
+        "notation": "012WAFUD",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUD/polygon",
+        "riverOrSea": "River Douglas"
+      },
+      "floodAreaID": "012WAFUD",
+      "isTidal": false,
+      "message": "River levels are high on the River Douglas due to heavy rainfall.\nAreas most at risk include The River Douglas from Horwich Star Vale to Appley Bridge including Adlington, Blackrod, Wigan, Standish, and Gathurst.\nFlooding is possible from 6:00 AM on 23/05/2024.\nFurther rainfall is forecast throughout the morning.\nRiver levels are rising.\nOur incident rooms are open and we are closely monitoring the situation.\nThis message will be updated by 4:00 PM on 23/05/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-05-23T06:00:00",
+      "timeRaised": "2024-05-23T06:00:33",
+      "timeSeverityChanged": "2024-05-23T06:00:00"
     }
   ]
 }
