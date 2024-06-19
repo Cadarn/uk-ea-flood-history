@@ -1,0 +1,228 @@
+{
+  "@context": "http://environment.data.gov.uk/flood-monitoring/meta/context.jsonld",
+  "meta": {
+    "publisher": "Environment Agency",
+    "licence": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "documentation": "http://environment.data.gov.uk/flood-monitoring/doc/reference",
+    "version": "0.9",
+    "comment": "Status: Beta service",
+    "hasFormat": [
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.csv",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.rdf",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.ttl",
+      "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
+    ]
+  },
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG23HenAssen",
+      "description": "Groundwater flooding in the Henley and Assendon area",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG23HenAssen",
+        "county": "Buckinghamshire, Oxfordshire",
+        "notation": "061FAG23HenAssen",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG23HenAssen/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "061FAG23HenAssen",
+      "isTidal": false,
+      "message": " Groundwater levels are high, but falling slowly, at our Stonor Estate borehole near Henley and Assendon. Groundwater levels are above normal for this time of year and communities may continue to be affected by groundwater flooding as the catchment remains sensitive to further rainfall due to high groundwater levels. The weather forecast is for isolated showers today (14/06/2024) which could be heavy at times. This forecast continues over the weekend and into early next week. From Tuesday onwards, it is expected to be predominantly dry with the chance of scattered showers. Low-lying land, gardens, roads, and cellars will continue to be at risk of flooding. Due to the nature of groundwater flooding, this situation could continue for several weeks or longer. Avoid driving or walking through floodwater as there may be concealed hazards. We are continuing to monitor groundwater levels and will update this message Friday, 21/06/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-06-14T10:23:00",
+      "timeRaised": "2024-06-14T10:23:30",
+      "timeSeverityChanged": "2024-03-08T09:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF06Coln",
+      "description": "River Coln and its tributaries",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF06Coln",
+        "county": "Gloucestershire",
+        "notation": "061WAF06Coln",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF06Coln/polygon",
+        "riverOrSea": "River Coln, Dudgrove Brook"
+      },
+      "floodAreaID": "061WAF06Coln",
+      "isTidal": false,
+      "message": " Property flooding is not currently expected. River levels are high but steady on the River Coln following rainfall over recent weeks and high groundwater levels. Flooding of low lying land and roads is expected to continue over the coming days, especially in the Fairford area. The weather forecast is for isolated showers today (14/06/2024) which could be heavy at times. This forecast continues over the weekend and into early next week. From Tuesday onwards, it is expected to be predominantly dry with the chance of scattered showers. River levels are expected to remain high and will be sensitive to further rainfall. We are monitoring the situation. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated on Friday, 21/06/2024, or before if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-06-14T10:23:00",
+      "timeRaised": "2024-06-14T10:24:01",
+      "timeSeverityChanged": "2024-02-18T08:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG21IlsComp",
+      "description": "Groundwater flooding in West Ilsley, East Ilsley, Compton, Chilton and West Hagbourne",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG21IlsComp",
+        "county": "West Berkshire",
+        "notation": "061FAG21IlsComp",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG21IlsComp/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "061FAG21IlsComp",
+      "isTidal": false,
+      "message": " Groundwater levels are currently falling slowly at our Hodcott borehole near West Ilsley, East Ilsley and Compton. We expect levels to continue declining as we move through the summer, however the catchment remains sensitive to rainfall due to wetter than normal ground and high water levels may be prolonged if we receive further rainfall.\nPlease continue to go to the Thames: groundwater situation Report webpage for current information.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-06-18T15:04:00",
+      "timeRaised": "2024-06-18T15:04:57",
+      "timeSeverityChanged": "2024-06-18T15:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062FAGKimptonGW",
+      "description": "Groundwater flooding in Kimpton and Lilley Bottom",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062FAGKimptonGW",
+        "county": "Hertfordshire",
+        "notation": "062FAGKimptonGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062FAGKimptonGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "062FAGKimptonGW",
+      "isTidal": false,
+      "message": "Groundwater levels in the Kimpton and Lilley Bottom area are considerably higher than expected for this time of year.\n\nThe main areas at risk of groundwater flooding are around Kimpton, including Lye Hill, Whiteway and Claggy Bottom, along the upper River Mimram Valley and the area along Lilley Bottom from Chalk Hill to Law Hall Lane.\n\nWe expect groundwater levels to remain high for the next few weeks although levels are starting to drop.\n\nThe most important thing to do to prepare for groundwater flooding is to have a personal flood plan.\n\nWe are monitoring the situation closely.\n\nThe next scheduled update is Wednesday 19 June 2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-06-12T22:05:00",
+      "timeRaised": "2024-06-12T22:05:29",
+      "timeSeverityChanged": "2024-03-08T17:15:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062FAGFlamstdGW",
+      "description": "Groundwater flooding in Flamstead",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062FAGFlamstdGW",
+        "county": "Hertfordshire",
+        "notation": "062FAGFlamstdGW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062FAGFlamstdGW/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "062FAGFlamstdGW",
+      "isTidal": false,
+      "message": "Groundwater levels in the Flamstead area are considerably higher than expected for this time of year.\n\nThe main area at risk of groundwater flooding is Trowley Bottom Valley around Flamstead.\n\nWe expect groundwater levels to remain high for the next few weeks although levels are starting to drop.\n\nThe most important thing to do to prepare for groundwater flooding is to have a personal flood plan.\n\nWe are monitoring the situation closely.\n\nThe next scheduled update is Wednesday 19 June 2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-06-12T22:00:00",
+      "timeRaised": "2024-06-12T22:00:13",
+      "timeSeverityChanged": "2024-02-29T17:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG22GtSheff",
+      "description": "Groundwater flooding in the Great Shefford area",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG22GtSheff",
+        "county": "West Berkshire",
+        "notation": "061FAG22GtSheff",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG22GtSheff/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "061FAG22GtSheff",
+      "isTidal": false,
+      "message": " Groundwater levels are currently falling slowly at our Northfield Farm borehole in the Great Shefford area. We expect levels to continue declining as we move through the summer, however the catchment remains sensitive to rainfall due to wetter than normal ground and high water levels may be prolonged if we receive further rainfall.\nPlease continue to go to the Thames: groundwater situation Report webpage for current information.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-06-18T15:04:00",
+      "timeRaised": "2024-06-18T15:04:54",
+      "timeSeverityChanged": "2024-06-18T15:04:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF25Wye",
+      "description": "River Wye and The Hughenden Stream",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF25Wye",
+        "county": "Buckinghamshire",
+        "notation": "061WAF25Wye",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF25Wye/polygon",
+        "riverOrSea": "River Wye, Hughenden Stream"
+      },
+      "floodAreaID": "061WAF25Wye",
+      "isTidal": false,
+      "message": " Property flooding is not currently expected. River levels are high, but falling very slowly, on the Hughenden Stream due to high groundwater levels. Flooding of low lying land and roads remains possible, especially in areas closest to the Hughenden Stream in High Wycombe. The weather forecast is for isolated showers today (14/06/2024) which could be heavy at times. This forecast continues over the weekend and into early next week. From Tuesday onwards, it is expected to be predominantly dry with the chance of scattered showers. River levels are expected to remain high and will be sensitive to further rainfall. We are monitoring the situation. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated on Friday, 21/06/2024, or before if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-06-14T10:23:00",
+      "timeRaised": "2024-06-14T10:23:48",
+      "timeSeverityChanged": "2024-03-12T10:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF984",
+      "description": "River Spen and Batley Beck catchments",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984",
+        "county": "Bradford, Kirklees, Leeds",
+        "notation": "123WAF984",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF984/polygon",
+        "riverOrSea": "Batley Beck, Chickenley Beck, Lands Beck, River Spen, Blacup Beck"
+      },
+      "floodAreaID": "123WAF984",
+      "isTidal": false,
+      "message": " Levels in the River Spen and Batley Beck catchments have fallen significantly overnight and are no longer a cause for concern. No further impactful rainfall is forecast over the next few days. \n\nWe will continue to monitor the situation. Our operational staff will be out checking flood defences and clearing trash screens following the high river levels. \n\nPlease continue to stay safe, avoid using low lying footpaths and any bridges near watercourses and do not attempt to walk or drive through flood water. \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-06-19T08:47:00",
+      "timeRaised": "2024-06-19T08:47:50",
+      "timeSeverityChanged": "2024-06-19T08:47:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF368",
+      "description": "Batley Beck at Bradford Road through central Batley",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF368",
+        "county": "Kirklees",
+        "notation": "123FWF368",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF368/polygon",
+        "riverOrSea": "Batley Beck"
+      },
+      "floodAreaID": "123FWF368",
+      "isTidal": false,
+      "message": " This flood warning has been removed as river levels have now fallen below levels of concern on Batley Beck. No further heavy rain or thunderstorms are forecast this evening or overnight, but we are closely monitoring the situation. Please continue to stay safe, avoid using low lying footpaths and any bridges near watercourses and do not attempt to walk or drive through flood water.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-06-18T20:55:00",
+      "timeRaised": "2024-06-18T20:55:34",
+      "timeSeverityChanged": "2024-06-18T20:55:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF367",
+      "description": "Batley Beck at Carlinghow and Crossbank",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF367",
+        "county": "Kirklees",
+        "notation": "123FWF367",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123FWF367/polygon",
+        "riverOrSea": "Batley Beck"
+      },
+      "floodAreaID": "123FWF367",
+      "isTidal": false,
+      "message": " This flood warning has been removed as river levels have now fallen below levels of concern on Batley Beck. No further heavy rain or thunderstorms are forecast this evening or overnight, but we are closely monitoring the situation. Please continue to stay safe, avoid using low lying footpaths and any bridges near watercourses and do not attempt to walk or drive through flood water.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-06-18T20:55:00",
+      "timeRaised": "2024-06-18T20:55:21",
+      "timeSeverityChanged": "2024-06-18T20:55:00"
+    }
+  ]
+}
