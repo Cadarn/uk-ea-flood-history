@@ -364,12 +364,12 @@
       },
       "floodAreaID": "123WAF985",
       "isTidal": false,
-      "message": " Following heavy showers this evening, river levels in Balne Beck have risen to a level where low-lying land and footpaths adjacent to the river could be affected by flooding. The rain is expected to ease later this evening and so water levels should fall overnight. Please avoid using footpaths next to areas of flooded land and fast flowing water and use alternative routes for walking. This message will be updated by 08:00 or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-07-09T20:12:00",
-      "timeRaised": "2024-07-09T20:12:37",
-      "timeSeverityChanged": "2024-07-09T08:38:00"
+      "message": " This flood alert is no longer in force as river levels have fallen in Balne Beck and any rainfall over the next few days is expected to be light.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-07-10T08:18:00",
+      "timeRaised": "2024-07-10T08:18:22",
+      "timeSeverityChanged": "2024-07-10T08:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF429",
@@ -532,11 +532,11 @@
       },
       "floodAreaID": "061WAF24ULoddon",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. Levels have risen on the Upper River Loddon as a result of a period of sustained rain, but have now stabilised and are slowly starting to fall. Flooding of low lying land and roads is expected today, 09/07/24, especially in the Sherfield on Loddon area. Further rainfall is forecast through the morning with periodic heavy showers expected over the next few days. We expect river levels to remain high over the next few days. We are monitoring the situation. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 10/07/24, or as the situation changes. ",
+      "message": "Property flooding is not currently expected. Levels have risen on the Upper River Loddon as a result of a period of sustained rain, but have now stabilised and are slowly starting to fall. Flooding of low lying land and roads is expected today, 10/07/24, especially in the Sherfield on Loddon area. Further light showers are forecast today, with tomorrow expected to be mainly dry. We expect river levels to continue to fall. We are monitoring the situation. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 11/07/24, or as the situation changes. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-07-09T09:21:00",
-      "timeRaised": "2024-07-09T09:21:53",
+      "timeMessageChanged": "2024-07-10T08:27:00",
+      "timeRaised": "2024-07-10T08:27:59",
       "timeSeverityChanged": "2024-07-06T09:36:00"
     },
     {
@@ -726,6 +726,27 @@
       "timeMessageChanged": "2024-07-09T16:34:00",
       "timeRaised": "2024-07-09T16:34:48",
       "timeSeverityChanged": "2024-07-09T16:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF977",
+      "description": "South East Holderness",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF977",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAF977",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF977/polygon",
+        "riverOrSea": "Holderness Drain"
+      },
+      "floodAreaID": "122WAF977",
+      "isTidal": false,
+      "message": "River levels are high on Skeffling Drain and Winestead Drain due to recent heavy rainfall. Areas most at risk include locations near Skeffling Drain and Winestead Drain, including low lying land, particularly around the South East Holderness area including Winestead, Patrington and Kilnsea. \n\nWe will continue to monitor levels closely. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. \n\nThis message will be updated by 8:00am on Thursday, 11/07/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-07-10T08:29:00",
+      "timeRaised": "2024-07-10T08:30:08",
+      "timeSeverityChanged": "2024-07-10T08:29:00"
     }
   ]
 }
