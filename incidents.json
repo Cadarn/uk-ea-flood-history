@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
+      "description": "Lower River Soar in Leicestershire",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
+        "county": "Derbyshire, Leicestershire, Nottinghamshire",
+        "notation": "034WAF428",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034WAF428",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Pillings Lock river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is expected to begin from 21:00 this evening, 15/07/24.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.   \nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 10:00 tomorrow morning, 16/07/24, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-07-15T16:35:00",
+      "timeRaised": "2024-07-15T16:35:24",
+      "timeSeverityChanged": "2024-07-15T16:35:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
       "description": "River Maun in Nottinghamshire",
       "eaAreaName": "East Midlands",
@@ -307,6 +328,27 @@
       "timeMessageChanged": "2024-07-15T15:25:00",
       "timeRaised": "2024-07-15T15:26:18",
       "timeSeverityChanged": "2024-07-15T15:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFAC",
+      "description": "River Alt, Formby to Huyton",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC",
+        "county": "Knowsley, Lancashire, Liverpool, Sefton",
+        "notation": "012WAFAC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFAC/polygon",
+        "riverOrSea": "River Alt"
+      },
+      "floodAreaID": "012WAFAC",
+      "isTidal": false,
+      "message": "Flooding is possible from 11:30 PM on 15/07/2024.\nAreas most at risk include the River Alt and other watercourses from Huyton to Hightown including, Kirkby, Fazakerley, Maghull, Formby, Aughton, Sefton and Lunt.\nWeather conditions are expected to improve from around 09:00 AM Tuesday morning. \nWe are closely monitoring the situation including rainfall and river levels.\nAvoid using low lying footpaths and any bridges near local watercourses.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.\nThis message will be updated by 10:00 AM on 16/07/2024, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-07-15T16:43:00",
+      "timeRaised": "2024-07-15T16:43:34",
+      "timeSeverityChanged": "2024-07-15T16:43:00"
     }
   ]
 }
