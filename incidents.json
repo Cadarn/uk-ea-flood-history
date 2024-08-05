@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumberland",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": "Rising river levels this evening may lead to flooding. Flooding of roads and low lying land is possible, property flooding is not expected.\nFlooding is possible  from 10:00 PM on 05/08/2024.\nAreas most at risk include Rivers Ehen, Calder, Irt and Esk and other watercourses, from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle.\nWe are closely monitoring the situation and clearing debris from weed screens.\nTake care and avoid walking, cycling or driving through flood water.\nThis message will be updated by 9:00 AM on 06/08/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-08-05T17:00:00",
+      "timeRaised": "2024-08-05T17:00:52",
+      "timeSeverityChanged": "2024-08-05T17:00:00"
+    }
+  ]
 }
