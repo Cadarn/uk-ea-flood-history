@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
+      "description": "Rivers Brathay, Rothay and Winster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR",
+        "county": "Westmorland and Furness",
+        "notation": "011WAFBR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFBR/polygon",
+        "riverOrSea": "River Brathay, River Rothay, River Winster"
+      },
+      "floodAreaID": "011WAFBR",
+      "isTidal": false,
+      "message": "Rising river levels this morning may lead to flooding of roads and low lying land. Flooding is possible from 10:00 AM on 15/08/2024. Areas most at risk include Rivers Brathay, Rothay and Winster and other watercourses, from Grasmere to Grange-over-Sands including low lying areas around Ambleside, Skelwith Bridge, Windermere, Hawkshead, Newby Bridge, Backbarrow, Cark and Cartmel. Further flooding of roads and low lying land is possible throughout the afternoon as river levels are expected to remain high due to rainfall. We are closely monitoring the situation and monitoring rainfall and river levels. Monitor local water levels and weather conditions. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 8:00 PM on 15/08/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-08-15T10:22:00",
+      "timeRaised": "2024-08-15T10:23:11",
+      "timeSeverityChanged": "2024-08-15T10:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumberland",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": "River levels are rising on the Rivers Ehen, Calder, Irt and Esk due to the recent heavy rainfall today. Areas most at risk include Rivers Ehen, Calder, Irt and Esk and other watercourses, from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle. Flooding of roads and low lying land is possible throughout the afternoon as river levels are expected to remain high due to further rainfall today, Thursday 15/08/2024. We are monitoring rainfall and river levels and are checking rivers for blockages in the area. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. We will continue to monitor the forecast and re-issue this alert if necessary. This message will be updated by 8:00 PM on 15/08/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-08-15T10:28:00",
+      "timeRaised": "2024-08-15T10:28:49",
+      "timeSeverityChanged": "2024-08-15T10:28:00"
+    }
+  ]
 }
