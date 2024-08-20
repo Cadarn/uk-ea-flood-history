@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
+      "description": "Wye Estuary in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122",
+        "county": "Gloucestershire",
+        "notation": "031WAT122",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAT122/polygon",
+        "riverOrSea": "Wye Estuary"
+      },
+      "floodAreaID": "031WAT122",
+      "isTidal": true,
+      "message": "A flood alert has been issued as a result of high tides, flooding is expected over the next 4 days with tides peaking Thursday evening 22/08/24. Conditions may apply for an hour either side of high tide. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow. Predicted peaks today Tuesday evening 20/08/24:- Newport 7.0m to 7.3m at 20:45. Avonmouth Portbury 7.3m to 7.6m at 20:45.  No thresholds are expected to be crossed on Wednesday mornings tide but they are rising again for Wednesday evening.  We are closely monitoring the situation. Please stay away from large waves as they are dangerous. This message will be updated by 11:00 on Wednesday, 21/08/24, or as the situation changes.\n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-08-20T10:24:00",
+      "timeRaised": "2024-08-20T10:24:58",
+      "timeSeverityChanged": "2024-08-20T10:24:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
       "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
       "eaAreaName": "Cumbria and Lancashire",
