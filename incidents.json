@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF440",
+      "description": "Scrase Bridge and West Common Streams",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF440",
+        "county": "West Sussex",
+        "notation": "065WAF440",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF440/polygon",
+        "riverOrSea": "Scrase Bridge Stream, West Common Stream"
+      },
+      "floodAreaID": "065WAF440",
+      "isTidal": false,
+      "message": "The Scrasebridge and West Common Streams is high and rising.  In the last 12 hours, 20mm of rain has been recorded at Haywards Heath. From 14:30 05/09/2024 minor flooding could affect a small number of commercial properties on Bridge Road and residential properties on West Common Road. Odd numbered properties from 29 to 47 on Meadow Drive could be affected by flooding. A further 10mm of rain is expected over the next 8 hours.  The river should begin to fall by 19:00 on 05/09/2024, and should return to normal from 20:00. Flood impacts should begin to slowly ease when river levels start to fall. If you see a blockage affecting the flow in the river on Bridge Road or Hickmans Lane, please call our incident hotline on 0800 80 70 60. We are clearing debris from grilles through Lindfield, including the Builders Centre and Witch Inn, to help keep the river flowing freely and reduce flood risk. We will update this message by 21:00 05/09/2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-05T14:52:00",
+      "timeRaised": "2024-09-05T14:52:59",
+      "timeSeverityChanged": "2024-09-05T14:52:00"
+    }
+  ]
 }
