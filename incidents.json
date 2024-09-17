@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 23:30 today and 01:30, Wednesday 18th September. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level at Clacton of 2.85 mAODN at 00:30, Wednesday 18th September, which is 0.19m above tide tables, wind Force 5, in a north eastern direction (mAODN is height above average sea level, for more info refer to local tide tables). Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 09:00 tomorrow, Wednesday 18th September.\t\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-17T14:32:00",
+      "timeRaised": "2024-09-17T14:33:18",
+      "timeSeverityChanged": "2024-09-17T14:32:00"
+    }
+  ]
 }
