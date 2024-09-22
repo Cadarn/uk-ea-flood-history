@@ -511,12 +511,12 @@
       },
       "floodAreaID": "034WAB420",
       "isTidal": false,
-      "message": "River levels remain high at the Keadby river gauge as a result of high spring tides coinciding with high river levels.  Consequently, flooding is expected to continue.  Areas most at risk are Keadby, Amcotts, Owston, Burringham, Gunness, Althorpe, East Butterwick, Flixborough, Gunness Lane and, Neap House road.   \nThunderstorms are forecast over the next 48 hours.  \nWe are closely monitoring the situation.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 10:00 tomorrow morning, 23/09/24, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-09-22T10:41:00",
-      "timeRaised": "2024-09-22T10:42:04",
-      "timeSeverityChanged": "2024-09-18T16:45:00"
+      "message": "\"This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  \nWe continue to monitor the situation.  \nTo check the status of road closures online, please visit the One Network live map.\"\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-09-22T19:33:00",
+      "timeRaised": "2024-09-22T19:33:41",
+      "timeSeverityChanged": "2024-09-22T19:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
@@ -1920,6 +1920,27 @@
       "timeMessageChanged": "2024-09-22T19:25:00",
       "timeRaised": "2024-09-22T19:26:06",
       "timeSeverityChanged": "2024-09-22T19:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF351",
+      "description": "River Rother and its tributaries from Turks Bridge to the Royal Military Canal",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF351",
+        "county": "East Sussex, Kent",
+        "notation": "064WAF351",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF351/polygon",
+        "riverOrSea": "River Rother"
+      },
+      "floodAreaID": "064WAF351",
+      "isTidal": false,
+      "message": " This alert is being issued ahead of heavy rainfall forecast overnight tonight, river levels are expected to rise leading to flooding between 3:00 AM and 7:00 PM on 23/09/2024.\nFlooding of roads and low lying land is possible, property flooding is not expected at this time. Areas most at risk include low lying land and roads close to the river, particularly in the Crowhurst Bridge area and low lying land and roads along the River Rother, particularly around Robertsbridge.\nWeather conditions are expected to improve Monday evening and no further flooding is expected on Tuesday.\nWe are closely monitoring the situation and clearing debris from weed screens.\nTake care and avoid walking, cycling or driving through flood water.\nThis message will be updated by 9:00 AM on 23/09/2024, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-22T19:34:00",
+      "timeRaised": "2024-09-22T19:35:38",
+      "timeSeverityChanged": "2024-09-22T19:34:00"
     }
   ]
 }
