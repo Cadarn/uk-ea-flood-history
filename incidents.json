@@ -1105,6 +1105,27 @@
       "timeSeverityChanged": "2024-09-22T15:49:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF307",
+      "description": "River Anker and River Sence",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF307",
+        "county": "Leicestershire, Staffordshire, Warwickshire",
+        "notation": "033WAF307",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF307/polygon",
+        "riverOrSea": "River Anker, River Sence"
+      },
+      "floodAreaID": "033WAF307",
+      "isTidal": false,
+      "message": "River levels are rising at the Nuneaton and Mancetter gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is expected overnight and into tomorrow morning, 23/09/24. We expect flooding to affect low-lying land and roads adjacent to the River Anker between Nuneaton and Tamworth the River Sence between Temple Mill and Ratcliffe Culey.\nFurther rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded. Avoid using low lying footpaths and bridges near local watercourses. Please stay aware in case further warnings are issued.\nThis message will be updated tomorrow Monday 23/09/24, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-22T17:37:00",
+      "timeRaised": "2024-09-22T17:38:15",
+      "timeSeverityChanged": "2024-09-22T17:37:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF410",
       "description": "Tributaries in North Derbyshire",
       "eaAreaName": "East Midlands",
@@ -1557,12 +1578,12 @@
       },
       "floodAreaID": "034FWFGDWHITWICK",
       "isTidal": false,
-      "message": " River levels are rising at the Whitwick downstream river gauge as a result of localised thunderstorms.  Consequently, flooding of property is imminent.  Areas most at risk are Whitwick and Thringstone.   \nFurther heavy rainfall is forecast over the next 48 hours.  We expect river levels to remain high until 24/09/2024.\nWe are closely monitoring the situation.  \nPlease move possessions and valuables off the ground or to safety and move family, pets and cars to safety.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 19:00 on 22/09/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-09-22T11:30:00",
-      "timeRaised": "2024-09-22T11:30:28",
-      "timeSeverityChanged": "2024-09-22T11:30:00"
+      "message": " This Flood Warning has been removed.  \nRiver levels are falling, but still pose a flood risk.  We will continue to monitor the forecast and re-issue this warning if necessary.  Further heavy rainfall is forecast over the next 48 hours.  \nWe continue to monitor the situation.  \nPlease stay aware in case further warnings are issued.  To check the status of road closures online, please visit the One Network live map.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-09-22T17:47:00",
+      "timeRaised": "2024-09-22T17:47:57",
+      "timeSeverityChanged": "2024-09-22T17:47:00"
     }
   ]
 }
