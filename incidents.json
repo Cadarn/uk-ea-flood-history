@@ -91,11 +91,11 @@
       },
       "floodAreaID": "063WAT23West",
       "isTidal": true,
-      "message": "River levels are expected to be high as a result of spring tides and increasing river flows.\n\nThe forecast high tide at Richmond is 4.85mAOD at 18:15 on Sunday 22nd September 2024.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is above normal for this time of year at 36 cubic metres per second and is rising quickly in response to recent rainfall. We anticipate the flows to remain above normal for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 19:00 on Sunday 22nd September, or as the situation changes.",
+      "message": "River levels are expected to be high as a result of spring tides and rising river flows\n\nThe forecast high tide at Richmond is 4.65mAOD at 18:45 on Monday 23rd September.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are falling. The river flow at Teddington Weir is high for this time of year at 80 cubic metres per second and is rising in response to heavy rainfall over the past 48 hours. We anticipate the flows to increase over the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 21:00 on Monday 23rd September, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-09-22T12:07:00",
-      "timeRaised": "2024-09-22T12:08:19",
+      "timeMessageChanged": "2024-09-23T12:10:00",
+      "timeRaised": "2024-09-23T12:10:41",
       "timeSeverityChanged": "2024-09-17T18:49:00"
     },
     {
@@ -1978,12 +1978,12 @@
       },
       "floodAreaID": "064FWF8Kidbrook",
       "isTidal": false,
-      "message": " Heavy rainfall has caused river levels on the Kidbrooke stream to rise quickly. Flooding to properties is expected imminently. Properties along Priory Road, Swans Ghyll, Riverside and Blenheim Fields are at immediate risk. If you have them, activate your property protection measures now.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-09-23T01:55:00",
-      "timeRaised": "2024-09-23T01:56:15",
-      "timeSeverityChanged": "2024-09-23T01:55:00"
+      "message": " The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nWeather conditions are expected to improve this afternoon and no further flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-09-23T12:27:00",
+      "timeRaised": "2024-09-23T12:27:34",
+      "timeSeverityChanged": "2024-09-23T12:27:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF316",
@@ -2592,6 +2592,48 @@
       "timeMessageChanged": "2024-09-23T10:54:00",
       "timeRaised": "2024-09-23T10:54:52",
       "timeSeverityChanged": "2024-09-23T10:54:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064FWF8A1",
+      "description": "Rivers Eden and Eden Brook from Crowhurst to Penshurst",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8A1",
+        "county": "Kent, Surrey",
+        "notation": "064FWF8A1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064FWF8A1/polygon",
+        "riverOrSea": "Eden, Eden Brook"
+      },
+      "floodAreaID": "064FWF8A1",
+      "isTidal": false,
+      "message": "High river levels from heavy rain overnight are expected to cause flooding this afternoon.\nFlooding is expected from 12:00 noon on 23/09/2024.\nAreas most at risk include properties around Haxted Mill and Haxted Road.\nWeather conditions are expected to improve this afternoon with light showers until Wednesday.\nWe are closely monitoring the situation and checking rivers for blockages.\nStart acting on your flood plan if you have one.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.\nThis message will be updated by 6:00 PM on 23/09/2024, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-09-23T12:03:00",
+      "timeRaised": "2024-09-23T12:03:24",
+      "timeSeverityChanged": "2024-09-23T12:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFCH10",
+      "description": "River Chelt at Charlton Kings",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFCH10",
+        "county": "Gloucestershire",
+        "notation": "031FWFCH10",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFCH10/polygon",
+        "riverOrSea": "River Chelt"
+      },
+      "floodAreaID": "031FWFCH10",
+      "isTidal": false,
+      "message": " River levels are rising at the Charlton Kings river gauge as a result of localised thunderstorms.  \nConsequently, flooding is imminent.  We expect flooding to affect properties and roads in the Charlton Kings area, Brookway Road may be impacted by flooding.   \nFurther rainfall is forecast over the next 8 hours.  \nWe are closely monitoring the situation.  Our incident response staff are clearing weed screens.  \nPlease move possession and valuables off the ground or to safety and avoid contact with flood water.  \nThis message will be updated by 7pm 23/09/2024, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-09-23T12:26:00",
+      "timeRaised": "2024-09-23T12:26:20",
+      "timeSeverityChanged": "2024-09-23T12:26:00"
     }
   ]
 }
