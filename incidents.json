@@ -456,27 +456,6 @@
       "timeSeverityChanged": "2024-09-23T17:12:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAB420",
-      "description": "Tidal Trent for riverside areas from Gainsborough to the Humber confluence",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB420",
-        "county": "East Riding of Yorkshire, Lincolnshire, North Lincolnshire, Nottinghamshire",
-        "notation": "034WAB420",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAB420/polygon",
-        "riverOrSea": "River Trent"
-      },
-      "floodAreaID": "034WAB420",
-      "isTidal": false,
-      "message": "\"This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  \nWe continue to monitor the situation.  \nTo check the status of road closures online, please visit the One Network live map.\"\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-09-22T19:33:00",
-      "timeRaised": "2024-09-22T19:33:41",
-      "timeSeverityChanged": "2024-09-22T19:33:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF118",
       "description": "River Frome in Herefordshire",
       "eaAreaName": "West Midlands",
@@ -1502,6 +1481,27 @@
       "timeMessageChanged": "2024-09-23T19:17:00",
       "timeRaised": "2024-09-23T19:17:38",
       "timeSeverityChanged": "2024-09-23T14:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF14UChrwell",
+      "description": "River Cherwell from Charwelton to just above Upper Heyford",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF14UChrwell",
+        "county": "Oxfordshire, Warwickshire, West Northamptonshire",
+        "notation": "061WAF14UChrwell",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF14UChrwell/polygon",
+        "riverOrSea": "River Cherwell, Highfurlong Brook, Ashby Brook, Culworth Brook, Hanwell Brook, Chacombe Brook, Marston Brook, Thenford Brook, Farthinghoe Brook, Charlton Brook, River Swere, Deddington Brook"
+      },
+      "floodAreaID": "061WAF14UChrwell",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising along the upper River Cherwell in response to heavy rainfall. Therefore, flooding of low lying land and roads is expected from this evening, 23/09/2024 and overnight, especially in areas closest to the River Cherwell where it passes through Banbury and Kings Sutton, and upstream at Woodford Halse. \n\nFurther heavy rainfall is forecast overnight, clearing by morning. River levels are expected to rise through the night as water moves downstream, stabilising through tomorrow morning.    \n\nOur staff have been checking and clearing trash screens in the area and we are closely monitoring the situation. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 24/09/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-23T19:25:00",
+      "timeRaised": "2024-09-23T19:26:07",
+      "timeSeverityChanged": "2024-09-23T19:25:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF401",
@@ -2692,11 +2692,11 @@
       },
       "floodAreaID": "055FWFPNTR01",
       "isTidal": false,
-      "message": "Heavy rain is currently falling in the Nene catchment and will continue throughout Monday, September 23. This is causing Grendon Brook to rise and is forecast to continue to rise through the night. Low lying areas near to Brook are already flooded and we now expect properties in Grendon Brook catchment community to be affected this morning onwards. Low lying properties near the river on Blackmile Lane in Grendon and Grendon Road, 600 Station Road, Mill Lane, Hardwater Road and Doddington Crossing are expected to be affected first. Further heavy rain is forecast for today and therefore river levels are expected to continue to rise. Remain safe and be aware of your local surroundings. Please avoid contact with flood water. Our staff are out in the area to check the flood defences, clear blockages, and assist the emergency services and council.  We will be closely monitoring the situation and this message will be updated online and on FloodLine by 22:00 on 23/09/24, or before if the situation changes. ",
+      "message": "Heavy rain has fallen in the Nene catchment and will continue throughout the evening of Monday, September 23. This has caused Grendon Brook to rise and is forecast to continue to rise overnight. Low lying areas near to the Brook are already flooded and we expect properties in Grendon Brook catchment community to be affected from this evening onwards. Low lying properties near the river on Blackmile Lane in Grendon and Grendon Road, 600 Station Road, Mill Lane, Hardwater Road and Doddington Crossing are expected to be affected first. The Reservoirs around Grendon are full so will not be able to store any water so we expect the levels to be high for the next few days. Remain safe and be aware of your local surroundings. Please avoid contact with flood water. Our staff are out in the area to check the flood defences, clear blockages, and assist the emergency services and council. We will be closely monitoring the situation and this message will be updated online and on FloodLine by 22:00 on 24/09/24, or before if the situation changes. ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-09-23T03:21:00",
-      "timeRaised": "2024-09-23T03:22:11",
+      "timeMessageChanged": "2024-09-23T19:27:00",
+      "timeRaised": "2024-09-23T19:27:40",
       "timeSeverityChanged": "2024-09-23T03:21:00"
     },
     {
@@ -2776,11 +2776,11 @@
       },
       "floodAreaID": "055WAF133MTN",
       "isTidal": false,
-      "message": "Over the last 24 hours we have seen heavy rainfall in the River Nene area. This means that the River Nene is now rising, which will lead to flooding of low-lying land and roads close to the river from the morning of Monday 23 September onwards. We expect the river to remain high throughout the next few days and flooding to gardens, driveways or outhouses is possible close to the river. Flooding inside properties is likely and therefore a Flood Warning has been issued for Grendon Brook catchment including Yardley Hastings, Denton, Bozeat, Easton Maudit and Grendon. We are constantly monitoring river levels and have staff in the field checking for blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated online and on FloodLine by 22:00 on 23/09/2024, or before if the situation changes. ",
+      "message": "Over the last 24 hours we have seen heavy rainfall in the River Nene area. This means that the River Nene has risen and will continue to rise overnight. This will lead to flooding of low-lying land and roads close to the river from the evening of Monday 23 September onwards. We expect the river to remain high throughout the next few days and flooding to gardens, driveways or outhouses is possible close to the river. Flooding inside properties is likely and therefore a Flood Warning has been issued for Grendon Brook catchment including Yardley Hastings, Denton, Bozeat, Easton Maudit and Grendon. We are constantly monitoring river levels and have staff in the field checking for blockages and clearing weedscreens. Please avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated online and on FloodLine by 22:00 on 24/09/2024, or before if the situation changes. ",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-09-23T07:01:00",
-      "timeRaised": "2024-09-23T07:01:23",
+      "timeMessageChanged": "2024-09-23T19:32:00",
+      "timeRaised": "2024-09-23T19:32:20",
       "timeSeverityChanged": "2024-09-23T07:01:00"
     },
     {
