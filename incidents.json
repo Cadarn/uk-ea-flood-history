@@ -36,27 +36,6 @@
       "timeSeverityChanged": "2024-09-23T10:07:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
-      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1BA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1BA00",
-      "isTidal": true,
-      "message": "The risk of flooding from the sea has now reduced. \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-09-22T11:10:00",
-      "timeRaised": "2024-09-22T11:11:00",
-      "timeSeverityChanged": "2024-09-22T11:10:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF19Thame",
       "description": "River Thame, Horsenden Stream and Chalgrove Brook",
       "eaAreaName": "Thames",
@@ -97,48 +76,6 @@
       "timeMessageChanged": "2024-09-23T09:06:00",
       "timeRaised": "2024-09-23T09:07:15",
       "timeSeverityChanged": "2024-09-23T09:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1DA00",
-      "description": "Plymouth Sound, Wembury Bay and tidal estuaries",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00",
-        "county": "Cornwall, Devon, Plymouth",
-        "notation": "114WACT1T1DA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1DA00",
-      "isTidal": true,
-      "message": "The risk of flooding from the sea has now reduced.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-09-22T11:10:00",
-      "timeRaised": "2024-09-22T11:10:43",
-      "timeSeverityChanged": "2024-09-22T11:10:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
-      "description": "South Cornwall coast from Gribbin Head to Rame Head",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1CA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1CA00",
-      "isTidal": true,
-      "message": "The risk of flooding from the sea has now reduced.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-09-22T11:10:00",
-      "timeRaised": "2024-09-22T11:10:45",
-      "timeSeverityChanged": "2024-09-22T11:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
@@ -1189,6 +1126,27 @@
       "timeSeverityChanged": "2024-09-23T08:15:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF03RayWilts",
+      "description": "River Ray and Swinbourne for West Swindon area to above Water Eaton",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF03RayWilts",
+        "county": "Swindon, Wiltshire",
+        "notation": "061WAF03RayWilts",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF03RayWilts/polygon",
+        "riverOrSea": "River Ray"
+      },
+      "floodAreaID": "061WAF03RayWilts",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising rapidly on the River Ray as a result of heavy rain. Therefore, flooding of low lying land and roads is expected from this morning 23/09/2024, especially in the areas closest to the River Ray in the Rodbourne and Westmead areas of Swindon. \nFurther heavy rainfall is forecast over the coming 12 hours. We expect river levels to rise through today before stabilising overnight.   \n\nOur staff are checking and clearing trash screens in the area and we are closely monitoring the situation. Avoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by this evening, 23/09/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-23T11:00:00",
+      "timeRaised": "2024-09-23T11:00:48",
+      "timeSeverityChanged": "2024-09-23T11:00:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF211",
       "description": "Rivers in South Worcestershire",
       "eaAreaName": "West Midlands",
@@ -1580,11 +1538,11 @@
       },
       "floodAreaID": "033WAF307",
       "isTidal": false,
-      "message": "River levels are rising at the Nuneaton and Mancetter gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is expected overnight and into tomorrow morning, 23/09/24. We expect flooding to affect low-lying land and roads adjacent to the River Anker between Nuneaton and Tamworth the River Sence between Temple Mill and Ratcliffe Culey.\nFurther rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded. Avoid using low lying footpaths and bridges near local watercourses. Please stay aware in case further warnings are issued.\nThis message will be updated tomorrow Monday 23/09/24, or as the situation changes.",
+      "message": "River levels have risen at the Mancetter river gauge as a result of heavy rainfall. Consequently, flooding of property, roads and farmland is possible today 23/09/24 and overnight. We expect flooding to affect low-lying land and roads adjacent to the River Anker between Nuneaton and Tamworth the River Sence between Temple Mill and Ratcliffe Culey. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 12:00 on 24/09/24, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-09-22T17:37:00",
-      "timeRaised": "2024-09-22T17:38:15",
+      "timeMessageChanged": "2024-09-23T11:03:00",
+      "timeRaised": "2024-09-23T11:03:30",
       "timeSeverityChanged": "2024-09-22T17:37:00"
     },
     {
@@ -1873,11 +1831,11 @@
       },
       "floodAreaID": "033WAF306",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Hopwas Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of roads and farmland is possible overnight and into tomorrow morning 23/09/24. We expect flooding to affect low-lying land and roads adjacent to the River Tame between Hopwas and the National Arboretum at Alrewas.   \nFurther rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses. Plan driving routes to avoid low lying roads near rivers, which may be flooded. Please stay aware in case further warnings are issued.\nThis message will be updated tomorrow Monday 23/09/24, or as the situation changes.",
+      "message": "River levels are forecast to rise at the Hopwas Bridge river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is possible today 23/09/24 and overnight. We expect flooding to affect low-lying land and roads adjacent to the River Tame between Hopwas and the National Arborteum at Alrewas. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 12:00 on 24/09/24, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-09-22T18:56:00",
-      "timeRaised": "2024-09-22T18:57:13",
+      "timeMessageChanged": "2024-09-23T11:17:00",
+      "timeRaised": "2024-09-23T11:17:33",
       "timeSeverityChanged": "2024-09-22T18:56:00"
     },
     {
@@ -2026,27 +1984,6 @@
       "timeMessageChanged": "2024-09-23T01:55:00",
       "timeRaised": "2024-09-23T01:56:15",
       "timeSeverityChanged": "2024-09-23T01:55:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WATFALEST1",
-      "description": "Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1",
-        "county": "Cornwall",
-        "notation": "114WATFALEST1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1/polygon",
-        "riverOrSea": "South Cornwall Coast, Tidal Fal Estuary"
-      },
-      "floodAreaID": "114WATFALEST1",
-      "isTidal": true,
-      "message": "The risk of flooding from the sea has now reduced. \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-09-22T11:10:00",
-      "timeRaised": "2024-09-22T11:10:50",
-      "timeSeverityChanged": "2024-09-22T11:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF316",
@@ -2613,6 +2550,48 @@
       "timeMessageChanged": "2024-09-23T10:32:00",
       "timeRaised": "2024-09-23T10:33:03",
       "timeSeverityChanged": "2024-09-23T10:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF36FluCrane",
+      "description": "Fluvial River Crane",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF36FluCrane",
+        "county": "Ealing, Greater London, Hillingdon, Hounslow, Richmond upon Thames",
+        "notation": "062WAF36FluCrane",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF36FluCrane/polygon",
+        "riverOrSea": "River Crane"
+      },
+      "floodAreaID": "062WAF36FluCrane",
+      "isTidal": false,
+      "message": "We have seen heavy rain across the area overnight into Monday 23 September. Rising river levels throughout the morning may lead to flooding.\nFlooding is forecast to affect locations near the Yeading Brook, Crane; with low lying land and roads expected to be most affected, particularly around Cranford Park.\n\nFurther heavy rainfall is forecast this morning, Monday 23 September. Weather conditions are expected to improve through afternoon and no further flooding is expected.\n\nWe are monitoring rainfall and river levels and checking rivers for blockages.\n\nTake care and avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 4PM Monday 23 September, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-09-23T10:40:00",
+      "timeRaised": "2024-09-23T10:41:05",
+      "timeSeverityChanged": "2024-09-23T10:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FWF23MillBk",
+      "description": "Mill Brook from the Hagbourne Mill area to Winterbrook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FWF23MillBk",
+        "county": "Oxfordshire",
+        "notation": "061FWF23MillBk",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FWF23MillBk/polygon",
+        "riverOrSea": "Mill Brook, West Hagbourne Stream, Cholsey Brook"
+      },
+      "floodAreaID": "061FWF23MillBk",
+      "isTidal": false,
+      "message": "Property flooding is expected. River levels are rising on the Mill Brook as a result of heavy rainfall. \n\nTherefore, flooding of property and roads is expected imminently this morning 23/09/2024, especially in areas closest to the river in Blewbury. Further heavy rainfall is forecast over the next 12 hours. We expect river levels to rise steadily into the early afternoon. Our staff are checking and clearing trash screens. \n\nWe are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Go to the 'River and Sea levels in England' webpage for current river levels.  This message will be updated by this evening, 23/09/2024, or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-09-23T10:54:00",
+      "timeRaised": "2024-09-23T10:54:52",
+      "timeSeverityChanged": "2024-09-23T10:54:00"
     }
   ]
 }
