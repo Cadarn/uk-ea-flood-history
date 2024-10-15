@@ -15,27 +15,6 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF205",
-      "description": "River Arrow and River Alne",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205",
-        "county": "Warwickshire, Worcestershire",
-        "notation": "033WAF205",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF205/polygon",
-        "riverOrSea": "Arrow, Alne"
-      },
-      "floodAreaID": "033WAF205",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-14T11:35:00",
-      "timeRaised": "2024-10-14T11:36:04",
-      "timeSeverityChanged": "2024-10-14T11:35:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTUBA",
       "description": "Upper Bristol Avon area",
       "eaAreaName": "Wessex",
@@ -307,27 +286,6 @@
       "timeMessageChanged": "2024-10-14T15:44:00",
       "timeRaised": "2024-10-14T15:44:26",
       "timeSeverityChanged": "2024-09-23T09:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
-      "description": "River Stour and Smestow Brook in the Black Country and South Staffordshire",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330",
-        "county": "Dudley, Sandwell, Staffordshire, Wolverhampton, Worcestershire",
-        "notation": "033WAF330",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF330/polygon",
-        "riverOrSea": "River Stour, Smestow Brook"
-      },
-      "floodAreaID": "033WAF330",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-14T11:50:00",
-      "timeRaised": "2024-10-14T11:50:54",
-      "timeSeverityChanged": "2024-10-14T11:50:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF10Dikler",
@@ -769,6 +727,27 @@
       "timeMessageChanged": "2024-10-15T08:52:00",
       "timeRaised": "2024-10-15T08:52:59",
       "timeSeverityChanged": "2024-10-14T20:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
+      "description": "Climping Seafront",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404",
+        "county": "West Sussex",
+        "notation": "065WAC404",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC404/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC404",
+      "isTidal": true,
+      "message": "Wednesday morning's tide at 11:00 on 16/10/2024 is higher than normal due to unsettled weather with strong Southerly Force 5 winds. The weather increases tide table values by 0.17 m. The total forecast tide is 6.15 metres Chart Datum (3.10 mAOD) at Littlehampton. For 2 hours either side of high tide, minimal flood impacts are expected. A small amount of water could find its way behind the beach and may pond on nearby land and fields including at Climping Street Car Park and Mill Lane. Wednesday evening's tide at 23:30 16/10/2024 is forecast to be 4 cm higher (3.14 mAOD). Similar flood impacts are predicted to continue each high tide until Saturday 19/10/2024. We continue to monitor the forecast and routinely check the condition of the beach at Climping. Shingle and debris can be thrown by large waves. Access could be restricted during and after high tide. Take care if visiting Climping beach. We will update this message by 18:00 on 16/10/2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-10-15T11:54:00",
+      "timeRaised": "2024-10-15T11:55:12",
+      "timeSeverityChanged": "2024-10-15T11:54:00"
     }
   ]
 }
