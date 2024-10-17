@@ -868,12 +868,12 @@
       },
       "floodAreaID": "121WAF925",
       "isTidal": false,
-      "message": "River levels on the Lower River Tees are rising due to persistent and heavy rainfall overnight and into Thursday morning, 17/10/2024. Flooding is possible from lunchtime today and throughout Thursday afternoon when river levels will be high. Flooding is forecast to affect locations near the River Tees particularly in Yarm, with low lying land and roads and riverside footpaths expected to be most affected. Avoid using low lying footpaths and any bridges near local watercourses. We are closely monitoring the situation. All flood gates at Yarm will be closed from 11:00 AM today and will remain closed during the afternoon until river levels begin to fall. This message will be updated by 07:00 PM on 17/10/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-10-17T10:57:00",
-      "timeRaised": "2024-10-17T10:57:59",
-      "timeSeverityChanged": "2024-10-16T17:28:00"
+      "message": "River levels are beginning to fall and there is no longer a threat of flooding, though standing water and debris may still remain.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nDon't put yourself or others at risk.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-10-17T20:42:00",
+      "timeRaised": "2024-10-17T20:42:11",
+      "timeSeverityChanged": "2024-10-17T20:42:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
@@ -5678,6 +5678,27 @@
       "timeMessageChanged": "2024-10-17T20:18:00",
       "timeRaised": "2024-10-17T20:18:28",
       "timeSeverityChanged": "2024-10-17T20:18:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFSE550",
+      "description": "River Severn at Apperley and The Leigh",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE550",
+        "county": "Gloucestershire",
+        "notation": "031FWFSE550",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFSE550/polygon",
+        "riverOrSea": "River Severn"
+      },
+      "floodAreaID": "031FWFSE550",
+      "isTidal": false,
+      "message": "River levels are forecast to rise at the Haw Bridge river gauge as a result of high tides coinciding with rising river levels from recent heavy rainfall.  Consequently, flooding of property, roads and farmland is possible around 10pm this evening, and 10am tomorrow morning, Friday 18/10/24.  We expect flooding to affect Gabb Lane at Apperley and local caravan parks.\nPredicted Peaks at Haw Bridge during high tides:-\n4.5m to 4.7m at 10:30pm this evening, 17/10/24   \n4.6m to 4.8m at 11am tomorrow morning, 18/10/24   \nFurther high tides are expected over the next few days. \nWe are closely monitoring the situation.\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 9am tomorrow, Friday 18/10/24, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-10-17T20:52:00",
+      "timeRaised": "2024-10-17T20:53:03",
+      "timeSeverityChanged": "2024-10-17T20:52:00"
     }
   ]
 }
