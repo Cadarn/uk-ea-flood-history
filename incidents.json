@@ -3493,12 +3493,12 @@
       },
       "floodAreaID": "012FWCTL32A",
       "isTidal": true,
-      "message": "Higher than normal tides are expected to cause flooding later tonight.\nThe next high tide is at 12:42 AM on 19/10/2024 and flooding is possible 2 hours either side of this time.\nAreas most at risk include Nestleton, Underbank Road, Aylesbury House and Silcock's Cottages.\nThe following high tide at 13:05 PM on 19/10/2024 is not expected to reach flood warning level.\nConsecutive high tides over the next 3 days may lead to flooding. We are closely monitoring the situation and checking flood defences.\nStay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 08:00 AM on 19/10/2024, or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-10-18T16:19:00",
-      "timeRaised": "2024-10-18T16:20:01",
-      "timeSeverityChanged": "2024-10-17T16:12:00"
+      "message": "The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nThe next 2 tides will reach flood alert but not flood warning level.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-10-19T07:14:00",
+      "timeRaised": "2024-10-19T07:15:07",
+      "timeSeverityChanged": "2024-10-19T07:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT962",
@@ -5179,6 +5179,27 @@
       "timeMessageChanged": "2024-10-19T05:19:00",
       "timeRaised": "2024-10-19T05:20:02",
       "timeSeverityChanged": "2024-10-19T05:19:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFLUBRAUNST",
+      "description": "Lubbesthorpe and Thorpe Astley Brooks at Braunstone Town",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFLUBRAUNST",
+        "county": "Leicestershire",
+        "notation": "034FWFLUBRAUNST",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFLUBRAUNST/polygon",
+        "riverOrSea": "Lubbesthorpe Brook, Thorpe Astley Brook"
+      },
+      "floodAreaID": "034FWFLUBRAUNST",
+      "isTidal": false,
+      "message": " River levels have risen at the Leicester Tuffleys Way river gauge as a result of heavy rainfall.  Consequently, flooding (of property) is imminent.  Areas most at risk are Braunstone Town.   \nFurther rainfall is forecast over the next 24 hours.  We expect river levels to rise until this evening, 19/10/2024. \nWe are closely monitoring the situation.  \nPlease avoid contact with flood water and have a bag ready with vital items like medicines and insurance documents.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 17:00 this evening, 19/10/24, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-10-19T07:09:00",
+      "timeRaised": "2024-10-19T07:09:37",
+      "timeSeverityChanged": "2024-10-19T07:09:00"
     }
   ]
 }
