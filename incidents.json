@@ -750,27 +750,6 @@
       "timeSeverityChanged": "2024-10-09T07:00:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF924",
-      "description": "Upper River Tees",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924",
-        "county": "County Durham, Darlington, North Yorkshire, Westmorland and Furness",
-        "notation": "121WAF924",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924/polygon",
-        "riverOrSea": "River Tees"
-      },
-      "floodAreaID": "121WAF924",
-      "isTidal": false,
-      "message": "River levels are beginning to fall and there is no longer a threat of flooding, though standing water and debris may still remain until it can naturally drain away.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:35:00",
-      "timeRaised": "2024-10-21T10:35:51",
-      "timeSeverityChanged": "2024-10-21T10:35:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
       "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -979,90 +958,6 @@
       "timeMessageChanged": "2024-10-22T08:51:00",
       "timeRaised": "2024-10-22T08:51:14",
       "timeSeverityChanged": "2024-10-22T08:51:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1DA00",
-      "description": "Plymouth Sound, Wembury Bay and tidal estuaries",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00",
-        "county": "Cornwall, Devon, Plymouth",
-        "notation": "114WACT1T1DA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1DA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1DA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:48:00",
-      "timeRaised": "2024-10-21T10:48:25",
-      "timeSeverityChanged": "2024-10-21T10:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
-      "description": "South Cornwall coast from Gribbin Head to Rame Head",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1CA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1CA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:48:00",
-      "timeRaised": "2024-10-21T10:48:32",
-      "timeSeverityChanged": "2024-10-21T10:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
-      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1BA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1BA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:48:00",
-      "timeRaised": "2024-10-21T10:48:40",
-      "timeSeverityChanged": "2024-10-21T10:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WATFALEST1",
-      "description": "Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1",
-        "county": "Cornwall",
-        "notation": "114WATFALEST1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WATFALEST1/polygon",
-        "riverOrSea": "South Cornwall Coast, Tidal Fal Estuary"
-      },
-      "floodAreaID": "114WATFALEST1",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:48:00",
-      "timeRaised": "2024-10-21T10:48:38",
-      "timeSeverityChanged": "2024-10-21T10:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
@@ -1315,48 +1210,6 @@
       "timeMessageChanged": "2024-10-22T08:44:00",
       "timeRaised": "2024-10-22T08:44:41",
       "timeSeverityChanged": "2024-10-17T09:33:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1AA00",
-      "description": "South Cornwall Coast from Lands End to Lizard Point",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1AA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T1AA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1AA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T1AA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:48:00",
-      "timeRaised": "2024-10-21T10:48:49",
-      "timeSeverityChanged": "2024-10-21T10:48:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2AA00",
-      "description": "North Cornwall coast from Lands End to Chapel Porth",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2AA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T2AA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2AA00/polygon",
-        "riverOrSea": "North Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T2AA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:47:00",
-      "timeRaised": "2024-10-21T10:48:02",
-      "timeSeverityChanged": "2024-10-21T10:47:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
@@ -1695,111 +1548,6 @@
       "timeSeverityChanged": "2024-10-21T17:50:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2BA00",
-      "description": "North Cornwall coast from Chapel Porth to The Rumps excluding the tidal Camel Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2BA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T2BA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2BA00/polygon",
-        "riverOrSea": "North Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T2BA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:47:00",
-      "timeRaised": "2024-10-21T10:47:55",
-      "timeSeverityChanged": "2024-10-21T10:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T2DA00",
-      "description": "North Cornwall coast from The Rumps to Hartland Point",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2DA00",
-        "county": "Cornwall",
-        "notation": "114WACT1T2DA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T2DA00/polygon",
-        "riverOrSea": "North Cornwall Coast"
-      },
-      "floodAreaID": "114WACT1T2DA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower, and weather conditions have improved. No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:47:00",
-      "timeRaised": "2024-10-21T10:47:49",
-      "timeSeverityChanged": "2024-10-21T10:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWT1T1AA00",
-      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1AA00",
-        "county": "Cornwall",
-        "notation": "114FWT1T1AA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1AA00/polygon",
-        "riverOrSea": "South Cornwall coast"
-      },
-      "floodAreaID": "114FWT1T1AA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower and weather conditions have improved.  No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:58:00",
-      "timeRaised": "2024-10-21T10:59:26",
-      "timeSeverityChanged": "2024-10-21T10:58:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWTFALEST1",
-      "description": "Tidal Fal Estuary",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWTFALEST1",
-        "county": "Cornwall",
-        "notation": "114FWTFALEST1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWTFALEST1/polygon",
-        "riverOrSea": "South Cornwall Coast, Tidal Fal Estuary"
-      },
-      "floodAreaID": "114FWTFALEST1",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower and weather conditions have improved.  No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:58:00",
-      "timeRaised": "2024-10-21T10:59:01",
-      "timeSeverityChanged": "2024-10-21T10:58:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWT1T1EA00",
-      "description": "South Cornwall coast from Gribbin Head to Rame Head",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1EA00",
-        "county": "Cornwall",
-        "notation": "114FWT1T1EA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1EA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114FWT1T1EA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower and weather conditions have improved.  No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:58:00",
-      "timeRaised": "2024-10-21T10:58:54",
-      "timeSeverityChanged": "2024-10-21T10:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWBTRALKBRFLT",
       "description": "River Trent at Alkborough Flats",
       "eaAreaName": "East Midlands",
@@ -1966,48 +1714,6 @@
       "timeMessageChanged": "2024-10-19T07:32:00",
       "timeRaised": "2024-10-19T07:32:48",
       "timeSeverityChanged": "2024-10-19T07:32:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWT1T1BB00",
-      "description": "South Cornwall coast at Mounts Bay, seafront properties",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1BB00",
-        "county": "Cornwall",
-        "notation": "114FWT1T1BB00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1BB00/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "114FWT1T1BB00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower and weather conditions have improved.  No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:59:00",
-      "timeRaised": "2024-10-21T10:59:28",
-      "timeSeverityChanged": "2024-10-21T10:59:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114FWT1T1BA00",
-      "description": "South Cornwall coast from Lands End to Lizard Point excluding Mounts Bay",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1BA00",
-        "county": "Cornwall",
-        "notation": "114FWT1T1BA00",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114FWT1T1BA00/polygon",
-        "riverOrSea": "South Cornwall Coast"
-      },
-      "floodAreaID": "114FWT1T1BA00",
-      "isTidal": true,
-      "message": "Following some minor flood impacts over the weekend, tide levels are now lower and weather conditions have improved.  No further coastal flooding is forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-10-21T10:59:00",
-      "timeRaised": "2024-10-21T10:59:29",
-      "timeSeverityChanged": "2024-10-21T10:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAF100RUA",
