@@ -36,6 +36,27 @@
       "timeSeverityChanged": "2024-11-15T14:31:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions overnight may lead to flooding from sea spray and wave overtopping. Flooding is possible on Saturday 16/11/2024, between 01:45 and 05:15 and between 16:15 and 20:45. Areas most at risk include the North Sea coast from Staithes to Whitby, including Sandsend and the tidal River Esk. We are closely monitoring the situation and will issue flood warnings if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 09:00 on Saturday 16/11/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-15T15:17:00",
+      "timeRaised": "2024-11-15T15:17:34",
+      "timeSeverityChanged": "2024-11-15T15:17:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
       "description": "Coast at North Morecambe Bay",
       "eaAreaName": "Cumbria and Lancashire",
@@ -223,6 +244,48 @@
       "timeMessageChanged": "2024-11-15T14:17:00",
       "timeRaised": "2024-11-15T14:17:23",
       "timeSeverityChanged": "2024-11-15T14:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWBTRALKBRFLT",
+      "description": "River Trent at Alkborough Flats",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWBTRALKBRFLT",
+        "county": "North Lincolnshire",
+        "notation": "034FWBTRALKBRFLT",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWBTRALKBRFLT/polygon",
+        "riverOrSea": "River Trent"
+      },
+      "floodAreaID": "034FWBTRALKBRFLT",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Keadby river gauge as a result of high spring tides and strong winds causing a possible tidal surge.  Flooding is possible on high tides tomorrow, 16/11/2024 at 06:30, and on Sunday morning, 17/11/2024 at 07:00. Areas most at risk are the Alkborough Flats. The Keadby river gauge is forecast to overtop the lower and upper spillways and result in flooding.   \n We expect river levels to remain high on high tides until at least Monday, 18/11/2024.\nWe are closely monitoring the situation.  Our incident response staff are patrolling watercourses in the area.  \nPlease avoid using low-lying footpaths near local watercourses and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 09:00 tomorrow morning, 16/11/2024, or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-11-15T15:09:00",
+      "timeRaised": "2024-11-15T15:10:14",
+      "timeSeverityChanged": "2024-11-15T15:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  between 7:45am and 9:45am tomorrow, Saturday 16th November. The tide this evening, Friday 15th November at 8:45pm will not reach flood alert level. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points.  The detailed forecast for those that use it is for a peak level at Lowestoft of 1.71 mAODN at 8:45am, Saturday 16th November, which is 0.42m above tide tables, wind Force 5, Westerly. (mAODN is height above average sea level, for more info refer to local tide tables).  We are in a period of high springs, which lasts until 20th November. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 2pm, Saturday 16th November.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-15T14:43:00",
+      "timeRaised": "2024-11-15T14:43:32",
+      "timeSeverityChanged": "2024-11-15T14:43:00"
     }
   ]
 }
