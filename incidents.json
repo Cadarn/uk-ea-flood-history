@@ -560,6 +560,27 @@
       "timeSeverityChanged": "2024-11-23T14:50:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF113",
+      "description": "River Blackwater",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF113",
+        "county": "Hampshire, Wiltshire",
+        "notation": "065WAF113",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF113/polygon",
+        "riverOrSea": "River Blackwater"
+      },
+      "floodAreaID": "065WAF113",
+      "isTidal": false,
+      "message": "The water level in the River Blackwater at Ower, and Cadnam River is high and rising. In the last 12 hours, 22mm of rain has been recorded in Romsey. This is a modest amount but almost half a month’s rain has been recorded in the last 6 days. From 23:00 this evening (23/11/24) the river will begin to flood land, fields and roads at Cadnam, West Wellow, Landford and Ower. Water levels will also be very high around the mill building at East Wellow. Storm Bert will bring rain until midnight tonight. There will then be a temporary respite, but further rain is forecast on Sunday when 20-30mm is expected. In response to the rainfall today, the river will continue to rise until at least 07:00 tomorrow morning. With further rain tomorrow, it is likely that a Flood Warning for onset of property flooding will be issued in the morning. We continue to monitor the forecast. Our operations staff will work to ensure the river remains free of any reported blockages. Please ensure that pumps used to protect property are operating. This Flood Alert will be updated by 12:00 on 24/11/24.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-23T20:06:00",
+      "timeRaised": "2024-11-23T20:07:06",
+      "timeSeverityChanged": "2024-11-23T20:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTESR",
       "description": "East Somerset Rivers",
       "eaAreaName": "Wessex",
@@ -767,6 +788,48 @@
       "timeMessageChanged": "2024-11-23T16:05:00",
       "timeRaised": "2024-11-23T16:05:22",
       "timeSeverityChanged": "2024-11-23T16:05:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF924",
+      "description": "Upper River Tees",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924",
+        "county": "County Durham, Darlington, North Yorkshire, Westmorland and Furness",
+        "notation": "121WAF924",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF924/polygon",
+        "riverOrSea": "River Tees"
+      },
+      "floodAreaID": "121WAF924",
+      "isTidal": false,
+      "message": "Flooding of roads and low lying land is possible, property flooding is not expected.\nFlooding is possible between 8:00 PM on 23/11/2024 and 4:00 AM on 24/11/2024.\nLocations to be affected are near the Upper River Tees, with low lying land and roads expected to be most affected, particularly around Riverside footpaths and low lying land and roads.\nWeather conditions are expected to improve overnight and no further flooding is expected.\nAvoid using low lying footpaths and any bridges near local watercourses.\nThis message will be updated by 9:00 AM on 24/11/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-23T19:50:00",
+      "timeRaised": "2024-11-23T19:50:28",
+      "timeSeverityChanged": "2024-11-23T19:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF925",
+      "description": "Lower River Tees and estuarine tributaries",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF925",
+        "county": "County Durham, Darlington, Hartlepool, Middlesbrough, North Yorkshire, Stockton-on-Tees",
+        "notation": "121WAF925",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF925/polygon",
+        "riverOrSea": "River Tees"
+      },
+      "floodAreaID": "121WAF925",
+      "isTidal": false,
+      "message": "Flooding of roads and low lying land is possible, property flooding is not expected.\nFlooding is possible between 3:00 AM on 24/11/2024 and 7:30 PM on 24/11/2024.\nLocations to be affected are near the Lower River Tees and estuarine tributaries, with low lying land and roads expected to be most affected, particularly around riverside footpaths and low lying land and roads.\nWeather conditions are expected to improve overnight and no further flooding is expected.\nAvoid using low lying footpaths and any bridges near local watercourses.\nThis message will be updated by 9:00 AM on 24/11/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-23T20:12:00",
+      "timeRaised": "2024-11-23T20:13:07",
+      "timeSeverityChanged": "2024-11-23T20:12:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W10A00",
@@ -1244,11 +1307,11 @@
       },
       "floodAreaID": "123WAF964",
       "isTidal": false,
-      "message": "Widespread heavy rain associated with Storm Bert, possibly falling as snow at first, is expected across the Lower Calder catchment, with the rain persisting for much of today (Saturday 23 November 2024). River levels are expected to rise through the afternoon and evening, potentially peaking on the Calder at Mirfield late Saturday evening.\n\nImpacts are possible from river and surface water flooding in the Mirfield, Horbury and Wakefield areas, including Calder View Road from around mid afternoon onwards. Further rainfall is expected at times on Sunday 24 November 2024 with additional impacts possible.\n\nWe are closely monitoring the situation and our Area Incident Room will be open through the weekend.\n\nTake care and avoid walking, cycling or driving through flood water or walking near swollen rivers, particularly on Saturday 23 November 2024 when gale force winds are forecast. Areas most at risk are low lying land and roads near rivers.\n\nThis message will be updated by 19:30 on Saturday 23 November 2024, or as the situation changes.",
+      "message": "The impacts from widespread heavy rain associated with Storm Bert are expected across the Lower Calder catchment for the rest of the weekend (Saturday 23 November and Sunday 24 November). Rainfall is expected to continue into Sunday morning - river levels are expected to stay high as a result, and flooding remains possible.\nImpacts remain possible from river and surface water flooding in the Mirfield, Horbury and Wakefield areas, including Calder View Road, as river levels are expected to peak on Saturday evening between 19:30 and 21:30. Further rainfall is expected at times on Sunday 24 November, including overnight, with additional impacts possible.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-11-23T07:56:00",
-      "timeRaised": "2024-11-23T07:56:34",
+      "timeMessageChanged": "2024-11-23T19:33:00",
+      "timeRaised": "2024-11-23T19:34:06",
       "timeSeverityChanged": "2024-11-22T15:25:00"
     },
     {
@@ -1265,11 +1328,11 @@
       },
       "floodAreaID": "123WAF963",
       "isTidal": false,
-      "message": "Widespread heavy rain associated with Storm Bert, and snow over higher ground, is expected across the Calder catchment with the rain persisting for much of today (Saturday 23 November 2024). River levels are expected to rise as a result and flooding is possible.\n\nImpacts are possible in the Todmorden, Hebden Bridge and Mytholmroyd areas from 14:00 Saturday 23 November 2024. Levels are then anticipated to fall overnight. Further rainfall is expected at times on Sunday 24 November 2024 with further impacts possible.\n\nFlooding of roads and low lying land is possible from rivers and surface water. We are closely monitoring the situation and our Area Incident Room will be open through the weekend.\nTake care and avoid walking, cycling or driving through flood water or walking near swollen rivers, particularly on Saturday 23 November 2024 when gale force winds are forecast.\nAreas most at risk are low lying land and roads near rivers.\n\nThis message will be updated by 19:30 on Saturday 23 November 2024, or as the situation changes.",
+      "message": "The impacts from widespread heavy rain associated with Storm Bert, and snowmelt over higher ground, are expected to continue for the rest of the weekend (Saturday 23 November and Sunday 24 November). Rainfall is expected to continue into Sunday morning - river levels are expected to stay high as a result, and flooding remains possible.\nImpacts remain possible in the Todmorden, Hebden Bridge and Mytholmroyd areas throughout Saturday evening. Levels are anticipated to fall overnight. Further rainfall is expected at times on Sunday with further impacts possible.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-11-23T08:00:00",
-      "timeRaised": "2024-11-23T08:01:00",
+      "timeMessageChanged": "2024-11-23T19:33:00",
+      "timeRaised": "2024-11-23T19:34:19",
       "timeSeverityChanged": "2024-11-22T15:09:00"
     },
     {
@@ -1307,11 +1370,11 @@
       },
       "floodAreaID": "122WAC954",
       "isTidal": true,
-      "message": "Strong winds associated with Storm Bert may lead to flooding and dangerous conditions from sea spray and wave overtopping. Flooding is possible today, Saturday 23/11/2024 between 10:15 and 16:00, and again between 22:00 and 02:00 Sunday 24/11/2024. Areas most at risk include the North Sea coast from Bridlington to Barmston, particularly  exposed parts of the coastline. We are closely monitoring the situation and will issue flood warnings if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 20:30 on Saturday 23/11/202, or as the situation changes.",
+      "message": "Strong winds associated with Storm Bert may lead to flooding and dangerous conditions, due to sea spray and wave overtopping. Flood risk remains possible for tides, on Sunday 24/11/2024, between 11am and 7pm. Areas most at risk include the North Sea coast from Bridlington to Barmston, particularly exposed parts of the coastline. We are closely monitoring the situation and will issue flood warnings if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 8am on Sunday 24/11/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-11-23T08:09:00",
-      "timeRaised": "2024-11-23T08:09:52",
+      "timeMessageChanged": "2024-11-23T19:57:00",
+      "timeRaised": "2024-11-23T19:57:21",
       "timeSeverityChanged": "2024-11-23T08:09:00"
     },
     {
@@ -3917,6 +3980,48 @@
       "timeMessageChanged": "2024-11-23T19:22:00",
       "timeRaised": "2024-11-23T19:22:49",
       "timeSeverityChanged": "2024-11-23T19:22:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113FWF2D0C",
+      "description": "River Torridge (Lower) from Dolton to Bideford, including Taddiport and Weare Giffard",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2D0C",
+        "county": "Devon",
+        "notation": "113FWF2D0C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113FWF2D0C/polygon",
+        "riverOrSea": "River Torridge"
+      },
+      "floodAreaID": "113FWF2D0C",
+      "isTidal": false,
+      "message": "Flooding is expected overnight on Saturday (23rd November) and throughout Sunday (24th November). Heavy rain has been falling in the River Torridge area, causing the River Torridge to rise. Properties and low lying areas in Taddiport (properties around Taddiport Bridge, Sewage Treatment Works and B3227) and Weare Giffard (riverside properties and roads), will start to flood first from the early hours of Sunday. Flood waters may be deep and fast flowing in these areas. Residents are strongly urged to take action now. Remain safe and be aware of your local surroundings. We are closely monitoring the situation, and this message will be updated Sunday afternoon, or if the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-11-23T19:51:00",
+      "timeRaised": "2024-11-23T19:52:12",
+      "timeSeverityChanged": "2024-11-23T19:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012FWFL6A",
+      "description": "River Ribble at Walton-le-Dale, area from Fishwick Bottoms to Railway Bridge",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL6A",
+        "county": "Lancashire",
+        "notation": "012FWFL6A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012FWFL6A/polygon",
+        "riverOrSea": "River Ribble"
+      },
+      "floodAreaID": "012FWFL6A",
+      "isTidal": false,
+      "message": "Rising river levels are expected to cause flooding this evening. Flooding is expected when river levels are at their highest from 8:30 PM on 23/11/2024. Areas most at risk include Fishwick Bottoms area on the north bank of the River Ribble upstream of Walton Bridge. Properties on the South bank of the Ribble between the Darwen Confluence and the Railway Bridge including the sewage works and Catholic College playing fields. Further rainfall is forecast overnight. Our incident rooms are open and we are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Monitor local water levels and weather conditions. This message will be updated by 10:00 AM on 24/11/2024, or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-11-23T20:12:00",
+      "timeRaised": "2024-11-23T20:13:01",
+      "timeSeverityChanged": "2024-11-23T20:12:00"
     }
   ]
 }
