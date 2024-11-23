@@ -2092,6 +2092,27 @@
       "timeSeverityChanged": "2024-11-23T16:03:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
+      "description": "Lower Tone and Parrett Moors",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTPM",
+        "county": "Somerset",
+        "notation": "112WAFTPM",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTPM/polygon",
+        "riverOrSea": "River Tone, River Parrett"
+      },
+      "floodAreaID": "112WAFTPM",
+      "isTidal": false,
+      "message": " As a result of the rainfall on Saturday associated with Storm Bert, The River Tone level at Currymoor pumping station is 6.44 m and is rising by approximately 200 mm per hour. Water will enter Currymoor reservoir via Hookbridge spillway whilst this level exceeds 7.45m. \n\nThe drain level at Currymoor pumping station is 4.10 m and is falling as we pump. The drain will begin to rise if hookbridge spillway starts to run and at the current rate of rise this could be at around 03:00 am on Sunday 24/11/2024. Cutts Road floods when this level is above 5.75m, and New Road when the level is above 6.18m. There is a risk of water overtopping Haymoor flood storage area and affecting Curload and Stan Moor if this level reaches 8.30m. For the latest river and drain levels refer to https://check-for-flooding.service.gov.uk/river-and-sea-levels\n\nRainfall will continue through Sunday and the situation is being continually monitored and staff have been checking the condition of flood banks, spillways and weed screens. This message will be updated by 11AM on 24/11/2024, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-23T21:28:00",
+      "timeRaised": "2024-11-23T21:29:00",
+      "timeSeverityChanged": "2024-11-23T21:28:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFWE",
       "description": "Weaver catchment including Nantwich, Frodsham, Crewe, Winsford and Northwich",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -3533,12 +3554,12 @@
       },
       "floodAreaID": "013FWFGM25",
       "isTidal": false,
-      "message": "High river levels are expected to cause flooding and will peak 18:00-19:00 hours, with high water until Sunday morning 24 November 2024.\nFlooding is forecast to affect locations near the River Irwell, with low lying land and roads expected to be most affected, particularly around properties along the River Irwell.\nStart acting on your flood plan if you have one.\nTake care and avoid walking, cycling or driving through flood water.\nThis message will be updated by 12:00 noon on 24/11/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-11-23T15:58:00",
-      "timeRaised": "2024-11-23T15:58:53",
-      "timeSeverityChanged": "2024-11-23T15:58:00"
+      "message": " The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible.\nThere may still be some areas where flood water is present until it can naturally drain away.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-11-23T21:18:00",
+      "timeRaised": "2024-11-23T21:19:05",
+      "timeSeverityChanged": "2024-11-23T21:18:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF409",
@@ -4127,6 +4148,27 @@
       "timeMessageChanged": "2024-11-23T20:40:00",
       "timeRaised": "2024-11-23T20:40:53",
       "timeSeverityChanged": "2024-11-23T20:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF106",
+      "description": "River Dun",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF106",
+        "county": "Hampshire, Wiltshire",
+        "notation": "065WAF106",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF106/polygon",
+        "riverOrSea": "River Dun"
+      },
+      "floodAreaID": "065WAF106",
+      "isTidal": false,
+      "message": "The water level in the River Dun at Dunbridge is high and rising. In the last 12 hours, 20mm of rain has been recorded at Broughton. This is a modest amount but follows a week of wetter weather. From midnight tonight, the level in the river may just begin to come out of bank and may cause minor impact flooding to the road at Rectory Road, nearest the railway line at West Dean. Rain caused by Storm Bert will continue until the early hours of Sunday morning (24/11/24). There will then be a temporary respite, before a further 20-30mm is expected. In response to the rainfall recorded today, the river may continue to rise until at least midnight. Our operations staff are ensuring the River Dun is free of blockages. We continue to monitor the forecast. At West Dean, we recommend moving any cars which are parked close to the river for, if not overnight, then tomorrow, when more significant road flooding is expected. This Flood Alert will be updated by 12:00 on 24/11/24.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-11-23T21:20:00",
+      "timeRaised": "2024-11-23T21:21:10",
+      "timeSeverityChanged": "2024-11-23T21:20:00"
     }
   ]
 }
