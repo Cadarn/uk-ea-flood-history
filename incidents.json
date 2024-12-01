@@ -70,12 +70,12 @@
       },
       "floodAreaID": "034WAF428",
       "isTidal": false,
-      "message": "River levels are high but falling at the Pillings Lock river gauge.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads including Slash Lane at Sileby and the Mountsorrel to Sileby road.\nSome light rainfall is forecast tomorrow 01/12/24.  We expect river levels to remain high over the next 48 hours.\nWe are closely monitoring the situation.  \nPlease avoid contact with flood water and plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nThis message will be updated by 09:00 on 01/12/24, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-11-30T18:18:00",
-      "timeRaised": "2024-11-30T18:18:16",
-      "timeSeverityChanged": "2024-11-23T16:25:00"
+      "message": "This Flood Alert has been removed.  \nRiver levels have now fallen below the flood risk threshold.  There is no longer a threat of flooding, though standing water and debris may still remain.  Further light rainfall is forecast over the next 24 hours.  \nWe continue to monitor the situation.  \nTo check the status of road closures online, please visit the One Network live map.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-01T09:02:00",
+      "timeRaised": "2024-12-01T09:02:28",
+      "timeSeverityChanged": "2024-12-01T09:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF02Churn",
@@ -259,11 +259,11 @@
       },
       "floodAreaID": "061FWF14Islip",
       "isTidal": false,
-      "message": " Property flooding is possible. River levels are high but slowly falling on the River Ray at Islip following recent heavy rainfall from Storm Bert and water moving downstream. Flooding of property and roads remains possible. Areas most at risk are properties located closest to the river on Mill Street​. The weather forecast is for predominantly dry conditions overnight with scattered showers in the coming days. River levels are expected to continue to slowly fall over the coming days. Levels remain sensitive to further rainfall.  \nMove possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Do not drive through flood water. This message will be updated tomorrow morning, 01/12/2024, or as the situation changes.",
+      "message": "Property flooding is possible. \n\nRiver levels are high but slowly falling on the River Ray at Islip. Flooding of property and roads remains possible, but further property flooding is not expected. Areas most at risk are properties located closest to the river on Mill Street. \n\nThe weather forecast is for scattered showers over the coming days. We do not expect these showers to significantly affect river levels. River levels are expected to continue to slowly fall over the coming days. Levels remain sensitive to further rainfall.  \n\nMove possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Do not drive through flood water. \n\nThis message will be updated before this evening, 01/12/2024, or as the situation changes. \n ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T16:43:00",
-      "timeRaised": "2024-11-30T16:43:55",
+      "timeMessageChanged": "2024-12-01T09:07:00",
+      "timeRaised": "2024-12-01T09:07:28",
       "timeSeverityChanged": "2024-11-25T18:10:00"
     },
     {
@@ -574,33 +574,12 @@
       },
       "floodAreaID": "061FWF14Murcott",
       "isTidal": false,
-      "message": " Property flooding remains possible. River levels are falling slowly on the River Ray between Lower Arncott and Islip following heavy rainfall from Storm Bert. Flooding of property and roads remains possible between Lower Arncott and Islip. The weather forecast is for predominantly dry conditions overnight with scattered showers forecast for the coming days. River levels are expected to continue to slowly fall over the coming days but levels will remain sensitive to further rainfall.  \nMove possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Do not drive through flood water. This message will be updated tomorrow morning, 01/12/2024, or as the situation changes.",
+      "message": "Property flooding remains possible. \n\nRiver levels are falling slowly on the River Ray. Flooding of property and roads remains possible, but further property flooding is not expected. \n\nThe weather forecast is for scattered showers over the coming days. We do not expect these showers to significantly affect river levels. River levels are expected to continue to slowly fall over the coming days, but levels will remain sensitive to further rainfall. \n \nMove possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Do not drive through flood water. \n\nThis message will be updated before this evening, 01/12/2024, or as the situation changes. \n ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T16:43:00",
-      "timeRaised": "2024-11-30T16:44:03",
+      "timeMessageChanged": "2024-12-01T09:07:00",
+      "timeRaised": "2024-12-01T09:07:36",
       "timeSeverityChanged": "2024-11-25T00:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFTOVE",
-      "description": "River Tove in Northamptonshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFTOVE",
-        "county": "Milton Keynes, West Northamptonshire",
-        "notation": "052WAFTOVE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFTOVE/polygon",
-        "riverOrSea": "River Tove"
-      },
-      "floodAreaID": "052WAFTOVE",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:14:00",
-      "timeRaised": "2024-11-30T09:15:05",
-      "timeSeverityChanged": "2024-11-30T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOBE",
@@ -897,27 +876,6 @@
       "timeSeverityChanged": "2024-11-24T08:07:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFUPOUSE",
-      "description": "Upper River Great Ouse in Northamptonshire, Oxfordshire and Buckinghamshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUPOUSE",
-        "county": "Buckinghamshire, Milton Keynes, Oxfordshire, West Northamptonshire",
-        "notation": "052WAFUPOUSE",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFUPOUSE/polygon",
-        "riverOrSea": "River Great Ouse"
-      },
-      "floodAreaID": "052WAFUPOUSE",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:15:00",
-      "timeRaised": "2024-11-30T09:15:10",
-      "timeSeverityChanged": "2024-11-30T09:15:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFRYP",
       "description": "Rivers Yeo and Parrett, downstream of Yeovil to Steart",
       "eaAreaName": "Wessex",
@@ -1021,27 +979,6 @@
       "timeMessageChanged": "2024-11-30T10:37:00",
       "timeRaised": "2024-11-30T10:37:21",
       "timeSeverityChanged": "2024-11-24T20:15:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFALCONBURY",
-      "description": "Alconbury Brook in Cambridgeshire",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFALCONBURY",
-        "county": "Cambridgeshire, North Northamptonshire",
-        "notation": "052WAFALCONBURY",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFALCONBURY/polygon",
-        "riverOrSea": "Alconbury Brook"
-      },
-      "floodAreaID": "052WAFALCONBURY",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:14:00",
-      "timeRaised": "2024-11-30T09:15:01",
-      "timeSeverityChanged": "2024-11-30T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF24BlkWater",
@@ -1183,12 +1120,12 @@
       },
       "floodAreaID": "061WAF24LLoddon",
       "isTidal": false,
-      "message": "Property flooding is not currently expected. \n\nRiver levels remain high but are continuing to fall on the Lower River Loddon following heavy rainfall earlier in the week. Flooding of low lying land and roads is expected to continue today, 30/11/2024, especially in the Sindlesham Mill area. The forecast is dry today with some light rainfall anticipated on Sunday, 01/12/24. We expect river levels to continue falling in the coming days. We are monitoring the situation. \n\nAvoid using low lying footpaths near local watercourses. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated tomorrow morning, 01/12/24, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-11-30T09:20:00",
-      "timeRaised": "2024-11-30T09:20:45",
-      "timeSeverityChanged": "2024-11-24T17:10:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-01T09:08:00",
+      "timeRaised": "2024-12-01T09:08:49",
+      "timeSeverityChanged": "2024-12-01T09:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
@@ -1876,12 +1813,12 @@
       },
       "floodAreaID": "061FWF23Buscot",
       "isTidal": false,
-      "message": " Property flooding is possible. River levels are high but falling on the River Thames following heavy rainfall from Storm Bert. Flooding of property and roads remains possible. The weather forecast is for predominantly dry conditions overnight with scattered showers in the coming days. River levels are expected to continue slowly falling over the coming days but remain high. We are monitoring the situation and operating our weirs to manage flood risk. \nOur staff are liaising with councils and emergency services. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. This message will be updated tomorrow morning, 01/12/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T16:43:00",
-      "timeRaised": "2024-11-30T16:43:53",
-      "timeSeverityChanged": "2024-11-25T17:26:00"
+      "message": "This flood warning has been removed. \n\nRiver levels have now fallen below the flood risk threshold. \n\nThe flood warning for the area has now been removed. However, a flood alert remains in force for the wider area, flooding is still affecting roads and low lying land. \n\nThe weather forecast is for scattered showers over the coming days. We do not expect these showers to significantly affect river levels. \n\nRiver levels are expected to continue falling, but will remain high over the coming days. \n\nGo to the 'River and Sea levels in England' webpage for current river levels. Avoid contact with flood water.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-01T09:02:00",
+      "timeRaised": "2024-12-01T09:02:27",
+      "timeSeverityChanged": "2024-12-01T09:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Shepprtn",
@@ -1945,69 +1882,6 @@
       "timeMessageChanged": "2024-11-30T17:04:00",
       "timeRaised": "2024-11-30T17:04:15",
       "timeSeverityChanged": "2024-11-25T19:51:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052FWFMOODELL",
-      "description": "River Great Ouse at Odell",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFMOODELL",
-        "county": "Bedford",
-        "notation": "052FWFMOODELL",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFMOODELL/polygon",
-        "riverOrSea": "River Great Ouse"
-      },
-      "floodAreaID": "052FWFMOODELL",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:14:00",
-      "timeRaised": "2024-11-30T09:14:59",
-      "timeSeverityChanged": "2024-11-30T09:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052FWFMOTURVEY",
-      "description": "River Great Ouse at Turvey",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFMOTURVEY",
-        "county": "Bedford, Milton Keynes",
-        "notation": "052FWFMOTURVEY",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFMOTURVEY/polygon",
-        "riverOrSea": "River Great Ouse"
-      },
-      "floodAreaID": "052FWFMOTURVEY",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:14:00",
-      "timeRaised": "2024-11-30T09:14:47",
-      "timeSeverityChanged": "2024-11-30T09:14:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052FWFMOHARROLD",
-      "description": "River Great Ouse at Harrold",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFMOHARROLD",
-        "county": "Bedford",
-        "notation": "052FWFMOHARROLD",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFMOHARROLD/polygon",
-        "riverOrSea": "River Great Ouse"
-      },
-      "floodAreaID": "052FWFMOHARROLD",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:14:00",
-      "timeRaised": "2024-11-30T09:14:40",
-      "timeSeverityChanged": "2024-11-30T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FWF23Abingdon",
@@ -2149,11 +2023,11 @@
       },
       "floodAreaID": "061FWF19Dorchstr",
       "isTidal": false,
-      "message": " Property flooding is possible. River levels are falling on the River Thame at Dorchester following heavy rainfall earlier in the week from Storm Bert. Flooding of properties, low lying land, and roads remains possible. Areas most at risk are properties closest to the river where it passes through Dorchester. The weather forecast is for predominantly dry conditions overnight with scattered showers in the coming days. River levels are expected to continue slowly falling over the coming days.\nWe are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Do not drive through flood water. This message will be updated tomorrow morning, 01/12/2024, or as the situation changes.",
+      "message": "Property flooding is possible. \n\nRiver levels are falling on the River Thame at Dorchester. Flooding of property and roads remains possible, but further property flooding is not expected. Areas most at risk are properties closest to the river where it passes through Dorchester. \n\nThe weather forecast is for scattered showers over the coming days. We do not expect these showers to significantly affect river levels. River levels are expected to continue slowly falling over the coming days.\n\nWe are monitoring the situation. Move possessions and valuables off the ground or to safety. Activate any property flood protection products such as flood barriers. Do not drive through flood water. \n\nThis message will be updated before this evening, 01/12/2024, or as the situation changes. \n ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T16:43:00",
-      "timeRaised": "2024-11-30T16:43:47",
+      "timeMessageChanged": "2024-12-01T09:07:00",
+      "timeRaised": "2024-12-01T09:07:19",
       "timeSeverityChanged": "2024-11-26T23:23:00"
     },
     {
@@ -2176,27 +2050,6 @@
       "timeMessageChanged": "2024-11-30T14:40:00",
       "timeRaised": "2024-11-30T14:41:02",
       "timeSeverityChanged": "2024-11-30T14:40:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF212",
-      "description": "Eastern Yar",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212",
-        "county": "Isle of Wight",
-        "notation": "065WAF212",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF212/polygon",
-        "riverOrSea": "Eastern Yar"
-      },
-      "floodAreaID": "065WAF212",
-      "isTidal": false,
-      "message": "Water levels in the Eastern Yar continued to fall over night and are predominantly back within the river channel. There may still be some patches of standing water in the flood plain. Today (30/11/2024) the weather remains dry however 3-5mm of widespread rainfall is forecast from 4am tonight through to 4pm Sunday (1/12/24). We continue to monitor the forecast. ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:09:00",
-      "timeRaised": "2024-11-30T09:09:45",
-      "timeSeverityChanged": "2024-11-30T09:09:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF29Addstne",
@@ -2275,11 +2128,11 @@
       },
       "floodAreaID": "061FWF23ShipWar",
       "isTidal": false,
-      "message": "\nProperty flooding is expected. River levels are beginning to slowly fall on the River Thames following heavy rainfall earlier in the week. Therefore, flooding of property and roads is expected to continue today, 30/11/24, especially in the Basmore Lane, Bolney Road, and Loddon Drive areas. Today is expected to be dry, with some light rainfall forecast tomorrow, Sunday, 01/12/24. We expect river levels to continue declining over the next few days. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 1/12/24, or as the situation changes. ",
+      "message": "Property flooding is expected. River levels remain high but are slowly falling on the River Thames following heavy rainfall earlier in the week. Flooding of property and roads is expected to continue today, 01/12/24, especially in the Basmore Lane, Bolney Road, and Loddon Drive areas. Scattered showers are forecast for today, drier weather is expected tomorrow, 02/12/24 and into early next week. We expect river levels to continue declining over the next few days. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by this evening, 01/12/24, or as the situation changes. ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T17:43:00",
-      "timeRaised": "2024-11-30T17:43:47",
+      "timeMessageChanged": "2024-12-01T08:48:00",
+      "timeRaised": "2024-12-01T08:49:01",
       "timeSeverityChanged": "2024-11-27T11:13:00"
     },
     {
@@ -2296,12 +2149,12 @@
       },
       "floodAreaID": "061FWF23ClfntoWt",
       "isTidal": false,
-      "message": "Property flooding is possible. \n\nRiver levels are high but slowly falling on the River Thames. Flooding of properties, low lying land, and roads remains possible, especially in the Appleford area. \n\nThe weather forecast is for predominantly dry conditions overnight with scattered showers in the coming days. River levels are expected to continue slowly falling but will remain high over the coming days. \n\nWe are monitoring the situation. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. \n\nThis message will be updated tomorrow morning, 01/12/2024, or as the situation changes",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T17:04:00",
-      "timeRaised": "2024-11-30T17:04:21",
-      "timeSeverityChanged": "2024-11-27T12:32:00"
+      "message": "This flood warning has been removed. \n\nRiver levels have now fallen below the flood risk threshold. \n\nThe flood warning for the area has now been removed. However, a flood alert remains in force for the wider area as flooding is still affecting roads and low lying land. \n\nThe weather forecast is for scattered showers over the coming days. We do not expect these showers to significantly affect river levels.\n\nRiver levels are expected to continue falling, but will remain high over the coming days. \n\nGo to the 'River and Sea levels in England' webpage for current river levels. Avoid contact with flood water.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-01T09:01:00",
+      "timeRaised": "2024-12-01T09:02:09",
+      "timeSeverityChanged": "2024-12-01T09:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAB23DitIslnd",
@@ -2485,11 +2338,11 @@
       },
       "floodAreaID": "061FWF23HenMed",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels are slowly rising on the River Thames following heavy rainfall. Therefore, flooding of property and roads is expected to continue today, 30/11/24, especially in the Mill Lane, Ferry Lane and Wargrave Road areas. Today is expected to be dry, with some light rainfall forecast tomorrow, Sunday, 1/12/24. We expect river levels to stabilise and start slowly declining today and into tomorrow, 1/12/24. We are monitoring the situation. Our staff are managing weirs on the River Thames to reduce flood risk. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 1/12/2024, or as the situation changes. ",
+      "message": "Property flooding is expected. River levels remain high on the River Thames following heavy rainfall. Therefore, flooding of property and roads is expected to continue today, 1/12/24, especially in the Mill Lane, Ferry Lane and Wargrave Road areas. Scattered showers are forecast for today, drier weather is expected tomorrow, 2/12/24 and into early next week. River levels are starting to fall and are expected to continue to fall over the next few days. We are monitoring the situation. Our staff are managing weirs on the River Thames to reduce flood risk. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by this evening, 01/12/24, or as the situation changes. ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T17:43:00",
-      "timeRaised": "2024-11-30T17:43:46",
+      "timeMessageChanged": "2024-12-01T08:48:00",
+      "timeRaised": "2024-12-01T08:48:53",
       "timeSeverityChanged": "2024-11-28T15:08:00"
     },
     {
@@ -2506,33 +2359,12 @@
       },
       "floodAreaID": "061FWF24Twyford",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels remain high but are declining on the River Loddon following heavy rainfall earlier in the week. Flooding of property and roads is expected to continue today, 30/11/24, especially in the Twyford, Charvil and Wargrave areas. Today is expected to be dry, with some light rainfall forecast tomorrow, Sunday, 01/12/24. We expect river levels to continue falling slowly over the next few days. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 1/12/24, or as the situation changes. ",
+      "message": "Property flooding is possible. River levels remain high but are declining on the River Loddon following heavy rainfall earlier in the week. Flooding of property and roads may continue today, 01/12/24, especially in the Twyford, Charvil and Wargrave areas. Scattered showers are forecast for today, drier weather is expected tomorrow, 02/12/24 and into early next week. We expect river levels to continue falling slowly over the next few days. We are monitoring the situation. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by this evening, 01/12/24, or as the situation changes. ",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T17:43:00",
-      "timeRaised": "2024-11-30T17:43:54",
+      "timeMessageChanged": "2024-12-01T08:53:00",
+      "timeRaised": "2024-12-01T08:53:13",
       "timeSeverityChanged": "2024-11-28T17:25:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052FWFLOBG",
-      "description": "River Great Ouse at Brampton and Godmanchester",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFLOBG",
-        "county": "Cambridgeshire",
-        "notation": "052FWFLOBG",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052FWFLOBG/polygon",
-        "riverOrSea": "River Great Ouse, Barracks Brook, Brampton Brook"
-      },
-      "floodAreaID": "052FWFLOBG",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-11-30T09:14:00",
-      "timeRaised": "2024-11-30T09:14:20",
-      "timeSeverityChanged": "2024-11-30T09:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052FWFLOSTO",
@@ -2569,12 +2401,12 @@
       },
       "floodAreaID": "061FWF23XMarlow",
       "isTidal": false,
-      "message": " Property flooding is expected. River levels are rising on the River Thames following heavy rainfall earlier in the week. Therefore, flooding of property and roads is expected today, 30/11/24, especially in the areas close to the River Thames from Bisham to Little Marlow.  Today is expected to be dry, with some light rainfall forecast tomorrow, Sunday, 1/12/24. We expect river levels to stabilise and start slowly declining today and into tomorrow, 1/12/24. We are monitoring the situation. Our staff are managing weirs on the River Thames to reduce flood risk. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning 1/12/2024, or as the situation changes. ",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T17:43:00",
-      "timeRaised": "2024-11-30T17:43:38",
-      "timeSeverityChanged": "2024-11-29T19:28:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-01T08:49:00",
+      "timeRaised": "2024-12-01T08:49:19",
+      "timeSeverityChanged": "2024-12-01T08:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FWF23BrneEnd",
@@ -2590,12 +2422,12 @@
       },
       "floodAreaID": "061FWF23BrneEnd",
       "isTidal": false,
-      "message": " \nProperty flooding is expected. River levels are rising on the River Thames following heavy rainfall earlier in the week. Therefore, flooding of property and roads is expected today, 30/11/24, especially in the Bourne End area. Today is expected to be dry, with some light rainfall forecast tomorrow, Sunday, 1/12/24. We expect river levels to stabilise and start slowly declining today and into tomorrow, 1/12/24. We are monitoring the situation. Our staff are managing weirs on the River Thames to reduce flood risk. Move possessions and valuables off the ground or to safety. Avoid contact with flood water. Go to the 'River and Sea levels in England' webpage for current river levels. This message will be updated by tomorrow morning, 1/12/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-11-30T17:43:00",
-      "timeRaised": "2024-11-30T17:43:29",
-      "timeSeverityChanged": "2024-11-29T19:28:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-01T08:49:00",
+      "timeRaised": "2024-12-01T08:49:16",
+      "timeSeverityChanged": "2024-12-01T08:49:00"
     }
   ]
 }
