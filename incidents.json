@@ -183,6 +183,27 @@
       "timeSeverityChanged": "2024-11-19T12:06:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF203",
+      "description": "River Leam and River Itchen",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203",
+        "county": "Warwickshire, West Northamptonshire",
+        "notation": "033WAF203",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF203/polygon",
+        "riverOrSea": "River Leam, River Itchen"
+      },
+      "floodAreaID": "033WAF203",
+      "isTidal": false,
+      "message": " River levels are rising at the Eathorpe river gauge in response to the heavy rainfall yesterday evening.    We expect flooding to affect low-lying land and roads adjacent to the River Leam between Grandborough and Leamington including Kites Hardwick, Birdingbury, Marton, Eathorpe, Hunningham and Offchurch and the River Itchen between Southam and Marton including Long Itchington    \nFurther rainfall is forecast this evening, 06/12/2024.  We expect river levels to remain high throughout today, and possibly into the weekend.\nWe are closely monitoring the situation.  Our incident response staff are actively checking river levels and the weather forecast and actively checking river levels and the weather forecast..  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated tomorrow morning, 07/12/24, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:40:00",
+      "timeRaised": "2024-12-06T07:40:34",
+      "timeSeverityChanged": "2024-12-06T07:40:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF14RayOxon",
       "description": "River Ray and its tributaries from Shipton Lee to and including Islip",
       "eaAreaName": "Thames",
@@ -322,12 +343,12 @@
       },
       "floodAreaID": "033WAF330",
       "isTidal": false,
-      "message": "River levels have risen at the Halesowen Manor Way river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is possible later this evening and overnight, 05/12/24. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 12:00 on 06/12/24, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-12-05T18:38:00",
-      "timeRaised": "2024-12-05T18:38:24",
-      "timeSeverityChanged": "2024-12-05T18:38:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-06T07:49:00",
+      "timeRaised": "2024-12-06T07:49:46",
+      "timeSeverityChanged": "2024-12-06T07:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF104",
@@ -469,12 +490,33 @@
       },
       "floodAreaID": "052WAFTOVE",
       "isTidal": false,
-      "message": " River levels are expected to rise overnight and into Friday morning in response to this evening's rainfall. Flooding is possible from this evening, 05/12/24 and into tomorrow, 06/12/24. Areas most at risk are around the River Tove between Towcester to Cosgrove, including Silverstone Brook and the Stoke Bruerne Marina. Move cars out of this flood risk area. Further rainfall is expected over the next 12 hours which will keep river levels high. Take care on riverside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting it to escalate. We will update this message by 9am tomorrow, 06/12/2024.",
+      "message": " River levels are falling but remain high in response to recent rainfall. Flooding is possible today, 06/12/2024. Areas most at risk are around the River Tove between Towcester to Cosgrove, including Silverstone Brook and the Stoke Bruerne Marina. Move cars out of this flood risk area. The forecast is for a predominantly dry day today, with further rainfall tomorrow and Sunday. Take care on riverside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting it to escalate. We will update this message by 6pm today, 06/12/2024.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-12-05T18:42:00",
-      "timeRaised": "2024-12-05T18:42:49",
+      "timeMessageChanged": "2024-12-06T08:08:00",
+      "timeRaised": "2024-12-06T08:08:46",
       "timeSeverityChanged": "2024-12-05T18:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFLOBE",
+      "description": "River Great Ouse in Cambridgeshire from Brampton to Earith",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOBE",
+        "county": "Cambridgeshire",
+        "notation": "052WAFLOBE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFLOBE/polygon",
+        "riverOrSea": "River Great Ouse"
+      },
+      "floodAreaID": "052WAFLOBE",
+      "isTidal": false,
+      "message": " River levels are rising steadily in response to yesterday evening's rainfall.  Flooding is possible today, 06/12/2024.  Areas most at risk are around the River Great Ouse from Brampton to Earith, including Back Brook, Hall Green Brook, Parsons Drove Drain, Swavesey Drain and Wadsbys Folly. Access to properties in Berry Lane, Godmanchester may also be affected. The forecast is predominantly dry today, with further rainfall tomorrow and Sunday. Take care on riverside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting it to escalate.  We will update this message by 6pm today, 06/12/2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:53:00",
+      "timeRaised": "2024-12-06T07:54:33",
+      "timeSeverityChanged": "2024-12-06T07:53:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFRISELEYB",
@@ -622,6 +664,27 @@
       "timeMessageChanged": "2024-12-05T16:00:00",
       "timeRaised": "2024-12-05T16:00:40",
       "timeSeverityChanged": "2024-11-23T16:27:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WAFMIDOUSE",
+      "description": "Middle River Great Ouse in Milton Keynes, Bedford Borough and Central Bedfordshire",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFMIDOUSE",
+        "county": "Bedford, Central Bedfordshire, Milton Keynes",
+        "notation": "052WAFMIDOUSE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WAFMIDOUSE/polygon",
+        "riverOrSea": "River Great Ouse"
+      },
+      "floodAreaID": "052WAFMIDOUSE",
+      "isTidal": false,
+      "message": " River levels are rising steadily in response to yesterday evening's rainfall.  Flooding is possible today, 06/12/2024.  Areas most at risk are around the River Great Ouse from Newport Pagnell to Roxton.   Further rainfall is expected over the next 24 hours which will keep river levels high. Take care on riverside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting it to escalate.  We will update this message by 6pm today, 06/12/2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:41:00",
+      "timeRaised": "2024-12-06T07:42:10",
+      "timeSeverityChanged": "2024-12-06T07:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
@@ -910,11 +973,11 @@
       },
       "floodAreaID": "052WAFUPOUSE",
       "isTidal": false,
-      "message": " River levels are high and steady following recent rainfall. Flooding is possible over the next few hours and into this evening, 05/12/2024. Areas most at risk are those around the River Great Ouse from Brackley to Haversham, including Padbury Brook. Further heavy rain is forecast this evening which will keep river levels high. Take care on riverside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting it to escalate.  We will update this message by 9am tomorrow, 06/12/2024.",
+      "message": " River levels are high and steady following recent rainfall. Flooding is possible today, 06/12/2024. Areas most at risk are those around the River Great Ouse from Brackley to Haversham, including Padbury Brook. The forecast is predominantly dry today, with further rainfall tomorrow and Sunday. Take care on riverside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and are not expecting it to escalate.  We will update this message by 6pm today, 06/12/2024.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-12-05T16:41:00",
-      "timeRaised": "2024-12-05T16:42:11",
+      "timeMessageChanged": "2024-12-06T07:57:00",
+      "timeRaised": "2024-12-06T07:58:05",
       "timeSeverityChanged": "2024-12-05T09:53:00"
     },
     {
@@ -1233,6 +1296,27 @@
       "timeSeverityChanged": "2024-12-05T17:43:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF2",
+      "description": "The River Bure, Spixworth Beck and surrounding Becks",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2",
+        "county": "Norfolk",
+        "notation": "054WAFNF2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2/polygon",
+        "riverOrSea": "Bure, Spixworth Beck"
+      },
+      "floodAreaID": "054WAFNF2",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely to continue during today, Friday 6th December. River levels are starting to fall but remain high in some places. Areas most at risk are low lying roads and riverside areas between Horsford and Crostwick on the Spixworth Beck, and Corpusty, Saxthorpe, Itteringham, Ingworth, Aylsham and Burgh-next-Aylsham on the Bure. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. The forecast is for no further rainfall today. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message tomorrow morning, Saturday 7th December, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:59:00",
+      "timeRaised": "2024-12-06T07:59:50",
+      "timeSeverityChanged": "2024-12-06T07:59:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
       "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
       "eaAreaName": "East Anglia",
@@ -1275,6 +1359,27 @@
       "timeSeverityChanged": "2024-12-05T15:53:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:00am and 1:00pm today, Friday 6th December. Tides are expected to be higher than usual due to the forecast weather conditions. We expect high tide levels at the harbourside in Southwold. The detailed forecast, for those that use it, is for a peak level at Lowestoft of 1.90 mAODN at 12 noon, on Friday 6th December, which is 1.19m above tide tables, wind Force 6, North-Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). The current series of high spring tides has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 9am tomorrow, Saturday 7th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T08:07:00",
+      "timeRaised": "2024-12-06T08:07:37",
+      "timeSeverityChanged": "2024-12-06T08:07:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF950",
       "description": "Lower River Derwent",
       "eaAreaName": "Yorkshire",
@@ -1288,11 +1393,11 @@
       },
       "floodAreaID": "122WAF950",
       "isTidal": false,
-      "message": "River levels are rising in response to heavy rainfall, today Thursday 05/12/2024. Areas most at risk include local roads and low-lying land around Pocklington. Further rainfall is expected tomorrow, Friday 06/12/2024 and levels may further rise. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 8:30am on Friday, 06/12/2024, or as the situation changes.",
+      "message": "River levels remain high in response to heavy rainfall on Thursday 05/12/2024. Areas most at risk include local roads and low-lying land around Pocklington and Thornton Lock. Further rainfall is expected late today, Friday 06/12/2024 and over the weekend, and levels may further rise. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 7:30pm on Friday, 06/12/2024, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-12-05T20:40:00",
-      "timeRaised": "2024-12-05T20:40:41",
+      "timeMessageChanged": "2024-12-06T07:59:00",
+      "timeRaised": "2024-12-06T07:59:53",
       "timeSeverityChanged": "2024-12-05T20:40:00"
     },
     {
@@ -1792,12 +1897,12 @@
       },
       "floodAreaID": "033WAF320",
       "isTidal": false,
-      "message": "River levels are rising at the Uttoxeter river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is possible later this evening and overnight, 05/12/24. We expect flooding to affect low-lying land and roads adjacent to the Picknall Brook, Marchington Brook and Rolleston Brook. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 12:00 on 06/12/24, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-12-05T19:03:00",
-      "timeRaised": "2024-12-05T19:04:03",
-      "timeSeverityChanged": "2024-12-05T19:03:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-06T07:49:00",
+      "timeRaised": "2024-12-06T07:50:08",
+      "timeSeverityChanged": "2024-12-06T07:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
@@ -1915,12 +2020,12 @@
       },
       "floodAreaID": "033FWF3ILLEY",
       "isTidal": false,
-      "message": "River levels have risen at the Halesowen Manor Road river gauge as a result of heavy rainfall. Consequently, flooding of property, roads and farmland is possible later this evening and overnight, 05/12/24. We expect flooding to affect properties along Chadbury Road and Woodman Close. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid contact with flood water and call 999 if in immediate danger. This message will be updated by 12:00 on 06/12/24, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-12-05T18:51:00",
-      "timeRaised": "2024-12-05T18:52:09",
-      "timeSeverityChanged": "2024-12-05T18:51:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-06T07:43:00",
+      "timeRaised": "2024-12-06T07:44:10",
+      "timeSeverityChanged": "2024-12-06T07:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF371",
@@ -1999,12 +2104,12 @@
       },
       "floodAreaID": "122WAT957",
       "isTidal": true,
-      "message": "Large waves and windblown spray may lead to flooding during this evening’s high tide, Thursday 05/12/24. Flooding is possible between 19:00 - 22:15 on Thursday 05/12/2024. Areas most at risk include the Humber estuary from Spurn Point to Winestead Outfall. We are closely monitoring the situation and will issue flood warnings if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 07:00 on Friday 06/12/2024, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-12-05T13:27:00",
-      "timeRaised": "2024-12-05T13:27:30",
-      "timeSeverityChanged": "2024-12-05T13:27:00"
+      "message": "This message has been removed as coastal conditions of concern have now passed for the previous tide. Please continue to monitor the forecast and stay safe around coastal locations.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-06T08:14:00",
+      "timeRaised": "2024-12-06T08:14:56",
+      "timeSeverityChanged": "2024-12-06T08:14:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF103",
@@ -2068,27 +2173,6 @@
       "timeMessageChanged": "2024-12-05T19:41:00",
       "timeRaised": "2024-12-05T19:41:25",
       "timeSeverityChanged": "2024-12-05T19:41:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
-      "description": "Upper Dove",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315",
-        "county": "Derbyshire, Staffordshire",
-        "notation": "033WAF315",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF315/polygon",
-        "riverOrSea": "River Dove"
-      },
-      "floodAreaID": "033WAF315",
-      "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-05T07:57:00",
-      "timeRaised": "2024-12-05T07:57:26",
-      "timeSeverityChanged": "2024-12-05T07:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF318",
@@ -2236,6 +2320,27 @@
       "timeMessageChanged": "2024-12-03T08:14:00",
       "timeRaised": "2024-12-03T08:14:55",
       "timeSeverityChanged": "2024-11-26T13:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:00am and 1:00pm today, Friday 6th December. Tides are expected to be higher than usual due to the forecast weather conditions. We expect to see high water levels in Lake Lothing in Lowestoft, as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast, for those that use it, is for a peak level at Lowestoft of 1.90 mAODN at 12 noon, on Friday 6th December, which is 1.19m above tide tables, wind Force 6, North-Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). The current series of high spring tides has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger.  We are monitoring the situation. We will update this message by 9am tomorrow, Saturday 7th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T08:06:00",
+      "timeRaised": "2024-12-06T08:07:36",
+      "timeSeverityChanged": "2024-12-06T08:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF961",
@@ -3057,6 +3162,48 @@
       "timeSeverityChanged": "2024-11-26T19:01:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WAFEF6BC",
+      "description": "The Rivers Wid and Can",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6BC",
+        "county": "Essex",
+        "notation": "051WAFEF6BC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WAFEF6BC/polygon",
+        "riverOrSea": "River Wid, River Can"
+      },
+      "floodAreaID": "051WAFEF6BC",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely to continue during today, Friday 6th December. River levels have peaked and are starting to fall but remain high in some places. Areas most at risk are low lying roads and riverside areas, including Lordship Lane and Cow Watering Lane around Writtle College. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. The forecast is for no further rainfall today. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message tomorrow morning, Saturday 7th December, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:59:00",
+      "timeRaised": "2024-12-06T07:59:24",
+      "timeSeverityChanged": "2024-12-06T07:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFSF4AC",
+      "description": "The Rivers Deben and Lark",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF4AC",
+        "county": "Suffolk",
+        "notation": "054WAFSF4AC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFSF4AC/polygon",
+        "riverOrSea": "River Deben, River Lark"
+      },
+      "floodAreaID": "054WAFSF4AC",
+      "isTidal": false,
+      "message": "This message has been issued because some minor flooding to low lying land, roads and riverside areas is likely to continue during today, Friday 6th December. River levels are still rising, but are expected to peak and start to fall by mid morning. Areas most at risk are low lying roads and riverside areas on the Deben, from Debenham to Ufford, including Framsden, Earl Soham, Easton, Glevering and Wickham Market, and on the Rivers Lark and Finn around Witnesham, Tuddenham St Martin, Playford and Grundisburgh. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. The forecast is for no further rainfall today. Take care on riverside footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message tomorrow morning, Saturday 7th December, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:59:00",
+      "timeRaised": "2024-12-06T07:59:19",
+      "timeSeverityChanged": "2024-12-06T07:59:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGSPGW",
       "description": "Groundwater flooding in the Salisbury Plain area",
       "eaAreaName": "Wessex",
@@ -3280,12 +3427,33 @@
       },
       "floodAreaID": "122FWF651",
       "isTidal": false,
-      "message": "This warning has been issued due to rising water levels in Pocklington Beck in Pocklington caused by recent heavy rainfall this evening, Thursday 05/12/2024. Areas around the pet store and other areas of Market Street may be affected. We will continue to monitor water levels. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk, drive or cycle through flood water. Consider activating any property flood protection products you may have. This message will be updated by 9:00am on Friday 06/12/2024, or as the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-12-05T21:17:00",
-      "timeRaised": "2024-12-05T21:17:52",
-      "timeSeverityChanged": "2024-12-05T20:13:00"
+      "message": "This flood warning has been removed. We will re-issue the warning as necessary. A flood alert remains in force for the wider area.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-06T08:09:00",
+      "timeRaised": "2024-12-06T08:09:53",
+      "timeSeverityChanged": "2024-12-06T08:09:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3A",
+      "description": "The Norfolk coast from Caister to Gorleston, including Great Yarmouth",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A",
+        "county": "Norfolk",
+        "notation": "054WACDV3A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3A",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 10:15am and 12:15pm today, Friday 6th December. Tides are expected to be higher than usual due to the forecast weather conditions. We expect high tide levels at Gorleston-on-Sea, and water on towpaths and quaysides throughout Great Yarmouth. The detailed forecast, for those that use it, is for a peak level at Great Yarmouth of 1.93 mAODN at 11:15am, on Friday 6th December, which is 1.25m above tide tables, wind Force 6, North-Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). The current series of high spring tides has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 9am on Saturday 10th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-06T07:59:00",
+      "timeRaised": "2024-12-06T07:59:53",
+      "timeSeverityChanged": "2024-12-06T07:59:00"
     }
   ]
 }
