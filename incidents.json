@@ -1254,27 +1254,6 @@
       "timeSeverityChanged": "2024-12-06T16:43:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WAFNF2",
-      "description": "The River Bure, Spixworth Beck and surrounding Becks",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2",
-        "county": "Norfolk",
-        "notation": "054WAFNF2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WAFNF2/polygon",
-        "riverOrSea": "Bure, Spixworth Beck"
-      },
-      "floodAreaID": "054WAFNF2",
-      "isTidal": false,
-      "message": "Water levels are now well below the flood risk thresholds. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. The forecast is for rain over the weekend. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-06T13:14:00",
-      "timeRaised": "2024-12-06T13:14:53",
-      "timeSeverityChanged": "2024-12-06T13:14:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF980",
       "description": "River Seven catchment",
       "eaAreaName": "Yorkshire",
@@ -1294,6 +1273,27 @@
       "timeMessageChanged": "2024-12-07T08:23:00",
       "timeRaised": "2024-12-07T08:23:41",
       "timeSeverityChanged": "2024-12-06T20:46:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF927",
+      "description": "River Leven",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF927",
+        "county": "Middlesbrough, North Yorkshire, Redcar and Cleveland, Stockton-on-Tees",
+        "notation": "121WAF927",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF927/polygon",
+        "riverOrSea": "River Leven"
+      },
+      "floodAreaID": "121WAF927",
+      "isTidal": false,
+      "message": "River levels are now rising, which may lead to flooding.  \nFlooding to low lying land is possible from 1:30 PM today 07/12/2024 and river levels will remain elevated into Sunday 08/12/2024. \nThe Upstream Penstocks on the Leven at Stokesley are now closed, and flow is being diverted around Stokesley. \nAreas most at risk include riverside footpaths and low lying land and roads.  \nFurther flooding is possible tomorrow as river levels are expected to remain high due to the prolonged rainfall.  \nWe are closely monitoring the situation.  \nAvoid using low lying footpaths and any bridges near local watercourses.  \nThis message will be updated by 10:00 AM on 08/12/2024, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-07T12:43:00",
+      "timeRaised": "2024-12-07T12:44:11",
+      "timeSeverityChanged": "2024-12-07T12:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF929",
@@ -2023,12 +2023,12 @@
       },
       "floodAreaID": "013WAFGO",
       "isTidal": false,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-07T08:33:00",
-      "timeRaised": "2024-12-07T08:34:05",
-      "timeSeverityChanged": "2024-12-07T08:33:00"
+      "message": "River levels are rising on the River Gowy due to heavy rainfall.\nFlooding is forecast to affect locations near the River Gowy, with low lying land and roads expected to be most affected, particularly the River Milton and Hornsmill/Hool, Stanney Mill and Thornton Brooks and their tributaries.\nWe expect river levels to remain high throughout today and remaining high until Sunday 08/12/2024.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. Our incident rooms are open and we are closely monitoring the situation. We are liaising with emergency services and local authorities. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 10:00AM on 08/12/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-07T12:40:00",
+      "timeRaised": "2024-12-07T12:40:40",
+      "timeSeverityChanged": "2024-12-07T12:40:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTPM",
@@ -2238,6 +2238,48 @@
       "timeMessageChanged": "2024-12-07T11:35:00",
       "timeRaised": "2024-12-07T11:35:42",
       "timeSeverityChanged": "2024-12-06T08:26:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFWY110",
+      "description": "River Wye in North Hereford",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFWY110",
+        "county": "Herefordshire",
+        "notation": "031FWFWY110",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFWY110/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "031FWFWY110",
+      "isTidal": false,
+      "message": "River levels are rising at the Old Wye Bridge river gauge as a result of heavy rainfall.  We expect flooding to affect properties and roads in North Hereford including Greyfriars area. Predicted peak:- Old Wye Bridge 5.2m to 5.5m Sunday morning.  \n\nFurther rainfall is forecast over the next 24 hours.   \n\nWe are closely monitoring the situation.  Our incident response staff are liaising with emergency services and or Local Authorities.   \n\nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and move possession and valuables off the ground or to safety.    \n\nThis message will be updated by 18:00 on 07/12/24, or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-12-07T12:39:00",
+      "timeRaised": "2024-12-07T12:39:34",
+      "timeSeverityChanged": "2024-12-07T12:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031FWFWY100",
+      "description": "River Wye in South Hereford",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFWY100",
+        "county": "Herefordshire",
+        "notation": "031FWFWY100",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031FWFWY100/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "031FWFWY100",
+      "isTidal": false,
+      "message": " River levels are rising at the Old Wye Bridge river gauge as a result of heavy rainfall.  Consequently, flooding of property, roads and farmland is expected between today, 07/12/24.  We expect flooding to affect properties and roads in North Hereford including Greyfriars area. Predicted peak:- Old Wye Bridge 5.2m to 5.5m Sunday morning, 08/12/24. \n\nFurther rainfall is forecast over the next 24 hours.   \n\nWe are closely monitoring the situation. Our incident response staff are liaising with emergency services and or Local Authorities.   \n\nPlease plan driving routes to avoid low lying roads near rivers, which may be flooded and move possession and valuables off the ground or to safety.   \n\nThis message will be updated by 18:00 on 07/12/24, or as the situation changes. ",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-12-07T12:39:00",
+      "timeRaised": "2024-12-07T12:40:01",
+      "timeSeverityChanged": "2024-12-07T12:39:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
@@ -2848,6 +2890,27 @@
       "timeSeverityChanged": "2024-12-07T12:30:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF310",
+      "description": "Stone Trent",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF310",
+        "county": "Staffordshire",
+        "notation": "033WAF310",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF310/polygon",
+        "riverOrSea": "River Trent"
+      },
+      "floodAreaID": "033WAF310",
+      "isTidal": false,
+      "message": "River levels have risen at the Darlaston river gauge as a result of heavy rainfall. Consequently, flooding of roads and farmland is possible this afternoon and overnight, 07/12/24. We expect flooding to affect low-lying land and roads adjacent to the River Trent between Darlaston and Great Haywood including Stone. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded. This message will be updated by 12:00 on 08/12/24, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-07T13:08:00",
+      "timeRaised": "2024-12-07T13:08:21",
+      "timeSeverityChanged": "2024-12-07T13:08:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFPIDD",
       "description": "River Piddle and tributaries",
       "eaAreaName": "Wessex",
@@ -3289,27 +3352,6 @@
       "timeSeverityChanged": "2024-12-05T18:14:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3A",
-      "description": "The Norfolk coast from Caister to Gorleston, including Great Yarmouth",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A",
-        "county": "Norfolk",
-        "notation": "054WACDV3A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "054WACDV3A",
-      "isTidal": true,
-      "message": "Water levels are now well below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-06T13:14:00",
-      "timeRaised": "2024-12-06T13:14:46",
-      "timeSeverityChanged": "2024-12-06T13:14:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF974",
       "description": "River Foulness and Market Weighton catchment",
       "eaAreaName": "Yorkshire",
@@ -3497,6 +3539,27 @@
       "timeMessageChanged": "2024-12-07T11:42:00",
       "timeRaised": "2024-12-07T11:42:20",
       "timeSeverityChanged": "2024-12-07T11:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFDA",
+      "description": "River Dane catchment including Kidsgrove, Sandbach, Congleton, Middlewich and Northeast Crewe",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDA",
+        "county": "Cheshire East, Cheshire West and Chester, Derbyshire, Halton, Staffordshire, Warrington",
+        "notation": "013WAFDA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WAFDA/polygon",
+        "riverOrSea": "River Dane"
+      },
+      "floodAreaID": "013WAFDA",
+      "isTidal": false,
+      "message": "River levels are rising on the River Dane due to heavy rainfall.\nFlooding is forecast to affect locations near the River Dane, with low lying land and roads expected to be most affected, particularly around the River Wheelock, Arclid, Smoker and Fowle Brooks and their tributaries.\nWe expect river levels to remain high throughout today.\nWe are monitoring rainfall and river levels and are checking rivers for blockages in the area. Our incident rooms are open and we are closely monitoring the situation. We are liaising with emergency services and local authorities. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. This message will be updated by 10:00AM on 08/12/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-07T12:38:00",
+      "timeRaised": "2024-12-07T12:38:29",
+      "timeSeverityChanged": "2024-12-07T12:38:00"
     }
   ]
 }
