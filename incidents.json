@@ -301,12 +301,12 @@
       },
       "floodAreaID": "055FWFPT2W01",
       "isTidal": false,
-      "message": "River levels in the Peterborough area remain high on the River Nene due to recent heavy rainfall. The Whittlesey Wash flood storage reservoir is being operated to protect nearby communities from flooding. The rising levels in the Wash will result in flooding of the B1040 road. Whilst the Flood Warning is in force, the Local Authority may close the B1040 for safety reasons. Diversionary routes will be put in place and further updates will be available through local media. We are closely monitoring the situation and this message will be updated on Tuesday 17th December, or before if the situation changes.",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2024-12-16T12:15:00",
-      "timeRaised": "2024-12-16T12:15:57",
-      "timeSeverityChanged": "2024-12-08T08:57:00"
+      "message": "The River Nene has being falling steadily over the last 24 hours. The B1040 road will be reopened once the Highways Authority have been able to inspect the road surface and carry out any necessary works to ensure the road is passable. There may be standing water in low lying areas and fields for several days.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-17T10:57:00",
+      "timeRaised": "2024-12-17T10:57:47",
+      "timeSeverityChanged": "2024-12-17T10:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
@@ -664,6 +664,27 @@
       "timeMessageChanged": "2024-12-10T13:23:00",
       "timeRaised": "2024-12-10T13:24:09",
       "timeSeverityChanged": "2024-12-10T13:23:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FAG009",
+      "description": "Groundwater flooding in the Candovers and Old Alresford",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG009",
+        "county": "Hampshire",
+        "notation": "065FAG009",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FAG009/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "065FAG009",
+      "isTidal": false,
+      "message": "In Preston Candover and Old Alresford, groundwater levels are high and rising slowly. In the last 3 months, prolonged, higher than average rainfall (353mm), has been recorded in Bishops Sutton. From Friday 20/12/2024, it is possible that rising groundwater will reduce the ability of septic tanks at Old Alresford to operate properly. In Preston Candover, a small number of properties may experience cellar flooding. Unsettled weather is expected to return to Hampshire from Wednesday 18/12/2024 into Thursday 19/12/2024 with between 15 and 35mm of rain possible. Following this rainfall, groundwater levels may begin to rise more rapidly. Friday 20/12/2024 and Saturday 21/12/2024 are expected to be mostly dry. We expect groundwater levels in Preston Candover and Old Alresford will likely continue rising for most of December in response to this week’s rain. We continue to monitor the groundwater levels and weather forecast. If you use pumps to help reduce water levels, please ensure that they can operate. This Flood Alert will be updated by 17:00 on Tuesday 24/12/2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-17T10:50:00",
+      "timeRaised": "2024-12-17T10:51:15",
+      "timeSeverityChanged": "2024-12-17T10:50:00"
     }
   ]
 }
