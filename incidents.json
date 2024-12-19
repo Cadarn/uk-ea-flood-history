@@ -876,6 +876,27 @@
       "timeSeverityChanged": "2024-12-19T08:56:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "High tides and large tidal swell conditions this evening may lead to flooding from sea spray and wave overtopping. Flooding is possible on Thursday, 19/12/2024 between 3:00 PM and 10:00 PM.\nAreas most at risk includes The North Sea coast from Staithes to Whitby including Sandsend and tidal River Esk.\nBe careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 9:00 PM on Thursday, 19/12/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T12:42:00",
+      "timeRaised": "2024-12-19T12:42:29",
+      "timeSeverityChanged": "2024-12-19T12:42:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
       "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
       "eaAreaName": "East Anglia",
@@ -1600,12 +1621,12 @@
       },
       "floodAreaID": "052WATCSTHUN",
       "isTidal": true,
-      "message": " ",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-19T09:05:00",
-      "timeRaised": "2024-12-19T09:05:41",
-      "timeSeverityChanged": "2024-12-19T09:05:00"
+      "message": "Strong winds may cause large waves and spray overtopping on the coast between 19:00 and 23:00 this evening, 19/12/2024. Areas most at risk are around Hunstanton seafront. Flood gates in the area will be closed by the Local Authority which will make access difficult. The detailed forecast, for those that use it, is that a peak tide level will reach 4.19 mAODN at 20:45pm on Thursday 19/12/2024. High water level equals 3.10m plus 0.82m for surge, and 0.27m further adjustment. Wind direction is forecast force 6 North Westerly. Take care on beaches, coastal roads and footpaths, and don't put yourself or others in danger. We are monitoring the situation and are not expecting it to escalate. We will update this message by 10:00 tomorrow Friday 20th December 2024.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T12:55:00",
+      "timeRaised": "2024-12-19T12:55:20",
+      "timeSeverityChanged": "2024-12-19T12:55:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF414",
@@ -2698,6 +2719,27 @@
       "timeMessageChanged": "2024-12-19T12:11:00",
       "timeRaised": "2024-12-19T12:12:00",
       "timeSeverityChanged": "2024-12-19T12:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF308",
+      "description": "River Mease",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308",
+        "county": "Derbyshire, Leicestershire, Staffordshire",
+        "notation": "033WAF308",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033WAF308/polygon",
+        "riverOrSea": "Gilwiskaw Brook, River Mease"
+      },
+      "floodAreaID": "033WAF308",
+      "isTidal": false,
+      "message": "River levels continue to rise at the at the Clifton Hall River gauge as a result of heavy rainfall overnight. Consequently, flooding of roads and farmland is expected this afternoon 19/12/2024\nWe expect flooding to affect Low-lying land and roads between Ashby and Croxall. \nFurther rainfall is forecast over the next 6 hours. We expect river levels to remain high until this evening 19/12/2024.\nWe are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast.  \nPlease avoid using low lying footpaths and bridges near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  \nThis message will be updated this evening 19/12/2024, or as the situation changes. \n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T12:59:00",
+      "timeRaised": "2024-12-19T13:00:15",
+      "timeSeverityChanged": "2024-12-19T12:59:00"
     }
   ]
 }
