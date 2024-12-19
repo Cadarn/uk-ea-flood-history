@@ -847,11 +847,11 @@
       },
       "floodAreaID": "054WACDV3C",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 11:15am and 1:15pm today Thursday 19th December. Strong winds and spring tides may cause large waves, and spray overtopping on the coast. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 1.61 mAODN at 12:15pm, Thursday 19th December, which is 0.75m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). The tide on Thursday 19th December at 11:45pm is also currently forecast to be a Flood Alert, and potential Flood Warnings could be issued. We will send a new message before that tide. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger.  We are monitoring the situation. We will update this message by 5pm Thursday 19th December",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 10:45pm today Thursday 19th December, and 00:45am tomorrow Friday 20th December. Strong winds and spring tides may cause large waves, and spray overtopping on the coast. We expect high tide levels at the harbourside in Southwold. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.20mAODN at 11:45pm today, Thursday 19th December, which is 1.17m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-12-19T08:34:00",
-      "timeRaised": "2024-12-19T08:34:40",
+      "timeMessageChanged": "2024-12-19T14:51:00",
+      "timeRaised": "2024-12-19T14:51:48",
       "timeSeverityChanged": "2024-12-18T16:11:00"
     },
     {
@@ -973,12 +973,12 @@
       },
       "floodAreaID": "031WAF112",
       "isTidal": false,
-      "message": " River levels remain high at the Onibury river gauge as a result of recent rainfall. Consequently, flooding of roads and farmland is possible Thursday morning, 19/12/24.   \n\nWe expect flooding to affect low lying land and roads adjacent the River Teme, River Onny and River Corve and their tributaries. Locations that may be affected include Bishops Castle, Church Stretton, Knighton and Ludlow.  \n\nPredicted peaks:-   \n\nLeintwardine 0.9m to 1.0m This morning, 19/12/24; \n\nOnibury 2.0m to 2.1m This morning, 19/12/24;  \n\nCorve 2.4m to 2.7m early Thursday afternoon, 19/12/24    \n\nFurther rain is forecast over the next 24 hours, and we expect river levels to be high over the next few days. Our incident response staff are closely monitoring the situation. \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.   \n\nThis message will be updated by 9am on 20/12/2024, or as the situation changes. ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-12-19T08:38:00",
-      "timeRaised": "2024-12-19T08:38:47",
-      "timeSeverityChanged": "2024-12-18T16:47:00"
+      "message": " This Flood Alert has been removed.   \n\nRiver levels have now fallen below the flood risk threshold.  \n\nFurther rainfall is forecast over the next few days.   \n\nOur incident response staff are continuing to monitor the situation and will re-issue this alert if necessary.  \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.  ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2024-12-19T15:08:00",
+      "timeRaised": "2024-12-19T15:08:25",
+      "timeSeverityChanged": "2024-12-19T15:08:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF200",
@@ -1212,6 +1212,48 @@
       "timeSeverityChanged": "2024-12-19T14:27:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC003",
+      "description": "North Sea coast at Hornsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC003",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC003/polygon",
+        "riverOrSea": "North Sea, Stream Dike, Foss Beck"
+      },
+      "floodAreaID": "122FWC003",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions this evening may lead to flooding from sea spray and wave overtopping. Flooding is possible on Thursday, 19/12/2024, between 18:30 and 20:30. Areas most at risk include properties along Marine Drive, South Promenade, Hornsea Burton Road, and along Stream Dike and Foss Beck. We will continue to monitor levels closely. Stay away from beaches, promenades, coastal footpaths and roads, as large waves and sea spray will be dangerous. Consider enacting your flood plan. This message will be updated by 23:00 on Thursday 19/12/2024, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-12-19T15:02:00",
+      "timeRaised": "2024-12-19T15:02:53",
+      "timeSeverityChanged": "2024-12-19T15:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions this evening may lead to flooding from sea spray and wave overtopping. Flooding is possible on Thursday, 19/12/2024, between 18:30 and 20:30 . Areas most at risk include the North Sea coast from Skipsea to Mappleton, including Hornsea. We are closely monitoring the situation and will issue flood warnings if necessary. Stay away from beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. This message will be updated by 21:00 19/12/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T14:59:00",
+      "timeRaised": "2024-12-19T14:59:28",
+      "timeSeverityChanged": "2024-12-19T14:59:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
       "description": "North Sea coast at Withernsea, Easington and Kilnsea",
       "eaAreaName": "Yorkshire",
@@ -1378,6 +1420,27 @@
       "timeMessageChanged": "2024-12-19T11:07:00",
       "timeRaised": "2024-12-19T11:07:42",
       "timeSeverityChanged": "2024-12-19T11:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF120",
+      "description": "River Wye in Gloucestershire",
+      "eaAreaName": "West Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF120",
+        "county": "Gloucestershire, Herefordshire",
+        "notation": "031WAF120",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/031WAF120/polygon",
+        "riverOrSea": "River Wye"
+      },
+      "floodAreaID": "031WAF120",
+      "isTidal": false,
+      "message": " River levels are forecast to rise at the Ross-On-Wye river gauge as a result of recent rainfall.  Consequently, flooding of roads and farmland could occur overnight Thursday, 19/12/24 into Friday. \n\nWe expect flooding to affect low lying land and roads along the River Wye.  \n\nPredicted Peaks:-  \n\nRoss on Wye 3.0m to 3.4m overnight Thursday, 19/12/24.   \n\nLydbrook 3.6m to 3.8m overnight Thursday, 19/12/24.  \n\n   \n\nFurther rain is forecast over the next 24 hours, and we expect river levels to be high over the next few days. Our incident response staff are closely monitoring the situation. \n\nPlease avoid using low lying footpaths near local watercourses and plan driving routes to avoid low lying roads near rivers, which may be flooded.   \n\nThis message will be updated by 9am on 20/12/2024, or as the situation changes. ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T15:07:00",
+      "timeRaised": "2024-12-19T15:08:14",
+      "timeSeverityChanged": "2024-12-19T15:07:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF300",
@@ -1671,6 +1734,27 @@
       "timeSeverityChanged": "2024-12-19T09:16:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
+      "description": "Humber estuary from Spurn Point to Winestead Outfall",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAT957",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAT957/polygon",
+        "riverOrSea": "Humber Estuary, Winestead Drain"
+      },
+      "floodAreaID": "122WAT957",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions this evening may lead to flooding sea spray and wave overtopping. Flooding is possible on Thursday, 19/12/2024, between 18:00 and 22:00. Areas most at risk include The Humber estuary from Spurn Point to Winestead Outfall.\nWe will continue to monitor levels closely. Be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 21:00 on 19/12/2024, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T15:02:00",
+      "timeRaised": "2024-12-19T15:02:44",
+      "timeSeverityChanged": "2024-12-19T15:02:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
       "description": "The Essex coast at Coalhouse Fort",
       "eaAreaName": "East Anglia",
@@ -1690,6 +1774,27 @@
       "timeMessageChanged": "2024-12-19T09:13:00",
       "timeRaised": "2024-12-19T09:13:22",
       "timeSeverityChanged": "2024-12-19T09:13:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B",
+      "description": "The Norfolk coast from Eccles on Sea, to and including, Winterton-on-Sea",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B",
+        "county": "Norfolk",
+        "notation": "054WACDV2B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 7:45pm and 9:45pm today Thursday 19th December. Strong winds and spring tides may cause large waves, and spray overtopping on the coast. High tides will mean flood gates will be closed restricting normal access to beaches around Eccles on Sea and Sea Palling. The detailed forecast for those that use it is for a peak level at Cromer of 3.25mAODN at 8:45pm today, Thursday 19th December, which is 1.22m above tide tables, wind Force 6, North Westerly (mAODN is height above average sea level, for more info refer to local tide tables). The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T14:38:00",
+      "timeRaised": "2024-12-19T14:39:06",
+      "timeSeverityChanged": "2024-12-19T14:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23Central",
@@ -1986,6 +2091,27 @@
       "timeSeverityChanged": "2024-12-19T09:35:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 10:45pm today, Thursday 19th December, and 00:45am tomorrow, Friday 20th December. Strong winds and spring tides may cause large waves and spray overtopping on the coast. We expect to see high water levels in Lake Lothing in Lowestoft as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.20mAODN at 11:45pm today, Thursday 19th December, which is 1.17m above tide tables, wind force 6, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T14:48:00",
+      "timeRaised": "2024-12-19T14:49:20",
+      "timeSeverityChanged": "2024-12-19T14:48:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC1WhitMar",
       "description": "Coast from Whitstable to Margate",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -2047,6 +2173,27 @@
       "timeMessageChanged": "2024-12-19T09:56:00",
       "timeRaised": "2024-12-19T09:56:36",
       "timeSeverityChanged": "2024-12-19T09:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2B1",
+      "description": "The Norfolk coast from Bacton to Ostend, including Walcott",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B1",
+        "county": "Norfolk",
+        "notation": "054WACDV2B1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2B1/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2B1",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 7:45pm and 9:45pm today, Thursday 19th December. Strong winds and spring tides may cause large waves, and spray overtopping on the coast. The Coast road at Walcott may see some wave overtopping and spray. The detailed forecast for those that use it is for a peak level at Cromer of 3.25mAODN at 8:45pm today, Thursday 19th December, which is 1.22m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables).  The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T14:38:00",
+      "timeRaised": "2024-12-19T14:39:08",
+      "timeSeverityChanged": "2024-12-19T14:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF411",
@@ -2469,6 +2616,27 @@
       "timeSeverityChanged": "2024-12-05T18:14:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3A",
+      "description": "The Norfolk coast from Caister to Gorleston, including Great Yarmouth",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A",
+        "county": "Norfolk",
+        "notation": "054WACDV3A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3A",
+      "isTidal": true,
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely between 9:30pm and 11:30pm today, Thursday 19th December. Strong winds and spring tides may cause large waves and spray overtopping on the coast. We expect high tide levels at Gorleston-on-Sea and water on towpaths and quaysides throughout Great Yarmouth. The detailed forecast for those that use it is for a peak level at Great Yarmouth of 2.25mAODN at 10:30pm today, Thursday 19th December, which is 1.21m above tide tables, wind force 5, Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-19T14:49:00",
+      "timeRaised": "2024-12-19T14:49:49",
+      "timeSeverityChanged": "2024-12-19T14:49:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF301",
       "description": "River Cole",
       "eaAreaName": "West Midlands",
@@ -2761,6 +2929,48 @@
       "timeMessageChanged": "2024-12-19T12:59:00",
       "timeRaised": "2024-12-19T13:00:15",
       "timeSeverityChanged": "2024-12-19T12:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV3B9",
+      "description": "The A12 at Blythburgh",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3B9",
+        "county": "Suffolk",
+        "notation": "054FWCDV3B9",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3B9/polygon",
+        "riverOrSea": "River Blyth"
+      },
+      "floodAreaID": "054FWCDV3B9",
+      "isTidal": true,
+      "message": "This message has been issued because flooding to coastal roads and footpaths is likely between 9:45pm today, Thursday 19th December and 1:45am tomorrow, Friday 20th December. Strong winds and spring tides may cause large waves and spray overtopping on the coast. The location most at risk of flooding is the A12 at Blythburgh. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.20mAODN at 11:45pm today, Thursday 19th December, which is 1.17m above tide tables, wind force 6, North Westerly. (mAODN is height above average sea level, for more information refer to local tide tables). The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-12-19T15:01:00",
+      "timeRaised": "2024-12-19T15:01:38",
+      "timeSeverityChanged": "2024-12-19T15:01:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054FWCDV3C1",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3C1",
+        "county": "Suffolk",
+        "notation": "054FWCDV3C1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054FWCDV3C1/polygon",
+        "riverOrSea": "River Blyth, North Sea"
+      },
+      "floodAreaID": "054FWCDV3C1",
+      "isTidal": true,
+      "message": "This message has been issued because flooding to coastal roads and footpaths is likely between 9:45pm today Thursday 19th December, and 1:45am tomorrow Friday 20th December. Strong winds and spring tides may cause large waves, and spray overtopping on the coast. Areas most at risk are around Southwold Harbour, Ferry Road, the bottom of Queens Road and Constitution Hill, North Road, the bottom of Pier Avenue and Mights Road in Southwold. Bridge Road and Hillside Road in Reydon. The detailed forecast for those that use it is for a peak level at Lowestoft of 2.20mAODN at 11:45pm today, Thursday 19th December, which is 1.17m above tide tables, wind Force 6, North Westerly. (mAODN is height above average sea level, for more info refer to local tide tables). The current series of high spring tides and surge has now reached its peak, and will fall away over the next few days. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation. We will update this message by 10am on Friday 20th December.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2024-12-19T15:06:00",
+      "timeRaised": "2024-12-19T15:06:35",
+      "timeSeverityChanged": "2024-12-19T15:06:00"
     }
   ]
 }
