@@ -561,48 +561,6 @@
       "timeSeverityChanged": "2024-12-19T08:10:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "Levels have now fallen below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-20T10:35:00",
-      "timeRaised": "2024-12-20T10:35:47",
-      "timeSeverityChanged": "2024-12-20T10:35:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "Levels have now fallen below the flood risk thresholds. The forecast is for no current flood risk from high tides. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2024-12-20T10:38:00",
-      "timeRaised": "2024-12-20T10:38:31",
-      "timeSeverityChanged": "2024-12-20T10:38:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF114",
       "description": "Severn Vyrnwy confluence",
       "eaAreaName": "West Midlands",
@@ -895,6 +853,27 @@
       "timeMessageChanged": "2024-12-20T16:07:00",
       "timeRaised": "2024-12-20T16:07:51",
       "timeSeverityChanged": "2024-12-20T16:07:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
+      "description": "Upper River Derwent, Stonethwaite Beck and Derwent Water",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW",
+        "county": "Cumberland",
+        "notation": "011WAFDW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFDW/polygon",
+        "riverOrSea": "Derwent, Stonethwaite Beck"
+      },
+      "floodAreaID": "011WAFDW",
+      "isTidal": false,
+      "message": "Following recent heavy rain, the Lodore gauge has reached flood alert. Flooding is possible at locations near the Upper River Derwent, Stonethwaite Beck and Derwent Water, with low lying land and roads expected to be most affected, particularly around The Upper Derwent from Seathwaite to Derwent Water.\nThe forecast is to improve with some showers over the weekend.\nTake care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses.\nAt present, we are not expecting to issue the Flood Warning for this area, and we will continue to monitor river and rainfall levels.\nThis message will be updated by 10:00 on 22/12/2024, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2024-12-21T10:51:00",
+      "timeRaised": "2024-12-21T10:52:04",
+      "timeSeverityChanged": "2024-12-21T10:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FAGCCGW",
