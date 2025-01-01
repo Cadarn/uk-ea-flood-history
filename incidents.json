@@ -1750,12 +1750,12 @@
       },
       "floodAreaID": "112WATSOM1",
       "isTidal": true,
-      "message": "Strong winds and large waves at high tides tonight and tomorrow morning may lead to flooding.\nFlooding is possible around the high tides at 7:00 PM on 31/12/2024 and 7:30 AM on 01/01/2025.\nBe careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThe detailed tidal forecast for those who use it is for a peak level at Hinkley Point. The first forecast high water is at 7:00 PM on 31/12/2024 with a level of 5.34 mAODN with south-westerly moderate gale force 7 winds. The second forecast high water is at 7:30 AM on 01/01/2025 with a level of 5.86 mAODN with south-westerly force 7 winds. (mAODN is height above average sea level.)\nWe do not expect to see similar impacts from the high tide tomorrow evening onwards but are closely monitoring the situation.\nWe will remove this message by 12:00 noon on 01/01/2025.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2024-12-31T16:54:00",
-      "timeRaised": "2024-12-31T16:54:31",
-      "timeSeverityChanged": "2024-12-31T16:54:00"
+      "message": "The strong overnight winds have now passed. The weather is more settled and no flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-01-01T11:10:00",
+      "timeRaised": "2025-01-01T11:10:16",
+      "timeSeverityChanged": "2025-01-01T11:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF315",
@@ -2359,11 +2359,11 @@
       },
       "floodAreaID": "034WAF431",
       "isTidal": false,
-      "message": "River levels are forecast to rise at the Duffield river gauge as a result of heavy rainfall overnight in to Wednesday 01/01/25. Consequently, flooding of roads and farmland is expected to begin between 00:00 and 06:00 tomorrow, 01/01/25.  \nAreas most at risk are low-lying agricultural land and roads along the River Ecclesbourne around Duffield.   \nHeavy rainfall is forecast over the next 24 hours.  We expect river levels to begin rising at 22:00 on 31/12/24.\nWe are closely monitoring the situation.   Our incident response staff are liaising with emergency services and patrolling watercourses in the area.   \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded and avoid contact with flood water.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 09:00 tomorrow morning, 01/01/25, or as the situation changes.\n ",
+      "message": "River levels are rising at the Duffield river gauge as a result of heavy rainfall.  Consequently, the risk of flooding remains.  Areas most at risk are low-lying agricultural land and roads along the River Ecclesbourne around Duffield.   \nFurther light rainfall is forecast over the next 6 hours.  \nWe are closely monitoring the situation.  Our incident response staff are liaising with emergency services.  \nPlease avoid using low-lying footpaths near local watercourses.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated on the 02/01/25, 09:00\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2024-12-31T16:39:00",
-      "timeRaised": "2024-12-31T16:39:21",
+      "timeMessageChanged": "2025-01-01T11:05:00",
+      "timeRaised": "2025-01-01T11:05:46",
       "timeSeverityChanged": "2024-12-31T16:39:00"
     },
     {
@@ -2638,6 +2638,27 @@
       "timeMessageChanged": "2024-12-31T16:57:00",
       "timeRaised": "2024-12-31T16:58:41",
       "timeSeverityChanged": "2024-12-31T16:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF962",
+      "description": "Lower River Aire catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF962",
+        "county": "North Yorkshire, Wakefield",
+        "notation": "123WAF962",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF962/polygon",
+        "riverOrSea": "River Aire"
+      },
+      "floodAreaID": "123WAF962",
+      "isTidal": false,
+      "message": "An automated flood alert has been issued for this area. This is because river levels are at a height at which flooding of low-lying land is possible. Environment Agency staff are monitoring the situation.\n\nYou should monitor local weather conditions and river levels. Avoid using low-lying footpaths or entering areas that flood. Act on your flood plan if you have one.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-01-01T11:30:00",
+      "timeRaised": "2025-01-01T11:31:06",
+      "timeSeverityChanged": "2025-01-01T11:30:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WAFMM",
