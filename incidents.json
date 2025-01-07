@@ -10536,12 +10536,12 @@
       },
       "floodAreaID": "034FWFRYSHELLY",
       "isTidal": false,
-      "message": " River levels remain high but are beginning to fall at the Worksop river gauge as a result of heavy rainfall.  Consequently, the risk of flooding is reducing.  Areas most at risk are Worksop including Shelley Street.   \nNo further rainfall is forecast.  \nWe are closely monitoring the situation. \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nTo check the status of road closures online, please visit the One Network live map.\n.This message will be updated by 06:00 tomorrow, 07/01/25, or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2025-01-06T21:44:00",
-      "timeRaised": "2025-01-06T21:44:46",
-      "timeSeverityChanged": "2025-01-06T04:41:00"
+      "message": "River levels have now fallen below the flood risk threshold. The Flood Warning for the area has now been removed. No further rainfall is forecast. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded. To check the status of road closures online, please visit the One Network live map",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-01-07T04:31:00",
+      "timeRaised": "2025-01-07T04:31:16",
+      "timeSeverityChanged": "2025-01-07T04:31:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055FWFEWGL01",
@@ -12442,11 +12442,11 @@
       },
       "floodAreaID": "034FWFRERETFORD",
       "isTidal": false,
-      "message": " River levels remain high but are beginning to fall at the Retford Grove Lane river gauge as a result of heavy rainfall.  Flooding continues.  Areas most at risk are properties at Grove Lane and Blackstope Lane. Trent Street and Chesterfield Drive may also be at risk. Grove Lane will become impassable.   \nNo further rainfall is forecast.  \nWe are closely monitoring the situation.  \nPlease plan driving routes to avoid low-lying roads near rivers, which may be flooded.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 06:00 tomorrow, 07/01/25, or as the situation changes.\n",
+      "message": "River levels remain high but are beginning to fall at the Retford Grove Lane river gauge as a result of heavy rainfall. Flooding continues. Areas most at risk are properties at Grove Lane and Blackstope Lane. Trent Street and Chesterfield Drive may also be at risk. Grove Lane may remain impassable. No further rainfall is forecast. We are closely monitoring the situation. Please plan driving routes to avoid low-lying roads near rivers, which may be flooded. To check the status of road closures online, please visit the One Network live map. This message will be updated by 08:00 tomorrow, 07/01/2025, or as the situation changes.",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2025-01-06T21:44:00",
-      "timeRaised": "2025-01-06T21:44:54",
+      "timeMessageChanged": "2025-01-07T04:31:00",
+      "timeRaised": "2025-01-07T04:31:12",
       "timeSeverityChanged": "2025-01-06T11:37:00"
     },
     {
@@ -14065,6 +14065,27 @@
       "timeMessageChanged": "2025-01-07T03:11:00",
       "timeRaised": "2025-01-07T03:11:15",
       "timeSeverityChanged": "2025-01-07T03:11:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034FWFSOQUORN",
+      "description": "River Soar at Quorn",
+      "eaAreaName": "East Midlands",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFSOQUORN",
+        "county": "Leicestershire",
+        "notation": "034FWFSOQUORN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034FWFSOQUORN/polygon",
+        "riverOrSea": "River Soar"
+      },
+      "floodAreaID": "034FWFSOQUORN",
+      "isTidal": false,
+      "message": " River levels are rising at the Pillings Lock river gauge as a result of heavy rainfall.  Consequently, flooding (of property) is imminent.  Areas most at risk are Quorn.   \nFurther light rainfall is forecast over the next 24 hours.  We expect river levels to remain high until 08/01/25.\nWe are closely monitoring the situation.  \nPlease move possessions and valuables off the ground or to safety and avoid contact with flood water.  \nTo check the status of road closures online, please visit the One Network live map.\nThis message will be updated by 13:00 on 07/01/25, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-01-07T04:21:00",
+      "timeRaised": "2025-01-07T04:21:57",
+      "timeSeverityChanged": "2025-01-07T04:21:00"
     }
   ]
 }
