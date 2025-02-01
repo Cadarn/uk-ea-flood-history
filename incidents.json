@@ -645,27 +645,6 @@
       "timeSeverityChanged": "2025-01-24T09:06:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF451",
-      "description": "Cuckmere River",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF451",
-        "county": "East Sussex",
-        "notation": "065WAF451",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF451/polygon",
-        "riverOrSea": "Cuckmere River"
-      },
-      "floodAreaID": "065WAF451",
-      "isTidal": false,
-      "message": "13mm of rain has been recorded on the lower Cuckmere on Friday morning (31/01/2025). Small river rises may occur Friday daytime, but river levels are expected to remain lower than on Monday. Minor flooding could return to affect fields in Hellingly and Alfriston. No further rain is forecast in the next five days, which will allow river levels to return to normal in all communities from Friday evening (31/01/2025). Please take care if planning to drive on routes susceptible to flooding, including Mill Lane and Church Road Hellingly and North Street Alfriston. We continue to monitor the levels and forecast. We will reissue this flood alert if property flooding is possible.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-01-31T11:35:00",
-      "timeRaised": "2025-01-31T11:35:09",
-      "timeSeverityChanged": "2025-01-31T11:35:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF214",
       "description": "River Severn in Gloucestershire",
       "eaAreaName": "West Midlands",
@@ -855,27 +834,6 @@
       "timeSeverityChanged": "2025-01-24T16:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATPOOH",
-      "description": "Dorset coast at Poole Harbour",
-      "eaAreaName": "Wessex",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH",
-        "county": "Bournemouth, Christchurch and Poole, Dorset Council",
-        "notation": "111WATPOOH",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATPOOH/polygon",
-        "riverOrSea": "English Channel"
-      },
-      "floodAreaID": "111WATPOOH",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThe previous tide of concern this morning has now passed,  the weather is more settled and no flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-01-31T12:24:00",
-      "timeRaised": "2025-01-31T12:24:30",
-      "timeSeverityChanged": "2025-01-31T12:24:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
       "description": "South Cornwall coast from Gribbin Head to Rame Head",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -895,6 +853,27 @@
       "timeMessageChanged": "2025-02-01T11:16:00",
       "timeRaised": "2025-02-01T11:16:33",
       "timeSeverityChanged": "2025-02-01T11:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
+      "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1BA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1BA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1BA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the morning high tide on Sunday 2nd February.\n\nHigh water at Falmouth is at 07:44 on Sunday. However, conditions may apply two hours either side of the high tide. Times of high water will vary along the coast.\n\nOn Sunday, up to force 5 south-easterly winds and wave heights of up to 1.4m are forecast to cause overtopping of sea defences and sea spray in exposed coastal locations. Locations particularly at risk include Cadgwith and Coverack, Porthallow, the tidal Helford Estuary, Maenporth and Swanpool, St.Mawes, East Portholland, Gorran Haven, Portmellon, Mevagissey, Pentewan and Par, alongside other exposed locations. \n\nCoastal conditions should ease for Sunday evening’s high tide. However, we will continue to monitor the situation and issue an update by midday on Sunday 2nd February.\n\nDetailed tidal information for those who use it; at Falmouth, the astronomical tide level is 2.29 mAOD but expect levels to be up to 200mm higher than published.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-02-01T11:33:00",
+      "timeRaised": "2025-02-01T11:33:40",
+      "timeSeverityChanged": "2025-02-01T11:33:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WATFALEST1",
