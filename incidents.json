@@ -99,6 +99,27 @@
       "timeSeverityChanged": "2025-02-26T08:26:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23Abingdon",
+      "description": "River Thames for the Abingdon area",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Abingdon",
+        "county": "Oxfordshire",
+        "notation": "061WAF23Abingdon",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF23Abingdon/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "061WAF23Abingdon",
+      "isTidal": false,
+      "message": "Property flooding is not currently expected. River levels are rising quickly on the River Thames following recent  rainfall. Therefore, flooding of low lying land and roads is possible today 26/02/2025. The weather forecast for the rest of today is showers. We expect river levels to continue to rise for the next few days. We are monitoring the situation. Our staff are managing weirs on the River Thames to reduce flood risk. Avoid contact with flood water. Avoid using low lying footpaths near local watercourses.  This message will be updated Thursday morning, 27/02/25, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-02-26T12:40:00",
+      "timeRaised": "2025-02-26T12:40:46",
+      "timeSeverityChanged": "2025-02-26T12:40:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF23CalcLech",
       "description": "River Thames and its small tributaries from Calcutt to Lechlade",
       "eaAreaName": "Thames",
@@ -832,48 +853,6 @@
       "timeMessageChanged": "2025-02-26T08:21:00",
       "timeRaised": "2025-02-26T08:21:18",
       "timeSeverityChanged": "2025-02-25T11:06:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
-      },
-      "floodAreaID": "054WATBT2",
-      "isTidal": true,
-      "message": "River levels are now returning to normal.  The forecast is for no significant rainfall or risk from the high tides over the next few days.  Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger.  We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-02-25T12:57:00",
-      "timeRaised": "2025-02-25T12:57:40",
-      "timeSeverityChanged": "2025-02-25T12:57:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
-      },
-      "floodAreaID": "054WATBT3",
-      "isTidal": true,
-      "message": "River levels are now returning to normal.  The forecast is for no significant rainfall or risk from the high tides over the next few days.  Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger.  We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-02-25T12:57:00",
-      "timeRaised": "2025-02-25T12:57:34",
-      "timeSeverityChanged": "2025-02-25T12:57:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFSTOL",
