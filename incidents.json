@@ -196,12 +196,33 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": " High tides from 29 March 2025 may lead to flooding. This alert is for the high tide at 11:00AM on 29 March 2025 with further detail as follows;\n\nPeak Water Level: 5.20mAOD\nTime of Peak Water Level: 11:00-11:15 GMT\nTime of High Astronomical Tide (tide table): 11:02 GMT\nHigh Astronomical Tide Level (tide table): 4.97mAOD\nWind Direction: South West\n\nSubsequent high tides up to and including the mid day high tide on 01/04/2025 are expected to reach the Flood Alert level.  This message will be updated by 3:00PM on 29/03/2025, or as the situation changes.",
+      "message": " High tides from 29 March 2025 may lead to flooding. This flood alert covers the high tides at 23:00GMT on 29/03/2025 and 13:00 BST on 30/03/2025 with further detail as follows;\n\nDate of FA Threshold being met : 29/03/2025\nTime of FA Threshold being met : 23:00 GMT\nDuration of FA Threshold being exceeded: 1 hour\nPeak Water Level: 5.30mAOD\nTime of Peak Water Level: 23:15 GMT\nTime of High Astronomical Tide (tide table): 23:27 GMT\nHigh Astronomical Tide Level (tide table): 4.79mAOD\nWind Direction: W/SW\nWind Speed: Force 6\n\nand\n\nDate of FA Threshold being met : 30/03/2025\nTime of FA Threshold being met : 13:00 BST\nDuration of FA Threshold being exceeded: 1 hour\nPeak Water Level: 5.36mAOD\nTime of Peak Water Level: 13:45 BST\nTime of High Astronomical Tide (tide table): 12:42 BST\nHigh Astronomical Tide Level (tide table): 5.27mAOD\nWind Direction: NW\nWind Speed: Force 5-6\n\nSubsequent high tides up to and including the mid day high tide on 01/04/2025 are expected to reach the Flood Alert level.  This message will be updated by 8:00AM on 30/03/2025, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-03-29T07:49:00",
-      "timeRaised": "2025-03-29T07:50:02",
+      "timeMessageChanged": "2025-03-29T15:26:00",
+      "timeRaised": "2025-03-29T15:27:18",
       "timeSeverityChanged": "2025-03-28T16:12:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": "High tides from 29 March 2025 may cause flooding. This alert covers the high tides at 23:00GMT on 29/03/2025 and 13:00 BST on 30/03/2025 as follows;\n\nDate of FA Threshold being met : 29/03/25\nTime of FA Threshold being met : 23:00 GMT\nDuration of FA Threshold being exceeded: 45 mins\nPeak Water Level: 5.50mAOD\nTime of Peak Water Level: 23:15 GMT\nTime of High Astronomical Tide (tide table): 23:27 GMT\nHigh Astronomical Tide Level (tide table): 4.79mAOD\nWind Direction: W/SW\nWind Speed: Force 6\n\nand\n\nDate of FA Threshold being met : 30/03/25\nTime of FA Threshold being met : 13:00 BST\nDuration of FA Threshold being exceeded: 1 hour\nPeak Water Level: 5.60mAOD\nTime of Peak Water Level: 13:45 BST\nTime of High Astronomical Tide (tide table): 12:42 BST\nHigh Astronomical Tide Level (tide table): 5.27mAOD\nWind Direction: NW\nWind Speed: Force 5-6\n\nThe thresholds set at Glasson Dock are not forecast to be reached in this set of Spring Tides. The maximum level forecast to be reached is 5.71mAOD at 13:30 BST on 31/03/25. This message will be updated by 8:00AM on 30/03/25 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-03-29T15:22:00",
+      "timeRaised": "2025-03-29T15:23:09",
+      "timeSeverityChanged": "2025-03-29T15:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
