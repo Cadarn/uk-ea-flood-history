@@ -49,12 +49,12 @@
       },
       "floodAreaID": "013WATMEW",
       "isTidal": true,
-      "message": "This Flood Alert has been issued due to the high tide forecast at Midnight on 27/05/2025. \nFlooding is possible at low lying lands and roads from 00:30 AM on 27/04/2025 at the following locations: \nFiddlers Ferry, peaking around 00:45 AM\nEastford Road, peaking around 01:00 AM\nArpley Bridge, peaking around 01:15 AM\nIt is possible that river levels may affect Arpley Road under the railway bridge.    \nAvoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water. \nThis message will be updated by 10:00 AM on 27/05/2025, or as the situation changes.  ",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-05-26T14:20:00",
-      "timeRaised": "2025-05-26T14:21:05",
-      "timeSeverityChanged": "2025-05-26T14:20:00"
+      "message": "  Tidal conditions are expected to improve this morning and no flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-27T09:22:00",
+      "timeRaised": "2025-05-27T09:22:15",
+      "timeSeverityChanged": "2025-05-27T09:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
@@ -91,12 +91,54 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": " High tides on 26 May 2025 may lead to flooding. This alert is for the high tide at 10:30PM on 26 May2025, forecasted to peak at 5.18mAOD.\n\nThis message will be updated by 10:00AM on 27/05/2025, or as the situation changes.",
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-27T09:34:00",
+      "timeRaised": "2025-05-27T09:34:13",
+      "timeSeverityChanged": "2025-05-27T09:34:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
+      "description": "Somerset coast at Clevedon",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4",
+        "county": "North Somerset",
+        "notation": "112WATSOM4",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM4/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM4",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding. No property flooding is expected.\nHighest tide level is expected to be at the coastline between Gullhouse Point and Marine Parade at 7:15 PM on 27/05/2025. Flooding is possible 2 hours either side of this time.\n\nThe detailed tidal forecast for those who use it is for a peak level at Avonmouth of 7.14 mAODN at 7:15 PM on 27/05/2025, with westerley force 7 winds.\n\nAreas most at risk include the coastline between Gullhouse Point and Marine Parade.\n\nAfter the high tide this evening, the weather is more settled and no flooding is expected. We are closely monitoring the situation and checking flood defences.\nBe careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nWe will remove this message by 9:00 AM on 28/05/2025\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-05-26T18:11:00",
-      "timeRaised": "2025-05-26T18:11:36",
-      "timeSeverityChanged": "2025-05-26T18:11:00"
+      "timeMessageChanged": "2025-05-27T09:45:00",
+      "timeRaised": "2025-05-27T09:47:18",
+      "timeSeverityChanged": "2025-05-27T09:45:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "Strong winds and spring tides may cause large waves, and spray overtopping on the coast.  Wave overtopping may take place between 19:00 and 21:00 this evening, 27/05/2025. Areas most at risk are around Hunstanton seafront.  Flood gates in the area will be closed by the Local Authority which will make access difficult. The detailed forecast for those that use it is for a peak level of 4.28mAODN at 19:00 on Tuesday 27 May, which is 0.30m above tide tables, wind force 4, Southerly. (mAODN is height above average sea level, for more info refer to local tide tables). The following tide on Wednesday at 07:45am is currently forecast to be below the Alert threshold. Take care on beaches, coastal roads and footpaths, and don't put yourself or others in danger. We are monitoring the situation and are not expecting it to escalate. We will update this message by 10.30pm this evening, Tuesday 27 May.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-27T09:22:00",
+      "timeRaised": "2025-05-27T09:23:01",
+      "timeSeverityChanged": "2025-05-27T09:22:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF47Mimram",
