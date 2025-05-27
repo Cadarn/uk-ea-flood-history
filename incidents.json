@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "River levels are expected to be high as a result of spring tides.\n\nThe forecast high tide at Richmond is 4.70mAOD at 03:45 on 28/05/25 and 4.75mAOD at 16:15 on 28/05/25.\n\nFlooding of low-lying roads and footpaths is expected, which may exist for one to two hours either side of high tide. Flooding of properties is not expected.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. \n\nAstronomical tide levels are rising. The river flow at Teddington Weir is low for this time of year at 21 cubic metres per second and is steady. We anticipate the flows to remain low for the next few days.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 18:30 on 28/05/25, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-05-27T18:14:00",
+      "timeRaised": "2025-05-27T18:14:50",
+      "timeSeverityChanged": "2025-05-27T18:14:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
       "description": "Climping Seafront",
       "eaAreaName": "Solent and South Downs",
@@ -175,12 +196,12 @@
       },
       "floodAreaID": "121WAT913",
       "isTidal": true,
-      "message": "River levels are forecast to rise on the Tyne estuary due to high spring tides and surge. Therefore, there may be some overtopping at Newcastle Quayside. Levels are expected to be at their highest between 3.30pm and 5.30pm.\nNo flooding to properties is currently forecast. We would however encourage you to take care near the areas of concern and monitor your local weather conditions. Please avoid using low lying footpaths near local watercourses and avoid contact with flood water.\nThis message will be updated by 6pm on Tuesday 27th May, 2025 or earlier if the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-05-27T10:37:00",
-      "timeRaised": "2025-05-27T10:37:59",
-      "timeSeverityChanged": "2025-05-27T10:37:00"
+      "message": "The previous tide of concern this afternoon has now passed, the weather is more settled and no flooding is expected.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.\nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-05-27T17:48:00",
+      "timeRaised": "2025-05-27T17:48:15",
+      "timeSeverityChanged": "2025-05-27T17:48:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM4",
