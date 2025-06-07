@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFCC",
+      "description": "Crossens area in west Lancashire",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFCC",
+        "county": "Lancashire, Sefton",
+        "notation": "012WAFCC",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFCC/polygon",
+        "riverOrSea": "Crossens"
+      },
+      "floodAreaID": "012WAFCC",
+      "isTidal": false,
+      "message": "Persistent rainfall throughout the morning may lead to flooding.\nAreas most at risk include Low lying land from Ormskirk to Southport including, Banks, Birkdale, Brown Edge, Mere Brow and Scarisbrick.\nWeather conditions are expected to improve this afternoon and no further flooding is expected.\nWe are monitoring rainfall and river levels and checking flood defences.\nTake care and avoid walking, cycling or driving through flood water.\nThis message will be updated by 4:00 PM on 07/06/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-07T09:49:00",
+      "timeRaised": "2025-06-07T09:49:56",
+      "timeSeverityChanged": "2025-06-07T09:49:00"
+    }
+  ]
 }
