@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUR",
+      "description": "Upper River Ribble, Hodder",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR",
+        "county": "Lancashire, North Yorkshire",
+        "notation": "012WAFUR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WAFUR/polygon",
+        "riverOrSea": "River Ribble"
+      },
+      "floodAreaID": "012WAFUR",
+      "isTidal": false,
+      "message": "Rising river levels overnight may lead to flooding.\nFlooding is possible when river levels are at their highest from 5:00 AM on 10/06/2025.\nFlooding is forecast to affect locations near the River Ribble, River Hodder, with low lying land and roads expected to be most affected, particularly around Rivers Ribble, Hodder and other watercourses, from Settle to Samlesbury including Clitheroe, Gisburn, Sawley, Waddington and Ribchester.\nWeather conditions are expected to improve tomorrow afternoon and no further flooding is expected.\nTake care and avoid walking, cycling or driving through flood water.\nMonitor local water levels and weather conditions.\nPlease do not drive through floodwater as bow waves may affect adjacent properties.\nThis message will be updated by 8:00 AM on 10/06/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-09T21:01:00",
+      "timeRaised": "2025-06-09T21:01:53",
+      "timeSeverityChanged": "2025-06-09T21:01:00"
+    }
+  ]
 }
