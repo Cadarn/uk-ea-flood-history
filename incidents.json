@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW14",
+      "description": "River Dart area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14",
+        "county": "Devon, Torbay",
+        "notation": "113WABTW14",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW14/polygon",
+        "riverOrSea": "River Dart"
+      },
+      "floodAreaID": "113WABTW14",
+      "isTidal": false,
+      "message": "Flooding is possible on Thursday afternoon (12/06/2025). We have seen heavy rainfall in the River Dart area, and river levels are rising. There may be flooding to low lying land and roads close to the river. We expect the river to remain high throughout the afternoon but start to recede into the evening. Take care near the areas of concern and check your local weather conditions. We are constantly monitoring river levels. This message will be updated on Friday morning (13/06/2025) or earlier if the situation changes.  ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-06-12T12:33:00",
+      "timeRaised": "2025-06-12T12:33:53",
+      "timeSeverityChanged": "2025-06-12T12:33:00"
+    }
+  ]
 }
