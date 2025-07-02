@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF930",
+      "description": "Middlesbrough Becks",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF930",
+        "county": "Middlesbrough, Redcar and Cleveland",
+        "notation": "121WAF930",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF930/polygon",
+        "riverOrSea": "Middlesbrough Becks"
+      },
+      "floodAreaID": "121WAF930",
+      "isTidal": false,
+      "message": "Heavy rainfall/thunderstorms are forecast to fall in the area this afternoon. This means that the Middlesbrough Becks could rise quickly in response.\nForecast levels suggest that there may be flooding to low lying land and roads close to the rivers with surface water flooding also expected.\nTake care near the areas of concern and monitor your local weather conditions. Avoid walking or driving along riverside roads and footpaths.\nTo help reduce the risk of flooding in Middlesbrough, please report any blockages of trash screens to the Environment Agency as soon as possible by calling 0800 80 70 60 (24 hours).\nWe are monitoring river levels closely and our operational teams are out on the ground checking and clearing any blockages from rivers.\nHeavy rain/thunderstorms are expected to clear to the east by 6pm with more settled weather expected on Thursday.\nThis message will be updated later this evening or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-02T14:41:00",
+      "timeRaised": "2025-07-02T14:41:57",
+      "timeSeverityChanged": "2025-07-02T14:41:00"
+    }
+  ]
 }
