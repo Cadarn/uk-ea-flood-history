@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF28UpColne",
+      "description": "Upper River Colne and Radlett Brook",
+      "eaAreaName": "Hertfordshire and North London",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF28UpColne",
+        "county": "Hertfordshire",
+        "notation": "062WAF28UpColne",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF28UpColne/polygon",
+        "riverOrSea": "River Colne"
+      },
+      "floodAreaID": "062WAF28UpColne",
+      "isTidal": false,
+      "message": "High river levels throughout the afternoon may lead to flooding.\n\nFlooding is possible when river levels are at their highest from 3:30 PM on Sunday 6th July.\n\nProperty flooding is not expected.\n\nFlooding is forecast to affect locations near the Radlett Brook, Colne, and Mimmshall Brook, with low lying land and roads expected to be most affected, particularly around Waterside, Lowbell Lane, London Colney and Warrengate Road.\n\nFurther flooding is possible throughout the afternoon as river levels will rise due to heavy rainfall.\n\nWe are monitoring rainfall and river levels and closely monitoring the situation. Monitor local water levels and weather conditions.\n\nAvoid using low lying footpaths and any bridges near local watercourses.\n\nThis message will be updated by 9:00 AM on Monday 7th July, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-06T15:51:00",
+      "timeRaised": "2025-07-06T15:51:54",
+      "timeSeverityChanged": "2025-07-06T15:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAF9PentStrm",
+      "description": "Pent Stream in Folkestone",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF9PentStrm",
+        "county": "Kent",
+        "notation": "064WAF9PentStrm",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAF9PentStrm/polygon",
+        "riverOrSea": "Pent Stream"
+      },
+      "floodAreaID": "064WAF9PentStrm",
+      "isTidal": false,
+      "message": "Heavy thundery rainfall this afternoon is expected to cause river levels to rise rapidly. Flooding of roads and low lying land is possible between 4:30pm and 7pm Sunday 6 July, 2025. \n\nAreas most at risk include low lying land and roads along the River Pent in Folkestone first. Flooding in this area can happen very quickly. Heavy rainfall is expected to clear this evening and no further flooding is expected, although showers are expected to continue into Monday 7 July, 2025. We are closely monitoring the situation and are checking rivers for blockages.\n\nMonitor your local situation and consider activating any property flood protection products if you have them. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10 pm on Sunday 6 July, 2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-07-06T16:14:00",
+      "timeRaised": "2025-07-06T16:15:11",
+      "timeSeverityChanged": "2025-07-06T16:14:00"
+    }
+  ]
 }
