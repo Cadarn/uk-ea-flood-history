@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC955",
+      "description": "North Sea coast at Skipsea, Hornsea and Mappleton",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC955",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC955/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC955",
+      "isTidal": true,
+      "message": "High tides and strong winds may lead to flooding from overtopping waves and wind-blown spray between 5:00am and 6:15am tomorrow morning, Monday 25/08/2025. Flooding of roads and low lying land is possible, especially at exposed areas of the coast. Areas most at risk include the North Sea coast from Skipsea to Mappleton, including Hornsea. Be careful along beaches, promenades, coastal footpaths and roads as large waves and spray could be dangerous. We are closely monitoring the situation and will update this message by 9:00am on Monday 25/08/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-08-24T18:35:00",
+      "timeRaised": "2025-08-24T18:36:00",
+      "timeSeverityChanged": "2025-08-24T18:35:00"
+    }
+  ]
 }
