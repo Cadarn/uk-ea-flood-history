@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF415",
+      "description": "Aldingbourne and Barnham Rifes",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF415",
+        "county": "West Sussex",
+        "notation": "065WAF415",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAF415/polygon",
+        "riverOrSea": "Aldingbourne and Barnham Rifes"
+      },
+      "floodAreaID": "065WAF415",
+      "isTidal": false,
+      "message": "High river levels today may lead to flooding. Flooding is possible on 29/08/2025 from 08:00, as a lot of rain fell on Friday morning (45mm in only 7 hours). Flooding could affect Barnham Road, Lake Lane, and a small number of riverside properties in Marshall Close, Barnham. With the Aldingbourne Rife starting at a low level, only minor flood impacts affecting fields and land, is currently expected in Bersted and Felpham. We will update if more significant impacts become more probable. Rain is forecast to continue until 08:00 29/08/2025, with a small amount of rain and showers possible Friday afternoon and through the weekend. River levels and flood risk should begin to reduce in Barnham by 12:00 29/08/2025, and Saturday in Bersted. We are closely monitoring the situation clearing debris screens through Barnham. Our pumps at Felpham are running. Consider activating any flood protection products you may have. Including in Barnham. Avoid roads that flood (Barnham Rd and Lake Lane). This message will be updated by 20:00 on the 29/08/2025.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-08-29T07:51:00",
+      "timeRaised": "2025-08-29T07:51:24",
+      "timeSeverityChanged": "2025-08-29T07:51:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAF440",
       "description": "Scrase Bridge and West Common Streams",
       "eaAreaName": "Solent and South Downs",
@@ -70,12 +91,12 @@
       },
       "floodAreaID": "065WAF215",
       "isTidal": false,
-      "message": "The water level in the Western Yar at Freshwater is high and rising rapidly.  In the last 3 hours, 35mm of rain has been recorded at Afton. This is a significant amount in a short period of time.  From 06:30 Friday 29/08/2025 surface water will flood School Green Road in Freshwater. The river will be bank full and may also come out of bank in some places, adding to the volume of water in the roads.  Heavy rain will continue to affect the area over the next 2 hours with up to 20mm possible. With continued rainfall if water levels continue to increase, in the next 1 hour we may issue a Flood Warning, for onset of property flooding from the river.  Our operational teams are out keeping streams clear of reported blockages. We continue to monitor the forecast.  If you live on School Green Road, please take appropriate action so that you can protect your property if required.  This Flood Alert will be updated at 12:00 Friday 29/08/25 or sooner, if we think property flooding will occur.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-08-29T06:35:00",
-      "timeRaised": "2025-08-29T06:35:50",
-      "timeSeverityChanged": "2025-08-29T06:35:00"
+      "message": "Water levels in the Western Yar at Freshwater have now fallen.  40mm of rain fell in 3 hours up to 06:00 this morning, Friday (29/08/25). Further short showers are expected throughout the day, but river levels are not expected to rise significantly again.  We continue to monitor the forecast and will issue further advice if the situation changes.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-08-29T08:15:00",
+      "timeRaised": "2025-08-29T08:15:22",
+      "timeSeverityChanged": "2025-08-29T08:15:00"
     }
   ]
 }
