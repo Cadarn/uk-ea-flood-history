@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WABTW09",
+      "description": "River Axe area",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09",
+        "county": "Devon, Dorset Council, Somerset",
+        "notation": "113WABTW09",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WABTW09/polygon",
+        "riverOrSea": "River Coly, River Yarty, Umborne Brook"
+      },
+      "floodAreaID": "113WABTW09",
+      "isTidal": false,
+      "message": " Flooding is possible overnight on Tuesday and into Wednesday morning.\nA band of heavy rain is forecasted during Tuesday night and Wednesday morning causing river levels to rise in the River Axe area.\nFlooding to low lying land and roads close to rivers is possible from the early hours of Wednesday morning.\nWe expect rivers to remain high throughout Wednesday.\nTake care near the areas of concern and monitor your local weather conditions.\nWe are constantly monitoring river levels and have staff in the area checking for and clearing blockages in this location. This message will be updated on Wednesday evening or earlier if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-02T16:13:00",
+      "timeRaised": "2025-09-02T16:13:50",
+      "timeSeverityChanged": "2025-09-02T16:13:00"
+    }
+  ]
 }
