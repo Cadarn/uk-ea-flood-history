@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTNSA",
+      "description": "North Somerset area",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTNSA",
+        "county": "Bath and North East Somerset, North Somerset, Somerset",
+        "notation": "112WAFTNSA",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTNSA/polygon",
+        "riverOrSea": "Congresbury Yeo, Cheddar Yeo, River Axe, River Banwell"
+      },
+      "floodAreaID": "112WAFTNSA",
+      "isTidal": false,
+      "message": "Following heavy, localised rain overnight, river levels have risen rapidly in the Congresbury Yeo. Consequently, flooding is possible today, Friday, 12/09/2025, on low lying land and roads near the Congresbury Yeo, particularly roads at Wrington and Iwood. No property flooding is expected. \nScattered, heavy showers interspersed with sunny spells are forecast today, and Saturday, with a band of widespread rain on Sunday, accompanied by strong winds. \nWe are closely monitoring the situation and will issue further flood alerts if and when necessary. Our staff are checking defences and clearing weed screens. Please avoid using low lying footpaths near rivers, plan driving routes to avoid low lying roads, which may be flooded, and refer to local authority websites for local road conditions. \nThis message will be updated by 5:00 PM, Friday 12/09/2025, or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-12T09:10:00",
+      "timeRaised": "2025-09-12T09:11:08",
+      "timeSeverityChanged": "2025-09-12T09:10:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
       "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
       "eaAreaName": "Kent, South London and East Sussex",
@@ -183,48 +204,6 @@
       "timeSeverityChanged": "2025-09-11T10:20:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT2A",
-      "description": "North Devon coast from Hartland Point to Lynmouth",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A",
-        "county": "Devon",
-        "notation": "113WACT2A",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT2A/polygon",
-        "riverOrSea": "Bristol Channel"
-      },
-      "floodAreaID": "113WACT2A",
-      "isTidal": true,
-      "message": "The risk of flooding from the sea has now reduced, and tide levels, are falling below levels of concern. No further flooding is expected, however, please take care near coastal paths and promenades.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-09-11T09:00:00",
-      "timeRaised": "2025-09-11T09:00:28",
-      "timeSeverityChanged": "2025-09-11T09:00:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1D",
-      "description": "South Devon Estuaries",
-      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1D",
-        "county": "Devon",
-        "notation": "113WACT1D",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1D/polygon",
-        "riverOrSea": "South Devon Coast"
-      },
-      "floodAreaID": "113WACT1D",
-      "isTidal": true,
-      "message": "The risk of flooding from the sea has now reduced, and tide levels, are falling below levels of concern. No further flooding is expected, however, please take care near coastal paths and promenades.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-09-11T09:00:00",
-      "timeRaised": "2025-09-11T09:00:22",
-      "timeSeverityChanged": "2025-09-11T09:00:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEW",
       "description": "Mersey Estuary at Warrington",
       "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
@@ -259,12 +238,12 @@
       },
       "floodAreaID": "011WACN6",
       "isTidal": true,
-      "message": "A flood alert has been issued as a result of high spring tides until Friday morning.\n\nPlease avoid driving through flood water and do not put yourself or others at risk.\n\nWe will update this message by 10am on Friday 12th September 2025, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-11T15:57:00",
-      "timeRaised": "2025-09-11T15:57:42",
-      "timeSeverityChanged": "2025-09-07T14:02:00"
+      "message": "The previous tide of concern overnight has now passed,  the weather is more settled and no flooding is expected.",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-12T09:01:00",
+      "timeRaised": "2025-09-12T09:01:10",
+      "timeSeverityChanged": "2025-09-12T09:01:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN1",
@@ -343,12 +322,12 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": "We do not currently anticipate the Flood Alert level to be met during today’s high tide at 1:30PM.  The following tide at 02:30AM on 12/09/2025 is expected to reach Flood Alert level.\nFlooding is possible around the high tide tonight at 02:30AM on 12/09/2025 with high water levels 2 hours either side.\n\nWe are closely monitoring the situation and liaising with emergency services and local authorities.\nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.\n\nThis message will be updated by 10:00AM on 12/09/2025, or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-11T11:06:00",
-      "timeRaised": "2025-09-11T11:06:28",
-      "timeSeverityChanged": "2025-09-07T14:14:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-12T09:10:00",
+      "timeRaised": "2025-09-12T09:10:53",
+      "timeSeverityChanged": "2025-09-12T09:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
