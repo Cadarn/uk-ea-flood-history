@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF939",
+      "description": "Upper River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939",
+        "county": "North Yorkshire",
+        "notation": "122WAF939",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939/polygon",
+        "riverOrSea": "River Ure"
+      },
+      "floodAreaID": "122WAF939",
+      "isTidal": false,
+      "message": "River levels are rising in response to recent heavy rainfall. Flooding is possible this morning and through to this afternoon, Monday 15/09/2025. Flooding is forecast to affect locations near the River Ure, with low lying land and roads expected to be most affected, particularly around The River Ure and tributaries, from its source downstream to Kilgram. Rainfall is expected throughout the day and into this evening. We are closely monitoring the situation and do not expect to issue any flood warnings at this time. Avoid using low lying footpaths and any bridges near local watercourse and do not attempt to walk, drive or cycle through flood water. Take care and consider activating your flood plan if you have one. This message will be updated by 21:00 on Monday 15/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-15T08:51:00",
+      "timeRaised": "2025-09-15T08:51:42",
+      "timeSeverityChanged": "2025-09-15T08:51:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF312",
       "description": "River Sow and River Penk",
       "eaAreaName": "West Midlands",
@@ -49,12 +70,12 @@
       },
       "floodAreaID": "033WAF300",
       "isTidal": false,
-      "message": " River levels are rising at the Bournville Woodbrooke Road river gauge as a result of heavy rainfall this afternoon. Consequently, flooding of roads and farmland is possible this evening and into Monday morning, 15/09/25. Further rainfall is forecast over the next 24 hours. We expect river levels to remain high into Monday morning, 15/09/2025. We are closely monitoring the situation. Our incident response staff are actively checking river levels and the weather forecast. Please plan driving routes to avoid low lying roads near rivers, which may be flooded and avoid using low lying footpaths and bridges near local watercourses. This message will be updated by 11:00 on 15/09/25, or as the situation changes.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-09-14T16:41:00",
-      "timeRaised": "2025-09-14T16:41:35",
-      "timeSeverityChanged": "2025-09-14T16:41:00"
+      "message": " ",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-09-15T08:59:00",
+      "timeRaised": "2025-09-15T08:59:19",
+      "timeSeverityChanged": "2025-09-15T08:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
@@ -76,6 +97,27 @@
       "timeMessageChanged": "2025-09-15T07:25:00",
       "timeRaised": "2025-09-15T07:25:42",
       "timeSeverityChanged": "2025-09-15T07:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFWE",
+      "description": "Rivers Wampool and Ellen",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFWE",
+        "county": "Cumberland",
+        "notation": "011WAFWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFWE/polygon",
+        "riverOrSea": "River Wampool, River Ellen"
+      },
+      "floodAreaID": "011WAFWE",
+      "isTidal": false,
+      "message": "Heavy rainfall in the early hours of this morning has caused rising river levels which may lead to flooding of land and road. Flooding is possible from 9:00 AM today 15/09/2025.\n\nAreas most at risk include Rivers Wampool and Ellen and other watercourses, from Dalston to Maryport including low lying areas around Wigton, Abbeytown, Silloth, Allonby, Aspatria and Dearham.\n \nPersistent rainfall is expected to continue throughout the day today into the evening.\n\nAvoid using low lying footpaths and any bridges near local watercourses.\n\nThis message will be updated by 9:00 AM on 16/09/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-15T09:14:00",
+      "timeRaised": "2025-09-15T09:14:58",
+      "timeSeverityChanged": "2025-09-15T09:14:00"
     }
   ]
 }
