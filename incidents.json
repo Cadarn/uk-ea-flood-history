@@ -183,6 +183,27 @@
       "timeSeverityChanged": "2025-09-18T18:14:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "Large waves and sea spray are expected to affect the seafront between 3am and 7am tomorrow morning, Sunday 21/09/2025. Areas most at risk are around Hunstanton seafront. Flood gates in the area will be closed by the Local Authority, which will make access difficult.\n\nThe detailed forecast, for those that use it, is for a peak level of 4.03 mAODN at 5am, on Sunday 21st September, which is 0.47m above tide tables, Wind Force 5, direction Northerly. (mAODN is height above average sea level, for more information refer to local tide tables). The following tide on Sunday at 5.15pm is currently forecast to be below the Flood Alert threshold. Take care on beaches, coastal roads and footpaths, and don't put yourself or others in danger. We are monitoring the situation and are not expecting it to escalate.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-20T13:21:00",
+      "timeRaised": "2025-09-20T13:21:59",
+      "timeSeverityChanged": "2025-09-20T13:21:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -412,6 +433,27 @@
       "timeMessageChanged": "2025-09-20T09:44:00",
       "timeRaised": "2025-09-20T09:45:00",
       "timeSeverityChanged": "2025-09-18T18:06:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM2",
+      "description": "Somerset coast at Dunster Beaches, Blue Anchor, Steart, Stolford and Brean",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM2",
+        "county": "North Somerset, Somerset",
+        "notation": "112WATSOM2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM2/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM2",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding.\nFlooding of roads and low lying land is possible, property flooding is not expected.\nFlooding is possible around the high tide from 7:00 PM today 20/09/2025.\nThe detailed tidal forecast for those who use it is for a peak level at Hinkley of 5.93 mAODN at 07:00 PM on 20/09/2025, with westerly force 7 winds\nAreas most at risk include coastal areas at Dunster Beaches, Blue Anchor, Steart, Stolford and Brean.\nWe do not expect to see similar impacts from the high tide tomorrow.\nWe are closely monitoring the situation and checking flood defences.\nDon't put yourself or others at risk.\nThis message will be updated by 11:00 AM on 21/09/2025, or as the situation changes.\nAll times referenced are in British Summer Time",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-09-20T13:25:00",
+      "timeRaised": "2025-09-20T13:25:26",
+      "timeSeverityChanged": "2025-09-20T13:25:00"
     }
   ]
 }
