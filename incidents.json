@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumberland",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": " Flooding is possible as the river, and its streams may rise, due to heavy rain forecast overnight 02/10/2025.\nAreas most at risk include Rivers Ehen, Calder, Irt and Esk and other watercourses, from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle.\nFlood risk will be elevated between 10:30 PM on 02/10/2025, and 3:00 AM on 03/10/2025.\nMore rain is forecast Friday as Storm Amy moves into the area so there is a risk of further flooding, and more land \nand properties becoming at risk.\nWe are closely monitoring the situation.\nPrepare now to keep you, precious items, and your property safe. Install flood protection, gather \nemergency supplies, pack a bag containing essentials and look out for further warnings.\nThis message will be updated by 9:00 AM on 03/10/2025, or if the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-02T17:02:00",
+      "timeRaised": "2025-10-02T17:02:21",
+      "timeSeverityChanged": "2025-10-02T17:02:00"
+    }
+  ]
 }
