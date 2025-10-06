@@ -28,11 +28,11 @@
       },
       "floodAreaID": "054WATBT1",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely from 7:00pm tonight, Sunday 5th October, and for at least the next 24 hours. This is due to tidal water moving up the rivers from Great Yarmouth and creating a natural tide locking effect. This will restrict the normal drainage of the Broads river system out to sea at low tide. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. We are currently monitoring the situation and will update this message if necessary. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. Our workforce are out checking flood defences and clearing weed screens. We will update this message by 3pm tomorrow, Monday 6th October, or as the situation changes.\t\n",
+      "message": "This message has been issued because some minor flooding to riverside roads and footpaths is likely for overnight tonight Monday 6th October. This is due to tidal water moving up the rivers from Great Yarmouth and creating a natural tide locking effect. This will restrict the normal drainage of the Broads river system out to sea at low tide. We expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. We are not currently expecting the situation to escalate, or to issue any further warning messages at this time. Take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 9am tomorrow, Tuesday 7th October.\t\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-10-05T16:04:00",
-      "timeRaised": "2025-10-05T16:05:17",
+      "timeMessageChanged": "2025-10-06T15:15:00",
+      "timeRaised": "2025-10-06T15:15:42",
       "timeSeverityChanged": "2025-10-04T14:43:00"
     },
     {
@@ -162,25 +162,46 @@
       "timeSeverityChanged": "2025-10-04T19:02:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF960",
-      "description": "Upper River Aire catchment",
-      "eaAreaName": "Yorkshire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960",
-        "county": "Bradford, North Yorkshire",
-        "notation": "123WAF960",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAF960/polygon",
-        "riverOrSea": "River Aire, Eller Beck"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
       },
-      "floodAreaID": "123WAF960",
-      "isTidal": false,
-      "message": " The flood alert has been removed; the levels have fallen an there is no further significant rainfall expected.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-05T15:18:00",
-      "timeRaised": "2025-10-05T15:19:02",
-      "timeSeverityChanged": "2025-10-05T15:18:00"
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": "Flooding of roads and low lying land is possible, property flooding is not expected.\nHighest tide level is expected to be at Coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale at 11:30 PM on 06/10/2025. Flooding is possible 2 hours either side of this time.\nThe lunchtime tide tomorrow, 07/10/25 will not reach flood alert, but the overnight tide on 08/10/25 will pass the flood alert threshold.\nBe careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous.\nThis message will be updated by 9:00 AM on 07/10/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-06T15:16:00",
+      "timeRaised": "2025-10-06T15:16:40",
+      "timeSeverityChanged": "2025-10-06T15:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
+      "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE",
+        "county": "Lancashire",
+        "notation": "012WATWE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATWE/polygon",
+        "riverOrSea": "Wyre Estuary"
+      },
+      "floodAreaID": "012WATWE",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding.\nFlooding is possible from 10:30 PM on 06/10/2025. Levels are forecasted to peak at 5.12mAOD.\nFurther flooding is possible overnight tomorrow from around 11:00 PM due to higher than normal tides.\nThis message will be updated by 10:00 AM on 07/10/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-06T14:45:00",
+      "timeRaised": "2025-10-06T14:45:23",
+      "timeSeverityChanged": "2025-10-06T14:45:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
