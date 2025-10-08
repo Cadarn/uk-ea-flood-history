@@ -175,11 +175,11 @@
       },
       "floodAreaID": "013WATMEW",
       "isTidal": true,
-      "message": "High tides are expected to reach the flood alert threshold overnight which may lead to flooding between 00:45 AM and 02:15 AM on 08/10/2025. The impacted locations are:\n\nFiddlers Ferry, peaking around 01:15 AM,\n\nEastford Road, peaking around 01:30 AM,\n\nArpley Bridge, peaking around 01:45 AM.\n\nIt is possible that river levels may affect Arpley Road under the railway bridge. \n\nThe lunchtime tide tomorrow, 08/10/2025 will not reach flood alert, but the overnight tide on 09/10/2025 will pass the flood alert threshold.\n\nWe are closely monitoring the situation.\n\nThis message will be updated by 4:00 PM on 08/10/2025, or as the situation changes.",
+      "message": "High tides are expected to reach the flood alert threshold overnight which may lead to flooding between 01:30 AM and 03:00 AM on 09/10/2025.  The impacted locations are:\n \nFiddlers Ferry, peaking around 02:00 AM\n \nEastford Road, peaking around 02:15 AM\n \nArpley Bridge, peaking around 02:30 AM\n \nKnutsford Road, peaking around 02:30 AM\n \nIt is possible that river levels will also affect Arpley Road under the railway bridge. \n \nThe lunchtime tide tomorrow, 09/10/2025 will not reach flood alert, but the overnight tide on 10/10/2025 will pass the flood alert threshold.\nWe are closely monitoring the situation.\nThis message will be updated by 4:00 PM on 09/10/2025, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-10-07T17:07:00",
-      "timeRaised": "2025-10-07T17:08:09",
+      "timeMessageChanged": "2025-10-08T16:16:00",
+      "timeRaised": "2025-10-08T16:16:40",
       "timeSeverityChanged": "2025-10-07T17:07:00"
     },
     {
@@ -225,6 +225,27 @@
       "timeSeverityChanged": "2025-10-08T15:24:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATMEWLW",
+      "description": "Mersey Estuary from Liverpool and Wirral to Widnes",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEWLW",
+        "county": "Cheshire West and Chester, Halton, Knowsley, Liverpool, Sefton, Wirral",
+        "notation": "013WATMEWLW",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATMEWLW/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013WATMEWLW",
+      "isTidal": true,
+      "message": "High tides are expected to reach the flood alert threshold overnight which may lead to flooding between 01:15 AM and 02:00 AM on 09/10/2025.  The impacted locations are:\n \nHale Village, peaking around 01:30 AM\n \nNo other high tides are expected to reach the Flood Alert threshold in this current sequence.\nWe are closely monitoring the situation.\nThis message will be updated by 4:00 PM on 09/10/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-08T16:16:00",
+      "timeRaised": "2025-10-08T16:16:20",
+      "timeSeverityChanged": "2025-10-08T16:16:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
       "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
       "eaAreaName": "Cumbria and Lancashire",
@@ -259,12 +280,33 @@
       },
       "floodAreaID": "012WACHC",
       "isTidal": true,
-      "message": "We do not expect to see impacts from the high tide this lunchtime, Wednesday 08/10/2025. However, high tides this evening may lead to flooding with the high tide expected at 11:45PM. Flooding is possible 2 hours either side of this time.\nFlooding is possible Wednesday evening for Sandylands, Middleton, Sunderland, Bank Houses, Hillam, Sand Side and Cockerham Moss at 11:45 PM on 08/10/2025. \nThis message will be updated by 05:00 PM on 08/10/2025, or as the situation changes.",
+      "message": "High tides overnight may lead to flooding.\nHighest tide level is expected to be at Sandylands, Middleton, Sunderland, Bank Houses, Hillam, Sand Side and Cockerham Moss at 12:45 AM on 09/10/2025. Flooding is possible 2 hours either side of this time.\nAfter the high tide overnight, the weather is more settled and no flooding is expected. We do not expect to see similar impacts from tomorrows midday high tide.\nAvoid coastal roads, footpaths and carparks, which may be flooded.\nWe will remove this message by 9:00 AM on 09/10/2025.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-10-08T08:36:00",
-      "timeRaised": "2025-10-08T08:36:37",
+      "timeMessageChanged": "2025-10-08T16:14:00",
+      "timeRaised": "2025-10-08T16:14:35",
       "timeSeverityChanged": "2025-10-07T15:32:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATLE",
+      "description": "Lune estuary south west of Lancaster",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE",
+        "county": "Lancashire",
+        "notation": "012WATLE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/012WATLE/polygon",
+        "riverOrSea": "Lune estuary"
+      },
+      "floodAreaID": "012WATLE",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding.\nFlooding of roads and low lying land is possible, property flooding is not expected.\nHighest tide level is expected to be at Aldcliffe Marsh, Heaton Marsh, Marsh, Greyhound Bridge, Skerton Bridge, Newton, Overton, Middleton, Glasson, Conder Green, Conder Bridge and Thurnham Moss at 12:45 AM on 09/10/2025. Flooding is possible 2 hours either side of this time.\nWe do not expect to see similar impacts from the high tide tomorrow afternoon.\nWe have closed flood gates at St. Georges Quay, Lancaster.\nAvoid coastal roads, footpaths and carparks, which may be flooded.\nWe will remove this message by 9:00 AM on 09/10/2025.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-08T16:10:00",
+      "timeRaised": "2025-10-08T16:10:49",
+      "timeSeverityChanged": "2025-10-08T16:10:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
@@ -280,12 +322,12 @@
       },
       "floodAreaID": "054WACDV2A",
       "isTidal": true,
-      "message": "Levels are now below the flood risk thresholds.  There may still be some areas where flood water is present until it can naturally drain away. Continue to take care on waterside roads and footpaths, and don't put yourself in unnecessary danger. We will continue to monitor levels closely.",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-10-08T10:50:00",
-      "timeRaised": "2025-10-08T10:50:10",
-      "timeSeverityChanged": "2025-10-08T10:50:00"
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely tomorrow morning between 07:15am and 09:15am on Thursday 9th October. Tides are expected to be higher than usual due to spring tides. We expect to see water on roads and paths to beaches and on the quays in Brancaster, Burnham Overy, Holkham, Wells and Blakeney. The detailed forecast for those that use it is for a peak level tonight at Wells of 3.66mAODN at 08:15am on Thursday 9th October which is 0.07m above tide tables, wind force 5, Westerly. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Thursday 9th October.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-08T16:02:00",
+      "timeRaised": "2025-10-08T16:02:26",
+      "timeSeverityChanged": "2025-10-08T16:02:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A12",
@@ -364,11 +406,11 @@
       },
       "floodAreaID": "051WACDV4C",
       "isTidal": true,
-      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  today between 12:15pm and 2:15pm Wednesday 8th October. Tides are expected to be higher than usual, due to approaching spring tides. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level tonight at Clacton of 2.91mAODN at 1:15pm on Wednesday 8th October which is 0.10m above tide tables, wind force 2, Westerly. Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate. We will update this message by 5pm today, Wednesday 8th October.",
+      "message": "This message has been issued because some minor flooding to coastal roads and footpaths is likely  in the early hours tomorrow between 00:45am and 02:45am on Thursday 9th October. Tides are expected to be higher than usual due to spring tides. Clacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast for those that use it is for a peak level tonight at Clacton of 2.84mAODN at 1:45am on Thursday 9th October which is 0.07m above tide tables, wind force 3, North Westerly.    Take care on coastal roads and footpaths, and don't put yourself in unnecessary danger. We are monitoring the situation and not expecting the situation to escalate.  We will update this message by 10am tomorrow, Thursday 9th October.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-10-08T09:17:00",
-      "timeRaised": "2025-10-08T09:17:40",
+      "timeMessageChanged": "2025-10-08T15:50:00",
+      "timeRaised": "2025-10-08T15:50:38",
       "timeSeverityChanged": "2025-10-06T14:00:00"
     },
     {
@@ -456,6 +498,27 @@
       "timeSeverityChanged": "2025-10-07T10:59:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WACHIH",
+      "description": "Irish Sea from Hilbre Island to Heswall",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WACHIH",
+        "county": "Cheshire West and Chester, Wirral",
+        "notation": "013WACHIH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WACHIH/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "013WACHIH",
+      "isTidal": true,
+      "message": "Spray overtopping volumes are expected to reach the flood alert threshold overnight which may lead to flooding between 00:30 AM and 02:00 AM on 09/10/2025.  The impacted locations are:\n \nWest Kirby, peaking around 01:45 AM\n \nNo other high tides are expected to reach the Flood Alert threshold in this current sequence.\nWe are closely monitoring the situation.\nThis message will be updated by 4:00 PM on 09/10/2025, or as the situation changes.\n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-08T16:15:00",
+      "timeRaised": "2025-10-08T16:16:12",
+      "timeSeverityChanged": "2025-10-08T16:15:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT962",
       "description": "Humber estuary from Hessle Haven to Faxfleet",
       "eaAreaName": "Yorkshire",
@@ -475,6 +538,27 @@
       "timeMessageChanged": "2025-10-08T09:13:00",
       "timeRaised": "2025-10-08T09:13:38",
       "timeSeverityChanged": "2025-10-07T16:52:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013FWTTCH3",
+      "description": "Mersey Estuary at Arpley Bridge, Warrington",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013FWTTCH3",
+        "county": "Warrington",
+        "notation": "013FWTTCH3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013FWTTCH3/polygon",
+        "riverOrSea": "Mersey Estuary"
+      },
+      "floodAreaID": "013FWTTCH3",
+      "isTidal": true,
+      "message": "High tides are expected to reach the flood warning threshold overnight which may lead to flooding between 02:15 AM and 02:45 AM on 09/10/2025. \n \nNo other high tides are expected to reach the Flood Warning threshold in this current sequence.\n\nStart acting on your flood plan if you have one.\nWe are closely monitoring the situation.\nThis message will be updated by 4:00 PM on 09/10/2025, or as the situation changes.",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-10-08T16:15:00",
+      "timeRaised": "2025-10-08T16:15:48",
+      "timeSeverityChanged": "2025-10-08T16:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
@@ -595,12 +679,33 @@
       },
       "floodAreaID": "112WATSOM1",
       "isTidal": true,
-      "message": "High spring tides may lead to flooding this evening. Flooding of roads and low lying land is possible, however property flooding is not expected.\n\nThe highest tide level is expected to be at the coastline between Gore Point and Hurlstone Point, including Porlock Weir, at 7:30 PM on 08/10/2025. Flooding is possible an hour and a half either side of this time.\n\nThe detailed tidal forecast for those who use it is for a peak level at Hinkley Point of 6.60 mAODN at 7:30 PM on 08/10/2025, with Northerly force 4 winds. (mAODN is height above average sea level.)\n \nWe are closely monitoring the situation. Be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Further flood alerts may be issued for this current sequence of high Spring tides.\n\nThis message will be updated by 1:00 PM on 09/10/2025, or as the situation changes.",
+      "message": "High spring tides may lead to flooding this evening. Flooding of roads and low lying land is possible, however property flooding is not expected.\n\nThe highest tide level is expected to be at the coastline between Gore Point and Hurlstone Point, including Porlock Weir, at 8:30 PM on 08/10/2025. Flooding is possible an hour and a half either side of this time.\n\nThe detailed tidal forecast for those who use it is for a peak level at Hinkley Point of 6.61 mAODN at 8:30 PM on 08/10/2025, with Northerly force 4 winds. (mAODN is height above average sea level.)\n \nWe are closely monitoring the situation. Be careful along beaches, promenades, coastal footpaths and roads as large waves and sea spray could be dangerous. Further flood alerts may be issued for this current sequence of high Spring tides.\n\nThis message will be updated by 1:00 PM on 09/10/2025, or as the situation changes.",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-10-08T11:44:00",
-      "timeRaised": "2025-10-08T11:44:51",
+      "timeMessageChanged": "2025-10-08T15:35:00",
+      "timeRaised": "2025-10-08T15:35:33",
       "timeSeverityChanged": "2025-10-07T15:06:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/013WATDEE",
+      "description": "Dee Estuary from Parkgate to Chester",
+      "eaAreaName": "Greater Manchester, Merseyside and Cheshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATDEE",
+        "county": "Cheshire West and Chester, Wirral",
+        "notation": "013WATDEE",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/013WATDEE/polygon",
+        "riverOrSea": "Dee Estuary"
+      },
+      "floodAreaID": "013WATDEE",
+      "isTidal": true,
+      "message": "Spray overtopping volumes are expected to reach the flood alert threshold overnight which may lead to flooding between 00:30 AM and 02:00 AM on 09/10/2025.  The impacted locations are:\n \nWest Kirby, peaking around 01:45 AM\n \nNo other high tides are expected to reach the Flood Alert threshold in this current sequence.\nWe are closely monitoring the situation.\nThis message will be updated by 4:00 PM on 09/10/2025, or as the situation changes.\n ",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-08T16:15:00",
+      "timeRaised": "2025-10-08T16:16:04",
+      "timeSeverityChanged": "2025-10-08T16:15:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFDW",
