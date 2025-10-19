@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
+      "description": "South Cornwall coast from Gribbin Head to Rame Head",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00",
+        "county": "Cornwall",
+        "notation": "114WACT1T1CA00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WACT1T1CA00/polygon",
+        "riverOrSea": "South Cornwall Coast"
+      },
+      "floodAreaID": "114WACT1T1CA00",
+      "isTidal": true,
+      "message": "Flooding is possible over the high tide on Mon morning and evening. High water at Plymouth is at 5:56am and18:06pm, times of high water will vary along the coast. Strong winds and large waves are forecast to cause flooding between 5:56 am and 18:06 pm. Locations particularly at risk include low lying areas including Fore Street, Town Quay, Albert Quay and Caffa Mill Car park at Fowey, Quay Street and Recreation ground at Lostwithiel, Polperro Harbour, Quay Road and The Quay at Looe and the B3247 at Seaton\n\nLarge waves and spray are likely so take care near the coast. Do not walk or drive through flood water or waves. Coastal conditions should ease for Tues morning's high tide. We are monitoring the situation and will update this information by 5pm on Monday, or if the situation changes. \nDetailed tidal information; The forecast high tide level at Plymouth on Monday am 2.11 mAOD and pm 2.24 mAOD pm.  Expect tide levels along the coast to be between 0.39 am and 0.29pm above tide table level.  Force 6 westerly winds and offshore wave heights of over 3m are forecast over the high tide.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-19T14:16:00",
+      "timeRaised": "2025-10-19T14:16:40",
+      "timeSeverityChanged": "2025-10-19T14:16:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATCHXH",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding.\nFlooding is possible around the high tide from 8:00 AM on 20/10/2025.\nAreas most at risk include Christchurch Harbour and tidal stretches of the Lower Stour and Avon.\nWe do not expect to see similar impacts from the high tide tomorrow evening.\nWe are closely monitoring the situation .\nStart acting on your flood plan if you have one.\nThe detailed tidal forecast for those who use it is for a peak level at Christchurch Harbour of 1.32 mAODN at 9:15 AM on 20/10/2025, with southerly fresh breeze force 5 winds. (mAODN is height above average sea level.)\nThis message will be updated by 12:00 noon on 20/10/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-19T13:51:00",
+      "timeRaised": "2025-10-19T13:52:06",
+      "timeSeverityChanged": "2025-10-19T13:51:00"
+    }
+  ]
 }
