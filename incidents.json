@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WAFAVOL",
+      "description": "Lower Avon and tributaries",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL",
+        "county": "Bournemouth, Christchurch and Poole, Dorset Council, Hampshire",
+        "notation": "111WAFAVOL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WAFAVOL/polygon",
+        "riverOrSea": "Avon"
+      },
+      "floodAreaID": "111WAFAVOL",
+      "isTidal": false,
+      "message": "Rising river levels this afternoon may lead to flooding in the area of Moyles Court.\nNo property flooding is expected.\nFlooding is possible from 12:20 PM on 20/10/2025. \nAreas at risk are low lying land and roads near rivers.\nWeather conditions are expected to improve throughout the evening and no further flooding is expected.\nWe are monitoring rainfall and river levels.\nTake care and avoid walking, cycling or driving through flood water.\nMonitor local water levels and weather conditions.\nThis message will be updated by 5:00 PM on 20/10/2025, or as the situation changes.",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-10-20T13:06:00",
+      "timeRaised": "2025-10-20T13:06:58",
+      "timeSeverityChanged": "2025-10-20T13:06:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC404",
       "description": "Climping Seafront",
       "eaAreaName": "Solent and South Downs",
@@ -28,12 +49,12 @@
       },
       "floodAreaID": "065WAC404",
       "isTidal": true,
-      "message": "High tides on Monday may lead to flooding. Flooding is possible for 2 hours either side of Monday morning's tide at 11:30 on 20/10/2025. The weather increases tide table values by 0.38 m. Total forecast tide is 6.10 metres Chart Datum (3.05 mAOD) at Littlehampton. Strong Southerly Force 7 wind. Small amounts of water will flood land and fields at Climping. Waves will overtop the sea front, directing water westwards along Mill Lane (from the right of the East car park) towards properties on Climping Street. Water may pond near property and in Climping Street Car Park. Monday's tide at 23:45 on 20/10/2025 is forecast to be 24 cm lower (2.81 mAOD). We are closely monitoring the situation. We routinely check the condition of the beach at Climping. Consider activating any flood protection products you may have. Access could be restricted. Take care if visiting Climping beach. This message will be updated by 03:00 PM on 20/10/2025.",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-10-19T15:33:00",
-      "timeRaised": "2025-10-19T15:34:02",
-      "timeSeverityChanged": "2025-10-19T15:33:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. Coastal conditions are expected to improve and no flooding is expected. We will continue to monitor the situation and work with emergency services and local authorities. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water, just 30cm of fast flowing water is enough to move your car.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-20T13:24:00",
+      "timeRaised": "2025-10-20T13:25:04",
+      "timeSeverityChanged": "2025-10-20T13:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1CA00",
