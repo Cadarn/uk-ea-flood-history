@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG22OgVal",
+      "description": "Groundwater flooding in the Upper Og Valley",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG22OgVal",
+        "county": "Swindon, Wiltshire",
+        "notation": "061FAG22OgVal",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061FAG22OgVal/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "061FAG22OgVal",
+      "isTidal": false,
+      "message": "This is a test message, please ignore and take no action.\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-10-21T14:30:00",
+      "timeRaised": "2025-10-21T14:30:08",
+      "timeSeverityChanged": "2025-10-21T14:30:00"
+    }
+  ]
 }
