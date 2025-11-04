@@ -574,12 +574,12 @@
       },
       "floodAreaID": "121WAF907",
       "isTidal": false,
-      "message": "Forecast high river levels today may lead to flooding. \nFlooding is possible on 04 November 2025 . \nFurther rainfall is forecast this morning, river levels will remain elevated for the rest of the day. Locations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 7:00PM on 04 November 2025 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2025-11-04T09:16:00",
-      "timeRaised": "2025-11-04T09:16:37",
-      "timeSeverityChanged": "2025-11-03T17:59:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2025-11-04T18:24:00",
+      "timeRaised": "2025-11-04T18:24:20",
+      "timeSeverityChanged": "2025-11-04T18:24:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
@@ -769,6 +769,27 @@
       "timeMessageChanged": "2025-11-04T16:45:00",
       "timeRaised": "2025-11-04T16:45:12",
       "timeSeverityChanged": "2025-11-04T08:40:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065FWB0102",
+      "description": "Beaulieu",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWB0102",
+        "county": "Hampshire",
+        "notation": "065FWB0102",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065FWB0102/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065FWB0102",
+      "isTidal": false,
+      "message": "High tides are expected to cause flooding on Wednesday.  \nFlooding is expected for 1 hour either side of Wednesday morning's tide at 10:15 on 05/11/2025 and 12:15 on 05/11/2025.  \nThe weather increases tide table values by 0.28 m. Total forecast tide is 4.06 metres Chart Datum (2.31 mAOD) at Beaulieu. Light South Easterly Force 4 wind. Palace Lane and the B3056 (Hatchet Lane) north of the Mill Pond will flood. Access to the village will be temporarily difficult. On the downstream side of the pond, the Mill House garden will flood. Wednesday's tide at 22:30 on 05/11/2025 is forecast to be 6 cm lower (2.25 mAOD). There is no significant rainfall in the forecast outlook. Flood impacts are predicted at each high tide until Saturday (08/11/2025).  \nWe are closely monitoring the situation .  \nActivate any flood protection products you may have .  \nThis message will be updated by 3:00PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2025-11-04T17:51:00",
+      "timeRaised": "2025-11-04T17:51:25",
+      "timeSeverityChanged": "2025-11-04T17:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFLE",
@@ -1065,6 +1086,48 @@
       "timeSeverityChanged": "2025-11-04T10:42:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC158",
+      "description": "Portsmouth",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC158",
+        "county": "Portsmouth",
+        "notation": "065WAC158",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC158/polygon",
+        "riverOrSea": "The Solent, Portsmouth Harbour, Langstone Harbour"
+      },
+      "floodAreaID": "065WAC158",
+      "isTidal": true,
+      "message": "High tides on Wednesday may lead to flooding. \nFlooding is possible for 1 hour either side of Wednesday morning's tide at 10:30 on 05/11/25. \nThe weather increases tide table values by 0.31 m. Total forecast tide is 5.36 metres Chart Datum (2.63 mAOD) at Portsmouth. Strong Southerly Force 5 wind. In Old Portsmouth, the tide may just exceed the top of the main slipway which will cause minor road flooding in East Street and to the boat yards at The Camber. To protect property in Old Portsmouth, tidal defence gates will be closed. Wednesday's tide at 22:45 on 05/11/25 is forecast to be 13 cm lower (2.5 mAOD). There is no significant rainfall in the forecast outlook. Flood impacts are predicted at each high tide until Saturday 08/11/25. \nWe are liaising with emergency services and local authorities . \nDon't put yourself or others at risk . \nThis message will be updated by 3:00PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T17:39:00",
+      "timeRaised": "2025-11-04T17:39:24",
+      "timeSeverityChanged": "2025-11-04T17:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
+      "description": "Fareham to Portchester",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160",
+        "county": "Hampshire, Portsmouth",
+        "notation": "065WAC160",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160/polygon",
+        "riverOrSea": "Portsmouth Harbour"
+      },
+      "floodAreaID": "065WAC160",
+      "isTidal": true,
+      "message": "High tides on Wednesday may lead to flooding. \nFlooding is possible for 1 hour either side of Wednesday morning's tide at 10:30 on 05/11/2025. \nThe weather increases tide table values by 0.31 m. Total forecast tide is 5.36 metres Chart Datum (2.63 mAOD) at Portsmouth. Strong Southerly Force 5 wind. Water may just exceed the top of the main slipway, flooding the road at Lower Quay, Fareham. The lower end of Wallington Shore Road will flood to a depth of 0.1m. Wednesday's tide at 22:45 on 05/11/2025 is forecast to be 13 cm lower (2.5 mAOD). There is no significant rainfall in the forecast outlook. Flood impacts are predicted at each high tide until Saturday (08/11/2025). \nWe are closely monitoring the situation . \nConsider activating any flood protection products you may have . \nThis message will be updated by 3:00PM on 05 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-04T17:46:00",
+      "timeRaised": "2025-11-04T17:46:59",
+      "timeSeverityChanged": "2025-11-04T17:46:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFBR",
       "description": "Rivers Brathay, Rothay and Winster",
       "eaAreaName": "Cumbria and Lancashire",
@@ -1099,11 +1162,11 @@
       },
       "floodAreaID": "011WAFDW",
       "isTidal": false,
-      "message": "High river and lake levels today have led to flooding. Locations most affected will be low lying land and roads near the Upper Derwent from Seathwaite to Derwent Water. Another heavy band of rain is expected this morning, Tuesday 4th November. This will cause levels to rise further and could result in us issuing further flood warnings. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 05:00PM on 04 November 2025 or as the situation changes.\n",
+      "message": "The Upper River Derwent, Stonethwaite Beck and Derwent Water Levels remain high following recent rainfall.  Levels are now peaking.  Further rain overnight is not expected to cause any significant impacts and levels will continue to fall into tomorrow morning.  Flood Warnings remain in force for Keswick Campsite and River Greta at Keswick, Keswick Campsite, Rugby Club and Quinta this is mainly due to the high level of Derwent Water.\n\nLocations remaining affected are low lying land and roads near the Upper Derwent from Seathwaite to Derwent Water.\n\nWe are continuing to monitor the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 05 November 2025 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-11-04T07:41:00",
-      "timeRaised": "2025-11-04T07:41:50",
+      "timeMessageChanged": "2025-11-04T17:52:00",
+      "timeRaised": "2025-11-04T17:52:17",
       "timeSeverityChanged": "2025-11-02T08:48:00"
     },
     {
@@ -1288,11 +1351,11 @@
       },
       "floodAreaID": "011WAFWE",
       "isTidal": false,
-      "message": "Rising river levels this morning may lead to flooding. Locations most affected will be low lying land and roads near rivers. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 5:00 PM on 04 November 2025 or as the situation changes.\n",
+      "message": "The Rivers Wampool and Ellen and their tributaries have now peaked.  Further rain overnight is not expected to cause any significant impacts and levels will continue to fall into tomorrow morning.\n\nLow lying land and roads near the rivers will remain affected.\n\nWe are continuing to monitor the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 05 November 2025 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-11-04T07:59:00",
-      "timeRaised": "2025-11-04T07:59:33",
+      "timeMessageChanged": "2025-11-04T17:33:00",
+      "timeRaised": "2025-11-04T17:33:49",
       "timeSeverityChanged": "2025-11-03T17:18:00"
     },
     {
@@ -1414,11 +1477,11 @@
       },
       "floodAreaID": "011FWFNC8A",
       "isTidal": false,
-      "message": "Rising river levels are expected to cause flooding today. \nFlooding is expected on 04 November 2025  \nLocations most affected will be the river Ehen at Egremont, Bleach Green, Ennerdale Mill, Bridge End, Vale View, Wood Bank and the Rugby Club. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded . \nThis message will be updated by 5:00PM on 04 November 2025 or as the situation changes. \n",
+      "message": "River levels remain high following heavy rain on Tuesday morning.  A further spell of heavy rain is forecast for Wednesday morning, which could cause the level of the River Ehen to rise again, but to lower than was reached on Tuesday. \n\nLocations most affected will be the river Ehen at Egremont, Bleach Green, Ennerdale Mill, Bridge End, Vale View, Wood Bank and the Rugby Club. \n\nWe are closely monitoring the situation . \n\nAvoid low lying roads near rivers, which may be flooded . \n\nThis message will be updated by 10:00AM on 05 November 2025 or as the situation changes.\n",
       "severity": "Flood warning",
       "severityLevel": 2,
-      "timeMessageChanged": "2025-11-04T08:39:00",
-      "timeRaised": "2025-11-04T08:39:52",
+      "timeMessageChanged": "2025-11-04T17:35:00",
+      "timeRaised": "2025-11-04T17:35:22",
       "timeSeverityChanged": "2025-11-04T08:39:00"
     },
     {
