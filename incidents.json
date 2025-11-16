@@ -343,11 +343,11 @@
       },
       "floodAreaID": "112WAFTSES",
       "isTidal": false,
-      "message": "High river levels today may lead to flooding. \nFlooding is possible on 15 November 2025 . \nRiver levels have risen at Sherborne Lake in response to heavy rainfall yesterday evening. Flooding of low-lying land and roads is possible in this area.\n\nWeather conditions are improving, with dry conditions forecast over the weekend. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00AM on 16 November 2025 or as the situation changes.\n",
+      "message": "River levels are slowly falling but remain high at Sherborne Lake. Flooding of low-lying land and roads is possible in this area.\n\nDry conditions forecast for the rest of today and tomorrow.\n\nWe are closely monitoring the situation . \n\nTake care and avoid walking, cycling or driving through flood water . \n\nThis message will be updated by 11:00AM on 17 November 2025, or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2025-11-15T09:54:00",
-      "timeRaised": "2025-11-15T09:54:35",
+      "timeMessageChanged": "2025-11-16T13:24:00",
+      "timeRaised": "2025-11-16T13:24:19",
       "timeSeverityChanged": "2025-11-15T09:54:00"
     },
     {
@@ -1191,6 +1191,27 @@
       "timeSeverityChanged": "2025-11-16T13:12:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 08:45 to 10:45 on Monday 17 November. \nThe flood gates at Felixstowe seafront will be closed. The waterfront at Pin Mill, and The Strand at Wherstead under the Orwell Bridge may be flooded. Water may be on the quay at Mistley. The detailed forecast is for a peak level at  Harwich of 2.66 mAODN at 09:45am on Monday 17 November 2025, which is 0.98m above tide tables, Wind Force 5, Northerly. No further high tides are expected over the coming days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 2:00PM on 17 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-16T13:21:00",
+      "timeRaised": "2025-11-16T13:21:26",
+      "timeSeverityChanged": "2025-11-16T13:21:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF949",
       "description": "Upper River Derwent",
       "eaAreaName": "Yorkshire",
@@ -1966,6 +1987,27 @@
       "timeMessageChanged": "2025-11-16T07:57:00",
       "timeRaised": "2025-11-16T07:57:54",
       "timeSeverityChanged": "2025-11-12T19:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible between 09:00am and 11:00am tomorrow morning, Monday 17 November. \nClacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast is for a peak level at Clacton of 2.83 mAODN at 10:00am, on Monday 17 November 2025, which is 0.91m above tide tables, Wind Force 5, Northerly. No further high tides are expected over the coming days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 2:00PM on 16 November 2025 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2025-11-16T13:21:00",
+      "timeRaised": "2025-11-16T13:21:53",
+      "timeSeverityChanged": "2025-11-16T13:21:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT983",
@@ -4570,27 +4612,6 @@
       "timeMessageChanged": "2025-11-16T08:27:00",
       "timeRaised": "2025-11-16T08:27:33",
       "timeSeverityChanged": "2025-11-14T15:47:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033FWF3TAME015",
-      "description": "River Tame at Whitacre and Nether Whitacre",
-      "eaAreaName": "West Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3TAME015",
-        "county": "Warwickshire",
-        "notation": "033FWF3TAME015",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/033FWF3TAME015/polygon",
-        "riverOrSea": "River Tame"
-      },
-      "floodAreaID": "033FWF3TAME015",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nIf you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2025-11-15T13:29:00",
-      "timeRaised": "2025-11-15T13:29:55",
-      "timeSeverityChanged": "2025-11-15T13:29:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123FWF466",
