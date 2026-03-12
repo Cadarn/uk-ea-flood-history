@@ -351,6 +351,27 @@
       "timeSeverityChanged": "2026-01-17T10:31:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGIWE5",
+      "description": "Groundwater flooding for the Iwerne",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGIWE5",
+        "county": "Dorset Council",
+        "notation": "111FWGIWE5",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111FWGIWE5/polygon",
+        "riverOrSea": "Groundwater"
+      },
+      "floodAreaID": "111FWGIWE5",
+      "isTidal": false,
+      "message": "Continued high groundwater levels are expected to cause flooding.  Flooding is expected from 11:00 on 12/03/2026.  Areas that could be affected include: Iwerne Minster. The groundwater level at the Iwerne Hill Farm borehole is 109.07m, and is slowly falling. No significant rainfall is forecast in the next few days. Residents are advised to prepare property resilience measures and ensure that pumps are working where they have been installed. Residents may experience inundation of septic tanks and sewer systems. Properties may experience flooding in cellars in affected areas.  We are closely monitoring the situation .  If you have a pump, make sure it is working and switched on. Think about alternative power sources in case of power cuts .  This message will be updated by 11:00AM on 19 March 2026 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-03-12T11:58:00",
+      "timeRaised": "2026-03-12T11:58:16",
+      "timeSeverityChanged": "2026-03-12T11:56:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGSWV1",
       "description": "Groundwater flooding for the South Winterbourne Valley",
       "eaAreaName": "Wessex",
@@ -448,12 +469,12 @@
       },
       "floodAreaID": "111FWGEBBV1",
       "isTidal": false,
-      "message": "Groundwater levels in Cranborne Chase remain high. Areas that could be affected include: the area of the Ebble Valley. The groundwater level at the Down Barn borehole is at 66.01m. The levels are starting to starting to fall slowly. Rainfall is forecast later this week. Residents are advised to prepare property resilience measures and ensure that pumps are working where they have been installed. Residents may experience inundation of septic tanks and sewer systems. Flooding of roads is expected, take particular care when driving, both for your own safety and to prevent flooding to others. We are closely monitoring the situation. If you have a pump, make sure it is working and switched on. Think about alternative power sources in case of power cuts. This message will be updated by 11:30AM on 16th March 2026 or as the situation changes.\n",
-      "severity": "Flood warning",
-      "severityLevel": 2,
-      "timeMessageChanged": "2026-03-09T11:11:00",
-      "timeRaised": "2026-03-09T11:11:17",
-      "timeSeverityChanged": "2026-01-25T11:25:00"
+      "message": "Groundwater levels are falling. We do not expect further flooding and the flood warning has been removed.  \nRivers and streams remain full due to high groundwater levels and will react rapidly to further rainfall.    \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.    \nYou are advised to take the opportunity to check any pumps are in good working order and that stocks of sandbags are replenished. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-03-12T11:59:00",
+      "timeRaised": "2026-03-12T11:59:37",
+      "timeSeverityChanged": "2026-03-12T11:59:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111FWGDEV4",
@@ -1420,6 +1441,27 @@
       "timeMessageChanged": "2026-03-10T09:24:00",
       "timeRaised": "2026-03-10T09:24:15",
       "timeSeverityChanged": "2026-02-26T16:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAF908",
+      "description": "River North Tyne",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF908",
+        "county": "Northumberland",
+        "notation": "121WAF908",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAF908/polygon",
+        "riverOrSea": "River North Tyne"
+      },
+      "floodAreaID": "121WAF908",
+      "isTidal": false,
+      "message": "Rising river levels throughout the afternoon may lead to flooding. \nFlooding is possible on 12 March 2026 into the evening. \nLocations most affected will be low lying land and roads near rivers. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00PM on 12 March 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-03-12T12:25:00",
+      "timeRaised": "2026-03-12T12:25:21",
+      "timeSeverityChanged": "2026-03-12T12:25:00"
     }
   ]
 }
