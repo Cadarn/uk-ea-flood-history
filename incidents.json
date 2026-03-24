@@ -406,12 +406,12 @@
       },
       "floodAreaID": "065FAG009",
       "isTidal": false,
-      "message": "Groundwater levels in the Candovers and Old Alresford remain high. At Preston Candover, the level remains relatively stable. At Old Alresford, the level has fallen by 6cm in the last week. Flooding will be affecting the ability of septic tanks to operate effectively. In Preston Candover and Old Alresford, a small number of properties are expected to be experiencing cellar flooding. Dry weather is forecast from Tuesday 17/03/2026 to Saturday 21/03/2026. Groundwater levels in all villages are expected to slowly fall this week. We are closely monitoring the situation. Residents are advised to prepare property resilience measures and ensure that pumps are working where they have been installed. This message will be updated by 18:00 24/03/2026.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-03-17T16:20:00",
-      "timeRaised": "2026-03-17T16:20:29",
-      "timeSeverityChanged": "2026-02-05T16:27:00"
+      "message": "Groundwater levels are falling. We do not expect further flooding and the flood alert has been removed. \nRivers and streams remain full due to high groundwater levels and will react rapidly to further rainfall. Pumps used to reduce water levels will be required in the lower part of the village throughout the next few weeks. \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nSeptic tanks may need emptying as soakaways may not work for some time. You are advised to take the opportunity to check any pumps are in good working order and that stocks of sandbags are replenished.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-03-24T10:13:00",
+      "timeRaised": "2026-03-24T10:13:29",
+      "timeSeverityChanged": "2026-03-24T10:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061FAG22LamVal",
@@ -601,6 +601,27 @@
       "timeMessageChanged": "2026-03-24T07:57:00",
       "timeRaised": "2026-03-24T07:57:37",
       "timeSeverityChanged": "2026-02-26T16:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF939",
+      "description": "Upper River Ure",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939",
+        "county": "North Yorkshire",
+        "notation": "122WAF939",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF939/polygon",
+        "riverOrSea": "River Ure"
+      },
+      "floodAreaID": "122WAF939",
+      "isTidal": false,
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible on 24 March 2026 . \nLocations most affected will be low lying land around the River Ure and tributaries from its source downstream to Kilgram.Rising river levels are due to ongoing heavy rainfall which is expected to last all day. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 11:00PM on 24 March 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-03-24T11:03:00",
+      "timeRaised": "2026-03-24T11:04:00",
+      "timeSeverityChanged": "2026-03-24T11:03:00"
     }
   ]
 }
