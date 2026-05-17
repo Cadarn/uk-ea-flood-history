@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 3:00 AM to 5:00 AM on 18/05/2026. \nThe forecast high tide at Richmond is 4.60 mAOD at 04:00 AM on 18/05/2026.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. Flooding of properties is not expected.\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is 28 cubic metres per second and is steady. We anticipate the flows to remain steady for the next five days. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 9:00AM on 18 May 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-05-17T18:34:00",
+      "timeRaised": "2026-05-17T18:34:06",
+      "timeSeverityChanged": "2026-05-17T18:34:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -49,12 +70,12 @@
       },
       "floodAreaID": "122WAC956",
       "isTidal": true,
-      "message": "High tides today may lead to flooding. \nFlooding is possible from 6:30PM to 7:30PM on 17 May 2026. \nLocations most affected will be coastal roads and footpaths. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00PM on 17 May 2026 or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-05-17T10:54:00",
-      "timeRaised": "2026-05-17T10:54:07",
-      "timeSeverityChanged": "2026-05-17T10:54:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-05-17T19:49:00",
+      "timeRaised": "2026-05-17T19:49:09",
+      "timeSeverityChanged": "2026-05-17T19:49:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAT957",
@@ -70,12 +91,12 @@
       },
       "floodAreaID": "122WAT957",
       "isTidal": true,
-      "message": "High tides today may lead to flooding. \nFlooding is possible from 7:00PM to 7:30PM on 17 May 2026. \nLocations most affected will be low lying land and roads near rivers or on the coast. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 8:00PM on 17 May 2026 or as the situation changes.\n\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-05-17T10:53:00",
-      "timeRaised": "2026-05-17T10:53:46",
-      "timeSeverityChanged": "2026-05-17T10:53:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nTidal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-05-17T19:49:00",
+      "timeRaised": "2026-05-17T19:49:09",
+      "timeSeverityChanged": "2026-05-17T19:49:00"
     }
   ]
 }
