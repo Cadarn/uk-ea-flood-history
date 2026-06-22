@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WAFTESR",
+      "description": "East Somerset Rivers",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTESR",
+        "county": "Somerset",
+        "notation": "112WAFTESR",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WAFTESR/polygon",
+        "riverOrSea": "River Brue, River Sheppey, North Drain, South Drain"
+      },
+      "floodAreaID": "112WAFTESR",
+      "isTidal": false,
+      "message": "Rising river levels today may lead to flooding. \nFlooding is possible on 22 June 2026 . \nLocations most affected will be low lying land and roads near rivers. Intense rainfall has fallen over parts of East Somerset, particularly around Shepton Mallet \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 6:47PM on 22 June 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-06-22T18:51:00",
+      "timeRaised": "2026-06-22T18:51:50",
+      "timeSeverityChanged": "2026-06-22T18:51:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112FWFSHE10A",
+      "description": "River Sheppey",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFSHE10A",
+        "county": "Somerset",
+        "notation": "112FWFSHE10A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112FWFSHE10A/polygon",
+        "riverOrSea": "River Sheppey"
+      },
+      "floodAreaID": "112FWFSHE10A",
+      "isTidal": false,
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nWeather conditions are expected to improve and no further flooding is expected. River levels are receding now the thunderstorm has passed through the area \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nNever drive through flood water,  just 30cm of fast flowing water is enough to move your car. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n\n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-06-22T20:27:00",
+      "timeRaised": "2026-06-22T20:27:10",
+      "timeSeverityChanged": "2026-06-22T20:27:00"
+    }
+  ]
 }
