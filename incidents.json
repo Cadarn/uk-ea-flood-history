@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
+      "description": "Hunstanton coast in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN",
+        "county": "Norfolk",
+        "notation": "052WATCSTHUN",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHUN/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHUN",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 06.45am to 10.45am on Saturday 15 August. \nAreas most at risk are around Hunstanton seafront.  Flood gates in the area will be closed by the Local Authority which will make access difficult. The detailed forecast is for a peak level at King's Lynn of 4.54mAODN at 08:45am on 15 August 2026, Wind Force 5, North Westerly. The high tide tomorrow evening is not expected to be as high. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 11:00AM on 15 August 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-08-14T13:59:00",
+      "timeRaised": "2026-08-14T13:59:50",
+      "timeSeverityChanged": "2026-08-14T13:59:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -57,6 +78,27 @@
       "timeSeverityChanged": "2026-08-13T16:03:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+        "county": "City of Bristol, North Somerset, South Gloucestershire",
+        "notation": "112WATAVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "112WATAVN1",
+      "isTidal": true,
+      "message": "High tides this evening may lead to flooding. \nFlooding is possible around 8:30PM to 10:30PM on Friday 14th of August 2026. \nAreas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton. \nThe detailed tidal forecast for those who use it is for a peak level at Avonmouth Portbury of 7.46 mAODN at 9:30PM on 14/08/26, which is 0.14 m above tide tables, with North-Westerly force 3 winds. (mAODN is height above average sea level.) \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 2:00PM on 15 August 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-08-14T14:12:00",
+      "timeRaised": "2026-08-14T14:12:47",
+      "timeSeverityChanged": "2026-08-14T14:12:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
       "description": "Wyre estuary from Fleetwood and Knott End to Little Eccleston",
       "eaAreaName": "Cumbria and Lancashire",
@@ -70,12 +112,33 @@
       },
       "floodAreaID": "012WATWE",
       "isTidal": true,
-      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 00:30am to 02:00am on 15/08/26. \nFlooding is not expected for the afternoon tide today, 14/08/26.\nLocations most affected will be Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stanah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods.\nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 16:00PM on 14 August 2026 or as the situation changes.\n",
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 00:30am to 01:45am on 15/08/2026. \nLocations most affected will be coastal roads and footpaths. Locations most affected will be Tiger's Tail, Wyre Dock, Burrow's Marsh, Burn Naze, Thornton, Trunnah, Stanah, Poulton-le-Fylde, Skippool, Hambleton, Cold Row, Little Singleton, Little Eccleston and Crow Woods. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 15 August 2026 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-08-14T09:44:00",
-      "timeRaised": "2026-08-14T09:44:13",
+      "timeMessageChanged": "2026-08-14T14:47:00",
+      "timeRaised": "2026-08-14T14:47:11",
       "timeSeverityChanged": "2026-08-13T15:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHKL",
+      "description": "Coast from Heacham to north of King's Lynn in Norfolk",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHKL",
+        "county": "Norfolk",
+        "notation": "052WATCSTHKL",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/052WATCSTHKL/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "052WATCSTHKL",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 06.45am to 10.45am on Saturday 15 August. \nLocations most at risk are Heacham, Snettisham, Ingoldisthorpe, Dersingham and Wolferton. The detailed forecast is for a peak level at  King's Lynn of 4.54mAODN at 08:45am on 15 August 2026, Wind Force 5, North Westerly. The high tide tomorrow evening is not expected to be as high.ost affected will be low lying land and roads near rivers or on the coast. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 11:00AM on 15 August 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-08-14T14:00:00",
+      "timeRaised": "2026-08-14T14:00:45",
+      "timeSeverityChanged": "2026-08-14T14:00:00"
     }
   ]
 }
