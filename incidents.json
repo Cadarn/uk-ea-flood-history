@@ -15,25 +15,25 @@
   },
   "items": [
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF428",
-      "description": "Lower River Soar in Leicestershire",
-      "eaAreaName": "East Midlands",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428",
-        "county": "Derbyshire, Leicestershire, Nottinghamshire",
-        "notation": "034WAF428",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF428/polygon",
-        "riverOrSea": "River Soar"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
       },
-      "floodAreaID": "034WAF428",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-08-29T16:30:00",
-      "timeRaised": "2026-08-29T16:30:58",
-      "timeSeverityChanged": "2026-08-29T16:30:00"
+      "floodAreaID": "111WATCHXH",
+      "isTidal": true,
+      "message": "High tides today may lead to flooding. \nFlooding is possible from 2200 to 2359 on 30 August 2026 \nLocations most affected will be coastal roads and footpaths. There may be water onto the quay and footpaths around Old Mill Tearooms at Quomps (Christchurch) recreation area. \nWe are closely monitoring the situation . \nAvoid coastal footpaths, which may be flooded . \nThis message will be updated by 2:53PM on 31 August 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-08-30T14:58:00",
+      "timeRaised": "2026-08-30T14:58:06",
+      "timeSeverityChanged": "2026-08-30T14:58:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
@@ -141,6 +141,27 @@
       "timeSeverityChanged": "2026-08-30T12:01:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
+      "description": "Beaulieu estuary",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152",
+        "county": "Hampshire",
+        "notation": "065WAC152",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152/polygon",
+        "riverOrSea": "The Solent"
+      },
+      "floodAreaID": "065WAC152",
+      "isTidal": true,
+      "message": "High tides on Monday may lead to flooding. \nFlooding is possible for 1 hour either side of Monday's early morning tide at 01:13 on 31/08/2026 and 03:30 on 31/08/2026 \nThe weather increases tide table values by 0.5 m. Total forecast tide is 4.02 metres Chart Datum (2.20 mAOD) at Beaulieu. Light South Westerly Force 4 wind. The tide will flood into the garden of the Mill House on the downstream side of the Mill Pond. Minor road flooding at Palace Lane is also expected, making access to the village temporarily more difficult. Monday's tide at 13:36 on 31/08/2026 is forecast to be 12 cm lower (2.08 mAOD). \nWe are closely monitoring the situation . \nAvoid using low lying footpaths and any bridges near local watercourses . \nThis message will be updated by 3:00PM on 31 August 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-08-30T17:05:00",
+      "timeRaised": "2026-08-30T17:05:08",
+      "timeSeverityChanged": "2026-08-30T17:05:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAF109",
       "description": "River Stour in Worcestershire",
       "eaAreaName": "West Midlands",
@@ -160,27 +181,6 @@
       "timeMessageChanged": "2026-08-28T08:11:00",
       "timeRaised": "2026-08-28T08:11:10",
       "timeSeverityChanged": "2026-08-27T20:12:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/034WAF430",
-      "description": "River Maun in Nottinghamshire",
-      "eaAreaName": "East Midlands",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430",
-        "county": "Nottinghamshire",
-        "notation": "034WAF430",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/034WAF430/polygon",
-        "riverOrSea": "River Maun"
-      },
-      "floodAreaID": "034WAF430",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nFurther rainfall is forecast but no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n\n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-08-29T16:37:00",
-      "timeRaised": "2026-08-29T16:37:07",
-      "timeSeverityChanged": "2026-08-29T16:37:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAF971",
