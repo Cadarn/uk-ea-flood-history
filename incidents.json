@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
+      },
+      "floodAreaID": "112WATSOM1",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible Around high tide \nWe are entering a sequence of Spring tides that may lead to flooding. Flooding is possible around 06:45 on Friday 11th September. Flooding is forecast to affect locations at Porlock Bay, with low lying land and roads expected to be most affected, particularly around the coastline between Gore Point and Hurlstone Point including Porlock Weir. The first high tide is at 06:45 on Friday with a peak height of 6.12m and a F4 north westerly wind. The second high tide is at 19:00 on Friday with a peak height of 6.37m and a F4 westerly wind \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 12:19PM on 10 September 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-10T12:29:00",
+      "timeRaised": "2026-09-10T12:29:01",
+      "timeSeverityChanged": "2026-09-10T12:29:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
+      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
+        "county": "Norfolk",
+        "notation": "054WATBT1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
+        "riverOrSea": "Bure, Ant, Thurne"
+      },
+      "floodAreaID": "054WATBT1",
+      "isTidal": true,
+      "message": "High river levels today may lead to flooding. \nFlooding is possible today, Thursday 10th September. \nWe expect to see high water levels around Potter Heigham, Wroxham boat yards and Ferry Road in Horning. River levels will remain high over the next couple of days. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . Avoid using low lying footpaths which may be flooded. \nThis message will be updated by 10:00AM on 11 September 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-10T09:41:00",
+      "timeRaised": "2026-09-10T09:41:25",
+      "timeSeverityChanged": "2026-09-10T09:41:00"
+    }
+  ]
 }
