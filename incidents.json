@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
+      "description": "Christchurch Harbour",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH",
+        "county": "Bournemouth, Christchurch and Poole",
+        "notation": "111WATCHXH",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/111WATCHXH/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "111WATCHXH",
+      "isTidal": true,
+      "message": "High tides today may lead to flooding. \nFlooding is possible from  7:30pm and 11:45pm on 11/09/2026. \nThe detailed tidal forecast for those who use it is for a peak level at Christchurch Harbour of 1.20mAODN at 9:45PM, 11th September 2026, with force 3 North Westerly winds. (mAODN is height above average sea level.). \nWe are closely monitoring the situation No operational flood gates will need be closed for this tide. \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:30AM on 12 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-11T10:41:00",
+      "timeRaised": "2026-09-11T10:41:41",
+      "timeSeverityChanged": "2026-09-11T10:41:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -55,6 +76,27 @@
       "timeMessageChanged": "2026-09-11T08:45:00",
       "timeRaised": "2026-09-11T08:45:58",
       "timeSeverityChanged": "2026-09-10T15:58:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATAVN1",
+      "description": "Tidal River Avon at Bristol, Pill and Shirehampton",
+      "eaAreaName": "Wessex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1",
+        "county": "City of Bristol, North Somerset, South Gloucestershire",
+        "notation": "112WATAVN1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATAVN1/polygon",
+        "riverOrSea": "River Avon"
+      },
+      "floodAreaID": "112WATAVN1",
+      "isTidal": true,
+      "message": "High tides over the next two days may lead to flooding. \nFlooding is possible from 7:30PM to 9:30PM on 11/09, from 08:00am to 10:00am and from 08:00PM to 10:00PM on 12/09. \nAreas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton. The detailed tidal forecast for those who use it is for a peak level at Avonmouth Portbury. The first forecast high water of 7.42 mAODN is at 8:30PM 11/09, which is 0.14 m above tide tables, with Westerly force 4 winds. The second forecast high water is at 09:00AM 12/09 with a level of 7.4 mAODN with South-Westerly force 5 winds. (mAODN is height above average sea level.) \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 1:35PM on 12 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-11T13:41:00",
+      "timeRaised": "2026-09-11T13:41:06",
+      "timeSeverityChanged": "2026-09-11T13:41:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WATWE",
