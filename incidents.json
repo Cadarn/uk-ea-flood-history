@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC952",
+      "description": "North Sea coast from Staithes to Whitby including tidal River Esk",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952",
+        "county": "North Yorkshire, Redcar and Cleveland",
+        "notation": "122WAC952",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC952/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC952",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding. \nFlooding is possible from 03:30 to 07:00 on Monday 28/09/2026. \nLocations most affected will be coastal roads and footpaths along the North Sea coast from Staithes to Whitby, including Sandsend and the tidal River Esk. \nWe are closely monitoring the situation and closing locks and flood gates. \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 1:21AM on 28 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-27T17:25:00",
+      "timeRaised": "2026-09-27T17:25:31",
+      "timeSeverityChanged": "2026-09-27T17:25:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
       "description": "Somerset coast at Porlock Weir",
       "eaAreaName": "Wessex",
@@ -36,6 +57,48 @@
       "timeSeverityChanged": "2026-09-27T09:10:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN6",
+      "description": "Coast at North Morecambe Bay",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6",
+        "county": "Lancashire, Westmorland and Furness",
+        "notation": "011WACN6",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WACN6/polygon",
+        "riverOrSea": "Irish Sea"
+      },
+      "floodAreaID": "011WACN6",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 22:00 on 27/9/2026 to 02:00 on 28/9/2026. \nLocations most affected will be coastal roads and footpaths. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 4:00PM on 28 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-27T15:56:00",
+      "timeRaised": "2026-09-27T15:56:55",
+      "timeSeverityChanged": "2026-09-27T15:56:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT913",
+      "description": "Tyne estuary",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913",
+        "county": "Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",
+        "notation": "121WAT913",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913/polygon",
+        "riverOrSea": "River Tyne"
+      },
+      "floodAreaID": "121WAT913",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 1:45AM to 5:45AM on 28/09/2026. \nLocations most affected will be low lying land and roads near rivers or on the coast, particularly the Newcastle Quayside. \nWe are closely monitoring the situation . \nAvoid coastal roads and low lying roads near rivers, which may be flooded . \nThis message will be updated by 10:00AM on 28 September 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-27T18:52:00",
+      "timeRaised": "2026-09-27T18:52:12",
+      "timeSeverityChanged": "2026-09-27T18:52:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
       "description": "Northumberland coast",
       "eaAreaName": "North East",
@@ -49,12 +112,54 @@
       },
       "floodAreaID": "121WAC921",
       "isTidal": true,
-      "message": "High tides this afternoon may lead to flooding. \nFlooding is possible from 1:30PM to 5:30PM on 27/09/2026. \nLocations most affected will be coastal roads and footpaths, particularly at Beadnell Harbour Road North. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 7:00PM on 27 September 2026 or as the situation changes.\n",
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-09-27T18:41:00",
+      "timeRaised": "2026-09-27T18:41:57",
+      "timeSeverityChanged": "2026-09-27T18:41:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding. \nFlooding is possible from 05:00 to 07:30 on Monday 28/09/2026. \nLocations most affected will be coastal roads and footpaths along the North Sea coast from Mappleton to Spurn Point. \nWe are closely monitoring the situation and closing locks and flood gates. \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 1:35AM on 28 September 2026 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-09-27T10:09:00",
-      "timeRaised": "2026-09-27T10:09:23",
-      "timeSeverityChanged": "2026-09-27T10:09:00"
+      "timeMessageChanged": "2026-09-27T17:36:00",
+      "timeRaised": "2026-09-27T17:36:07",
+      "timeSeverityChanged": "2026-09-27T17:36:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
+      "description": "North Sea coast at Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007",
+        "county": "East Riding of Yorkshire",
+        "notation": "122FWC007",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC007/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC007",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves are expected to cause flooding tomorrow morning. \n\nFlooding is expected from 05:00 to 07:30 on Monday 28/09/2026. \n\nLocations most affected will be properties on the east side of Kilnsea, including the Caravan Park, and Easington, including the Caravan Park. \n\nWe are closely monitoring the situation and closing locks and flood gates. \n\nTake care and avoid walking, cycling or driving through flood water . \n\nThis message will be updated by 1:50AM on 28 September 2026 or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-09-27T17:57:00",
+      "timeRaised": "2026-09-27T17:57:23",
+      "timeSeverityChanged": "2026-09-27T17:52:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
@@ -70,12 +175,75 @@
       },
       "floodAreaID": "051WACDV4C",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-09-27T17:38:00",
+      "timeRaised": "2026-09-27T17:38:34",
+      "timeSeverityChanged": "2026-09-27T17:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A",
+      "description": "The north Norfolk coast from Old Hunstanton, to and including Cley",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A",
+        "county": "Norfolk",
+        "notation": "054WACDV2A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2A",
+      "isTidal": true,
+      "message": "High tides tomorrow may lead to flooding. Flooding is possible between 6:45am and 8:45am tomorrow, Monday 28 September. We expect to see water on roads and paths to beaches and on the quays in Brancaster, Burnham Overy, Holkham, Wells and Blakeney. The detailed forecast is for a peak level at Wells of 3.65mAODN at 7:45am, on Monday 28 September, which is 0.26m above tide tables, Wind Force 3, Northerly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. We are closely monitoring the situation. Avoid coastal roads, which may be flooded. This message will be updated by 10:00PM on 28 September 2026 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-09-27T10:06:00",
-      "timeRaised": "2026-09-27T10:06:18",
-      "timeSeverityChanged": "2026-09-26T14:43:00"
+      "timeMessageChanged": "2026-09-27T17:45:00",
+      "timeRaised": "2026-09-27T17:45:46",
+      "timeSeverityChanged": "2026-09-27T16:50:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV2A12",
+      "description": "The north Norfolk coast from East Cley to Kelling Hard, including Salthouse",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A12",
+        "county": "Norfolk",
+        "notation": "054WACDV2A12",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV2A12/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV2A12",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible Flooding is possible between 6:45am and 8:45am tomorrow, Monday 28 September. \nWe may see water on Beach Road at Cley, and Beach Road at Salthouse, and footpaths in the marshes may also become inaccessible. The detailed forecast is for a peak level at Wells of 3.65mAODN at 7:45am, Monday 28th September, which is 0.26m above tide tables, Wind Force 3, Northerly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 28 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-27T16:59:00",
+      "timeRaised": "2026-09-27T16:59:04",
+      "timeSeverityChanged": "2026-09-27T16:59:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC408",
+      "description": "Tidal areas of Shoreham Harbour",
+      "eaAreaName": "Solent and South Downs",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC408",
+        "county": "Brighton and Hove, West Sussex",
+        "notation": "065WAC408",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC408/polygon",
+        "riverOrSea": "English Channel"
+      },
+      "floodAreaID": "065WAC408",
+      "isTidal": true,
+      "message": "High tides on Monday may lead to flooding. \nFlooding is possible for 1 hour either side of Monday afternoon's tide at 13:00 on 28/09/2026.. \nThe weather increases tide table values by 0.5 m. Total forecast tide is 6.90 metres Chart Datum (3.63 mAOD) at Shoreham. Light North Easterly Force 3 wind. The tide will come close to the top of walls and slipways in Shoreham Town. Minor impact flooding will affect Sussex Yacht Club. Riverbank houseboats will be raised higher than normal, making access to them temporarily more difficult. Tuesday's tide at 01:15 29/09/2026 is forecast to be 16 cm lower (3.47 mAOD).  Flood impacts should reduce‚ but could return on Tuesday afternoon's tide at 13:30 29/09/2026. \nWe are closely monitoring the situation . \nAvoid beaches and coastal promenades, which may be flooded . \nThis message will be updated by 6:00PM on 28 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-27T18:22:00",
+      "timeRaised": "2026-09-27T18:22:55",
+      "timeSeverityChanged": "2026-09-27T18:22:00"
     }
   ]
 }
