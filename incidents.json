@@ -57,6 +57,27 @@
       "timeSeverityChanged": "2026-09-28T09:19:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 04:00 AM to 06:00 AM on Tuesday 29 September. \nThe forecast high tide at Richmond is 4.60 mAOD at 05:00 AM on Tuesday 29 September.\n\nLocations most affected will be Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. Flooding of properties is not expected.\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is 5 cubic metres per second and is steady. We anticipate the flows to remain steady for the next few days. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water . \nThis message will be updated by 10:00AM on 29 September 2026 or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-28T18:09:00",
+      "timeRaised": "2026-09-28T18:09:46",
+      "timeSeverityChanged": "2026-09-28T18:09:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
       "description": "Hunstanton coast in Norfolk",
       "eaAreaName": "East Anglia",
@@ -141,27 +162,6 @@
       "timeSeverityChanged": "2026-09-28T09:54:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
-      "description": "Northumberland coast",
-      "eaAreaName": "North East",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921",
-        "county": "Northumberland",
-        "notation": "121WAC921",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "121WAC921",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-09-27T18:41:00",
-      "timeRaised": "2026-09-27T18:41:57",
-      "timeSeverityChanged": "2026-09-27T18:41:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
       "description": "North Sea coast at Withernsea, Easington and Kilnsea",
       "eaAreaName": "Yorkshire",
@@ -175,12 +175,12 @@
       },
       "floodAreaID": "122WAC956",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-09-28T09:22:00",
-      "timeRaised": "2026-09-28T09:22:31",
-      "timeSeverityChanged": "2026-09-28T09:22:00"
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding. \n\nFlooding is possible from 06:30 to 10:00 on Tuesday 29/09/2026. \n\nLocations most affected will be coastal roads and footpaths along the North Sea coast from Mappleton to Spurn Point. \n\nWe are closely monitoring the situation. \n\nTake care and avoid walking, cycling or driving through flood water. \n\nThis message will be updated by 6:45AM on 29 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-28T22:38:00",
+      "timeRaised": "2026-09-28T22:38:50",
+      "timeSeverityChanged": "2026-09-28T19:13:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
@@ -280,11 +280,11 @@
       },
       "floodAreaID": "051WACDV4C",
       "isTidal": true,
-      "message": "High tides this afternoon may lead to flooding. \nFlooding is possible between 12:30pm and 2:30pm today, Monday 28th September. \nClacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast is for a peak level at Calcton of 2.87mAODN at 1:30pm, on Monday 28th September, which is 0.21m above tide tables, Wind Force 3, North Easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 29 September 2026 or as the situation changes.\n",
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 12:00am to 2:00am tomorrow, Tuesday 29th September. \nClacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast is for a peak level at  Clacton of 2.78mAODN at 1:00am, on Tuesday 29th September, which is 0.12m above tide tables, Wind Force 5, Easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 29 September 2026 or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-09-28T08:40:00",
-      "timeRaised": "2026-09-28T08:40:26",
+      "timeMessageChanged": "2026-09-28T17:53:00",
+      "timeRaised": "2026-09-28T17:53:57",
       "timeSeverityChanged": "2026-09-28T08:40:00"
     },
     {
@@ -364,12 +364,12 @@
       },
       "floodAreaID": "054WACDV2A12",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain. \nCoastal conditions are expected to improve and no flooding is expected.   \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.   \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-09-28T10:21:00",
-      "timeRaised": "2026-09-28T10:21:32",
-      "timeSeverityChanged": "2026-09-28T10:21:00"
+      "message": "High tides tomorrow may lead to flooding. \nFlooding is possible from 6.30am to 8:30am tomorrow, Tuesday 29th September. \nWe may see water on Beach Road at Cley, and Beach Road at Salthouse, and footpaths in the marshes may also become inaccessible. The detailed forecast is for a peak level at Wells of 3.52mAODN at 7:30am, on Tuesday 29th September, which is 0.12m above tide tables, Wind Force 5, Easterly. Tides are expected to be higher than usual, due to the forecast weather conditions during spring tides. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded . \nThis message will be updated by 10:00AM on 29 September 2026 or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-09-28T17:38:00",
+      "timeRaised": "2026-09-28T17:38:42",
+      "timeSeverityChanged": "2026-09-28T17:38:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
