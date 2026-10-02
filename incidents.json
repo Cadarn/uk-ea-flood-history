@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WAFED",
+      "description": "Rivers Ehen, Calder, Irt and Esk",
+      "eaAreaName": "Cumbria and Lancashire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED",
+        "county": "Cumberland",
+        "notation": "011WAFED",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/011WAFED/polygon",
+        "riverOrSea": "River Ehen, Rive Calder, River Irt, River Esk"
+      },
+      "floodAreaID": "011WAFED",
+      "isTidal": false,
+      "message": "High river levels overnight may lead to flooding.\nFlooding is possible from overnight on Friday 02 October .\nRising river levels tonight may lead to flooding. Flooding is possible on 02 and 03 October 2026 following heavy rain this evening.  \nLocations most affected will be low lying land and roads near rivers Ehen, Calder, Irt, Esk and other watercourses from Harrington to Annaside including low lying areas around Whitehaven, Cleator Moor, Egremont, Gosforth, Eskdale and Bootle.\nWe are closely monitoring the situation and clearing blockages from debris screens.\nAvoid using low lying footpaths and any bridges near local watercourses. \nThis message will be updated by 9:30AM on Saturday 03 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-02T15:52:00",
+      "timeRaised": "2026-10-02T15:52:32",
+      "timeSeverityChanged": "2026-10-02T15:52:00"
+    }
+  ]
 }
