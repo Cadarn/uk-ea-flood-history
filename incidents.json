@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
+      "description": "The tidal River Waveney from Ellingham to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
+        "county": "Norfolk, Suffolk",
+        "notation": "054WATBT3",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
+        "riverOrSea": "Waveney"
+      },
+      "floodAreaID": "054WATBT3",
+      "isTidal": true,
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, tomorrow morning may lead to flooding. \nFlooding is possible from 06:30 AM to 08:30 AM on Tuesday 06 October. \nWe expect to see high water levels at Beccles Quay. Levels can take several hours to peak. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 5:00PM on Tuesday 06 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-05T17:17:00",
+      "timeRaised": "2026-10-05T17:17:09",
+      "timeSeverityChanged": "2026-10-05T17:17:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
+      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
+        "county": "Norfolk",
+        "notation": "054WATBT2",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
+        "riverOrSea": "River Yare"
+      },
+      "floodAreaID": "054WATBT2",
+      "isTidal": true,
+      "message": "Tide locking, where high tides restrict normal drainage of the river out to sea, tomorrow morning may lead to flooding. \nFlooding is possible from 06:30 AM to 08:30 AM on Tuesday 06 October. \nWe expect to see high water levels in Brundall and Reedham riverside areas. Levels can take several hours to peak. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 5:00PM on Tuesday 06 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-05T17:17:00",
+      "timeRaised": "2026-10-05T17:17:11",
+      "timeSeverityChanged": "2026-10-05T17:17:00"
+    }
+  ]
 }
