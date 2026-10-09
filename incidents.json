@@ -15,6 +15,27 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
+      },
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 02:15 AM to 04:15 AM on Saturday 10th October. \nThe forecast high tide at Richmond is 4.70 mAOD at 03:15 AM on 10/10/2026.\n\nWe believe there is a possibility of flooding for Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. Flooding of properties is not expected.\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is 4 cubic metres per second and is steady. We anticipate the flows to remain steady for the next few days. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T17:13:00",
+      "timeRaised": "2026-10-09T17:13:13",
+      "timeSeverityChanged": "2026-10-09T17:13:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
       "description": "Hunstanton coast in Norfolk",
       "eaAreaName": "East Anglia",
@@ -36,67 +57,151 @@
       "timeSeverityChanged": "2026-10-08T13:59:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT3",
-      "description": "The tidal River Waveney from Ellingham to Breydon Water",
-      "eaAreaName": "East Anglia",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/112WATSOM1",
+      "description": "Somerset coast at Porlock Weir",
+      "eaAreaName": "Wessex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3",
-        "county": "Norfolk, Suffolk",
-        "notation": "054WATBT3",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT3/polygon",
-        "riverOrSea": "Waveney"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1",
+        "county": "Somerset",
+        "notation": "112WATSOM1",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/112WATSOM1/polygon",
+        "riverOrSea": "Bristol Channel"
       },
-      "floodAreaID": "054WATBT3",
+      "floodAreaID": "112WATSOM1",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding.\nWe do not expect to see similar impacts from the next high tide.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-08T15:46:00",
-      "timeRaised": "2026-10-08T15:46:16",
-      "timeSeverityChanged": "2026-10-08T15:46:00"
+      "message": "High tides tomorrow evening may lead to flooding. \nFlooding is possible from 17:30 to 19:30 on 10/10/2026 \nFlooding is forecast to affect locations at Porlock Bay, with low lying land and roads expected to be most affected, particularly around the coastline between Gore Point and Hurlstone Point including Porlock Weir. The highest tide is at 18:30 on Saturday 10/10/2026 with a peak height of 6.19m and a F5 westerly wind. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 10:00AM on Sunday 11 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T16:34:00",
+      "timeRaised": "2026-10-09T16:34:18",
+      "timeSeverityChanged": "2026-10-09T16:34:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT2",
-      "description": "The tidal River Yare from Thorpe St Andrew to Breydon Water",
-      "eaAreaName": "East Anglia",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23Central",
+      "description": "Tidal Thames riverside from the Thames Barrier to Putney Bridge",
+      "eaAreaName": "Kent, South London and East Sussex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2",
-        "county": "Norfolk",
-        "notation": "054WATBT2",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT2/polygon",
-        "riverOrSea": "River Yare"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23Central",
+        "county": "City of London, Greater London, Greenwich, Hammersmith and Fulham, Kensington and Chelsea, Lambeth, Lewisham, Newham, Southwark, Tower Hamlets, Wandsworth, Westminster",
+        "notation": "063WAT23Central",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23Central/polygon",
+        "riverOrSea": "River Thames"
       },
-      "floodAreaID": "054WATBT2",
+      "floodAreaID": "063WAT23Central",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding.\nWe do not expect to see similar impacts from the next high tide.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-08T15:46:00",
-      "timeRaised": "2026-10-08T15:46:10",
-      "timeSeverityChanged": "2026-10-08T15:46:00"
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 01:00 AM to 03:00 AM on Saturday 10th October. \nThe forecast high tide at London Bridge is 4.50 mAOD at 02:00 AM on 10/10/2026.\n\nWe believe there is a possibility of flooding for Custom House (EC3R), Narrow Street (E14), Mayflower and Angel pubs (SE16), Royal Naval College riverfront, the Almshouse Slipway at Crane Street (SE10), Bankside by the Tate Modern (SE1), and Three Mill Island (E3). Flooding of properties is not expected.\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is 4 cubic metres per second and is steady. We anticipate the flows to remain steady for the next few days. \nWe are closely monitoring the situation . \nAvoid low lying roads near rivers, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T17:24:00",
+      "timeRaised": "2026-10-09T17:24:12",
+      "timeSeverityChanged": "2026-10-09T17:24:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WATBT1",
-      "description": "The tidal Rivers Bure, Ant and Thurne",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
+      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC956",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC956",
+      "isTidal": true,
+      "message": "High tides, strong winds and large waves tomorrow morning may lead to flooding. \nFlooding is possible from 04:45 to 08:15 on Saturday, 10/10/2026. \nLocations most affected will be coastal roads and footpaths along the North Sea coast from Mappleton to Spurn Point.\nUnsettled coastal conditions are forecast to remain for the high tide on Sunday morning and we will re-issue this alert if required. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 9:00PM on Friday 09 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T15:37:00",
+      "timeRaised": "2026-10-09T15:37:30",
+      "timeSeverityChanged": "2026-10-09T15:37:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4A",
+      "description": "The tidal Deben estuary",
       "eaAreaName": "East Anglia",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1",
-        "county": "Norfolk",
-        "notation": "054WATBT1",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WATBT1/polygon",
-        "riverOrSea": "Bure, Ant, Thurne"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A",
+        "county": "Suffolk",
+        "notation": "054WACDV4A",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4A/polygon",
+        "riverOrSea": "River Deben, North Sea"
       },
-      "floodAreaID": "054WATBT1",
+      "floodAreaID": "054WACDV4A",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding.\nWe do not expect to see similar impacts from the next high tide.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-08T16:28:00",
-      "timeRaised": "2026-10-08T16:28:16",
-      "timeSeverityChanged": "2026-10-08T16:28:00"
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible on consecutive tides from 11pm on Friday 9th October through to 1am on Saturday 10th October. \nTide levels will be high around the boat yard in Felixstowe Ferry hamlet at the end of Ferry Road, and along riverside areas in Woodbridge and Waldringfield, as well as in surrounding marshland. The detailed forecast is for a peak level at Harwich of 2.60mAODN at 12am, on Saturday 10th October, which is 0.5m above tide tables, Wind Force 6, Westerly. Tides will remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:10:00",
+      "timeRaised": "2026-10-09T14:10:19",
+      "timeSeverityChanged": "2026-10-09T14:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV4B",
+      "description": "The Suffolk and Essex coast from Felixstowe to Clacton including Orwell and Stour estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B",
+        "county": "Essex, Suffolk",
+        "notation": "054WACDV4B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV4B/polygon",
+        "riverOrSea": "North Sea, River Orwell, River Deben"
+      },
+      "floodAreaID": "054WACDV4B",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible on consecutive tides from 11pm on Friday 9th October through to 1am on Saturday 10th October. \nThe flood gates at Felixstowe seafront will be closed. The waterfront at Pin Mill, and The Strand at Wherstead under the Orwell Bridge may be flooded.  Water may be on the quay at Mistley. The detailed forecast is for a peak level at Harwich of 2.60 mAODN at 12am, on Saturday 10th October, which is 0.5m above tide tables, Wind Force 6, Westerly. Tides will remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:21:00",
+      "timeRaised": "2026-10-09T14:21:56",
+      "timeSeverityChanged": "2026-10-09T14:21:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4C",
+      "description": "The Essex coast from Clacton to and including, St Peters Flat and the Colne and Blackwater estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C",
+        "county": "Essex",
+        "notation": "051WACDV4C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "051WACDV4C",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible on consecutive tides from 11pm on Friday 9th October through to 1am on Saturday 10th October. \nClacton Promenade, Lee-over-Sands and Brightlingsea sea front may see some wave overtopping and spray. The Strood at Mersea Island, Coast Road and car parks on the front at West Mersea, and the Hythe and Promenade at Maldon may be flooded. The detailed forecast is for a peak level at Clacton of 2.90 mAODN at 12am, on Saturday 10th October, which is 0.48m above tide tables, Wind Force 6, Westerly. Tides will remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:25:00",
+      "timeRaised": "2026-10-09T14:25:28",
+      "timeSeverityChanged": "2026-10-09T14:25:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV5B3a",
+      "description": "The Essex coast at Coalhouse Fort",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a",
+        "county": "Thurrock",
+        "notation": "051WACDV5B3a",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV5B3a/polygon",
+        "riverOrSea": "Thames Estuary"
+      },
+      "floodAreaID": "051WACDV5B3a",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 11:30pm Friday 9th October through to 1:30am on Saturday 10th October. \nLocations most affected will be Coalhouse Fort and car park, and the low lying land between the fort and Coalhouse Point. The detailed forecast is for a peak level at Southend of 3.55 mAODN at 12:30am, on Saturday 10th October, which is 0.56m above tide tables, Wind Force 5, Westerly. No further high tides are expected over the coming days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:32:00",
+      "timeRaised": "2026-10-09T14:32:39",
+      "timeSeverityChanged": "2026-10-09T14:32:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFUW",
@@ -112,12 +217,12 @@
       },
       "floodAreaID": "012WAFUW",
       "isTidal": false,
-      "message": "High river levels today may lead to flooding.\n\nFlooding is possible on Friday 09 October\n\nLocations most affected will be low lying land and roads near to the river Wyre, river Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall.\n\nWe are closely monitoring the situation .\n\nTake care and avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 16:00 on Friday 09 October or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-10-09T09:39:00",
-      "timeRaised": "2026-10-09T09:39:36",
-      "timeSeverityChanged": "2026-10-08T17:30:00"
+      "message": "There is no longer a threat of flooding.\nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-10-09T16:04:00",
+      "timeRaised": "2026-10-09T16:04:14",
+      "timeSeverityChanged": "2026-10-09T16:04:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/012WAFLW",
@@ -133,33 +238,75 @@
       },
       "floodAreaID": "012WAFLW",
       "isTidal": false,
-      "message": "High river levels today may lead to flooding.\n\nFlooding is possible on Friday 09 October\n\nLocations most affected will be low lying land and roads near to the river Wyre, river Cocker, Pilling Water and other watercourses from Catterall to Fleetwood, including St Michaels and Great Eccleston and Preesall.\n\nWe are closely monitoring the situation .\n\nTake care and avoid walking, cycling or driving through flood water.\n\nThis message will be updated by 16:00 on Friday 09 October or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-10-09T09:38:00",
-      "timeRaised": "2026-10-09T09:38:36",
-      "timeSeverityChanged": "2026-10-08T17:29:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/062WAF31AshMidd",
-      "description": "River Ash in the Borough of Spelthorne",
-      "eaAreaName": "Hertfordshire and North London",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF31AshMidd",
-        "county": "Greater London, Hounslow, Surrey",
-        "notation": "062WAF31AshMidd",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/062WAF31AshMidd/polygon",
-        "riverOrSea": "River Ash"
-      },
-      "floodAreaID": "062WAF31AshMidd",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding.\nFurther rainfall is forecast but no further flooding is expected. Water levels have now dropped and no further flooding is expected with further rainfall forecast for Friday.\nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
+      "message": "There is no longer a threat of flooding.\nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
       "severity": "Warning no longer in force",
       "severityLevel": 4,
-      "timeMessageChanged": "2026-10-08T16:02:00",
-      "timeRaised": "2026-10-08T16:02:36",
-      "timeSeverityChanged": "2026-10-08T16:02:00"
+      "timeMessageChanged": "2026-10-09T16:02:00",
+      "timeRaised": "2026-10-09T16:02:59",
+      "timeSeverityChanged": "2026-10-09T16:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3B",
+      "description": "The Suffolk coast from Lowestoft to Bawdsey",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B",
+        "county": "Suffolk",
+        "notation": "054WACDV3B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3B/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3B",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 8:30am to 10:30am on Saturday 10th October. \nWe expect to see high water levels in Lake Lothing in Lowestoft, as well as high sea levels along the Suffolk Coast, impacting on beach access points. The detailed forecast is for a peak level at Lowestoft of 1.72 mAODN at 9:30am on Saturday 10th October, which is 0.51m above tide tables, Wind Force 6, Westerly. No further high tides are currently expected over the coming days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 11:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:43:00",
+      "timeRaised": "2026-10-09T14:43:21",
+      "timeSeverityChanged": "2026-10-09T14:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/054WACDV3C",
+      "description": "The Suffolk coast at Southwold",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C",
+        "county": "Suffolk",
+        "notation": "054WACDV3C",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/054WACDV3C/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "054WACDV3C",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 8:30am to 10:30am on Saturday 10th October. \nWe expect high tide levels at the harbourside in Southwold. The detailed forecast is for a peak level at Lowestoft of 1.72 mAODN at 9:30am on Saturday 10th October, which is 0.51m above tide tables, Wind Force 6, Westerly. No further high tides are currently expected over the coming days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 11:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:38:00",
+      "timeRaised": "2026-10-09T14:38:11",
+      "timeSeverityChanged": "2026-10-09T14:38:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/051WACDV4D",
+      "description": "The Essex coast from St Peters Flat to and including Shoeburyness and the Crouch and Roach estuaries",
+      "eaAreaName": "East Anglia",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D",
+        "county": "Essex, Southend-on-Sea",
+        "notation": "051WACDV4D",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/051WACDV4D/polygon",
+        "riverOrSea": "River Crouch, River Roach, North Sea"
+      },
+      "floodAreaID": "051WACDV4D",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 11pm on Friday 9th October through to 1am on Saturday 10th October. \nTide levels will be high at Battlesbridge and Hullbridge riversides. Creeksea Ferry Road onto Wallasea Island may be flooded. The detailed forecast is for a peak level at  Clacton of 2.90 mAODN at 12am on Saturday 10th October, which is 0.48m above tide tables, Wind Force 6, Westerly. Tides will remain high over the next couple of days. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 9:00AM on Saturday 10 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-09T14:33:00",
+      "timeRaised": "2026-10-09T14:33:55",
+      "timeSeverityChanged": "2026-10-09T14:33:00"
     }
   ]
 }
