@@ -13,5 +13,48 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC954",
+      "description": "North Sea coast at Bridlington",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954",
+        "county": "East Riding of Yorkshire",
+        "notation": "122WAC954",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC954/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC954",
+      "isTidal": true,
+      "message": "Strong winds and large waves today may lead to flooding. \nFlooding is possible from 13:00 to 19:00 on 20/10/2026. \nLocations most effected will be coastal roads and footpaths on The North Sea coast from Bridlington to Barmston. \nWe are closely monitoring the situation . Conditions are forecast to improve tomorrow. \nAvoid coastal roads, footpaths and carparks, which may be flooded. Sea conditions are likely to remain rough for the remainder of the week. \nThis message will be updated by 9:00PM on Tuesday 20 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-20T10:10:00",
+      "timeRaised": "2026-10-20T10:10:53",
+      "timeSeverityChanged": "2026-10-20T10:10:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/061WAF07Cole",
+      "description": "River Cole, Dorcan Brook and South Marston Brook",
+      "eaAreaName": "Thames",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole",
+        "county": "Oxfordshire, Swindon",
+        "notation": "061WAF07Cole",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/061WAF07Cole/polygon",
+        "riverOrSea": "River Cole"
+      },
+      "floodAreaID": "061WAF07Cole",
+      "isTidal": false,
+      "message": "Forecast rising river levels this morning may lead to flooding.\nFlooding is possible from the morning of Tuesday 20 October .\nFlooding of low lying land and roads is expected, especially in the Covingham Drive area. Further rainfall is forecast throughout this morning and could be heavy at times before becoming lighter later on this afternoon. We expect river levels to rise until this afternoon and will start to drop again into this evening.\nWe are monitoring rainfall and river levels .\nAvoid using low lying footpaths and any bridges near local watercourses. Refer to River Levels online for more information.\nThis message will be updated by 7:00PM on Tuesday 20 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-20T08:57:00",
+      "timeRaised": "2026-10-20T08:57:59",
+      "timeSeverityChanged": "2026-10-20T08:57:00"
+    }
+  ]
 }
