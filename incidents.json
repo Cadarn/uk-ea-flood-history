@@ -15,6 +15,48 @@
   },
   "items": [
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC045",
+      "description": "North Sea at Scarborough - Sandside",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC045",
+        "county": "North Yorkshire",
+        "notation": "122FWC045",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC045/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC045",
+      "isTidal": true,
+      "message": "High tides are expected to cause flooding overnight. \nFlooding is expected from 02:00am to 04:30am on 24/10/2026. \nLocations most affected will be coastal roads, footpaths and foreshore areas. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 7:00AM on Saturday 24 October or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-10-23T19:39:00",
+      "timeRaised": "2026-10-23T19:39:36",
+      "timeSeverityChanged": "2026-10-23T19:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC953",
+      "description": "North Sea coast from Whitby to Filey",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953",
+        "county": "East Riding of Yorkshire, North Yorkshire",
+        "notation": "122WAC953",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC953/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122WAC953",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 23:45 on 23/10/2026 to 05:00 on 24/10/2026. \nLocations most affected will be coastal roads, footpaths along the North Sea coast from Whitby to Filey, including Scarborough. This is due to high tides, strong winds and large waves. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 7:00AM on Saturday 24 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-23T19:34:00",
+      "timeRaised": "2026-10-23T19:34:20",
+      "timeSeverityChanged": "2026-10-23T19:34:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATCHXH",
       "description": "Christchurch Harbour",
       "eaAreaName": "Wessex",
@@ -160,6 +202,27 @@
       "timeMessageChanged": "2026-10-23T15:00:00",
       "timeRaised": "2026-10-23T15:00:45",
       "timeSeverityChanged": "2026-10-23T15:00:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC048",
+      "description": "North Sea at Scarborough - Foreshore Road",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048",
+        "county": "North Yorkshire",
+        "notation": "122FWC048",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122FWC048/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "122FWC048",
+      "isTidal": true,
+      "message": "High tides are expected to cause flooding overnight. \nFlooding is expected from 02:00am to 04:30am on 24/10/2026. \nLocations most affected will be coastal roads, footpaths and foreshore areas. This is due to high tides, strong winds and large waves. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 7:00AM on Saturday 24 October or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-10-23T19:43:00",
+      "timeRaised": "2026-10-23T19:43:27",
+      "timeSeverityChanged": "2026-10-23T19:43:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF330",
@@ -427,12 +490,12 @@
       },
       "floodAreaID": "033WAF313",
       "isTidal": false,
-      "message": "High river levels today may lead to flooding.\nFlooding is possible on Friday 23 October .\nFlooding may affect low-lying land and roads adjacent to the River Blithe between Blythe Bridge and Nethertown and on the River Swarbourne between Hoar Cross and Yoxall.\nWe are closely monitoring the situation . Monitoring rainfall and river levels.\nAvoid low lying roads near rivers, which may be flooded.  \nThis message will be updated by 11:00AM on Saturday 24 October or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-10-23T14:09:00",
-      "timeRaised": "2026-10-23T14:09:31",
-      "timeSeverityChanged": "2026-10-23T14:09:00"
+      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nFurther rainfall is forecast.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-10-23T20:34:00",
+      "timeRaised": "2026-10-23T20:34:53",
+      "timeSeverityChanged": "2026-10-23T20:34:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/033WAF340",
