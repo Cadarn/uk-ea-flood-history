@@ -99,27 +99,6 @@
       "timeSeverityChanged": "2026-10-27T11:47:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC220",
-      "description": "Isle of Wight coast",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC220",
-        "county": "Isle of Wight",
-        "notation": "065WAC220",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC220/polygon",
-        "riverOrSea": "The Solent, English Channel"
-      },
-      "floodAreaID": "065WAC220",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nCoastal conditions are expected to improve and no flooding is expected.  \nWe will continue to monitor the situation and work with emergency services and local authorities.  \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-26T16:59:00",
-      "timeRaised": "2026-10-26T16:59:46",
-      "timeSeverityChanged": "2026-10-26T16:59:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1BA00",
       "description": "South Cornwall coast from Lizard Point to Gribbin Head excluding the Tidal Fal Estuary",
       "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
@@ -265,6 +244,48 @@
       "timeMessageChanged": "2026-10-27T14:14:00",
       "timeRaised": "2026-10-27T14:14:14",
       "timeSeverityChanged": "2026-10-26T13:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC922",
+      "description": "Tyne and Wear coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922",
+        "county": "County Durham, Hartlepool, North Tyneside, South Tyneside, Sunderland",
+        "notation": "121WAC922",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC922/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC922",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 3:45AM to 5:45AM on Wednesday 28 October. \nLocations most affected will be coastal roads and footpaths near Cullercoats, Seaburn Lower Prom and Hendon Promenade. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:53:00",
+      "timeRaised": "2026-10-27T16:53:19",
+      "timeSeverityChanged": "2026-10-27T16:53:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT916",
+      "description": "Wear estuary",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT916",
+        "county": "County Durham, Sunderland",
+        "notation": "121WAT916",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT916/polygon",
+        "riverOrSea": "River Wear"
+      },
+      "floodAreaID": "121WAT916",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 3:30AM to 4:30AM on Wednesday 28 October. \nLocations most affected will be low lying land and roads near the River Wear between Fatfield to Queen Alexander Bridge. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:52:00",
+      "timeRaised": "2026-10-27T16:52:38",
+      "timeSeverityChanged": "2026-10-27T16:52:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WACT1T1DA00",
@@ -414,25 +435,25 @@
       "timeSeverityChanged": "2026-10-24T12:00:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAF946",
-      "description": "Upper River Ouse",
-      "eaAreaName": "Yorkshire",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/063WAT23West",
+      "description": "Tidal Thames riverside from Putney Bridge to Teddington Weir",
+      "eaAreaName": "Kent, South London and East Sussex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946",
-        "county": "North Yorkshire, York",
-        "notation": "122WAF946",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAF946/polygon",
-        "riverOrSea": "River Ouse, Burdyke, Holgate Beck, Blue Beck, River Foss, The Fleet"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West",
+        "county": "Greater London, Hammersmith and Fulham, Hounslow, Richmond upon Thames, Wandsworth",
+        "notation": "063WAT23West",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/063WAT23West/polygon",
+        "riverOrSea": "River Thames"
       },
-      "floodAreaID": "122WAF946",
-      "isTidal": false,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-26T17:28:00",
-      "timeRaised": "2026-10-26T17:28:44",
-      "timeSeverityChanged": "2026-10-26T17:28:00"
+      "floodAreaID": "063WAT23West",
+      "isTidal": true,
+      "message": "High tides overnight may lead to flooding. \nFlooding is possible from 2:30 PM to 4:30 PM on 28/10/2026. \nThe forecast high tide at Richmond is 4.72 mAOD at 3:30 AM on Wednesday 28th October.\n\nLocations most affected will be Putney Embankment (SW15), Chiswick Mall and Strand on the Green (W4), Thames Bank at Mortlake (SW14), Ranelagh Drive (TW1), Friars Lane and Water Lane (TW9), Riverside and The Embankment at Twickenham, and the Towpath below Teddington Lock. Flooding of properties is not expected.\n\nAstronomical tide levels are rising. The river flow at Teddington Weir is 14 cubic metres per second and is steady. We anticipate the flows to remain steady for the next few days. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 9:00AM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T18:06:00",
+      "timeRaised": "2026-10-27T18:06:17",
+      "timeSeverityChanged": "2026-10-27T18:06:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/111WATWEYH",
@@ -603,48 +624,6 @@
       "timeSeverityChanged": "2026-10-27T11:49:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC151",
-      "description": "Southampton Water and Hamble",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151",
-        "county": "Hampshire, Southampton",
-        "notation": "065WAC151",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC151/polygon",
-        "riverOrSea": "Southampton Water"
-      },
-      "floodAreaID": "065WAC151",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nCoastal conditions are expected to improve and no flooding is expected.  \nWe will continue to monitor the situation and work with emergency services and local authorities.  \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-26T17:05:00",
-      "timeRaised": "2026-10-26T17:05:13",
-      "timeSeverityChanged": "2026-10-26T17:05:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC152",
-      "description": "Beaulieu estuary",
-      "eaAreaName": "Solent and South Downs",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152",
-        "county": "Hampshire",
-        "notation": "065WAC152",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC152/polygon",
-        "riverOrSea": "The Solent"
-      },
-      "floodAreaID": "065WAC152",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nCoastal conditions are expected to improve and no flooding is expected.  \nWe will continue to monitor the situation and work with emergency services and local authorities.  \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-26T16:58:00",
-      "timeRaised": "2026-10-26T16:59:00",
-      "timeSeverityChanged": "2026-10-26T16:58:00"
-    },
-    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC162",
       "description": "Langstone to Emsworth Harbour",
       "eaAreaName": "Solent and South Downs",
@@ -658,11 +637,11 @@
       },
       "floodAreaID": "065WAC162",
       "isTidal": true,
-      "message": "High tides on Wednesday may lead to flooding.  Flooding is possible for 1 hour either side of Wednesday afternoon's tide at 12:21 on 28/10/2026.  On Monday night and Tuesday, no flooding is expected. On Wednesday afternoon, the weather increases tide table values by 0.22 m. The total forecast tide is 5.23 metres Chart Datum (2.50 mAOD) at Portsmouth. Light Westerly Force 4 wind. Wednesday's tide at 00:45 on 29/10/2026 is forecast to be 47 cm lower (2.03 mAOD).  We are closely monitoring the situation.  Consider activating any flood protection products you may have, particularly if directly on the harbour front. This message will be updated by 06:00 PM on 27/10/2026.\n",
+      "message": "High tides on Wednesday may lead to flooding.\nFlooding is possible for 1 hour either side of Wednesday afternoon's tide at 12:21 on 28/10/2026.\nThe weather increases tide table values by 0.22 m. Total forecast tide is 5.23 metres Chart Datum (2.50 mAOD) at Portsmouth. Light Westerly Force 3 wind. Levels will be high at South Street and Queen Street Emsworth. The Ship Inn car park at Langstone will flood. Water will flow into the road at Langstone High Street, although flood depths will be relatively shallow, and flooding will only cause impacts nearest to the harbour front. Thursday's tide at 00:45 on 29/10/2026 is forecast to be 50 cm lower (2 mAOD).\nWe are closely monitoring the situation .\nConsider activating any flood protection products you may have.  \nThis message will be updated by 4:00PM on Wednesday 28 October or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-10-26T18:53:00",
-      "timeRaised": "2026-10-26T18:53:09",
+      "timeMessageChanged": "2026-10-27T16:37:00",
+      "timeRaised": "2026-10-27T16:37:05",
       "timeSeverityChanged": "2026-10-25T14:58:00"
     },
     {
@@ -679,12 +658,33 @@
       },
       "floodAreaID": "011WACN6",
       "isTidal": true,
-      "message": "High tides today may lead to flooding.\nFlooding is possible from 09:15 to 14:15 on Tuesday 27 October.\nLocations most affected will be coastal roads and footpaths along the coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale.\nWe are closely monitoring the situation .\nTake care and avoid walking, cycling or driving through flood water.  \nThis message will be updated by 5:00PM on Tuesday 27 October or as the situation changes.\n",
+      "message": "High tides this evening may lead to flooding.\nFlooding is possible from 21:45 on 27/10/26 to 01:45 on 28/10/26.\nLocations most affected will be coastal roads and footpaths along the coast at North Morecambe Bay from Roosebeck to Carnforth including low lying areas around Ulverston, Greenodd, Haverthwaite, Flookburgh, Grange-over-Sands, Levens, Milnthorpe, Sandside, Arnside and Silverdale.\nWe are closing flood gates .\nAvoid coastal roads, footpaths and carparks, which may be flooded.  \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-10-27T06:20:00",
-      "timeRaised": "2026-10-27T06:20:49",
+      "timeMessageChanged": "2026-10-27T16:45:00",
+      "timeRaised": "2026-10-27T16:45:17",
       "timeSeverityChanged": "2026-10-24T13:35:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT913",
+      "description": "Tyne estuary",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913",
+        "county": "Gateshead, Newcastle upon Tyne, North Tyneside, South Tyneside",
+        "notation": "121WAT913",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT913/polygon",
+        "riverOrSea": "River Tyne"
+      },
+      "floodAreaID": "121WAT913",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 2:45AM to 5:15AM on Wednesday 28 October. \nLocations most affected will be low lying land and roads near Newcastle Quayside and along the Tyne estuary riverside.\n\nThe temporary barrier along Newcastle Quayside will be deployed this evening. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:52:00",
+      "timeRaised": "2026-10-27T16:52:15",
+      "timeSeverityChanged": "2026-10-27T16:52:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/031WAT122",
@@ -706,6 +706,27 @@
       "timeMessageChanged": "2026-10-27T10:44:00",
       "timeRaised": "2026-10-27T10:44:21",
       "timeSeverityChanged": "2026-10-27T10:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAC921",
+      "description": "Northumberland coast",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921",
+        "county": "Northumberland",
+        "notation": "121WAC921",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAC921/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121WAC921",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 3:00AM to 5:30AM on Wednesday 28 October. \nLocations most affected will be coastal roads and footpaths near Alnmouth and the A1068 Main Road. The flood gates at Warkworth will be closed at around 6:00PM this evening as a precaution. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:52:00",
+      "timeRaised": "2026-10-27T16:53:00",
+      "timeSeverityChanged": "2026-10-27T16:52:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
@@ -790,6 +811,27 @@
       "timeMessageChanged": "2026-10-27T16:13:00",
       "timeRaised": "2026-10-27T16:13:02",
       "timeSeverityChanged": "2026-10-24T12:57:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121WAT902",
+      "description": "Tweed estuary",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902",
+        "county": "Northumberland",
+        "notation": "121WAT902",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121WAT902/polygon",
+        "riverOrSea": "River Tweed"
+      },
+      "floodAreaID": "121WAT902",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 2:15AM to 5:30AM on Wednesday 28 October. \nLocations most affected will be low lying land and roads near Pier Road and between bridges. \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:51:00",
+      "timeRaised": "2026-10-27T16:51:56",
+      "timeSeverityChanged": "2026-10-27T16:51:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122FWC007",
@@ -1162,12 +1204,12 @@
       },
       "floodAreaID": "013WATMEWLW",
       "isTidal": true,
-      "message": "We anticipate the next high tide this afternoon, 27 October 2026, to meet the flood alert threshold. Flooding is possible from 12:00 PM on 27 October 2026.\n\nLocations most affected will be low lying land and roads around the Mersey Estuary. Hale Village, peaking at 12:00 PM on 27 October 2026.\n\nWe are not expecting that the high tide overnight into 28 October 2026, will meet the flood alert threshold. We are expecting higher than normal high tides over the next day, and a result, we may issue further flood alerts and flood warnings.\n\nWe are closely monitoring the situation .  \n\nTake care and avoid walking, cycling or driving through flood water.  \n\nThis message will be updated by 5:00 PM on Tuesday 27 October or as the situation changes.\n",
-      "severity": "Flood alert",
-      "severityLevel": 3,
-      "timeMessageChanged": "2026-10-27T09:13:00",
-      "timeRaised": "2026-10-27T09:13:04",
-      "timeSeverityChanged": "2026-10-26T16:38:00"
+      "message": "There is no longer a threat of flooding.\nWeather conditions are expected to improve and no further flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
+      "severity": "Warning no longer in force",
+      "severityLevel": 4,
+      "timeMessageChanged": "2026-10-27T16:29:00",
+      "timeRaised": "2026-10-27T16:29:51",
+      "timeSeverityChanged": "2026-10-27T16:29:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/011WACN3",
@@ -1527,25 +1569,46 @@
       "timeSeverityChanged": "2026-10-27T14:35:00"
     },
     {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC160",
-      "description": "Fareham to Portchester",
-      "eaAreaName": "Solent and South Downs",
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC304",
+      "description": "Coast from Ramsgate to Kingsdown",
+      "eaAreaName": "Kent, South London and East Sussex",
       "eaRegionName": "No longer used",
       "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160",
-        "county": "Hampshire, Portsmouth",
-        "notation": "065WAC160",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/065WAC160/polygon",
-        "riverOrSea": "Portsmouth Harbour"
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC304",
+        "county": "Kent",
+        "notation": "064WAC304",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC304/polygon",
+        "riverOrSea": "North Sea"
       },
-      "floodAreaID": "065WAC160",
+      "floodAreaID": "064WAC304",
       "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nCoastal conditions are expected to improve and no flooding is expected.  \nWe will continue to monitor the situation and work with emergency services and local authorities.  \nStay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-10-26T17:01:00",
-      "timeRaised": "2026-10-26T17:01:16",
-      "timeSeverityChanged": "2026-10-26T17:01:00"
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 09:45 to 13:45 on 28/10/2026. \nLocations most affected will be coastal roads and footpaths. The high tide for Dover at 11:45 on Wednesday 28th October is expected to reach a height of 3.74m above ordnance datum.  Winds will be Force 4 Westerly and waves are expected to reach 1.2m in height. The high tide height consists of a surge of around 0.47m on top of astronomical tide heights.  Beyond this tide conditions are expected to improve and further alerts are not expected at this time. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 5:00PM on Wednesday 28 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:31:00",
+      "timeRaised": "2026-10-27T16:31:12",
+      "timeSeverityChanged": "2026-10-27T16:31:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/064WAC303",
+      "description": "Coast from St Margaret's at Cliffe to Sandgate",
+      "eaAreaName": "Kent, South London and East Sussex",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303",
+        "county": "Kent",
+        "notation": "064WAC303",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/064WAC303/polygon",
+        "riverOrSea": "English Channel, North Sea"
+      },
+      "floodAreaID": "064WAC303",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 09:45 to 13:45 on 28/10/2026. \nLocations most affected will be coastal roads and footpaths. The high tide for Dover at 11:45 on Wednesday 28th October is expected to reach a height of 3.74m above ordnance datum.  Winds will be Force 4 Westerly and waves are expected to reach 1.2m in height. The high tide height consists of a surge of around 0.47m on top of astronomical tide heights.  Beyond this tide conditions are expected to improve and further alerts are not expected at this time. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 5:00PM on Wednesday 28 October or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T16:32:00",
+      "timeRaised": "2026-10-27T16:32:02",
+      "timeSeverityChanged": "2026-10-27T16:32:00"
     },
     {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/065WAC158",
@@ -1882,6 +1945,174 @@
       "timeMessageChanged": "2026-10-27T15:03:00",
       "timeRaised": "2026-10-27T15:03:23",
       "timeSeverityChanged": "2026-10-27T15:03:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/123WAT979",
+      "description": "Tidal River Ouse, Don and the Dutch River catchment",
+      "eaAreaName": "Yorkshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAT979",
+        "county": "Doncaster, East Riding of Yorkshire, North Lincolnshire, North Yorkshire",
+        "notation": "123WAT979",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/123WAT979/polygon",
+        "riverOrSea": "River Ouse, River Don, Dutch River"
+      },
+      "floodAreaID": "123WAT979",
+      "isTidal": true,
+      "message": "Higher than normal tides tomorrow morning may lead to flooding. \nFlooding is possible from 06:30 to 08:30 on 28/10/2026. \nLocations most affected will be the south bank of the River Ouse from Airmyn to Whitgift and the River Don and Dutch River from Thorne to Goole, low lying land and roads near rivers. \nWe are closely monitoring the situation and will have teams out patrolling our flood defences. \nAvoid low lying roads near rivers, which may be flooded.   \nThis message will be updated by 9:00AM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T17:02:00",
+      "timeRaised": "2026-10-27T17:02:10",
+      "timeSeverityChanged": "2026-10-27T17:02:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAT600SHBa",
+      "description": "Tidal flooding near the South Humber Bank from Barton Upon Humber to Humberston",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAT600SHBa",
+        "county": "Lincolnshire, North East Lincolnshire, North Lincolnshire",
+        "notation": "053WAT600SHBa",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAT600SHBa/polygon",
+        "riverOrSea": "The Humber, North Sea"
+      },
+      "floodAreaID": "053WAT600SHBa",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 05:30 to 08:30 on Wednesday 28th October. \n\"This will lead to high tidal levels along the Humber Estuary.  \nThe high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences which may occur two to four hours either side of the high tide. \nLow lying coastal land and roads will be affected first. \" \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water.   \nThis message will be updated by 5:25PM on Tuesday 27 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T17:30:00",
+      "timeRaised": "2026-10-27T17:30:24",
+      "timeSeverityChanged": "2026-10-27T17:30:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/053WAT600SHBb",
+      "description": "Tidal flooding near the South Humber Bank from Whitton to South Ferriby",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAT600SHBb",
+        "county": "North Lincolnshire",
+        "notation": "053WAT600SHBb",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/053WAT600SHBb/polygon",
+        "riverOrSea": "The Humber"
+      },
+      "floodAreaID": "053WAT600SHBb",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 05:30 to 08:30 on Wednesday 28th October. \n\"This will lead to high tidal levels along the Humber Estuary.  \nThe high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences which may occur two to four hours either side of the high tide. \nIf conditions deteriorate, the A1077 flood gate across the A1077 may be closed. A further message will be issued if this becomes apparent. \nLow lying coastal land and roads will be affected first.\" \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water. Avoid low lying coastal roads, as sea spray and waves could be dangerous. \nThis message will be updated by 5:00PM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T17:39:00",
+      "timeRaised": "2026-10-27T17:39:52",
+      "timeSeverityChanged": "2026-10-27T17:39:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121FWT549",
+      "description": "Tyne estuary at Newcastle Quayside, Low Walker, Lower Derwenthaugh Industrial Estate and Willington",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT549",
+        "county": "Gateshead, Newcastle upon Tyne, North Tyneside",
+        "notation": "121FWT549",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT549/polygon",
+        "riverOrSea": "River Tyne"
+      },
+      "floodAreaID": "121FWT549",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions are expected to cause flooding tomorrow morning. \nFlooding is expected from 2:45AM to 5:15AM on Wednesday 28 October. \nLocations most affected will be Newcastle Quayside and along the Tyne estuary riverside. The temporary barrier along Newcastle Quayside will be deployed from 8:00PM this evening. \nWe are closely monitoring the situation . \nMonitor local water levels and weather conditions. Start acting on your flood plan if you have one. \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-10-27T17:43:00",
+      "timeRaised": "2026-10-27T17:43:34",
+      "timeSeverityChanged": "2026-10-27T17:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121FWC531",
+      "description": "North Sea at Alnmouth",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWC531",
+        "county": "Northumberland",
+        "notation": "121FWC531",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWC531/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121FWC531",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions are expected to cause flooding tomorrow morning. \nFlooding is expected from 3:30AM to 5:30AM on Wednesday 28 October. \nLocations most affected will be properties on Alnmouth Riverside Road. \nWe are closely monitoring the situation . \nMonitor local water levels and weather conditions. Start acting on your flood plan if you have one. \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-10-27T17:42:00",
+      "timeRaised": "2026-10-27T17:42:58",
+      "timeSeverityChanged": "2026-10-27T17:42:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121FWT519",
+      "description": "North Sea at Berwick-Upon-Tweed and Tweedmouth",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT519",
+        "county": "Northumberland",
+        "notation": "121FWT519",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWT519/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121FWT519",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions are expected to cause flooding tomorrow morning. \nFlooding is expected from 3:00AM to 5:00AM on Wednesday 28 October. \nLocations most affected will be properties exposed to waves from the south. \nWe are closely monitoring the situation . \nMonitor local water levels and weather conditions. Start acting on your flood plan if you have one. \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes.\n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-10-27T17:43:00",
+      "timeRaised": "2026-10-27T17:43:48",
+      "timeSeverityChanged": "2026-10-27T17:43:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/055WAT602WTEb",
+      "description": "Areas near the tidal River Welland, tidal River Nene, and the Wash",
+      "eaAreaName": "Lincolnshire and Northamptonshire",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAT602WTEb",
+        "county": "Cambridgeshire, Lincolnshire, Norfolk, Peterborough",
+        "notation": "055WAT602WTEb",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/055WAT602WTEb/polygon",
+        "riverOrSea": "River Welland, River Nene, The Wash"
+      },
+      "floodAreaID": "055WAT602WTEb",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions tomorrow morning may lead to flooding. \nFlooding is possible from 05:30 to 08:30 on Wednesday 28th October. \n\"This will lead to high tidal levels along the tidal River Welland, tidal River Nene and the Wash. \nThe high tides combined with strong winds may result in wind-blown spray and wave splash causing localised pooling of water behind the sea defences which may occur two to four hours either side of the high tide. \nLow lying coastal land and roads will be affected first. \" \nWe are closely monitoring the situation . \nTake care and avoid walking, cycling or driving through flood water. Avoid low lying roads, near rivers which may be flooded. \nThis message will be updated by 5:00PM on Wednesday 28 October or as the situation changes.\n\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-10-27T17:44:00",
+      "timeRaised": "2026-10-27T17:44:43",
+      "timeSeverityChanged": "2026-10-27T17:44:00"
+    },
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/121FWC540",
+      "description": "North Sea at Whitley Bay, Cullercoats and Tynemouth",
+      "eaAreaName": "North East",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWC540",
+        "county": "North Tyneside",
+        "notation": "121FWC540",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/121FWC540/polygon",
+        "riverOrSea": "North Sea"
+      },
+      "floodAreaID": "121FWC540",
+      "isTidal": true,
+      "message": "High tides and forecast weather conditions are expected to cause flooding tomorrow morning. \nFlooding is expected from 3:45AM to 5:45AM on Wednesday 28 October. \nLocations most affected will be Cullercoats Bay Lifeboat Station. \nWe are closely monitoring the situation . \nMonitor local water levels and weather conditions. Start acting on your flood plan if you have one. \nThis message will be updated by 10:00AM on Wednesday 28 October or as the situation changes. \n",
+      "severity": "Flood warning",
+      "severityLevel": 2,
+      "timeMessageChanged": "2026-10-27T17:43:00",
+      "timeRaised": "2026-10-27T17:43:18",
+      "timeSeverityChanged": "2026-10-27T17:43:00"
     }
   ]
 }
