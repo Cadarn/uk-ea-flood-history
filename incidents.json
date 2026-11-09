@@ -13,5 +13,27 @@
       "http://environment.data.gov.uk/flood-monitoring/id/floods.html"
     ]
   },
-  "items": []
+  "items": [
+    {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/113WACT1B",
+      "description": "South Devon coast from Start Point to Dawlish Warren",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B",
+        "county": "Devon, Torbay",
+        "notation": "113WACT1B",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/113WACT1B/polygon",
+        "riverOrSea": "South Devon Coast"
+      },
+      "floodAreaID": "113WACT1B",
+      "isTidal": true,
+      "message": "High tides tomorrow morning may lead to flooding. \nFlooding is possible from 06:30AM  on Tuesday 10th November \nLocal Areas particularly at risk include Torbay, Teignmouth, Beesands, Torcross, Slapton and Dawlish.\n  \nThe high tide at Teignmouth on Tuesday is at 06:45AM,  times of high water will vary along the coast.  Forecast total high tide level is 2.24mAOD, which is 0.16 metres above tide table level.  Force 6 easterly  winds and offshore wave heights of over 1.8m are forecast over the high tide.\n\nMost affected areas will be coastal roads and footpaths. \nWe are closely monitoring the situation . \nAvoid coastal roads, footpaths and carparks, which may be flooded.   \nThis message will be updated by 12:30PM on Tuesday 10 November or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-11-09T13:10:00",
+      "timeRaised": "2026-11-09T13:10:42",
+      "timeSeverityChanged": "2026-11-09T13:10:00"
+    }
+  ]
 }
