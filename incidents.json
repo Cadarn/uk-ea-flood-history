@@ -49,11 +49,11 @@
       },
       "floodAreaID": "122WAC954",
       "isTidal": true,
-      "message": "High tides over the next two days may lead to flooding.\nFlooding is possible from this evening (26/11/26) from 19:00-21:30, and tomorrow morning (27/11/26) from 05:30 to 11:00\nLocations most affected will be coastal roads and footpaths on the North Sea coast from Bridlington to Barmston.\nWe are closely monitoring the situation .\nAvoid beaches and coastal promenades, which may be flooded. \nThis message will be updated by 9:00AM on Friday 27th November or as the situation changes.\n",
+      "message": "High tides over the next two days may lead to flooding. Flooding is possible from this this morning from 05:30 to 11:00 and this evening from 18:00 - 22:45 (27/11/26). Locations most affected will be coastal roads and footpaths on the North Sea coast from Bridlington to Barmston. We are closely monitoring the situation. Avoid beaches and coastal promenades, which may be flooded. This message will be updated by 21:00 on Friday 27th November or as the situation changes.\n",
       "severity": "Flood alert",
       "severityLevel": 3,
-      "timeMessageChanged": "2026-11-26T20:43:00",
-      "timeRaised": "2026-11-26T20:43:13",
+      "timeMessageChanged": "2026-11-27T08:35:00",
+      "timeRaised": "2026-11-27T08:35:53",
       "timeSeverityChanged": "2026-11-24T10:24:00"
     },
     {
@@ -99,6 +99,27 @@
       "timeSeverityChanged": "2026-11-26T16:25:00"
     },
     {
+      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/114WAFT1W01A00",
+      "description": "West Cornwall Rivers",
+      "eaAreaName": "Devon, Cornwall and the Isles of Scilly",
+      "eaRegionName": "No longer used",
+      "floodArea": {
+        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00",
+        "county": "Cornwall",
+        "notation": "114WAFT1W01A00",
+        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/114WAFT1W01A00/polygon",
+        "riverOrSea": "River Hayle, Perrancoombe Stream, Bolingey Stream, Portreath Stream, Newlyn Coombe River"
+      },
+      "floodAreaID": "114WAFT1W01A00",
+      "isTidal": false,
+      "message": "High river levels over the next two days may lead to flooding.\nFlooding is possible from the morning of Friday 27 November .\nCatchments are saturated and river levels are rising in response to overnight rainfall.  The main areas of concern are low lying land and roads along the Hayle River. \nFurther heavy rain is forecast over Friday night and Saturday morning causing rivers in the area to rise again.  The highest levels are forecast on Saturday afternoon, with flooding to riverside and low-lying land and roads expected. \nRain is forecast to ease on Saturday afternoon, with river levels dropping by Sunday.\nWe are monitoring rainfall and river levels .\nTake care and avoid walking, cycling or driving through flood water. Monitor local water levels and weather conditions.\nThis message will be updated by 11:00AM on Saturday 28 November or as the situation changes.\n",
+      "severity": "Flood alert",
+      "severityLevel": 3,
+      "timeMessageChanged": "2026-11-27T09:11:00",
+      "timeRaised": "2026-11-27T09:11:19",
+      "timeSeverityChanged": "2026-11-27T09:11:00"
+    },
+    {
       "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/052WATCSTHUN",
       "description": "Hunstanton coast in Norfolk",
       "eaAreaName": "East Anglia",
@@ -118,27 +139,6 @@
       "timeMessageChanged": "2026-11-26T13:27:00",
       "timeRaised": "2026-11-26T13:27:13",
       "timeSeverityChanged": "2026-11-26T13:27:00"
-    },
-    {
-      "@id": "http://environment.data.gov.uk/flood-monitoring/id/floods/122WAC956",
-      "description": "North Sea coast at Withernsea, Easington and Kilnsea",
-      "eaAreaName": "Yorkshire",
-      "eaRegionName": "No longer used",
-      "floodArea": {
-        "@id": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956",
-        "county": "East Riding of Yorkshire",
-        "notation": "122WAC956",
-        "polygon": "http://environment.data.gov.uk/flood-monitoring/id/floodAreas/122WAC956/polygon",
-        "riverOrSea": "North Sea"
-      },
-      "floodAreaID": "122WAC956",
-      "isTidal": true,
-      "message": "There is no longer a threat of flooding, though standing water and debris may still remain.\nThe previous tide of concern has now passed,  the weather is more settled and no flooding is expected.  \nWe will continue to monitor the situation and will issue further alerts or warnings if necessary.  \nContinue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  \n",
-      "severity": "Warning no longer in force",
-      "severityLevel": 4,
-      "timeMessageChanged": "2026-11-26T08:36:00",
-      "timeRaised": "2026-11-26T08:36:38",
-      "timeSeverityChanged": "2026-11-26T08:36:00"
     }
   ]
 }
